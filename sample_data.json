@@ -1,0 +1,138 @@
+{
+  "Alabama": {
+    "parks": [
+      {
+        "name": "Birmingham Civil Rights National Monument",
+        "url": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+        "content": "Established January 2017, Birmingham Civil Rights National Monument honors the nonviolent protestors that fought against the country's racial discrimination laws and practices.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/birmingham_a-g-gaston-motel_nps_2022-06-13-203714_ofve.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Freedom Riders National Monument",
+        "url": "https://www.nationalparks.org/explore/parks/freedom-riders-national-monument",
+        "content": "Established on January 12, 2017, Freedom Riders National Monument shares stories of people and places that gained national attention in the fight against the injustices of Jim Crow laws and eventually led to regulations banning segregation in interstate travel.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/frri_greyhoundmural_nps_2022-06-13-203716_gmgk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Horseshoe Bend National Military Park",
+        "url": "https://www.nationalparks.org/explore/parks/horseshoe-bend-national-military-park",
+        "content": "Horseshoe Bend National Military Park commemorates the site of the 1814 Battle of Horseshoe Bend, a decisive conflict between U.S. forces led by General Andrew Jackson and the Upper Creek Confederacy that helped secure vast lands for American settlement. Visitors can learn about this pivotal battle that ended the Creek War and launched Jackson's political career through interpretive programs at the park situated along the Tallapoosa River.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Horseshoe_Bend_National_Military_Park2C_Tallapoosa_County2C_Alabama_2022-06-13-204012_hcdo.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Little River Canyon National Preserve",
+        "url": "https://www.nationalparks.org/explore/parks/little-river-canyon-national-preserve",
+        "content": "Little River Canyon National Preserve protects over 15,000 acres of deep gorges, waterfalls and forested uplands along the Little River in northeast Alabama. Visitors can enjoy hiking trails running along the canyon rim and scenic overlooks offering spectacular views into the naturally carved sandstone gorge below, a unique geographic feature of the Southern Appalachian Mountains.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/little-river-canyon.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Russell Cave National Monument",
+        "url": "https://www.nationalparks.org/explore/parks/russell-cave-national-monument",
+        "content": "Russell Cave National Monument protects a limestone cave sheltering one of the most complete archaeological records of prehistoric cultures in the Southeast. Visitors can explore nature trails and learn about the park's long human occupation and the native American bands who once used the cave as shelter through interpretive programs such as the popular Birds of Prey demonstrations.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Russell_Cave_Trail_NM_2022-06-13-203845_uxyu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Selma to Montgomery National Historic Trail",
+        "url": "https://www.nationalparks.org/explore/parks/selma-to-montgomery-national-historic-trail",
+        "content": "The Selma to Montgomery National Historic Trail commemorates the courageous 1954 voting rights march led by Dr. Martin Luther King Jr. and John Lewis from Selma to Alabama's capital and their nonviolent pursuit of equal voting rights for all citizens. Visitors can walk in the footsteps of the marchers along the 54-mile route through the scene of Bloody Sunday and learn about this pivotal moment in the struggle for civil rights in America.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Edmund_Pettus_Bridge_03_2022-06-13-203829_qspk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Tuskegee Airmen National Historic Site",
+        "url": "https://www.nationalparks.org/explore/parks/tuskegee-airmen-national-historic-site",
+        "content": "The Tuskegee Airmen National Historic Site honors the pioneering African American pilots who trained at Tuskegee Institute and went on to serve with distinction during World War II, overcoming prejudice and racism. Visitors can learn about the Outstanding Tuskegee Airmen who helped prove the ability of black Americans to master military aviation, challenging America to reexamine attitudes toward race that had prevailed for centuries.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Tuskegee_Airmen_National_Historic_Site_2022-06-13-203744_cmeu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Tuskegee Institute National Historic Site",
+        "url": "https://www.nationalparks.org/explore/parks/tuskegee-institute-national-historic-site",
+        "content": "The Tuskegee Institute National Historic Site preserves the historic campus of the renowned Tuskegee Institute founded by Booker T. Washington to provide opportunities for African Americans to gain advanced education and training. Visitors can explore the grounds and landmark buildings where innovators like George Washington Carver and teachers recruited by Washington helped establish what became a globally influential model for higher education.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/0430E577-1DD8-B71B-0B278D89D45E2340_2022-06-13-203743_jsew.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      }
+    ]
+  },
+  "Texas": {
+    "parks": [
+      {
+        "name": "Birmingham Civil Rights National Monument",
+        "url": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+        "content": "Established January 2017, Birmingham Civil Rights National Monument honors the nonviolent protestors that fought against the country's racial discrimination laws and practices.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/birmingham_a-g-gaston-motel_nps_2022-06-13-203714_ofve.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Freedom Riders National Monument",
+        "url": "https://www.nationalparks.org/explore/parks/freedom-riders-national-monument",
+        "content": "Established on January 12, 2017, Freedom Riders National Monument shares stories of people and places that gained national attention in the fight against the injustices of Jim Crow laws and eventually led to regulations banning segregation in interstate travel.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/frri_greyhoundmural_nps_2022-06-13-203716_gmgk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Horseshoe Bend National Military Park",
+        "url": "https://www.nationalparks.org/explore/parks/horseshoe-bend-national-military-park",
+        "content": "Horseshoe Bend National Military Park commemorates the site of the 1814 Battle of Horseshoe Bend, a decisive conflict between U.S. forces led by General Andrew Jackson and the Upper Creek Confederacy that helped secure vast lands for American settlement. Visitors can learn about this pivotal battle that ended the Creek War and launched Jackson's political career through interpretive programs at the park situated along the Tallapoosa River.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Horseshoe_Bend_National_Military_Park2C_Tallapoosa_County2C_Alabama_2022-06-13-204012_hcdo.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Little River Canyon National Preserve",
+        "url": "https://www.nationalparks.org/explore/parks/little-river-canyon-national-preserve",
+        "content": "Little River Canyon National Preserve protects over 15,000 acres of deep gorges, waterfalls and forested uplands along the Little River in northeast Alabama. Visitors can enjoy hiking trails running along the canyon rim and scenic overlooks offering spectacular views into the naturally carved sandstone gorge below, a unique geographic feature of the Southern Appalachian Mountains.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/little-river-canyon.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Russell Cave National Monument",
+        "url": "https://www.nationalparks.org/explore/parks/russell-cave-national-monument",
+        "content": "Russell Cave National Monument protects a limestone cave sheltering one of the most complete archaeological records of prehistoric cultures in the Southeast. Visitors can explore nature trails and learn about the park's long human occupation and the native American bands who once used the cave as shelter through interpretive programs such as the popular Birds of Prey demonstrations.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Russell_Cave_Trail_NM_2022-06-13-203845_uxyu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Selma to Montgomery National Historic Trail",
+        "url": "https://www.nationalparks.org/explore/parks/selma-to-montgomery-national-historic-trail",
+        "content": "The Selma to Montgomery National Historic Trail commemorates the courageous 1954 voting rights march led by Dr. Martin Luther King Jr. and John Lewis from Selma to Alabama's capital and their nonviolent pursuit of equal voting rights for all citizens. Visitors can walk in the footsteps of the marchers along the 54-mile route through the scene of Bloody Sunday and learn about this pivotal moment in the struggle for civil rights in America.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Edmund_Pettus_Bridge_03_2022-06-13-203829_qspk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Tuskegee Airmen National Historic Site",
+        "url": "https://www.nationalparks.org/explore/parks/tuskegee-airmen-national-historic-site",
+        "content": "The Tuskegee Airmen National Historic Site honors the pioneering African American pilots who trained at Tuskegee Institute and went on to serve with distinction during World War II, overcoming prejudice and racism. Visitors can learn about the Outstanding Tuskegee Airmen who helped prove the ability of black Americans to master military aviation, challenging America to reexamine attitudes toward race that had prevailed for centuries.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/Tuskegee_Airmen_National_Historic_Site_2022-06-13-203744_cmeu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      },
+      {
+        "name": "Tuskegee Institute National Historic Site",
+        "url": "https://www.nationalparks.org/explore/parks/tuskegee-institute-national-historic-site",
+        "content": "The Tuskegee Institute National Historic Site preserves the historic campus of the renowned Tuskegee Institute founded by Booker T. Washington to provide opportunities for African Americans to gain advanced education and training. Visitors can explore the grounds and landmark buildings where innovators like George Washington Carver and teachers recruited by Washington helped establish what became a globally influential model for higher education.",
+        "description": "Create cherished memories while discovering the natural and historic legacy of the USA through its Parks",
+        "image": "https://npf-prod.imgix.net/uploads/0430E577-1DD8-B71B-0B278D89D45E2340_2022-06-13-203743_jsew.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+        "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+      }
+    ]
+  }
+}
