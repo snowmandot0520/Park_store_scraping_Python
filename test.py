@@ -106,8 +106,6 @@ def scrape_map_info(url):
 
 
 
-
-
 # Load input JSON
 with open('test_sample_input.json', 'r') as file:
     input_data = json.load(file)
