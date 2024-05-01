@@ -17,7 +17,8 @@ client = OpenAI(api_key=os.getenv('API_KEY'))
 base_url = "https://www.nps.gov"
 
 def open_AI_description(url):
-    
+    rl = "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument"
+
     inputdata = "Tell me about this " + url
 
     response = client.chat.completions.create(
@@ -117,29 +118,30 @@ def scrape_map_site(url):
     return map_data_url
 
 def scrape_map_info(url):
-    # Send a GET request to the URL
-    response = requests.get(url)
-    
-    # Check if the request was successful
-    if response.status_code == 200:
-        # Parse the HTML content
-        soup = BeautifulSoup(response.content, 'html.parser')
-        
-        # Find the <iframe> element with title="Map Embed"
-        iframe = soup.find('iframe', title="Map Embed")
-        
-        # Check if the iframe element exists
-        if iframe:
-            # Extract the value of the src attribute
-            map_src = iframe.get('src')
-            
-            return map_src
-        else:
-            
-            return None
-    else:
+    return "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+    # # Send a GET request to the URL
+    # response = requests.get(url)
 
-        return None
+    # # Check if the request was successful
+    # if response.status_code == 200:
+    #     # Parse the HTML content
+    #     soup = BeautifulSoup(response.content, 'html.parser')
+        
+    #     # Find the <iframe> element with title="Map Embed"
+    #     iframe = soup.find('iframe', title="Map Embed")
+        
+    #     # Check if the iframe element exists
+    #     if iframe:
+    #         # Extract the value of the src attribute
+    #         map_src = iframe.get('src')
+            
+    #         return map_src
+    #     else:
+            
+    #         return None
+    # else:
+
+    #     return None
 
 
 
@@ -148,27 +150,32 @@ with open('test_sample_input.json', 'r') as file:
     input_data = json.load(file)
 
 output_data = {}
-index = 0
+
 
 # Loop through states and parks
 for state, parks in input_data.items():
     output_data[state] = {"parks": []}
     
+    index = 0
+    
     for park_name, park_url in parks.items():
         
-        
-        index = index + 1
         print (index)
-        # Scrape park data
-        scraped_data = scrape_park_data(park_url)
+        
+        if park_url :
+            index += 1
+            
+            if index >= 0 :
+                # Scrape park data
+                scraped_data = scrape_park_data(park_url)
 
-        # Add scraped data to output
-        output_data[state]["parks"].append({
-            "name": park_name,
-            "url": park_url,
-            **scraped_data
-        })
+                # Add scraped data to output
+                output_data[state]["parks"].append({
+                 "name": park_name,
+                  "url": park_url,
+                 **scraped_data
+                })
 
-        # Write output JSON
-        with open('test_sample_output.json', 'w') as json_file:
-            json.dump(output_data, json_file, indent=4)
+                # Write output JSON
+                with open('test_sample_output.json', 'w') as json_file:
+                    json.dump(output_data, json_file, indent=4)
