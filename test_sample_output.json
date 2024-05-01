@@ -1,0 +1,58 @@
+{
+    "Alabama": {
+        "parks": [
+            {
+                "name": "Birmingham Civil Rights National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+                "content": "Established January 2017, Birmingham Civil Rights National Monument honors the nonviolent protestors that fought against the country's racial",
+                "description": "The Birmingham Civil Rights National Monument is a historic site located in Birmingham, Alabama. It honors the city's pivotal role in the civil rights movement of the 1950s and 1960s. The monument includes several sites that were important in the struggle for racial equality, including the A.G. Gaston Motel, which served as a headquarters for civil rights leaders and a meeting place for planning demonstrations.\n\nThe monument also includes the 16th Street Baptist Church, where a bombing in 1963 killed four young African American girls and galvanized the civil rights movement. In addition, the monument encompasses Kelly Ingram Park, which was the site of numerous protests and rallies during the civil rights movement.\n\nVisitors to the Birmingham Civil Rights National Monument can learn about the history of the civil rights movement in Birmingham through exhibits, guided tours, and educational programs. The monument serves as a reminder of the sacrifices made by those who fought for racial equality and justice, and honors their legacy.",
+                "image": "https://npf-prod.imgix.net/uploads/birmingham_a-g-gaston-motel_nps_2022-06-13-203714_ofve.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Freedom Riders National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/freedom-riders-national-monument",
+                "content": "Established on January 12, 2017, Freedom Riders National Monument shares stories of people and places that gained national attention in the fight against",
+                "description": "The Freedom Riders National Monument commemorates the courageous actions of the civil rights activists known as the Freedom Riders. The site is located in Anniston, Alabama, and honors the Freedom Riders who challenged segregation on interstate buses and at bus terminals in the South during the 1960s.\n\nThe monument includes the Greyhound Bus Station in Anniston, which was the site of a violent attack on a bus carrying Freedom Riders on May 14, 1961. The riders were beaten and the bus was firebombed by a mob of segregationists. This incident brought national attention to the civil rights movement and the struggle for desegregation.\n\nThe Freedom Riders National Monument serves as a reminder of the bravery and sacrifice of those who fought for racial equality during a tumultuous time in American history. It is a place where visitors can learn about the history of the civil rights movement and reflect on the continuing struggle for justice and equality.",
+                "image": "https://npf-prod.imgix.net/uploads/frri_greyhoundmural_nps_2022-06-13-203716_gmgk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Horseshoe Bend National Military Park",
+                "url": "https://www.nationalparks.org/explore/parks/horseshoe-bend-national-military-park",
+                "content": "Horseshoe Bend National Military Park honors the bravery of 800 soldiers who fought for freedom during the final battle of the War of 1812. On the morning",
+                "description": "Horseshoe Bend National Military Park is located in Daviston, Alabama, and commemorates the Battle of Horseshoe Bend. This battle, which took place on March 27, 1814, was a significant event in the Creek War, part of the larger War of 1812.\n\nThe park covers 2,040 acres and features a visitor center, museum, picnic areas, hiking trails, and a memorial to those who fought in the Battle of Horseshoe Bend. Visitors can learn about the history of the battle, explore the battlefield, and enjoy the natural beauty of the area.\n\nHorseshoe Bend National Military Park is operated by the National Park Service and is open to the public year-round. It is a popular destination for history enthusiasts, outdoor enthusiasts, and those looking to learn more about American history.",
+                "image": "https://npf-prod.imgix.net/uploads/Horseshoe_Bend_National_Military_Park2C_Tallapoosa_County2C_Alabama_2022-06-13-204012_hcdo.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    },
+    "Alaska": {
+        "parks": [
+            {
+                "name": "Alagnak Wild River",
+                "url": "https://www.nationalparks.org/explore/parks/alagnak-wild-river",
+                "content": "Whitewater rafting in Class I-III rapids, kayaking, fishing, and floating are some of the activities enjoyed by adventure-seekers on vacation in Alaska.",
+                "description": "The Alagnak Wild River is a protected area located in the Bristol Bay region of southwest Alaska. It was designated as a Wild and Scenic River by the United States Congress in 1980 in order to preserve its pristine and undeveloped environment.\n\nThe Alagnak River itself is known for its clear waters, abundant fish populations, and scenic beauty. It flows through a remote and rugged landscape, providing opportunities for outdoor recreation such as fishing, hiking, camping, and wildlife viewing.\n\nThe area is home to diverse wildlife, including bears, moose, wolves, and bald eagles. The river is also a popular destination for anglers, as it is known for its world-class fishing for salmon, rainbow trout, and Arctic grayling.\n\nVisitors to the Alagnak Wild River can enjoy a true wilderness experience, with minimal development and a focus on preserving the natural environment. The area is managed by the National Park Service and offers a variety of backcountry camping opportunities for those looking to immerse themselves in the beauty of Alaska's wilderness.",
+                "image": "https://npf-prod.imgix.net/uploads/6D3DE1E6-1DD8-B71B-0BCCD1CA7363F2B8_2022-06-13-204219_clsp.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Aniakchak National Monument and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/aniakchak-national-monument-and-preserve",
+                "content": "Don't let the remote location keep you from visiting Aniakchak, a vibrant reminder of Alaska's location in the volcanically active 'Ring of Fire.'",
+                "description": "Aniakchak National Monument and Preserve is a remote and rugged area located on the Alaska Peninsula in southwestern Alaska. This national park site encompasses more than 603,000 acres of wilderness and is one of the least visited and most pristine areas in the National Park System.\n\nThe area is known for its stunning landscapes, including the spectacular 6-mile wide Aniakchak Caldera, which was formed by a massive volcanic eruption thousands of years ago. Within the caldera, visitors can explore a dramatic landscape of rugged mountains, deep gorges, and pristine alpine lakes.\n\nAniakchak National Monument and Preserve is home to a diverse array of wildlife, including brown bears, wolves, caribou, and a variety of bird species. The area is also rich in cultural history, with evidence of human habitation dating back thousands of years.\n\nVisitors to Aniakchak National Monument and Preserve can enjoy a variety of outdoor activities, including hiking, camping, fishing, and wildlife viewing. The park is accessible only by air or sea, and visitors should be prepared for remote and challenging conditions.\n\nOverall, Aniakchak National Monument and Preserve offers a unique opportunity to explore a pristine wilderness area that is truly off the beaten path.",
+                "image": "https://npf-prod.imgix.net/uploads/1150504471_45_3_2022-06-13-204218_zpxx.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Bering Land Bridge National Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/bering-land-bridge-national-preserve",
+                "content": "Dare to brave the tundra at the Bering Land Bridge National Preserve. While challenging to get to, the preserve offers visitors an experience unlike any",
+                "description": "Bering Land Bridge National Preserve is located in Alaska, USA and covers an area of over 2.7 million acres. The preserve is named after the Bering Land Bridge, which connected Asia and North America during the last Ice Age, allowing for the migration of humans and animals.\n\nThe park is known for its rugged landscape, which includes vast tundra, mountains, and coastal areas. It is home to a variety of wildlife, including caribou, muskoxen, arctic foxes, and migratory birds.\n\nVisitors to Bering Land Bridge National Preserve can explore the wilderness through hiking, camping, and wildlife viewing. The park also has a rich cultural history, with archaeological sites dating back over 10,000 years.\n\nDue to its remote location and harsh climate, the preserve is best visited during the summer months when the weather is more favorable. Visitors should be prepared for changing weather conditions and be equipped with proper gear and supplies.",
+                "image": "https://npf-prod.imgix.net/uploads/24031637979_fa40a9cfb3_o.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    }
+}

@@ -151,12 +151,10 @@ with open('test_sample_input.json', 'r') as file:
 
 output_data = {}
 
-
+index = 0
 # Loop through states and parks
 for state, parks in input_data.items():
-    output_data[state] = {"parks": []}
-    
-    index = 0
+    output_data[state] = {"parks": []}  
     
     for park_name, park_url in parks.items():
         
