@@ -1,0 +1,14 @@
+{
+    "Alabama": {
+        "parks": [
+            {
+                "name": "Birmingham Civil Rights National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+                "content": "Established January 2017, Birmingham Civil Rights National Monument honors the nonviolent protestors that fought against the country's racial",
+                "description": "The Birmingham Civil Rights National Monument is a historic site located in Birmingham, Alabama. It was established in 2017 to preserve and commemorate the events and people of the Civil Rights Movement in the city.\n\nThe monument includes the A.G. Gaston Motel, which was a hub for civil rights leaders during the movement, and the Birmingham Civil Rights Institute, which serves as a museum and educational center about the struggle for civil rights in Birmingham.\n\nVisitors to the monument can learn about the key events of the Civil Rights Movement in Birmingham, including the Birmingham Campaign, the bombing of the 16th Street Baptist Church, and the efforts to desegregate public spaces in the city.\n\nThe Birmingham Civil Rights National Monument is part of the National Park System, and is managed by the National Park Service. It serves as a reminder of the struggles and triumphs of the Civil Rights Movement in Birmingham, and the ongoing fight for equality and justice.",
+                "image": "https://npf-prod.imgix.net/uploads/birmingham_a-g-gaston-motel_nps_2022-06-13-203714_ofve.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    }
+}

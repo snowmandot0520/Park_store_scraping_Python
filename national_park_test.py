@@ -84,7 +84,7 @@ def scrape_park_data(url):
     
     map_info = "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
     
-    if formated_content and formated_description and imgurl and map_info:
+    if formated_content and formated_description and map_info and imgurl :
             
         return {
             "content": formated_content,
@@ -93,28 +93,28 @@ def scrape_park_data(url):
             "map": map_info
         }
 
-def scrape_map_site(url):
+# def scrape_map_site(url):
     
-    r = requests.get(url)
-    soup = BeautifulSoup(r.text, 'html.parser')
+#     r = requests.get(url)
+#     soup = BeautifulSoup(r.text, 'html.parser')
     
-    # Find the UtilityNav div
-    utility_nav = soup.find("div", id="UtilityNav")
+#     # Find the UtilityNav div
+#     utility_nav = soup.find("div", id="UtilityNav")
 
-    # Find all li elements within the UtilityNav div
-    nav_items = utility_nav.find_all("li")
+#     # Find all li elements within the UtilityNav div
+#     nav_items = utility_nav.find_all("li")
 
-    # Loop through the li elements to find the maps link
-    map_data_url = None
+#     # Loop through the li elements to find the maps link
+#     map_data_url = None
     
-    for item in nav_items:
-        # Find the 'a' tag within the 'li' element
-        a_tag = item.find("a")
-        if a_tag and "maps.htm" in a_tag.get("href"):
-            map_data_url = urljoin(base_url, a_tag.get("href"))
-            break
+#     for item in nav_items:
+#         # Find the 'a' tag within the 'li' element
+#         a_tag = item.find("a")
+#         if a_tag and "maps.htm" in a_tag.get("href"):
+#             map_data_url = urljoin(base_url, a_tag.get("href"))
+#             break
 
-    return map_data_url
+#     return map_data_url
 
 def scrape_map_info(url):
     return "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
@@ -150,7 +150,7 @@ with open('national_parks.json', 'r',encoding='utf-8') as file:
 
 output_data = {}
 
-index = 0
+index = 61
 # Loop through states and parks
 for state, parks in input_data.items():
     output_data[state] = {"parks": []}  
@@ -162,7 +162,7 @@ for state, parks in input_data.items():
         if park_url :
             index += 1
             
-            if index >= 0 :
+            if index >= 61 :
                 # Scrape park data
                 scraped_data = scrape_park_data(park_url)
 
