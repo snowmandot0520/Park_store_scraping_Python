@@ -1,4 +1,392 @@
 {
+    "Alabama": {
+        "parks": [
+            {
+                "name": "Birmingham Civil Rights National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+                "content": "Established January 2017, Birmingham Civil Rights National Monument honors the nonviolent protestors that fought against the country's racial",
+                "description": "Established January 2017, Birmingham Civil Rights National Monument honors the nonviolentprotestors that fought against the country's racial discrimination laws and practices. It was here, at the A.G. Gaston Motel in downtown Birmingham, where leaders from the SouthernChristian Leadership Conference and Reverend Fred Shuttlesworth of the Alabama Christian Movement for Human Rightstook up residence in the spring of 1963 to strategize and make critical decisions that would propel the civilrights movement forward.  Known as \u201cProject C,\u201d the confrontation brought nationwide media attention as nonviolent protesters werethreatened by unleashed police dogs and high-pressure hoses. The events that occurred in Birmingham resulted inpolitical pressure that helped to ensure the passage of the Civil Rights Act of 1964.",
+                "image": "https://npf-prod.imgix.net/uploads/birmingham_a-g-gaston-motel_nps_2022-06-13-203714_ofve.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Freedom Riders National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/freedom-riders-national-monument",
+                "content": "Established on January 12, 2017, Freedom Riders National Monument shares stories of people and places that gained national attention in the fight against",
+                "description": "Established on January 12, 2017, Freedom Riders National Monument shares stories of people andplaces that gained national attention in the fight against the injustices of Jim Crow laws and eventually led toregulations banning segregation in interstate travel. In the spring of 1961, the \u201cFreedom Riders,\u201d an interracial group of civil rights activists, set outto challenge discriminatory state laws and local customs requiring segregation on buses and in bus stationfacilities. Their journey was dramatically opposed by white supremacists who viciously attacked the Freedom Riderson multiple occasions.  The monument includes the former Greyhound Bus Station located at 1031 Gurnee Avenue and the place wherethe bus was firebombed about six miles outside of the town on State Route 202, two sites where the Freedom Riderswere attacked by segregationist mobs.",
+                "image": "https://npf-prod.imgix.net/uploads/frri_greyhoundmural_nps_2022-06-13-203716_gmgk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Horseshoe Bend National Military Park",
+                "url": "https://www.nationalparks.org/explore/parks/horseshoe-bend-national-military-park",
+                "content": "Horseshoe Bend National Military Park honors the bravery of 800 soldiers who fought for freedom during the final battle of the War of 1812. On the morning",
+                "description": "Horseshoe Bend National Military Park honors the bravery of 800 soldiers who fought for freedomduring the final battle of the War of 1812. On the morning of 27 March 1814, General Andrew Jackson and an army of 3,300 men consisting ofTennessee militia, United States regulars and both Cherokee and Lower Creek allies attacked Chief Menawa and 1,000Upper Creek warriors fortified in the \"horseshoe\" bend of the Tallapoosa River. To seal off the bend of the river,the Upper Creeks built an incredibly strong 400 yard long barricade made of dirt and logs. As the Cherokee andLower Creek warriors swam the Tallapoosa and attacked from the rear, Jackson launched the militia and regularsoldiers against the barricade. Facing overwhelming odds, the Upper Creeks fought bravely yet ultimately lost thebattle. Over 800 Upper Creeks died at Horseshoe Bend defending their homeland. This was the final battle of theCreek War of 1813-14, which is considered part of the War of 1812.  In a peace treaty signed after the battle, both the Upper and Lower Creeks were forced to give the UnitedStates nearly 20 million acres of land in what is today Alabama and Georgia. The victory here brought AndrewJackson national attention and helped him to be elected the seventh President of the United States in 1828.",
+                "image": "https://npf-prod.imgix.net/uploads/Horseshoe_Bend_National_Military_Park2C_Tallapoosa_County2C_Alabama_2022-06-13-204012_hcdo.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Little River Canyon National Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/little-river-canyon-national-preserve",
+                "content": "Little River Canyon National Preserve's forested uplands, waterfalls, canyon rims and bluffs, pools, boulders, and sandstone cliffs offer a variety of",
+                "description": "Little River Canyon National Preserve's forested uplands, waterfalls, canyon rims and bluffs, pools,boulders, and sandstone cliffs offer a variety of recreational activities for visitors looking for an escape inthe Southern Appalachians. Natural resources andcultural heritage come together to tell the story of Little River Canyon National Preserve, a unique and scenicspot in the Southern Appalachians. Composed of sandstone and other sedimentary rocks eroded by water over millionsof years, Little River Canyon is one of the most spectacular landforms in the region, carved into the flat top ofLookout Mountain.   Established as a preserve in1992, Little River Canyon possesses a wealth of cultural history \u2013 from the native American populationswho lived here to troops who camped here during the Civil War and the construction of the Tennessee, Alabama, andGeorgia Rail Line (TAG Rail Lines).Many historic figures have passed through this area, marveling at its naturalwonder.   Today, visitors can find allkinds of thrilling adventures in the preserve's picturesque settings.    ",
+                "image": "https://npf-prod.imgix.net/uploads/little-river-canyon.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Russell Cave National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/russell-cave-national-monument",
+                "content": "Russell Cave has one of the most complete records of prehistoric cultures in the Southeast. The park includes nature paths and the Birds of Prey program.",
+                "description": "Russell Cave has one of the most complete records of prehistoric cultures in the Southeast. Thepark includes nature paths and the Birds of Prey program. For thousands of years, bands of prehistoric Indians came to the area we know today as Russell Cave.The cave provided a shelter. The surrounding forest provided food, tools, and fuel for their fires. Occupation ofthe cave shelter continued from the earliest known people to inhabit the southeastern United States, until thetime of European explorers. The story of the inhabitants of Russell Cave is one of adaptation and survival. Thesepeople left behind clues to their way of life. These clues help us to have a better understanding of the peoplewho have gone through the mists of time.",
+                "image": "https://npf-prod.imgix.net/uploads/Russell_Cave_Trail_NM_2022-06-13-203845_uxyu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Selma to Montgomery National Historic Trail",
+                "url": "https://www.nationalparks.org/explore/parks/selma-to-montgomery-national-historic-trail",
+                "content": "Alabama's Selma to Montgomery National Historic Trail honors the 54-mile march of white and black non-violent supporters, led by Dr. Martin Luther King",
+                "description": "Alabama's Selma to Montgomery National Historic Trail honors the 54-mile march of white and blacknon-violent supporters, led by Dr. Martin Luther King Jr. The climax to the decades-long voting rights crusade in Alabama erupted in March 1965 as Civil Rightsactivists converged on Selma, Alabama. The final push to achieve a nationwide solution to the disenfranchisementof African Americans came as the result of three strategically planned marches, the first of which took place onMarch 7. Nearly 500 marchers proceeded through the streets of Selma and across the Edmund Pettus Bridge where theywere faced by scores of Alabama State troopers. The troopers attacked the non-violent marchers, leaving many ofthem bloodied and severely injured, on a date forever ensconced in history as \" Bloody Sunday\".  A second march ended in a prayer session at the point of Sunday's confrontation. When an injunctioncircumventing the march to the Alabama State Capitol was reversed, a plan was devised to conduct the monumentaltrek on Sunday, March 21, 1965. Thousands of people, representing many races and nationalities, moved before theeyes of the world in demonstration to guarantee the right to vote. The five-day/four-night event covered a 54-mileroute along state Highway 80 through chilling weather and rain. The result was the personal triumph of those whoparticipated in the historic trek and the signing of the Voting Rights Act on August 6, 1965.  Today, the Selma to Montgomery National Historic Trail stands as a testament to the sacrifices made inthe triumph to preserve the right to vote as the bedrock of American democracy.   ",
+                "image": "https://npf-prod.imgix.net/uploads/Edmund_Pettus_Bridge_03_2022-06-13-203829_qspk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Tuskegee Airmen National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/tuskegee-airmen-national-historic-site",
+                "content": "Tuskegee Airmen National Historic Site is the training site of the first-ever African American military pilots, known as the Red Tails. The sky was the",
+                "description": "Tuskegee Airmen National Historic Site is the training site of the first-ever African Americanmilitary pilots, known as the Red Tails. The sky was the limit--literally! After the successful flight of Orville and Wilbur Wright in 1903,Americans of all races were stung by the love bug of flight. In the late 1920's and 1930's African Americans ingreat numbers began their love affair with flight. They learned the basics of flight on either American soil orabroad, and created their own flight schools and clubs.  This love affair was kindled in the late 1930's, when the United States Government created Civilian PilotTraining Programs throughout the country to provide a surplus of pilots in case of a national emergency. AfricanAmericans were included in these programs, although trained at segregated facilities.  Their love of flight became fully ablaze amid World War II as political pressure challenged thegovernment to expand the role of African Americans in the military. The Army Air Corps was the first agency toaccept the challenge. Tuskegee Institute, a small black college in Alabama, was selected to host the \"militaryexperiment\" to train African American pilots and support staff--thus the Tuskegee Airmen were born.  The outstanding performance of the over 15,000 men and women who shared the \"Tuskegee Experience\" from1942-1946, is immortalized at the Tuskegee Airmen National Historic Site.",
+                "image": "https://npf-prod.imgix.net/uploads/Tuskegee_Airmen_National_Historic_Site_2022-06-13-203744_cmeu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Tuskegee Institute National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/tuskegee-institute-national-historic-site",
+                "content": "Tuskegee Institute National Historic Site, founded by Booker T. Washington, recruited the brightest teachers whose innovations made history. Since the",
+                "description": "Tuskegee Institute National Historic Site, founded by Booker T. Washington, recruited thebrightest teachers whose innovations made history. Since the beginning of America's existence, education has always been considered as one of the keysto social, political and economical acceptance for African Americans. Tuskegee Normal School was established bythe state of Alabama, influenced by a former slave and a former slave owner to educate newly freed people andtheir children. The Normal school, later Institute, became a beacon of hope for African Americans to reach theirgoal of acceptance.  The school officially opened on July 4, 1881 in the African American Methodist Episcopal Zion Churchunder the auspices of religion. This date was chosen to commemorate the independence of a Nation and the freedomof a forgotten people. Booker T. Washington became the first principal of a newly formed school at the age oftwenty-six. He later hired individuals like George W. Carver and Robert Taylor to help lead the institute to itsworld-renowned status.  Today, the legacy of Washington, Carver and many others has been preserved in the Historic CampusDistrict of Tuskegee University where original buildings constructed by the students, from bricks made in theInstitute brickyard still stand.",
+                "image": "https://npf-prod.imgix.net/uploads/0430E577-1DD8-B71B-0B278D89D45E2340_2022-06-13-203743_jsew.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    },
+    "Alaska": {
+        "parks": [
+            {
+                "name": "Alagnak Wild River",
+                "url": "https://www.nationalparks.org/explore/parks/alagnak-wild-river",
+                "content": "Whitewater rafting in Class I-III rapids, kayaking, fishing, and floating are some of the activities enjoyed by adventure-seekers on vacation in Alaska.",
+                "description": "Whitewater rafting in Class I-III rapids, kayaking, fishing, and floating are some of theactivities enjoyed by adventure-seekers on vacation in Alaska. The headwaters of the Alagnak Wild River lie within the rugged Aleutian Range of neighboring KatmaiNational Park & Preserve. Meandering west towards Bristol Bay and the Bering Sea, the Alagnak traverses thebeautiful Alaska Peninsula, providing an unparalleled opportunity to experience the unique wilderness, wildlife,and cultural heritage of southwest Alaska.   ",
+                "image": "https://npf-prod.imgix.net/uploads/6D3DE1E6-1DD8-B71B-0BCCD1CA7363F2B8_2022-06-13-204219_clsp.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Aniakchak National Monument and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/aniakchak-national-monument-and-preserve",
+                "content": "Don't let the remote location keep you from visiting Aniakchak, a vibrant reminder of Alaska's location in the volcanically active 'Ring of Fire.'",
+                "description": "Don't let the remote location keep you from visiting Aniakchak, a vibrant reminder of Alaska'slocation in the volcanically active 'Ring of Fire.' Aniakchak National Monument and Preserve is home to an impressive six-mile wide, 2,500 ft. deepcaldera formed during a massive eruption 3,500 years ago. The Aniakchak Caldera, is the result of a series oferuptions, the latest in 1931. Covering some ten square miles, it is one of the finest examples of dry caldera inthe world. Located in the volcanically active Aleutian Mountains, the crater contains many outstanding examples ofvolcanic features, including lava flows, cinder cones, and explosion pits.  Surprise Lake, located within the caldera, is the source of the Aniakchak River, which cascades through a1,500-foot gash in the caldera wall. The site also contains the Aniakchak Wild River.",
+                "image": "https://npf-prod.imgix.net/uploads/1150504471_45_3_2022-06-13-204218_zpxx.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Bering Land Bridge National Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/bering-land-bridge-national-preserve",
+                "content": "Dare to brave the tundra at the Bering Land Bridge National Preserve. While challenging to get to, the preserve offers visitors an experience unlike any",
+                "description": "Dare to brave the tundra at the Bering Land Bridge National Preserve. While challenging to get to, thepreserve offers visitors an experience unlike any other. The Bering Land BridgeNational Preserve is one of the most remote national parks in America, located on the Seward Peninsula innorthwest Alaska. The Preserve protects a small remnant of the land bridge that connected Asia and North Americamore than 10,000 years ago. Most of this land bridge, once thousands of miles wide, now lies beneath the waters ofthe Chukchi and Bering Seas.   During the Pleistocene Epoch, orlast Ice Age, glaciers in the northern region of the earth locked up water in the area, causing the sea levels todrop and exposing the land beneath the Bering Strait. Animals, plants, and people migrated from one continent toanother across this flat, grassy plain. As the Ice Age ended and the earth warmed, glaciers melted and the sealevels rose again, submerging most of the land bridge. Bering Land Bridge National Preserve protects the remnantof the land bridge for the study of past cultures, to learn more about the first people who set foot in America,and to support the traditional lifestyles of its residents.   Today, the preserveoffers unparalleled opportunities to experience some of America's most isolated wild lands and the rich heritageof Alaskan Native cultures, past and present. The land can be explored through camping, bird watching, hunting,gathering, trapping, and fishing.",
+                "image": "https://npf-prod.imgix.net/uploads/24031637979_fa40a9cfb3_o.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Cape Krusenstern National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/cape-krusenstern-national-monument",
+                "content": "Visiting Alaska's Cape Krusenstern will grant hikers, campers, kayakers, photographers, and lovers of nature endless vacation opportunities. Cape",
+                "description": "Visiting Alaska's Cape Krusenstern will grant hikers, campers, kayakers, photographers, and loversof nature endless vacation opportunities. Cape Krusenstern National Monument is a coastal plain dotted with sizable lagoons and backed bygently rolling limestone hills, and well-preserved beach ridges. These beach ridges present, in sequence, detailedevidence of an estimated 9,000 years of prehistoric human use of this coastline. Some archeological sites here areolder than the iconic remains of ancient Egyptian civilization.  In summer, wildflowers color the beach ridges and nearby hills. Large numbers of migratory birds comefrom all over the world to Cape Krusenstern to nest. In fall, these migrating birds use the lagoons as feeding andstaging areas. Shifting sea ice, ocean currents, and waves continue to form spits and lagoons possessing importantscientific, cultural, and scenic values.",
+                "image": "https://npf-prod.imgix.net/uploads/Cape_Krusenstern1_281851010412629_2022-06-13-204152_smwr.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Denali National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/denali-national-park-and-preserve",
+                "content": "Mt. Denali, formerly Mt. McKinley, is North America's highest mountain, and is contained within Denali National Park in Alaska. The Alaska Range also",
+                "description": "Mt. Denali, formerly Mt. McKinley, is North America's highest mountain, and is contained within DenaliNational Park in Alaska. The Alaska Range also includes countless other spectacular mountains and many large glaciers.Denali's more than 6 million acres also encompass a complete sub-arctic eco-system with large mammals such asgrizzly bears, wolves, Dall sheep, and moose.  The park was established as Mt. McKinley National Park on Feb. 26, 1917. The original park was designateda wilderness area, the first national park created specifically to protect wildlife, and incorporated into DenaliNational Park and Preserve in 1980. The park was designated an international biosphere reserve in 1976.  In 2015, Mt. McKinley was renamed to Mt. Denali to pay homage to the Athabaskan people who called thearea home\u2014Denali means \u201cthe tall one\u201d or \u201cmountain-big\u201d in their native Koyukon language.  Today the park accommodates a wide variety of visitor use including wildlife viewing, mountaineering,cycling, and even dog sledding! (Denali National Park and Preserve is actually the only national park with aworking dog sled kennel.) It continues to provide a laboratory for research in the natural sciences.",
+                "image": "https://npf-prod.imgix.net/uploads/glacial_ice_in_denali_national_park_preserve_nps.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Gates of The Arctic National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/gates-of-the-arctic-national-park-and-preserve",
+                "content": "Lying north of the Arctic Circle, this remote park and preserve is the northernmost national park in the U.S. and the second largest, spanning 8,472,506",
+                "description": "Lying north of the Arctic Circle, this remote park and preserve is the northernmost national parkin the U.S. and the second largest, spanning 8,472,506 acres. There are no roads in or out of Gates of the Arctic, so visitors must schedule flights or be intrepidhikers to visit this remote Alaskan wilderness. And while the park is open 24 hours a day, 365 days a year, thewild arctic weather can and does change on a dime, and always poses challenges because of the extreme cold.However, the views offered here are some of the most breathtaking in the United States. This is truly a must-visitfor the most adventurous of park lovers. ",
+                "image": "https://npf-prod.imgix.net/uploads/16089307144_77307bb65a_o_2022-06-13-204037_vemz.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Glacier Bay National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/glacier-bay-national-park-and-preserve",
+                "content": "Covering 3.3 million acres of mountains, glaciers, wild coastlines, and fjords, Glacier Bay is one of the world's largest international protected areas.",
+                "description": "Covering 3.3 million acres of mountains, glaciers, wild coastlines, and fjords, Glacier Bay is oneof the world's largest international protected areas. Glacier Bay offers spectacular views, breathtaking moments, and true solitude often lost in today'sbusy society. Located in Alaska, this popular destination for Alaskan cruises offers a glimpse of theever-changing nature of glacier areas, as they recede and expand with the changing seasons. ",
+                "image": "https://npf-prod.imgix.net/uploads/shutterstock_143121907_2022-06-13-204031_wusb.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Katmai National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/katmai-national-park-and-preserve",
+                "content": "Katmai National Park and Preserve in Alaska is home to spectacular and unique volcanoes, and wildlife including fish, flowers, and bears. Katmai National",
+                "description": "Katmai National Park and Preserve in Alaska is home to spectacular and unique volcanoes, andwildlife including fish, flowers, and bears. Katmai National Monument was created in 1918 to preserve the famed Valley of Ten Thousand Smokes, aspectacular forty square mile, 100 to 700 foot deep ash flow deposited by Novarupta Volcano. A National Park &Preserve since 1980, today Katmai is still famous for volcanoes, but also for brown bears, pristine waterways withabundant fish, remote wilderness, and a rugged coastline.  There is plenty room for great diversity of wildlife in Katmai which encompasses millions of acres wildrivers and streams, rugged coastlines, broad green glacial hewn valleys, active glaciers and volcanoes, and NaknekLake.   ",
+                "image": "https://npf-prod.imgix.net/uploads/shutterstock_82878346_2022-06-13-203956_ryxb.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Kenai Fjords National Park",
+                "url": "https://www.nationalparks.org/explore/parks/kenai-fjords-national-park",
+                "content": "Experience the glacial hiking trails at Kenai Fjords National Park, where this rugged landscape promises a life-changing experience for visitors. Sweeping",
+                "description": "Experience the glacial hiking trails at Kenai Fjords National Park, where this rugged landscapepromises a life-changing experience for visitors. Sweeping from rocky coastline to glacier-crowned peaks, Kenai Fjords National Park encompasses607,805 acres of unspoiled wilderness on the southeast coast of Alaska's Kenai Peninsula. The park is capped bythe Harding Icefield, a relic from past ice-ages and the largest icefield entirely within U.S. borders. Visitorswitness a landscape continuously shaped by glaciers, earthquakes, and storms. Orcas, otters, puffins, bear, mooseand mountain goats are just a few of the numerous animals that make their home in this ever-changing place wheremountains, ice and ocean meet.",
+                "image": "https://npf-prod.imgix.net/uploads/CD22352B-1DD8-B71B-0BC867B506B4AF1C_2022-06-13-203957_xezy.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Klondike Gold Rush National Historical Park",
+                "url": "https://www.nationalparks.org/explore/parks/klondike-gold-rush-national-historical-park",
+                "content": "Discover how the gold rush breathed life into Klondike Gold Rush National Historical Park, where the journey to Canada was rooted in economic freedom.",
+                "description": "Discover how the gold rush breathed life into Klondike Gold Rush National Historical Park, wherethe journey to Canada was rooted in economic freedom. Gold! Headlines read in 1897, starting the rush. Thousands, hoping to ease the woes of economicdepression, sold farms, dropped businesses and boarded ships to follow their dreams north. They braved icy passesto reach the interior of Canada, only to find the gold claims staked by prospectors who preceded them. A fewstruck gold; many more returned home penniless, yet richer for the adventure.  The park celebrates the Klondike Gold Rush of 1897-98 through 15 restored buildings within the SkagwayHistoric District. The park also administers the Chilkoot Trail and a small portion of the White Pass Trail.",
+                "image": "https://npf-prod.imgix.net/uploads/F1FB317C-1DD8-B71B-0BCD1281A10F8860_2022-06-13-203949_vrjn.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Kobuk Valley National Park",
+                "url": "https://www.nationalparks.org/explore/parks/kobuk-valley-national-park",
+                "content": "Follow the tracks of nearly a half-million caribou who migrate through the Great Kobuk Sand Dunes twice a year. Travel with the wildlife along the Kobuk",
+                "description": "Follow the tracks of nearly a half-million caribou who migrate through the Great Kobuk Sand Dunestwice a year. Travel with the wildlife along the Kobuk River. Kobuk Valley National Park provides protection for several important geographic features, includingthe central portion of the Kobuk River, the 25-sqaure-mile Great Kobuk Sand Dunes, and the Little Kobuk and HuntRiver dunes.  Sand created by the grinding action of ancient glaciers has been carried to the Kobuk Valley by both windand water. Dunes now cover much of the southern portion of the Kobuk Valley, where they are naturally stabilizedby vegetation. River bluffs, composed of sand and standing as high as 150 feet, hold the fossils of Ice Agemammals.  Nearly half a million caribou migrate through the Park twice a year ' north in the spring, south in thefall. Their tracks crisscross the 25 square miles of the Great Kobuk Sand Dunes. The lofty dunes are a sculpteddesert in the middle of a wilderness of wetlands. The Kobuk River on the north side of the dunes winds roughly 61miles through the park, providing a travel path for people and wildlife.",
+                "image": "https://npf-prod.imgix.net/uploads/8029769772_83778804b8_o2028129_2022-06-13-203948_fovj.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Lake Clark National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/lake-clark-national-park-and-preserve",
+                "content": "See the spectacular scenery of mountains, glaciers and volcanoes that stretch from the shores of Cook Inlet to the tundra-covered hills. Lake Clark",
+                "description": "See the spectacular scenery of mountains, glaciers and volcanoes that stretch from the shores ofCook Inlet to the tundra-covered hills. Lake Clark National Park and Preserve is a composite of ecosystems representative of many regions ofAlaska. The spectacular scenery stretches from the shores of Cook Inlet, across the Chigmit Mountains, to thetundra covered hills of the western interior. The Chigmits, where the Alaska and Aleutian Ranges meet, are anawesome, jagged array of mountains and glaciers which include two active volcanoes, Mt. Redoubt and Mt. Iliamna.",
+                "image": "https://npf-prod.imgix.net/uploads/Fireplace_28619714993429_2022-06-13-203946_mzdf.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Noatak National Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/noatak-national-preserve",
+                "content": "Noatak National Preserve, one of North America's largest mountain-ringed river basins, features diverse flora and fauna, and offers river float-trips.",
+                "description": "Noatak National Preserve, one of North America's largest mountain-ringed river basins, featuresdiverse flora and fauna, and offers river float-trips. Noatak National Preserve features some of the Arctic's finest arrays of plants and animals. TheNoatak River offers spectacular wilderness float trip opportunities from deep in the Brooks Range to the tidewaterof the Chukchi Sea. The 400-mile river - a Wild and Scenic River is virtually unchanged by the humans who havelived in the valley for the last 11,000 years.  The national preserve lies almost completely enclosed by the Baird and De Long mountains of the BrooksRange. In this transition zone, the northern coniferous forest thins out and gradually gives way to the tundrathat stretches northward to the Beaufort Sea. The bulk of this land is designated wilderness. Far from the hustleand bustle of other Alaskan destinations, the magnificent scenery and untamed nature of this preserve allows youto experience genuine wild Alaska on its own terms.",
+                "image": "https://npf-prod.imgix.net/uploads/19962807229_4da47fd0a5_o_2022-06-13-203910_xjsy.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Sitka National Historical Park",
+                "url": "https://www.nationalparks.org/explore/parks/sitka-national-historical-park",
+                "content": "Alaska's Sitka National Historical Park preserves the battle site of invading Russian traders and indigenous Tlingit. Alaska's oldest national park was",
+                "description": "Alaska's Sitka National Historical Park preserves the battle site of invading Russian traders andindigenous Tlingit. Alaska's oldest national park was established in 1910 to commemorate the 1804 Battle of Sitka. Allthat remains of this last major conflict between Europeans and Alaska Natives is the site of the Tlingit Fort andbattlefield.  Southeast Alaska totem poles and a temperate rain forest setting combine to provide spectacular sceneryalong the park's coastal trail. The park is also home to the Russian Bishop's House, one of the last survivingexamples of Russian colonial architecture in North America. This original 1843 log structure conveys the legacy ofRussian America through exhibits, refurbished Bishop's living quarters and lavish icons in the Chapel of theAnnunciation.   ",
+                "image": "https://npf-prod.imgix.net/uploads/14865164906_51f0a16606_o_2022-06-13-203827_lpaw.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Wrangell - St Elias National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/wrangell-st-elias-national-park-and-preserve",
+                "content": "The largest national park is Alaska's Wrangell-St. Elias National Park and Preserve, which has glaciers, peaks, and breathtaking views. It contains the",
+                "description": "The largest national park is Alaska's Wrangell-St. Elias National Park and Preserve, which hasglaciers, peaks, and breathtaking views. It contains the marks the junction of the Chugach, Wrangell, and St. Elias mountain ranges and isjust a day's drive east of Anchorage. This spectacular park includes Mount St. Elias, which, at 18,008 feet, isthe second highest peak in the United States. Adjacent to Canada's Kluane National Park, the site is characterizedby remote mountains, sweeping valleys, wild rivers, and a variety of wildlife.",
+                "image": "https://npf-prod.imgix.net/uploads/wrangell_st_elias_36126_2022-06-13-203758_rnam.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    },
+    "American Samoa": {
+        "parks": [
+            {
+                "name": "National Park of American Samoa",
+                "url": "https://www.nationalparks.org/explore/parks/national-park-of-american-samoa",
+                "content": "Discover the National Park of American Samoa's awe-inspiring scenery\u2014the beach, volcano, rain forest, and coral reef combine to create a truly magical",
+                "description": "Discover the National Park of American Samoa's awe-inspiring scenery\u2014the beach, volcano, rain forest, andcoral reef combine to create a truly magical experience. American Samoa offers rugged cliffs, glistening beaches, biologically rich coral reefs, and tropicalrainforests inhabited by many unique birds and fish.   The Samoan culture is considered the oldest in all of Polynesia. The first people to the Samoan islandscame by sea from southeast Asia some 3,000 years ago. Over the centuries, distinct cultural traits emergedcollectively called fa'asamoa, the Samoan way.   American Samoa consists of five inhabited volcanic islands clothed in tropical rainforest. The park islocated on three separate islands\u2014Tutuila, Ofu, and Tau. It is comprised of 9,100 acres of land and ocean, leasingthe land from seven villages to create a unique partnership of preservation and protection.   The National Park of American Samoa, meaning \u201csacred earth,\u201d is the only US national park located in theSouthern Hemisphere. ",
+                "image": "https://npf-prod.imgix.net/uploads/9109117816_0273acc123_o.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    },
+    "Arizona": {
+        "parks": [
+            {
+                "name": "Canyon de Chelly National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/canyon-de-chelly-national-monument",
+                "content": "Canyon de Chelly is unique among National Park Service units, as it is comprised entirely of Navajo Tribal Trust Land that remains home to the canyon",
+                "description": "Canyon de Chelly is unique among National Park Service units, as it is comprised entirely ofNavajo Tribal Trust Land that remains home to the canyon community. Reflecting one of the longest continuously inhabited landscapes of North America, the culturalresources of Canyon de Chelly, including distinctive architecture, artifacts, and rock imagery, exhibit remarkablepreservation integrity that provides outstanding opportunities for study and contemplation.  Canyon de Chelly also sustains a living community of Navajo people, who are connected to a landscape ofgreat historical and spiritual significance--a landscape composed of places infused with collective memory. NPSworks in partnership with the Navajo Nation to manage park resources and sustain the living Navajo community.",
+                "image": "https://npf-prod.imgix.net/uploads/CanyonDeChelly_iStock_000020853573_2022-06-13-204150_uein.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Casa Grande Ruins National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/casa-grande-ruins-national-monument",
+                "content": "Casa Grande Ruins, the nation's first archeological preserve, protects the Casa Grande and other archeological sites within its boundaries. For over a",
+                "description": "Casa Grande Ruins, the nation's first archeological preserve, protects the Casa Grande and otherarcheological sites within its boundaries. For over a thousand years, prehistoric farmers inhabited much of the present-day state of Arizona.When the first Europeans arrived, all that remained of this ancient culture were the ruins of villages, irrigationcanals, and various artifacts. Among these ruins is the Casa Grande, or \"Big House,\" one of the largest and mostmysterious prehistoric structures ever built in North America.  You are invited to see the Casa Grande and to hear the story of the ancient ones the Akimel O'otham callthe Hohokam, \"those who are gone.\"",
+                "image": "https://npf-prod.imgix.net/uploads/Casa20Grande20Ruins20National20Monument20-20iStock_81515185_XXXLARGE_2022-06-13-204143_qeef.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Chiricahua National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/chiricahua-national-monument",
+                "content": "Twenty-seven million years ago a volcanic eruption of immense proportions shook the land around Chiricahua National Monument, a mecca for hikers and",
+                "description": "Twenty-seven million years ago a volcanic eruption of immense proportions shook the land aroundChiricahua National Monument, a mecca for hikers and birders. One thousand times greater than the 1980 eruption of Mount St. Helens, the Turkey Creek Calderaeruption eventually laid down two thousand feet of highly silicious ash and pumice. This mixture fused into a rockcalled rhyolitic tuff and eventually eroded into the spires and unusual rock formations of today.  At the intersection of the Chihuahuan and Sonoran deserts, and the southern Rocky Mountains and northernSierra Madre in Mexico, Chiricahua plants and animals represent one of the premier areas for biological diversityin the northern hemisphere.",
+                "image": "https://npf-prod.imgix.net/uploads/chiricahua_36206_2022-06-13-204129_rtlj.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Coronado National Memorial",
+                "url": "https://www.nationalparks.org/explore/parks/coronado-national-memorial",
+                "content": "Coronado National Memorial commemorates Francisco Vasquez de Coronado's Spanish expedition to the Americas to find gold. It also interprets the",
+                "description": "Coronado National Memorial commemorates Francisco Vasquez de Coronado's Spanish expedition to theAmericas to find gold. It also interprets the significance of Coronado's expedition and the resulting cultural influences of16th century Spanish colonial exploration in the Americas.  Early in the 16th century, Spain established a rich colonial empire in the New World. From Mexico toPeru, gold poured into her treasury and new lands were opened for settlement. The northern frontier lay only a fewhundred miles north of Mexico City; and beyond that was a land unknown. Tales of unimaginable riches in this landhad fired the Spanish imagination ever since Spain's discovery of the \"New World\".  On January 6, 1540, the Spanish government commissioned Francisco Vasquez de Coronado to command anexpedition to find the rumored seven \"large cities, with streets lined with goldsmith shops, houses of manystories, and doorways studded with emeralds and turquoise!\"",
+                "image": "https://npf-prod.imgix.net/uploads/Coronado20National20Memorial20-20iStock_000081590479_XXXLarge_2022-06-13-204128_judy.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Fort Bowie National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/fort-bowie-national-historic-site",
+                "content": "The site of a Chiricahua Apache and U.S. military conflict, Fort Bowie National Historic Site remembers U.S. soldiers who settled the western frontier.",
+                "description": "The site of a Chiricahua Apache and U.S. military conflict, Fort Bowie National Historic Siteremembers U.S. soldiers who settled the western frontier. Fort Bowie commemorates the story of the bitter conflict between the Chiricahua Apaches and theUnited States military. For more than 30 years Fort Bowie and Apache Pass were the focal point of militaryoperations eventually culminating in the surrender of Geronimo in 1886 and the banishment of the Chiricahuas toFlorida and Alabama.  The remains of Fort Bowie today are carefully preserved, the adobe walls of various post buildings andthe ruins of a Butterfield Stage Station. It stands as a lasting monument to the bravery and endurance of U.S.soldiers in paving the way for westward settlement and the taming of the western frontier. It also serves to giveus an understanding of the \"clash of cultures,\" one a young emerging nation in pursuit of its \"manifest destiny,\"the other a valiant hunter/gatherer society fighting to preserve its existence. Apache resistance was finallycrushed at Fort Bowie, and the result was the end of the American Indian wars in the United States.   ",
+                "image": "https://npf-prod.imgix.net/uploads/fort-bowie-nps_0_2022-06-13-204106_yunv.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Glen Canyon National Recreation Area",
+                "url": "https://www.nationalparks.org/explore/parks/glen-canyon-national-recreation-area",
+                "content": "Glen Canyon is home to Lake Powell, the second largest human-made lake in the United States and heralded as a premier boating destination. Stretching from",
+                "description": "Glen Canyon is home to Lake Powell, the second largest human-made lake in the United States and heralded asa premier boating destination. Stretching from the beginning of the Grand Canyon at Lees Ferry in Arizona to the Orange Cliffs ofsouthern Utah, Glen Canyon National Recreation Area is an unparalleled location for water-based and backcountryrecreation.   Glen Canyon encompasses scenic vistas, geologic wonders, and a panorama of human history. Additionally,the controversy surrounding the construction of Glen Canyon Dam and the creation of Lake Powell contributed to thebirth of the modern-day environmental movement.   The park offers opportunities for boating, fishing, swimming, backcountry hiking, and four-wheel drivetrips. Whether you're on your own or on a guided trip, there is something for everyone who love the outdoors atGlen Canyon.",
+                "image": "https://npf-prod.imgix.net/uploads/GlenCanyon_iStock_000002227945Large.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Grand Canyon National Park",
+                "url": "https://www.nationalparks.org/explore/parks/grand-canyon-national-park",
+                "content": "Offering rim to rim hiking, mule rides, and whitewater rafting, Grand Canyon National Park is a hugely popular national park destination.  Grand Canyon",
+                "description": "Offering rim to rim hiking, mule rides, and whitewater rafting, Grand Canyon National Park is a hugelypopular national park destination. Grand Canyon National Park encompasses canyons, river tributaries, and surrounding grounds. The GrandCanyon is situated in Arizona's northwestern quadrant. With millions of visitors making the trip to the canyoneach year, this park is one of the most visited tourist destinations in the world. In addition, the park has beena UNESCO World Heritage Site since 1979.The Grand Canyon had a long and arduous road to becoming a national park, beginning in the 1880s withseveral failed congressional bills. After making multiple visits to the area, Theodore Roosevelt declared theGrand Canyon a National Monument in 1908. The bill to grant national park status to the area was passed in 1919and signed by then-President Woodrow Wilson.There are two public areas of Grand Canyon National Park, the North and South Rims. At 7,000 feet abovesea level, the Grand Canyon South Rim is the most accessible section of the national park, with numerous placeswhere visitors can pull over to admire the views. The Grand Canyon North Rim, 1,000 feet higher than its southernsibling, isn't as popular because it is harder to get to, especially when harsh winter weather closes accessroads. By car, the trip from one rim to the other is 220 miles. However, if traveling by foot, the distance acrossthe canyon is 21 miles via the Kaibab Trails.      ",
+                "image": "https://npf-prod.imgix.net/uploads/shutterstock_152262380.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Grand Canyon Parashant National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/grand-canyon-parashant-national-monument",
+                "content": "Visitors to this isolated national park in Arizona experience a unique sense of solitude and an impressive and diverse landscape. Grand Canyon-Parashant",
+                "description": "Visitors to this isolated national park in Arizona experience a unique sense of solitude and animpressive and diverse landscape. Grand Canyon-Parashant National Monument, located on the Colorado Plateau in northwestern Arizona, isjointly managed by the National Park Service (NPS) and the Bureau of Land Management (BLM). Established byPresidential Proclamation on January 11, 2000, the monument is located in an extremely remote and undeveloped areabordering Grand Canyon National Park to the south, Nevada to the west, and bounded by the Bureau of LandManagement Arizona Strip region on the east and north.",
+                "image": "https://npf-prod.imgix.net/uploads/Bureau20of20Land20Management_flickr_Bob20Wick2C20BLM20California2028129_2022-06-13-203735_yzum.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Hohokam Pima National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/hohokam-pima-national-monument",
+                "content": "Hohokam Pima National Monument protected 2,000 inhabitants in 'Snaketown,' village. When Hokoham Pimas was excavated, the site became invisible above",
+                "description": "Hohokam Pima National Monument protected 2,000 inhabitants in 'Snaketown,' village. When HokohamPimas was excavated, the site became invisible above ground. Hohokam Pima National Monument was authorized by Congress on October 21, 1972, to protect an ancientHohokam village known today as \"Snaketown.\" Excavations in the 1930s and again in the 1960's revealed the site wasinhabited from about 300 BC to around 1200 AD and may have had up to 2,000 inhabitants. Following the lastexcavations, the site was completely recovered with earth, leaving nothing visible above ground. The Monument islocated on the Gila River Indian Reservation and is under tribal ownership. The Gila River Indian Community hasdecided not to open the extremely sensitive area to the public.",
+                "image": "https://npf-prod.imgix.net/uploads/Hohokam_Pima_National_Monument_0_2022-06-13-204016_bgst.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Hubbell Trading Post National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/hubbell-trading-post-national-historic-site",
+                "content": "Turn back the hands of time and explore Hubbell Trading Post National Historic Site, a place of tradition and weaving artistry. Feel the old wooden floor",
+                "description": "Turn back the hands of time and explore Hubbell Trading Post National Historic Site, a place oftradition and weaving artistry. Feel the old wooden floor give slightly beneath your footsteps and hear it squeak as you enter thefront door of the oldest continuously operating trading post on the Navajo Nation. Let your eyes adjust to the dimlighting of the \"bullpen\" and you might even catch the trader negotiating a deal with a Native American artist.Hubbell Trading Post National Historic Site offers you a chance to become a part of this unique slice of history.  John Lorenzo Hubbell purchased the trading post in 1878, ten years after Navajos were allowed to returnto their homeland from their terrible exile at Bosque Redondo, Ft. Sumner, NM. During the four years spent atBosque Redondo, Navajos were introduced to many new items. Traders like Hubbell supplied those items once theyreturned home.  Hubbell family members operated this trading post until it was sold to the National Park Service in 1967.The trading post is still active, and operated by the non-profit organization, Western National Parks Association,that maintains the trading traditions the Hubbell family established.  Step back in time and experience this original 160 acre homestead, including the trading post, familyhome and visitor center with weaving demonstrations.   ",
+                "image": "https://npf-prod.imgix.net/uploads/Hubbell20Trading20Post20National20Historic20Site20-20iStock_000081627907_XXXLarge_2022-06-13-204007_twso.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Montezuma Castle National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/montezuma-castle-national-monument",
+                "content": "Located in Camp Verde, Arizona, Montezuma Castle National Monument protects the well-preserved living spaces of the Sinagua Indians. Like an ancient",
+                "description": "Located in Camp Verde, Arizona, Montezuma Castle National Monument protects the well-preserved livingspaces of the Sinagua Indians. Like an ancient five-story apartment building, Montezuma Castle towers above the desert below, astone-and-mortar marvel of early architectural engineering. Experts have determined that the Castle was built overthree centuries and provided shelter for the Sinagua Indians during flood seasons. However, contrary to the beliefof the European-Americans who discovered the structure, there's no historical connection to the Aztec emperor forwhom it's named\u2014the structure was abandoned more than 40 years prior to his birth.   Today, approximately 350,000 people per year visit the Castle, browse the museum, and stroll through thescenic sycamore grove. The towering trees offer welcome shade and a critical habitat for hundreds of native plantsand animals.",
+                "image": "https://npf-prod.imgix.net/uploads/Montezuma20Castle20National20Monument20-20iStock_5004931_XLARGE.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Navajo National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/navajo-national-monument",
+                "content": "Explore the astoundingly well-preserved, 800-year-old infrastructure and celebrate the cultural heritage of the Navajo Nation at Navajo National Monument.",
+                "description": "Explore the astoundingly well-preserved, 800-year-old infrastructure and celebrate the cultural heritage ofthe Navajo Nation at Navajo National Monument. Navajo National Monument preserves three large pueblos dating to the 13th century C.E., aswell as the archaeological evidence that documents human use in the region over the past several thousand years.   Betatakin, Keet Seel, and Inscription House were all built in large, natural alcoves formed in thetowering Navajo Sandstone Formation, offering villagers shelter from the elements as well as natural springwater. The Ancestral Puebloan people hunted wild game and farmed corn, beans, and squashin the canyon's steambeds, enabling them to flourish in this high desert environment. Descendants of the Hopipeople who built these places are called Hisatsinom. Zuni, also pueblo builders, know that several of their clansbegan in this area. Later, San Juan Southern Paiute, famous for their baskets, moved into this area and lived nearthe cliff dwellings. Today, the park is surrounded by the Navajo Nation, as it has been for hundreds of years. ",
+                "image": "https://npf-prod.imgix.net/uploads/Navajo20National20Monument20-20iStock_17552406_XXXLARGE.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Organ Pipe Cactus National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/organ-pipe-cactus-national-monument",
+                "content": "Organ Pipe Cactus National Monument offers diverse plant and animal communities, rich cultural history, scenic hiking trails, and night camping. Organ",
+                "description": "Organ Pipe Cactus National Monument offers diverse plant and animal communities, rich culturalhistory, scenic hiking trails, and night camping. Organ Pipe Cactus National Monument celebrates the life and landscape of the Sonoran Desert. In thisdesert wilderness, you may drive a lonely road, hike a backcountry trail, camp beneath a clear desert sky, marvelat magnificent cacti, or soak in the warmth and beauty of the Southwest. Organ Pipe Cactus National Monumentexhibits an extraordinary collection of plants and animals of the Sonoran Desert.  This is a showcase for creatures who have adapted themselves to the extreme temperatures, intensesunlight, and little rainfall that characterize this Southwest region. Twenty-six species of cactus have masteredthe art of living in this place, including the park's namesake and the giant saguaro.",
+                "image": "https://npf-prod.imgix.net/uploads/Organ_Pipe_Cactus_National_Monument_ORPI4653_2022-06-13-203907_sriv.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Petrified Forest National Park",
+                "url": "https://www.nationalparks.org/explore/parks/petrified-forest-national-park",
+                "content": "Petrified Forest National Park offers rocky cliffs, backcountry hikes, and the newly-opened Red Basin. Visitors enjoy cultural demonstrations. Petrified",
+                "description": "Petrified Forest National Park offers rocky cliffs, backcountry hikes, and the newly-opened RedBasin. Visitors enjoy cultural demonstrations. Petrified Forest National Park is a surprising land of scenic wonders and fascinating science. Thepark contains one of the world's largest and most colorful concentrations of petrified wood, multi-hued badlandsof the Chinle Formation, portions of the Painted Desert, historic structures, archeological sites, and displays of225-million-year-old fossils.",
+                "image": "https://npf-prod.imgix.net/uploads/15746851554_a32d4f4111_o2028129_2022-06-13-203858_fzdk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Pipe Spring National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/pipe-spring-national-monument",
+                "content": "Pipe Spring National Monument serves as a water oasis for American Indians, Mormon ranchers, and includes historic forts, gardens, and a ridge trail. The",
+                "description": "Pipe Spring National Monument serves as a water oasis for American Indians, Mormon ranchers, andincludes historic forts, gardens, and a ridge trail. The water of Pipe Spring has made it possible for plants, animals, and people to live in this dry,desert region. Ancestral Puebloans and Kaibab Paiute Indians gathered grass seeds, hunted animals, and raisedcrops near the springs for at least 1,000 years. In the 1860s Mormon pioneers brought cattle to the area and by1872 a fort (Winsor Castle) was built over the mainspring and a large cattle ranching operation was established.  This isolated outpost served as a way station for people traveling across the Arizona Strip, that part ofArizona separated from the rest of the state by the Grand Canyon. It also served as a refuge for polygamist wivesduring the 1880s and 1890s. Although their way of life was greatly impacted, the Paiute Indians continued to livein the area and by 1907 the Kaibab Paiute Indian Reservation was established, surrounding the privately owned PipeSpring ranch. In 1923 the Pipe Spring ranch was purchased and set aside as a national monument.",
+                "image": "https://npf-prod.imgix.net/uploads/pipe20springs20image201_attribution3A20Carl20Berger2C20Sr.203A20flickr_2022-06-13-203851_dowf.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    },
+    "Arkansas": {
+        "parks": [
+            {
+                "name": "Arkansas Post National Memorial",
+                "url": "https://www.nationalparks.org/explore/parks/arkansas-post-national-memorial",
+                "content": "At Arkansas Post, visitors can explore the natural beauty surrounding this memorial on a walking path or by making reservations for a national park tour.",
+                "description": "At Arkansas Post, visitors can explore the natural beauty surrounding this memorial on a walkingpath or by making reservations for a national park tour. In 1686, Henri de Tonti established a trading post known as \"Poste de Arkansea\" at the Quapaw villageof Osotouy. It was the first semi-permanent French settlement in the lower Mississippi River Valley. Theestablishment of the Post was the first step in a long struggle between France, Spain, and England over theinterior of the North American continent.  Over the years, the Post relocated as necessary due to flooding from the Arkansas River, but its positionalways served of strategic importance for the French, Spanish, American, and Confederate military. Spanishsoldiers and British partisans clashed here in the 1783 \"Colbert Raid,\" the only Revolutionary War action inArkansas.  Arkansas Post became part of the United States following the Louisiana Purchase of 1803. By 1819, thepost was a thriving river port and the largest city in the region and selected as the first capital of theArkansas Territory.  During the Civil War, Confederate troops tried to maintain tactical control of the confluence of the tworivers, and in 1862 they constructed a massive earthen fortification known as Fort Hindman at the Post. In January1863 Union troops destroyed the fort, ensuring control of the Arkansas River.  Today, the memorial and museum commemorate the multi-layered and complex history of the site. Located ona peninsula bordered by the Arkansas River and two backwaters, the site offers excellent fishing and wildlifewatching opportunities.   ",
+                "image": "https://npf-prod.imgix.net/uploads/Arkansas_Post_National_Memorial_001_2022-06-13-204210_ukjk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Buffalo National River",
+                "url": "https://www.nationalparks.org/explore/parks/buffalo-national-river",
+                "content": "Explore the Buffalo National River by canoe or take the back roads and dive into the pioneer history of the region. Visitors can also enjoy a hike in one",
+                "description": "Explore the Buffalo National River by canoe or take the back roads and dive into the pioneerhistory of the region. Visitors can also enjoy a hike in one of the three designated wilderness areas. The Buffalo NationalRiver flows free over swift running rapids and quiet pools for its 135-mile length. One of the few remainingrivers in the lower 48 states without dams, the Buffalo cuts its way through massive limestone bluffs travelingeastward through the Arkansas Ozarks and into the White River.",
+                "image": "https://npf-prod.imgix.net/uploads/Morning_on_the_Buffalo_River_2022-06-13-204156_sqcq.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Fort Smith National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/fort-smith-national-historic-site",
+                "content": "At Fort Smith National Historic Site you can walk where soldiers drilled, pause along the Trail of Tears, and stand where justice was served. The park",
+                "description": "At Fort Smith National Historic Site you can walk where soldiers drilled, pause along the Trail ofTears, and stand where justice was served. The park includes the remains of two frontier forts and the Federal Court for the Western District ofArkansas. The stories told at Fort Smith National Historic Site span the years 1817-1896. Soldiers, laundresses,Native Americans, civilians, federal judges and marshals, deputy marshals, jail guards, lawyers, and outlaws allplayed a role in the history that unfolded here. Located on the grounds are the foundation remains of the firstFort Smith (1817-1824), the Commissary building (c. 1838) and a reconstruction of the gallows used by the federalcourt. A walking trail along the Arkansas River includes wayside exhibits on the Trail of Tears.",
+                "image": "https://npf-prod.imgix.net/uploads/Dennis20Frank_7270628516_ed4fdc661c_o_2022-06-13-204053_dlba.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Hot Springs National Park",
+                "url": "https://www.nationalparks.org/explore/parks/hot-springs-national-park",
+                "content": "Enjoy over 40 hot springs, a wilderness area with 20+ miles of trails, and historic Bathhouse Row\u2014a stunning showcase of Gilded Age architecture. The",
+                "description": "Enjoy over 40 hot springs, a wilderness area with 20+ miles of trails, and historic Bathhouse Row\u2014astunning showcase of Gilded Age architecture. The oldest park managed by the National Park System, Hot Springs National Park features ample hikingand sight-seeing opportunities as well as the famous springs themselves, grouped about the base of the Hot SpringsMountain with a flow of well over a half million gallons a day.  For centuries, the natural hot water was used in medicinal capacities by the neighboring Native Americantribes. The first bathhouses to take advantage of the hot water supply were essentially brush huts and log cabinsplaced over excavations cut in the rocks. Soon, more elaborate facilities were developed, many of which are opentoday.  Visitors can currently still bathe in the spring water at approved facilities. They can also visitBathhouse Row, which is designed as a National Historic Landmark District and boasts the most extensive bathhousecollection in North America.",
+                "image": "https://npf-prod.imgix.net/uploads/Hot_Springs_National_Park_005.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Little Rock Central High School National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/little-rock-central-high-school-national-historic-site",
+                "content": "Take a tour of Little Rock Central High School in Arkansas to learn about the Little Rock Nine and desegregation after Brown v. Board of Education. On the",
+                "description": "Take a tour of Little Rock Central High School in Arkansas to learn about the Little Rock Nine anddesegregation after Brown v. Board of Education. On the morning of September 23, 1957, nine African-American teenagers held the line against an angrymob protesting integration in front of Little Rock's Central High School. As the students met their new classmatesfor the first time inside the school, outside violence escalated and the Little Rock police removed the Nine fromthe school for their safety. The next day, President Dwight D. Eisenhower ordered the U.S. Army's 101st AirborneDivision into Little Rock to escort the nine students into the school. One of the nine later remembered, Afterthree full days inside Central, I knew that integration is a much bigger word than I thought.  This event, broadcast across the nation and world, was the site of the first important test for theimplementation of the U.S. Supreme Court's historic Brown v. Board of Education of Topeka decision of 1954.Arkansas became the epitome of state resistance when the governor, Orval Faubus, directly questioned the authorityof the federal court system and the validity of desegregation. The crisis at Little Rock's Central High Schoolforced the nation to resolve to enforce African-American civil rights in the face of massive southern defianceduring the years following the Brown decision.",
+                "image": "https://npf-prod.imgix.net/uploads/Facade_of_Central_High_School_-_Little_Rock_-_Arkansas_-_USA_-_01_2022-06-13-203938_nqob.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "Pea Ridge National Military Park",
+                "url": "https://www.nationalparks.org/explore/parks/pea-ridge-national-military-park",
+                "content": "Pea Ridge National Military Park is a 4,300 acre Civil War Battlefield that preserves the site of the March 1862 battle that saved Missouri for the Union.",
+                "description": "Pea Ridge National Military Park is a 4,300 acre Civil War Battlefield that preserves the site ofthe March 1862 battle that saved Missouri for the Union. On the 7th and 8th of that month, nearly 26,000 soldiers fought to determine whether Missouri wouldremain under Union control, and whether or not Federal armies could continue their offensive south through theMississippi River Valley.  Major General Earl Van Dorn led 16,000 Confederates against 10,250 Union soldiers, under the command ofBrigadier General Samuel R. Curtis. The Confederate force also included some 800 Cherokees fighting for theConfederacy, while half of the Federals were German immigrants.  The park also includes a two and one half mile segment of the Trail of Tears. The Elkhorn Tavern, site ofbitter fighting on both days, is a NPS reconstruction on the site of the original. The park is one of the mostwell preserved battlefields in the United States.   ",
+                "image": "https://npf-prod.imgix.net/uploads/8152909779_f48ffd843a_o_2022-06-13-203859_lqgz.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            },
+            {
+                "name": "President William Jefferson Clinton Birthplace Home National Historic Site",
+                "url": "https://www.nationalparks.org/explore/parks/president-william-jefferson-clinton-birthplace-home-national-historic-site",
+                "content": "President William Jefferson Clinton National Historic Site is the birthplace of U.S. president Clinton, where he learned lessons that shaped his",
+                "description": "President William Jefferson Clinton National Historic Site is the birthplace of U.S. presidentClinton, where he learned lessons that shaped his presidency. On August 19, 1946, Virginia Blythe gave birth to her son, William Jefferson Blythe, III. Named forhis father who died before he was born, he grew up to become William Jefferson Clinton - the 42nd president of theUnited States. In this house, he learned many of the life lessons that later defined his presidency andhis emergence as a global statesman.",
+                "image": "https://npf-prod.imgix.net/uploads/President20WilliamJeffersonClintonBirthplaceHome_attribution3A20National20Park20Service_2022-06-13-203745_biyu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+            }
+        ]
+    },
     "Colorado": {
         "parks": [
             {

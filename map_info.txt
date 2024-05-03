@@ -1,0 +1,19 @@
+const parks = ['Yellowstone National Park', 'Central Park', 'Golden Gate Park']; // Example park names
+const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
+
+const createIframe = (parkName) => {
+    const encodedName = encodeURIComponent(parkName);
+    return `<iframe
+                width="600"
+                height="450"
+                style="border:0"
+                loading="lazy"
+                allowfullscreen
+                src="https://www.google.com/maps/embed/v1/place?key=${apiKey}&q=${encodedName}">
+            </iframe>`;
+};
+
+const iframes = parks.map(park => createIframe(park));
+console.log(iframes); // Logs iframe HTML strings to the console
+
+API_KEY: https://console.cloud.google.com/apis/credentials?project

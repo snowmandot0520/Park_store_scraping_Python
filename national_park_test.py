@@ -2,90 +2,74 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import time
+from ratelimit import limits, sleep_and_retry
 
 # OpenAI setting
 import os
 from dotenv import load_dotenv
 from openai import OpenAI
-import time
-
 
 load_dotenv()
-start_time = time.time()
-client = OpenAI(api_key=os.getenv('API_KEY')) 
+client = OpenAI(api_key=os.getenv('API_KEY'))
 
 base_url = "https://www.nps.gov"
+retry_attempts = 3
+retry_delay = 5
 
+# Define the rate limit: 3 requests per minute
+@sleep_and_retry
+@limits(calls=3, period=60)
 def open_AI_description(url):
-    rl = "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument"
-
-    inputdata = "Tell me about this " + url
+    input_data = "Tell me about this " + url
 
     response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {"role": "user", "content": inputdata},
-    ],
-    stream=True
+        model="gpt-3.5-turbo",
+        messages=[{"role": "user", "content": input_data}],
+        stream=True
     )
 
     collected_messages = []
 
     for chunk in response:
-        # chunk_time = time.time() - start_time             # calculate the time delay of the chunk
-        chunk_message = chunk.choices[0].delta.content    # extract the message
-        collected_messages.append(chunk_message)          # save the message
-        # print(f"Message received {chunk_time:.2f} seconds after request: {chunk_message}")  # print the delay and text
-    
+        chunk_message = chunk.choices[0].delta.content
+        collected_messages.append(chunk_message)
+
     collected_messages = [m for m in collected_messages if m is not None]
     full_reply_content = ''.join(collected_messages)
 
-    
     return full_reply_content
 
-def scrape_park_data(url):   
-   
-  
+def scrape_park_data(url):
     formated_content = []
-    formated_description = []   
-    
-    r = requests.get(url)
+    formated_description = []
+    imgurl = None
+    map_info = None
 
-    soup = BeautifulSoup(r.text, 'html.parser')
-     
-    meta_tags = soup.find_all('meta')
-    
-    for tag in meta_tags:
-      
-        # Extract content attribute of meta tags
-        content_meta = tag.get('content')
-  
-        if tag.get('property') == 'og:description':
-            content = content_meta
-            formated_content = content
-            formated_content = formated_content.replace("\u2019", "'").replace("\u2026", "")
-    
-    # descriptions = soup.find(attrs={"class": "max-w-736 mx-auto text-body-lg text-rich"})
-    # for descript in descriptions.children:
-    #     description.append(descript.text)
-    #     formated_description = description             
-    
-    formated_description = open_AI_description(url)
-        
-    img = soup.find(attrs={"class": "absolute h-full inset-0 object-cover w-full"})
-    if img:
-        imgurl = img['src']
-    
-    # / ------------- Map ------------- /          
-    # map_urls = soup.find_all( "a", class_ =  "button-secondary" ) 
-    # map_url = map_urls[10].get('href')  
-    # map_data_url = scrape_map_site (map_url)
-    # map_info = scrape_map_info (map_data_url)
-    
-    map_info = "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
-    
-    if formated_content and formated_description and map_info and imgurl :
-            
+    try:
+        for attempt in range(retry_attempts):
+            r = requests.get(url)
+            if r.status_code == 200:
+                break
+            time.sleep(retry_delay)
+
+        soup = BeautifulSoup(r.text, 'html.parser')
+        meta_tags = soup.find_all('meta')
+
+        for tag in meta_tags:
+            content_meta = tag.get('content')
+            if tag.get('property') == 'og:description':
+                content = content_meta
+                formated_content = content.replace("\u2019", "'").replace("\u2026", "")
+
+        formated_description = open_AI_description(url)
+        img = soup.find(attrs={"class": "absolute h-full inset-0 object-cover w-full"})
+        if img:
+            imgurl = img['src']
+        map_info = "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
+
+    except (requests.RequestException, ValueError, AttributeError) as e:
+        print(f"An error occurred while scraping {url}: {e}")
         return {
             "content": formated_content,
             "description": formated_description,
@@ -93,86 +77,44 @@ def scrape_park_data(url):
             "map": map_info
         }
 
-# def scrape_map_site(url):
-    
-#     r = requests.get(url)
-#     soup = BeautifulSoup(r.text, 'html.parser')
-    
-#     # Find the UtilityNav div
-#     utility_nav = soup.find("div", id="UtilityNav")
-
-#     # Find all li elements within the UtilityNav div
-#     nav_items = utility_nav.find_all("li")
-
-#     # Loop through the li elements to find the maps link
-#     map_data_url = None
-    
-#     for item in nav_items:
-#         # Find the 'a' tag within the 'li' element
-#         a_tag = item.find("a")
-#         if a_tag and "maps.htm" in a_tag.get("href"):
-#             map_data_url = urljoin(base_url, a_tag.get("href"))
-#             break
-
-#     return map_data_url
-
-def scrape_map_info(url):
-    return "/maps/embed.html?alpha=tuai&mapId=d227494d-87cc-489c-ad4e-7a861cec6ca6"
-    # # Send a GET request to the URL
-    # response = requests.get(url)
-
-    # # Check if the request was successful
-    # if response.status_code == 200:
-    #     # Parse the HTML content
-    #     soup = BeautifulSoup(response.content, 'html.parser')
-        
-    #     # Find the <iframe> element with title="Map Embed"
-    #     iframe = soup.find('iframe', title="Map Embed")
-        
-    #     # Check if the iframe element exists
-    #     if iframe:
-    #         # Extract the value of the src attribute
-    #         map_src = iframe.get('src')
-            
-    #         return map_src
-    #     else:
-            
-    #         return None
-    # else:
-
-    #     return None
-
-
+    return {
+        "content": formated_content,
+        "description": formated_description,
+        "image": imgurl,
+        "map": map_info
+    }
 
 # Load input JSON
-with open('national_parks.json', 'r',encoding='utf-8') as file:
+with open('national_parks.json', 'r', encoding='utf-8') as file:
     input_data = json.load(file)
 
 output_data = {}
-
-index = 61
+index = 0
 # Loop through states and parks
 for state, parks in input_data.items():
-    output_data[state] = {"parks": []}  
+    output_data[state] = {"parks": []}
+
     
     for park_name, park_url in parks.items():
-        
-        print (index)
-        
-        if park_url :
-            index += 1
-            
-            if index >= 61 :
-                # Scrape park data
-                scraped_data = scrape_park_data(park_url)
+        print(index)
+        index += 1
+        if park_url:
+            scraped_data = scrape_park_data(park_url)
+            output_data[state]["parks"].append({
+                "name": park_name,
+                "url": park_url,
+                **scraped_data
+            })
 
-                # Add scraped data to output
-                output_data[state]["parks"].append({
-                 "name": park_name,
-                  "url": park_url,
-                 **scraped_data
-                })
+        # Introduce a delay of 20 seconds between consecutive API requests
+        time.sleep(20)
 
-                # Write output JSON
-                with open('data_national_parks.json', 'w') as json_file:
-                    json.dump(output_data, json_file, indent=4)
+    # Save intermediate results to a JSON file
+    with open('data_national_parks_intermediate.json', 'w') as json_file:
+        json.dump(output_data, json_file, indent=4)
+
+# Final results are already stored in the `output_data` variable
+
+# Write final output JSON
+with open('data_national_parks.json', 'w') as json_file:
+    json.dump(output_data, json_file, indent=4)
