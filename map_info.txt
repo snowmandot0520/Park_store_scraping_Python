@@ -6,7 +6,7 @@ const createIframe = (parkName) => {
     return `<iframe
                 width="600"
                 height="450"
-                style="border:0"
+                style="border:0"    
                 loading="lazy"
                 allowfullscreen
                 src="https://www.google.com/maps/embed/v1/place?key=${apiKey}&q=${encodedName}">
@@ -17,3 +17,9 @@ const iframes = parks.map(park => createIframe(park));
 console.log(iframes); // Logs iframe HTML strings to the console
 
 API_KEY: https://console.cloud.google.com/apis/credentials?project
+AIzaSyD5wMutNGsQaLWdYUpH0fqaD1utNIBOmU4
+
+this is how to get map info
+
+sample url
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3267.785718303691!2d-86.8106!3d33.5157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88891b8f551690b5%3A0x7b908e2c9c8e7c53!2sBirmingham%20Civil%20Rights%20National%20Monument!5e0!3m2!1sen!2sus!4v1633489296059!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
