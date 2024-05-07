@@ -1,4 +1,77 @@
 {
+  "Alabama": {
+    "Birmingham Civil Rights National Monument": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+    "Freedom Riders National Monument": "https://www.nationalparks.org/explore/parks/freedom-riders-national-monument",
+    "Horseshoe Bend National Military Park": "https://www.nationalparks.org/explore/parks/horseshoe-bend-national-military-park",
+    "Little River Canyon National Preserve": "https://www.nationalparks.org/explore/parks/little-river-canyon-national-preserve",
+    "Russell Cave National Monument": "https://www.nationalparks.org/explore/parks/russell-cave-national-monument",
+    "Selma to Montgomery National Historic Trail": "https://www.nationalparks.org/explore/parks/selma-to-montgomery-national-historic-trail",
+    "Tuskegee Airmen National Historic Site": "https://www.nationalparks.org/explore/parks/tuskegee-airmen-national-historic-site",
+    "Tuskegee Institute National Historic Site": "https://www.nationalparks.org/explore/parks/tuskegee-institute-national-historic-site"
+  },
+  "Alaska": {
+    "Alagnak Wild River": "https://www.nationalparks.org/explore/parks/alagnak-wild-river",
+    "Aniakchak National Monument and Preserve": "https://www.nationalparks.org/explore/parks/aniakchak-national-monument-and-preserve",
+    "Bering Land Bridge National Preserve": "https://www.nationalparks.org/explore/parks/bering-land-bridge-national-preserve",
+    "Cape Krusenstern National Monument": "https://www.nationalparks.org/explore/parks/cape-krusenstern-national-monument",
+    "Denali National Park and Preserve": "https://www.nationalparks.org/explore/parks/denali-national-park-and-preserve",
+    "Gates of The Arctic National Park and Preserve": "https://www.nationalparks.org/explore/parks/gates-of-the-arctic-national-park-and-preserve",
+    "Glacier Bay National Park and Preserve": "https://www.nationalparks.org/explore/parks/glacier-bay-national-park-and-preserve",
+    "Katmai National Park and Preserve": "https://www.nationalparks.org/explore/parks/katmai-national-park-and-preserve",
+    "Kenai Fjords National Park": "https://www.nationalparks.org/explore/parks/kenai-fjords-national-park",
+    "Klondike Gold Rush National Historical Park": "https://www.nationalparks.org/explore/parks/klondike-gold-rush-national-historical-park",
+    "Kobuk Valley National Park": "https://www.nationalparks.org/explore/parks/kobuk-valley-national-park",
+    "Lake Clark National Park and Preserve": "https://www.nationalparks.org/explore/parks/lake-clark-national-park-and-preserve",
+    "Noatak National Preserve": "https://www.nationalparks.org/explore/parks/noatak-national-preserve",
+    "Sitka National Historical Park": "https://www.nationalparks.org/explore/parks/sitka-national-historical-park",
+    "Wrangell - St Elias National Park and Preserve": "https://www.nationalparks.org/explore/parks/wrangell-st-elias-national-park-and-preserve"
+  },
+  "American Samoa": {
+    "National Park of American Samoa": "https://www.nationalparks.org/explore/parks/national-park-of-american-samoa"
+  },
+  "Arizona": {
+    "Canyon de Chelly National Monument": "https://www.nationalparks.org/explore/parks/canyon-de-chelly-national-monument",
+    "Casa Grande Ruins National Monument": "https://www.nationalparks.org/explore/parks/casa-grande-ruins-national-monument",
+    "Chiricahua National Monument": "https://www.nationalparks.org/explore/parks/chiricahua-national-monument",
+    "Coronado National Memorial": "https://www.nationalparks.org/explore/parks/coronado-national-memorial",
+    "Fort Bowie National Historic Site": "https://www.nationalparks.org/explore/parks/fort-bowie-national-historic-site",
+    "Glen Canyon National Recreation Area": "https://www.nationalparks.org/explore/parks/glen-canyon-national-recreation-area",
+    "Grand Canyon National Park": "https://www.nationalparks.org/explore/parks/grand-canyon-national-park",
+    "Grand Canyon Parashant National Monument": "https://www.nationalparks.org/explore/parks/grand-canyon-parashant-national-monument",
+    "Hohokam Pima National Monument": "https://www.nationalparks.org/explore/parks/hohokam-pima-national-monument",
+    "Hubbell Trading Post National Historic Site": "https://www.nationalparks.org/explore/parks/hubbell-trading-post-national-historic-site",
+    "Montezuma Castle National Monument": "https://www.nationalparks.org/explore/parks/montezuma-castle-national-monument",
+    "Navajo National Monument": "https://www.nationalparks.org/explore/parks/navajo-national-monument",
+    "Organ Pipe Cactus National Monument": "https://www.nationalparks.org/explore/parks/organ-pipe-cactus-national-monument",
+    "Petrified Forest National Park": "https://www.nationalparks.org/explore/parks/petrified-forest-national-park",
+    "Pipe Spring National Monument": "https://www.nationalparks.org/explore/parks/pipe-spring-national-monument"
+  },
+  "Arkansas": {
+    "Arkansas Post National Memorial": "https://www.nationalparks.org/explore/parks/arkansas-post-national-memorial",
+    "Buffalo National River": "https://www.nationalparks.org/explore/parks/buffalo-national-river",
+    "Fort Smith National Historic Site": "https://www.nationalparks.org/explore/parks/fort-smith-national-historic-site",
+    "Hot Springs National Park": "https://www.nationalparks.org/explore/parks/hot-springs-national-park",
+    "Little Rock Central High School National Historic Site": "https://www.nationalparks.org/explore/parks/little-rock-central-high-school-national-historic-site",
+    "Pea Ridge National Military Park": "https://www.nationalparks.org/explore/parks/pea-ridge-national-military-park",
+    "President William Jefferson Clinton Birthplace Home National Historic Site": "https://www.nationalparks.org/explore/parks/president-william-jefferson-clinton-birthplace-home-national-historic-site"
+  },
+  "California": {
+    "Alcatraz Island": "https://www.nationalparks.org/explore/parks/alcatraz-island",
+    "Cabrillo National Monument": "https://www.nationalparks.org/explore/parks/cabrillo-national-monument",
+    "Castle Mountains National Monument": "https://www.nationalparks.org/explore/parks/castle-mountains-national-monument",
+    "César E. Chávez National Monument": "https://www.nationalparks.org/explore/parks/cesar-e-chavez-national-monument",
+    "Channel Islands National Park": "https://www.nationalparks.org/explore/parks/channel-islands-national-park",
+    "Death Valley National Park": "https://www.nationalparks.org/explore/parks/death-valley-national-park",
+    "Devils Postpile National Monument": "https://www.nationalparks.org/explore/parks/devils-postpile-national-monument",
+    "Eugene O'Neill National Historic Site": "https://www.nationalparks.org/explore/parks/eugene-oneill-national-historic-site",
+    "Fort Point National Historic Site": "https://www.nationalparks.org/explore/parks/fort-point-national-historic-site",
+    "Golden Gate National Recreation Area": "https://www.nationalparks.org/explore/parks/golden-gate-national-recreation-area",
+    "John Muir National Historic Site": "https://www.nationalparks.org/explore/parks/john-muir-national-historic-site",
+    "Joshua Tree National Park": "https://www.nationalparks.org/explore/parks/joshua-tree-national-park",
+    "Juan Bautista De Anza National Historic Trail": "https://www.nationalparks.org/explore/parks/juan-bautista-de-anza-national-historic-trail",
+    "Lassen Volcanic National Park": "https://www.nationalparks.org/explore/parks/lassen-volcanic-national-park",
+    "Lava Beds National Monument": "https://www.nationalparks.org/explore/parks/lava-beds-national-monument"
+  },
   "Colorado": {
     "Amache National Historic Site": "https://www.nationalparks.org/explore/parks/amache-national-historic-site",
     "Bent's Old Fort National Historic Site": "https://www.nationalparks.org/explore/parks/bents-old-fort-national-historic-site",
