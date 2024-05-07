@@ -16,11 +16,38 @@ client = OpenAI(api_key=os.getenv('API_KEY'))
 
 base_url = "https://www.nps.gov"
 
-def open_AI_description(url):
-    rl = "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument"
+# def open_AI_description(url):
+#     rl = "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument"
 
-    inputdata = "Tell me about this " + url
+#     inputdata = "Tell me about this " + url
 
+#     response = client.chat.completions.create(
+#     model="gpt-3.5-turbo",
+#     messages=[
+#         {"role": "user", "content": inputdata},
+#     ],
+#     stream=True
+#     )
+
+#     collected_messages = []
+
+#     for chunk in response:
+#         # chunk_time = time.time() - start_time             # calculate the time delay of the chunk
+#         chunk_message = chunk.choices[0].delta.content    # extract the message
+#         collected_messages.append(chunk_message)          # save the message
+#         # print(f"Message received {chunk_time:.2f} seconds after request: {chunk_message}")  # print the delay and text
+    
+#     collected_messages = [m for m in collected_messages if m is not None]
+#     full_reply_content = ''.join(collected_messages)
+
+    
+#     return full_reply_content
+
+
+def open_AI_content(url):
+    
+    inputdata = "Tell me about this " + url + "with representitive simple one sentence"
+    
     response = client.chat.completions.create(
     model="gpt-3.5-turbo",
     messages=[
@@ -43,34 +70,38 @@ def open_AI_description(url):
     
     return full_reply_content
 
+
 def scrape_park_data(url):   
    
-  
+    description = []
     formated_content = []
     formated_description = []   
+    imgurl = "no image"
     
     r = requests.get(url)
 
     soup = BeautifulSoup(r.text, 'html.parser')
      
-    meta_tags = soup.find_all('meta')
+    # meta_tags = soup.find_all('meta')
     
-    for tag in meta_tags:
+    # for tag in meta_tags:
       
-        # Extract content attribute of meta tags
-        content_meta = tag.get('content')
+    #     # Extract content attribute of meta tags
+    #     content_meta = tag.get('content')
   
-        if tag.get('property') == 'og:description':
-            content = content_meta
-            formated_content = content
-            formated_content = formated_content.replace("\u2019", "'").replace("\u2026", "")
+    #     if tag.get('property') == 'og:description':
+    #         content = content_meta
+    #         formated_content = content
+    #         formated_content = formated_content.replace("\u2019", "'").replace("\u2026", "")
     
-    # descriptions = soup.find(attrs={"class": "max-w-736 mx-auto text-body-lg text-rich"})
-    # for descript in descriptions.children:
-    #     description.append(descript.text)
-    #     formated_description = description             
+    formated_content = open_AI_content(url)
     
-    formated_description = open_AI_description(url)
+    descriptions = soup.find(attrs={"class": "max-w-736 mx-auto text-body-lg text-rich"})
+    for descript in descriptions.children:
+        description.append(descript.text)
+        formated_description = ' '.join(description).replace('\n', '').replace("\u2019", "'").replace("\u201c", "“").replace("\u201d", "”")            
+    
+    # formated_description = open_AI_description(url)
         
     img = soup.find(attrs={"class": "absolute h-full inset-0 object-cover w-full"})
     if img:
@@ -150,10 +181,11 @@ with open('national_parks.json', 'r',encoding='utf-8') as file:
 
 output_data = {}
 
-index = 0
+
 # Loop through states and parks
 for state, parks in input_data.items():
     output_data[state] = {"parks": []}  
+    index = 0
     
     for park_name, park_url in parks.items():
         
@@ -162,7 +194,7 @@ for state, parks in input_data.items():
         if park_url :
             index += 1
             
-            if index >= 0 :
+            if index >= 1 :
                 # Scrape park data
                 scraped_data = scrape_park_data(park_url)
 
@@ -172,7 +204,7 @@ for state, parks in input_data.items():
                   "url": park_url,
                  **scraped_data
                 })
-
                 # Write output JSON
                 with open('data_national_parks.json', 'w') as json_file:
                     json.dump(output_data, json_file, indent=4)
+                time.sleep(3)
