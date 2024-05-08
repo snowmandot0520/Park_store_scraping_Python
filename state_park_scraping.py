@@ -44,7 +44,7 @@ def scrape_park_data(url):
             "map": map_info
         }
 
-with open('test.json', 'r', encoding='utf-8') as file:
+with open('test_state_input.json', 'r', encoding='utf-8') as file:
     input_data = json.load(file)
 
 output_data = {}
@@ -65,5 +65,5 @@ for state, parks in input_data.items():
                     **scraped_data
                 })
 
-                with open('data_state_parks.json', 'w') as json_file:
+                with open('test_state_output.json', 'w') as json_file:
                     json.dump(output_data, json_file, indent=4)
