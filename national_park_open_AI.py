@@ -70,31 +70,6 @@ def open_AI_content(url):
     
     return full_reply_content
 
-def open_AI_map(url):
-    
-    inputdata = "Tell me about map information of this " + url 
-    
-    response = client.chat.completions.create(
-    model="gpt-3.5-turbo",
-    messages=[
-        {"role": "user", "content": inputdata},
-    ],
-    stream=True
-    )
-
-    collected_messages = []
-
-    for chunk in response:
-        # chunk_time = time.time() - start_time             # calculate the time delay of the chunk
-        chunk_message = chunk.choices[0].delta.content    # extract the message
-        collected_messages.append(chunk_message)          # save the message
-        # print(f"Message received {chunk_time:.2f} seconds after request: {chunk_message}")  # print the delay and text
-    
-    collected_messages = [m for m in collected_messages if m is not None]
-    full_reply_content = ''.join(collected_messages)
-
-    
-    return full_reply_content
 
 def scrape_park_data(url):   
    
@@ -197,8 +172,6 @@ def scrape_map_info(url):
     # else:
 
     #     return None
-
-
 
 # Load input JSON
 with open('national_parks.json', 'r',encoding='utf-8') as file:
