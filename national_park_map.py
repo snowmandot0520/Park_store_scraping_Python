@@ -12,5 +12,7 @@ api_url = f'https://www.google.com/maps/embed/v1/place?key={api_key}&q={urllib.p
 # Get the iframe data
 iframe_data = f'<iframe src="{api_url}" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>'
 
+src_data = api_url
+print(src_data)
 # Print or use the iframe data as needed
-print(iframe_data)
+# print(iframe_data)

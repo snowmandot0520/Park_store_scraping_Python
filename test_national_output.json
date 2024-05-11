@@ -1,0 +1,90 @@
+{
+    "Alabama": {
+        "parks": [
+            {
+                "name": "Birmingham Civil Rights National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/birmingham-civil-rights-national-monument",
+                "content": "The Birmingham Civil Rights National Monument in Alabama commemorates the city's role in the Civil Rights Movement and features significant sites like the 16th Street Baptist Church and Kelly Ingram Park.",
+                "description": "The Birmingham Civil Rights National Monument is dedicated to preserving the history of the civil rights movement in Birmingham, Alabama, a city known for its pivotal role in the fight for equality. Visitors to the monument can explore significant landmarks such as the Birmingham Civil Rights Institute and the 16th Street Baptist Church, both of which played important roles in the movement. The monument offers a powerful and educational experience, highlighting the struggles and triumphs of those who fought for civil rights. It is a must-visit destination for anyone interested in learning about this important chapter in American history.",
+                "image": "https://npf-prod.imgix.net/uploads/birmingham_a-g-gaston-motel_nps_2022-06-13-203714_ofve.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Birmingham%20Civil%20Rights%20National%20Monument"
+            },
+            {
+                "name": "Freedom Riders National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/freedom-riders-national-monument",
+                "content": "The Freedom Riders National Monument commemorates the courageous journey of the civil rights activists who challenged segregation laws by riding interstate buses in the 1960s.",
+                "description": "The Freedom Riders National Monument in Anniston, Alabama commemorates the brave individuals who fought against segregation in the South during the Civil Rights Movement. Visitors can explore the site where a group of Freedom Riders were attacked by a mob in 1961, highlighting the risks they faced in their quest for equality. The monument features a central plaza with sculptures depicting the struggle for civil rights, providing a powerful and educational experience for all who visit. Additionally, the monument serves as a reminder of the importance of standing up for justice and equality, inspiring visitors to continue fighting for a more inclusive society.",
+                "image": "https://npf-prod.imgix.net/uploads/frri_greyhoundmural_nps_2022-06-13-203716_gmgk.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Freedom%20Riders%20National%20Monument"
+            },
+            {
+                "name": "Horseshoe Bend National Military Park",
+                "url": "https://www.nationalparks.org/explore/parks/horseshoe-bend-national-military-park",
+                "content": "Horseshoe Bend National Military Park commemorates the site of a significant battle between American forces and Creek Indians during the War of 1812.",
+                "description": "Horseshoe Bend National Military Park in Alabama commemorates the 1814 Battle of Horseshoe Bend, a significant event in the Creek War where forces led by Major General Andrew Jackson defeated the Creek Nation. Visitors can explore the battlefield, which offers stunning views of the horseshoe-shaped loop of the Tallapoosa River. The park also features a museum and visitor center with exhibits detailing the history of the battle and its impact on the Creek Nation and the United States. Additionally, hiking trails and picnic areas provide opportunities for visitors to immerse themselves in the natural beauty of the park while learning about this important moment in American history.",
+                "image": "https://npf-prod.imgix.net/uploads/Horseshoe_Bend_National_Military_Park2C_Tallapoosa_County2C_Alabama_2022-06-13-204012_hcdo.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Horseshoe%20Bend%20National%20Military%20Park"
+            },
+            {
+                "name": "Little River Canyon National Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/little-river-canyon-national-preserve",
+                "content": "Little River Canyon National Preserve is a stunning natural area located in Alabama known for its deep gorge, waterfalls, and diverse plant and animal life.",
+                "description": "Little River Canyon National Preserve is known for its stunning 600-foot-deep canyon carved out by the Little River. Visitors can explore the preserve's diverse ecosystems, including forests, waterfalls, and sandstone cliffs. Outdoor enthusiasts can enjoy activities such as hiking, birdwatching, and rock climbing. The preserve's scenic overlooks offer breathtaking views of the canyon and its vibrant foliage, making it a must-visit destination for nature lovers.",
+                "image": "https://npf-prod.imgix.net/uploads/little-river-canyon.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20River%20Canyon%20National%20Preserve"
+            },
+            {
+                "name": "Russell Cave National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/russell-cave-national-monument",
+                "content": "Russell Cave National Monument is an archaeological site in Alabama that provides insights into over 10,000 years of Native American history.",
+                "description": "Russell Cave National Monument in Alabama is home to one of the most complete records of prehistoric cultures in the Southeastern United States. Visitors can explore the cave's main chamber, which was used as a shelter by Native Americans for thousands of years. The park also features a museum with exhibits showcasing artifacts and displays that tell the story of the cave's significance in ancient history. Nature lovers can enjoy hiking trails that wind through the surrounding forest, allowing for a peaceful and scenic experience.",
+                "image": "https://npf-prod.imgix.net/uploads/Russell_Cave_Trail_NM_2022-06-13-203845_uxyu.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Russell%20Cave%20National%20Monument"
+            }
+        ]
+    },
+    "Alaska": {
+        "parks": [
+            {
+                "name": "Alagnak Wild River",
+                "url": "https://www.nationalparks.org/explore/parks/alagnak-wild-river",
+                "content": "The Alagnak Wild River in Alaska is a pristine and remote destination for fishing, camping, and wildlife viewing.",
+                "description": "The Alagnak Wild River, located in the Bristol Bay region of Alaska, is known for its stunning landscapes and pristine wilderness. Visitors can experience world-class fishing for salmon and trout in the clear waters of the Alagnak River, as well as spot a variety of wildlife such as bears, moose, and eagles. The river is also popular for kayaking and rafting, offering a thrilling and unforgettable outdoor adventure. With its remote location and abundant natural beauty, the Alagnak Wild River is a must-visit destination for those seeking a true Alaskan wilderness experience.",
+                "image": "https://npf-prod.imgix.net/uploads/6D3DE1E6-1DD8-B71B-0BCCD1CA7363F2B8_2022-06-13-204219_clsp.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Alagnak%20Wild%20River"
+            },
+            {
+                "name": "Aniakchak National Monument and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/aniakchak-national-monument-and-preserve",
+                "content": "Aniakchak National Monument and Preserve in Alaska contains one of the most remote wilderness areas in the country, including a six-mile wide volcanic caldera.",
+                "description": "Aniakchak National Monument and Preserve in Alaska is a remote and rugged wilderness area with an active volcano at its center. Visitors can explore the unique landscape shaped by volcanic activity, with opportunities for hiking, backpacking, and wildlife viewing. The monument is accessible only by boat, plane, or a long and challenging hike, making it a true wilderness experience for adventurous travelers. Visitors can also witness the power of nature at work with the colorful and ever-changing geothermal features in the area.",
+                "image": "https://npf-prod.imgix.net/uploads/1150504471_45_3_2022-06-13-204218_zpxx.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Aniakchak%20National%20Monument%20and%20Preserve"
+            },
+            {
+                "name": "Bering Land Bridge National Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/bering-land-bridge-national-preserve",
+                "content": "Bering Land Bridge National Preserve is a remote Alaskan wilderness area that preserves the land bridge that once connected Asia and North America during the last ice age.",
+                "description": "The Bering Land Bridge National Preserve is a remote and rugged preserve located in Alaska, spanning over 2.7 million acres of land. Visitors to the preserve can explore one of the last remaining land bridges that once connected Asia and North America during the Ice Age. The area is home to diverse wildlife, including caribou, brown bears, and migratory birds, making it a haven for nature lovers and wildlife enthusiasts. With its vast tundra landscapes, ancient volcanic activity, and cultural significance to indigenous peoples, the Bering Land Bridge National Preserve offers a unique and unforgettable experience for visitors seeking to immerse themselves in the beauty and history of this remote region.",
+                "image": "https://npf-prod.imgix.net/uploads/24031637979_fa40a9cfb3_o.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bering%20Land%20Bridge%20National%20Preserve"
+            },
+            {
+                "name": "Cape Krusenstern National Monument",
+                "url": "https://www.nationalparks.org/explore/parks/cape-krusenstern-national-monument",
+                "content": "Cape Krusenstern National Monument in Alaska preserves over 400 prehistoric sites and 114,000 acres of remote coastline.",
+                "description": "Cape Krusenstern National Monument is located on the Chukchi Sea in northwest Alaska. It was established to protect a 114-mile stretch of coastline and preserve the archaeological and cultural history of the area. Visitors to the monument can explore ancient Native American sites, such as campsites, villages, and ceremonial areas, that date back thousands of years. The park offers opportunities for hiking, wildlife viewing, and beachcombing, making it a perfect destination for outdoor enthusiasts looking to immerse themselves in the remote beauty of the Alaskan wilderness.",
+                "image": "https://npf-prod.imgix.net/uploads/Cape_Krusenstern1_281851010412629_2022-06-13-204152_smwr.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cape%20Krusenstern%20National%20Monument"
+            },
+            {
+                "name": "Denali National Park and Preserve",
+                "url": "https://www.nationalparks.org/explore/parks/denali-national-park-and-preserve",
+                "content": "Denali National Park and Preserve is home to North America's highest peak, Mount Denali, and showcases spectacular wildlife and stunning landscapes, making it a must-visit destination for outdoor enthusiasts.",
+                "description": "Denali National Park and Preserve is located in Alaska and is home to the tallest peak in North America, Denali summit. Visitors can explore the park through various activities such as hiking, camping, and wildlife watching, as it boasts a diverse range of wildlife including grizzly bears, caribou, and Dall sheep. The park also offers stunning views of glaciers, tundra, and forests, making it a popular destination for outdoor enthusiasts and nature lovers. Additionally, visitors have the opportunity to catch a glimpse of the Northern Lights during the winter months, adding to the park's allure and beauty.",
+                "image": "https://npf-prod.imgix.net/uploads/glacial_ice_in_denali_national_park_preserve_nps.jpg?auto=compress%2Cformat&fit=max&q=80&w=1600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Denali%20National%20Park%20and%20Preserve"
+            }
+        ]
+    }
+}
