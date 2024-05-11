@@ -19,6 +19,9 @@ console.log(iframes); // Logs iframe HTML strings to the console
 API_KEY: https://console.cloud.google.com/apis/credentials?project
 AIzaSyD5wMutNGsQaLWdYUpH0fqaD1utNIBOmU4
 
+My map api_key:
+AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM
+
 this is how to get map info
 
 sample url
