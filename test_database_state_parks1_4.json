@@ -1,0 +1,38 @@
+{
+    "Arkansas State Parks": {
+        "parks": [
+            {
+                "name": "Arkansas Museum of Natural Resources",
+                "url": "https://www.arkansasstateparks.com/parks/arkansas-museum-natural-resources",
+                "content": "The Arkansas Museum of Natural Resources offers visitors the opportunity to explore the state's rich history and resources through interactive exhibits and programs.",
+                "description": "The Arkansas Museum of Natural Resources is located in Smackover, Arkansas and offers visitors a fascinating look into the state's natural resources and history of oil drilling. The museum is housed in a former oilfield boomtown building, adding to its unique charm and historical significance.\n\nVisitors can explore exhibits that showcase the equipment used in oil drilling, interactive displays that explain the science behind fossil fuels, and even take a simulated helicopter ride over an oil field. The museum also features a working oil derrick outside, where guests can see demonstrations of how oil was extracted in the early days of the industry.\n\nIn addition to its oil-related exhibits, the museum also educates visitors on the importance of conservation and renewable energy sources. The Arkansas Museum of Natural Resources offers a truly immersive experience for anyone interested in the history and impact of natural resources in the state.",
+                "image": "https://res.cloudinary.com/miles-extranet-dev/image/upload/w_800,h_480,c_fill,q_60/ArkansasSP/account_photos/1/e5b27045b8de5412b191ca34cdfa2fa3_oilfield_park-_located_next_to_museum",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Arkansas%20Museum%20of%20Natural%20Resources"
+            },
+            {
+                "name": "Arkansas Post Museum",
+                "url": "https://www.arkansasstateparks.com/parks/arkansas-post-museum",
+                "content": "The Arkansas Post Museum highlights the rich history and heritage of the Arkansas Post through exhibits and artifacts.",
+                "description": "Located at the site of the first permanent European settlement in the lower Mississippi River Valley, the Arkansas Post Museum offers a fascinating glimpse into the history of the region. Visitors can explore exhibits showcasing the Native American cultures, the colonial period, the Civil War, and the natural history of the area. The museum also features artifacts from the original Arkansas Post, including a cannon recovered from the Arkansas River. In addition to the museum, guests can tour the nearby replica of a French colonial house and the historic Post Cemetery. Don't miss the opportunity to learn about the diverse and rich history of Arkansas at this unique museum.",
+                "image": "https://res.cloudinary.com/miles-extranet-dev/image/upload/w_800,h_480,c_fill,q_60/ArkansasSP/account_photos/2/41b4ec9ffa7fdc5e1927c6928902290f_Arkansas_Post_Museum_State_Park_018",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Arkansas%20Post%20Museum"
+            },
+            {
+                "name": "Bull Shoals-White River State Park",
+                "url": "https://www.arkansasstateparks.com/parks/bull-shoals-white-river-state-park",
+                "content": "Bull Shoals-White River State Park in Arkansas offers stunning views of Bull Shoals Lake and the White River, perfect for fishing, boating, and camping.",
+                "description": "Bull Shoals-White River State Park, located in the Ozarks of north-central Arkansas, offers stunning natural beauty for visitors to enjoy. The park is known for its crystal-clear waters and world-class fishing opportunities, with Bull Shoals Lake and the White River providing ample chances to catch trout, bass, and other species. Hiking trails wind through the park, offering picturesque views of the surrounding landscape and wildlife spotting opportunities. Visitors can also explore the historic Bull Shoals Dam, which was completed in 1951 and created the 45,000-acre Bull Shoals Lake. For those looking to stay overnight, the park offers campsites, cabins, and a marina for boat rentals. Whether you're a nature lover, angler, or history buff, Bull Shoals-White River State Park has something for everyone to enjoy.",
+                "image": "https://res.cloudinary.com/miles-extranet-dev/image/upload/w_800,h_480,c_fill,q_60/ArkansasSP/account_photos/3/7517e3a942f9f1818cc2c73048d15992_Bull_Shoals_White_River_Flyfishing_122017_CHC_7978",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bull%20Shoals-White%20River%20State%20Park"
+            },
+            {
+                "name": "Cane Creek State Park",
+                "url": "https://www.arkansasstateparks.com/parks/cane-creek-state-park",
+                "content": "Cane Creek State Park is a 2,053-acre park in Arkansas known for its extensive trail system, fishing opportunities, and diverse wildlife habitat.",
+                "description": "Cane Creek State Park is a 2,053-acre park located in southern Arkansas that offers visitors a variety of outdoor activities to enjoy. The park features over 15 miles of hiking and biking trails, as well as opportunities for fishing, boating, and wildlife watching. Visitors can also explore the park's historic sites, including the Morrow Burial Mounds and the remains of an old saw mill. For those looking to stay overnight, the park offers campsites, cabins, and a lodge for accommodations. Whether you are looking for a peaceful escape into nature or an active outdoor adventure, Cane Creek State Park has something for everyone to enjoy.",
+                "image": "https://res.cloudinary.com/miles-extranet-dev/image/upload/w_800,h_480,c_fill,q_60/ArkansasSP/account_photos/4/22607bd808862396f17e3958a0a86418_Cane_Creek_Cycling_2007_5428",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cane%20Creek%20State%20Park"
+            }
+        ]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "Idaho State Parks": {
+        "parks": [
+            {
+                "name": "Ashton to Tetonia Trail",
+                "url": "https://parksandrecreation.idaho.gov/parks/ashton-to-tetonia-trail/",
+                "content": "The Ashton to Tetonia Trail is a 30-mile paved trail that offers stunning views of the Teton Mountains and is perfect for walking, biking, or horseback riding.",
+                "description": "The Ashton to Tetonia Trail is a 30-mile non-motorized pathway that offers stunning views of the Teton Mountains and surrounding landscapes. Visitors can hike, bike, or horseback ride along this scenic route, which connects the towns of Ashton and Tetonia in eastern Idaho. The trail follows the historic rail line of the Oregon Short Line Railway, providing a unique glimpse into the area's past. Wildlife enthusiasts will appreciate the opportunity to spot elk, deer, and various bird species while traversing this peaceful trail. With multiple access points and convenient amenities along the way, the Ashton to Tetonia Trail is a must-visit destination for outdoor enthusiasts looking to explore the beauty of Idaho's countryside.",
+                "image": "https://parksandrecreation.idaho.gov/wp-content/uploads/Along-the-trail.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ashton%20to%20Tetonia%20Trail"
+            },
+            {
+                "name": "Bear Lake",
+                "url": "https://parksandrecreation.idaho.gov/parks/bear-lake/",
+                "content": "Bear Lake is a stunning turquoise-colored lake located on the Idaho-Utah border, surrounded by mountains and offering a variety of recreational activities.",
+                "description": "Bear Lake is a stunning natural freshwater lake straddling the border between Idaho and Utah. Known for its vivid turquoise blue color, the lake is often referred to as the \"Caribbean of the Rockies\" due to its crystal-clear waters. Visitors can enjoy a variety of recreational activities such as boating, fishing, swimming, and camping along the lake's sandy beaches. Bear Lake State Park offers several RV and tent camping sites, as well as picnic areas for families to enjoy a day by the water. Don't forget to try the famous raspberry shakes that are a local favorite in the Bear Lake area.",
+                "image": "https://parksandrecreation.idaho.gov/wp-content/uploads/Along-the-trail.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bear%20Lake"
+            }
+        ]
+    }
+}

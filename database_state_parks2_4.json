@@ -1,0 +1,286 @@
+{
+    "Georgia State Parks": {
+        "parks": [
+            {
+                "name": "Magnolia Springs",
+                "url": "https://gastateparks.org/MagnoliaSprings",
+                "content": "Magnolia Springs State Park is known for its crystal-clear springs and provides a serene retreat for camping, hiking, and fishing in a natural setting.",
+                "description": "Magnolia Springs is a beautiful state park in Georgia known for its crystal-clear natural springs that flow year-round, attracting visitors who enjoy swimming and wildlife watching. The park offers a variety of outdoor activities, including hiking trails, picnicking areas, and fishing spots. Visitors can also explore the historic Civil War-era ruins of the Civilian Conservation Corps camp that once operated in the area. The park is a popular destination for birdwatchers, with over 100 species of birds spotted throughout the year. Overall, Magnolia Springs is a serene and picturesque retreat for nature lovers seeking relaxation and outdoor adventure.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Magnolia%20Springs"
+            },
+            {
+                "name": "Mistletoe",
+                "url": "https://gastateparks.org/Mistletoe",
+                "content": "Mistletoe is a parasitic plant that grows on trees and is often associated with holiday traditions such as hanging it for kissing under.",
+                "description": "Mistletoe is a unique plant that grows in the tree canopies of Georgia State Parks, including Mistletoe State Park. This parasitic plant is known for its white berries and iconic association with holiday traditions. Visitors can spot mistletoe dangling from the branches of hardwood trees such as oak and hickory throughout the park. Despite its festive reputation, mistletoe can actually harm its host tree by drawing nutrients and water from it. The park offers guided tours and educational programs to teach visitors about the ecological significance of mistletoe and how it interacts with the surrounding forest ecosystem.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mistletoe"
+            },
+            {
+                "name": "Moccasin Creek",
+                "url": "https://gastateparks.org/MoccasinCreek",
+                "content": "Moccasin Creek State Park offers scenic views of the Chattahoochee National Forest and a variety of outdoor activities, including fishing, hiking, and boating.",
+                "description": "Moccasin Creek State Park is a hidden gem nestled in the North Georgia mountains, offering a tranquil and scenic escape for visitors. The park is home to a crystal-clear, spring-fed lake that is perfect for fishing, kayaking, and paddleboarding. Nature enthusiasts will appreciate the peaceful hiking trails that wind through the dense forests and along the creek, providing opportunities to spot wildlife such as deer and birds. Picnic areas and a playground make this park a great spot for family gatherings and leisurely outings. With its serene atmosphere and breathtaking views, Moccasin Creek State Park is a must-visit destination for outdoor enthusiasts seeking a peaceful getaway.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Moccasin%20Creek"
+            },
+            {
+                "name": "Panola Mountain",
+                "url": "https://gastateparks.org/PanolaMountain",
+                "content": "Panola Mountain is a unique geological formation in Georgia that features towering granite outcrops and diverse ecosystems.",
+                "description": "Panola Mountain State Park is a unique natural landmark located in Stockbridge, Georgia. Visitors can hike or bike through the park's beautiful trails to catch a glimpse of the rare granite outcrop that the mountain is known for. For a more adventurous experience, guests can participate in the park's guided tours which include tree climbing and archery. Panola Mountain is also a hotspot for birdwatching, with a variety of bird species making their home in the area. The park is a perfect destination for nature lovers and outdoor enthusiasts looking for a peaceful escape from the city.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Panola%20Mountain"
+            },
+            {
+                "name": "Providence Canyon",
+                "url": "https://gastateparks.org/ProvidenceCanyon",
+                "content": "Providence Canyon is a stunning Georgia state park known for its vibrant, colorful canyon walls created by years of erosion.",
+                "description": "Providence Canyon, often referred to as Georgia's \"Little Grand Canyon,\" is a stunning display of colorful sandstone canyons formed by erosion over centuries. Visitors to the park can explore over ten miles of hiking trails that offer panoramic views of the unique geological formations and flowing streams.\n\nOne of the most popular activities at Providence Canyon is hiking down into the canyon itself, where visitors can witness the vibrant layers of pink, orange, and red earth up close. The park also offers camping facilities for those looking to spend more time in nature, with options for tents, RVs, and equestrian camping.\n\nIn addition to hiking and camping, visitors can enjoy picnicking, birdwatching, and even geocaching in the park. The picturesque scenery makes Providence Canyon a favorite spot for nature photographers, as the changing light throughout the day creates stunning photo opportunities.\n\nFor those interested in the park's history, guided tours are available to learn about the formation of the canyons and the area's rich cultural heritage. Whether enjoying a leisurely day trip or embarking on a more adventurous exploration, Providence Canyon offers a truly unique and unforgettable experience for all visitors.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Providence%20Canyon"
+            },
+            {
+                "name": "Red Top Mountain",
+                "url": "https://gastateparks.org/RedTopMountain",
+                "content": "Red Top Mountain State Park offers stunning views of Lake Allatoona and abundant recreational opportunities in a beautiful natural setting.",
+                "description": "Red Top Mountain State Park is located in northwest Georgia and offers visitors a wide range of outdoor activities, from hiking and biking to swimming and boating on Lake Allatoona. The park is named after the striking red soil that can be found throughout the area, creating a unique and vibrant landscape.\n\nVisitors can explore over 15 miles of hiking trails that wind through scenic forests and along the shores of the lake, providing stunning views of the surrounding area. The park also offers opportunities for fishing, picnicking, and even staying overnight in one of the park's cabins or campsites.\n\nRed Top Mountain is known for its rich history, dating back to the early 1800s when the area was inhabited by the Cherokee and Creek tribes. The park features a historic homestead dating back to the 1860s, giving visitors a glimpse into the past and the way of life in the area during the Civil War era.\n\nWhether you're looking for a peaceful retreat in nature or an active adventure, Red Top Mountain State Park has something for everyone to enjoy. Don't forget to bring your camera to capture the breathtaking views and memories of your visit to this beautiful Georgia park.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Red%20Top%20Mountain"
+            },
+            {
+                "name": "Reed Bingham",
+                "url": "https://gastateparks.org/ReedBingham",
+                "content": "Reed Bingham State Park is a beautiful and popular destination for outdoor activities such as fishing, boating, and hiking in southern Georgia.",
+                "description": "Reed Bingham State Park is a beautiful natural oasis located in South Georgia, known for its stunning cypress swamps and plethora of wildlife. Visitors can enjoy camping, fishing, boating, and hiking in this picturesque park that spans over 1,600 acres. The park offers a variety of recreational opportunities, including rental cabins, picnic areas, and a swimming beach. Birdwatchers will especially enjoy the park, as it is home to over 230 species of birds, including the elusive Swallow-tailed Kite. With its tranquil atmosphere and diverse ecosystems, Reed Bingham State Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Reed%20Bingham"
+            },
+            {
+                "name": "Reynold's Mansion on Sapelo Island",
+                "url": "https://gastateparks.org/ReynoldsMansion",
+                "content": "The Reynolds Mansion on Sapelo Island is a historic vacation home available for rent within the Sapelo Island National Estuarine Research Reserve.",
+                "description": "The Reynolds Mansion on Sapelo Island is a beautiful and historic estate that was built in 1810 by Thomas Spalding. The mansion was later purchased by the Reynolds family and served as their winter residence. Visitors can explore the stunning grounds and gardens, as well as the interior of the mansion which has been carefully preserved to maintain its original charm.\n\nOne of the highlights of visiting the Reynolds Mansion is the opportunity to learn about the island's rich history and the important role it played in Georgia's economy during the 19th century. Guests can take guided tours of the mansion and learn about the various families that lived there over the years.\n\nIn addition to touring the mansion, visitors can also enjoy activities such as hiking, birdwatching, and beachcombing on the island. The serene surroundings and peaceful atmosphere make Sapelo Island the perfect destination for a relaxing getaway.\n\nFor those looking to stay overnight, the Reynolds Mansion offers cozy accommodations in the form of guest rooms with modern amenities and charming decor. Staying at the mansion allows guests to experience the beauty and history of Sapelo Island in a truly unique way.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Reynold%27s%20Mansion%20on%20Sapelo%20Island"
+            },
+            {
+                "name": "Richard B. Russell",
+                "url": "https://gastateparks.org/RichardBRussell",
+                "content": "Richard B. Russell was a prominent politician who served as a U.S. Senator and Governor of Georgia, known for his dedication to public service and advocacy for rural development.",
+                "description": "Richard B. Russell State Park is located on a 26,500-acre lake in Elbert County, Georgia. Visitors can enjoy a variety of outdoor activities such as boating, fishing, camping, and hiking in the park. The park also features a beautiful beach area, perfect for swimming and sunbathing during the warmer months. In addition, there are picnic areas with grills, perfect for a family gathering or a leisurely lunch by the water. The park is named after the influential Georgia politician Richard B. Russell, who played a key role in the state's political history.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Richard%20B.%20Russell"
+            },
+            {
+                "name": "Seminole",
+                "url": "https://gastateparks.org/Seminole",
+                "content": "The Seminole, with a representative presence in Georgia, are known for their unique culture and history within the state.",
+                "description": "The Seminole State Park in Georgia offers visitors a serene and picturesque setting to relax and explore nature. The park features a stunning 54,000-acre lake, perfect for boating, fishing, and swimming. Outdoor enthusiasts can enjoy hiking and biking along the park's scenic trails, which offer beautiful views of the surrounding forest and wildlife. Campers can spend the night under the stars at one of the park's campsites, complete with picnic tables and fire rings. With its peaceful atmosphere and recreational opportunities, Seminole State Park is a must-visit destination for nature lovers.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seminole"
+            },
+            {
+                "name": "Skidaway Island",
+                "url": "https://gastateparks.org/SkidawayIsland",
+                "content": "Skidaway Island State Park is a beautiful coastal park located near Savannah, Georgia, with pristine marshes, giant live oaks, and diverse wildlife.",
+                "description": "Skidaway Island is a nature lover\u2019s paradise located just outside Savannah, Georgia. Visitors can explore a variety of ecosystems, including marshes, tidal creeks, and maritime forests, all teeming with wildlife. The park is home to miles of hiking and biking trails, as well as a picturesque campground for those looking to immerse themselves in the natural beauty of the island. One of the highlights of Skidaway Island is the iconic observation tower, which offers stunning views of the surrounding marshlands and is the perfect spot for birdwatching. Whether you\u2019re into outdoor activities or simply enjoying the peace and tranquility of nature, Skidaway Island is a must-visit destination.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Skidaway%20Island"
+            },
+            {
+                "name": "Smithgall Woods",
+                "url": "https://gastateparks.org/SmithgallWoods",
+                "content": "The representative at Smithgall Woods State Park is knowledgeable and passionate about preserving the park's natural beauty and promoting outdoor recreational activities for visitors to enjoy.",
+                "description": "Smithgall Woods is a 5,664-acre state park located in the charming town of Helen, Georgia. Visitors can explore over 23 miles of hiking trails, ranging from easy strolls to challenging treks through the rolling hills of the North Georgia mountains. The park is also a popular spot for fishing, with numerous streams and ponds stocked with trout. Birdwatchers will be delighted with the diverse array of species that call Smithgall Woods home, including the rare Henslow's sparrow. For those looking to extend their stay, the park offers both tent and RV camping options, providing a unique opportunity to experience the beauty of the great outdoors in a tranquil setting.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Smithgall%20Woods"
+            },
+            {
+                "name": "Stephen C. Foster",
+                "url": "https://gastateparks.org/StephenCFoster",
+                "content": "Stephen C. Foster State Park is named after the famous composer and features a picturesque setting along the Suwannee River, perfect for camping, fishing, and wildlife viewing.",
+                "description": "Stephen C. Foster State Park is located in the Okefenokee Swamp, one of Georgia's most unique natural areas and largest blackwater swamp in North America. Visitors can enjoy camping, fishing, boating, and wildlife viewing opportunities in this remote and peaceful setting. The park is named after Stephen C. Foster, who was a songwriter known for his folk and plantation songs, including the famous \"Swanee River.\" The park offers guided boat tours through the swamp, where visitors can see alligators, turtles, and a variety of bird species in their natural habitat. With its rich history and stunning natural beauty, Stephen C. Foster State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stephen%20C.%20Foster"
+            },
+            {
+                "name": "Suwannee River Eco-Lodge",
+                "url": "https://gastateparks.org/SuwanneeRiverEcoLodge",
+                "content": "The Suwannee River Eco-Lodge is a rustic retreat located within a Georgia State Park offering comfortable accommodations in a serene natural setting.",
+                "description": "1. The Suwannee River Eco-Lodge offers a unique and sustainable lodging experience nestled within the beautiful Okefenokee Swamp Park in Georgia. Guests can immerse themselves in nature and enjoy a variety of outdoor activities such as hiking, birdwatching, and canoeing along the picturesque Suwannee River.\n\n2. The eco-lodge features comfortable accommodations that are designed to minimize environmental impact, including solar-powered electricity and recycled building materials. Visitors can relax and unwind in cozy cabins surrounded by lush forest and wildlife.\n\n3. In addition to its eco-friendly amenities, the Suwannee River Eco-Lodge offers educational programs and guided tours for guests to learn about the local ecosystem and conservation efforts. Visitors can participate in hands-on activities like planting trees, monitoring wildlife, and practicing sustainable living practices.\n\n4. With its remote location and peaceful atmosphere, the Suwannee River Eco-Lodge provides the perfect retreat for nature lovers and outdoor enthusiasts looking to disconnect from the hustle and bustle of city life. Guests can recharge and rejuvenate in a tranquil setting while supporting eco-friendly practices and conservation initiatives.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Suwannee%20River%20Eco-Lodge"
+            },
+            {
+                "name": "Sweetwater Creek",
+                "url": "https://gastateparks.org/SweetwaterCreek",
+                "content": "Sweetwater Creek State Park features hiking trails, a picturesque creek, and the ruins of a Civil War-era textile mill.",
+                "description": "Sweetwater Creek State Park offers visitors a picturesque natural setting just outside of Atlanta. The park features the beautiful Sweetwater Creek, which provides opportunities for kayaking, fishing, and scenic hikes along the water's edge. One of the highlights of the park is the historic ruins of the New Manchester Manufacturing Company, a textile mill that was destroyed during the Civil War. Visitors can explore the ruins and learn about the history of the area through interpretive signs and guided tours. With miles of hiking trails, picnic areas, and a visitor center, Sweetwater Creek State Park is the perfect destination for outdoor enthusiasts looking to escape the city and immerse themselves in nature.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sweetwater%20Creek"
+            },
+            {
+                "name": "Tallulah Gorge",
+                "url": "https://gastateparks.org/TallulahGorge",
+                "content": "Tallulah Gorge is a stunning two-mile-long canyon in North Georgia featuring waterfalls, hiking trails, and a suspension bridge.",
+                "description": "Tallulah Gorge State Park is located in North Georgia and is home to the stunning Tallulah Gorge, a two-mile-long and nearly 1,000-foot-deep canyon that has been carved out by the Tallulah River over millions of years.\n\nVisitors can enjoy hiking along the rim of the gorge on several scenic trails, including the North and South Rim Trails, which offer breathtaking views of the rushing river below and the surrounding Blue Ridge Mountains.\n\nFor the more adventurous, the park also offers a suspension bridge that spans the gorge, providing a thrilling experience as you walk above the churning waters of the river far below.\n\nIn addition to hiking and sightseeing, Tallulah Gorge State Park is a popular spot for outdoor activities such as rock climbing, fishing, and kayaking, making it a must-visit destination for outdoor enthusiasts of all kinds.\n\nBe sure to check the park's website for information on park hours, entrance fees, and any special events or programs that may be taking place during your visit to Tallulah Gorge State Park.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tallulah%20Gorge"
+            },
+            {
+                "name": "Tugaloo",
+                "url": "https://gastateparks.org/Tugaloo",
+                "content": "The Tugaloo State Park representative is dedicated to helping visitors enjoy the park's recreational opportunities and natural beauty.",
+                "description": "Tugaloo State Park is a stunning natural oasis located on the shores of Lake Hartwell in northeastern Georgia. Visitors to Tugaloo can enjoy a wide range of outdoor activities, including boating, fishing, swimming, and hiking along the park's scenic trails. The park also offers a variety of accommodations, from cozy cabins and campsites to a modern lodge with beautiful lake views. One of the park's highlights is the Tugaloo River, known for its excellent fishing and calm waters perfect for kayaking and paddleboarding. With its serene setting and abundance of recreational opportunities, Tugaloo State Park is a perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tugaloo"
+            },
+            {
+                "name": "Victoria Bryant",
+                "url": "https://gastateparks.org/VictoriaBryant",
+                "content": "Victoria Bryant State Park is located in northeastern Georgia and offers a variety of outdoor recreational activities for visitors to enjoy.",
+                "description": "Victoria Bryant State Park is a picturesque park located in northeast Georgia, known for its rolling hills and serene surroundings. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, picnicking, and golfing on the park's beautiful 18-hole golf course. The park also features a stunning lake, perfect for boating and kayaking. Nature enthusiasts will appreciate the diverse wildlife and plant species that can be found throughout the park. With its peaceful atmosphere and stunning natural beauty, Victoria Bryant State Park is the perfect destination for a day trip or weekend getaway.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Victoria%20Bryant"
+            },
+            {
+                "name": "Vogel",
+                "url": "https://gastateparks.org/Vogel",
+                "content": "This Vogel State Park representative is excited to share the beauty of North Georgia's mountains and the array of outdoor activities available at the park.",
+                "description": "Vogel State Park, located in Blairsville, Georgia, is known for its stunning mountain scenery and peaceful lake perfect for fishing and boating. Visitors can explore over 17 miles of hiking trails, including the popular Trahlyta Lake Trail that winds around the lake. The park also offers a variety of recreational activities, such as swimming in the designated beach area and playing mini-golf. Vogel State Park is a prime destination for camping, with over 100 tent, trailer, and RV campsites available. During the fall, the park is a popular spot for leaf-peeping as the surrounding forest transforms into a vibrant display of autumn colors.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Vogel"
+            },
+            {
+                "name": "Watson Mill Bridge",
+                "url": "https://gastateparks.org/WatsonMillBridge",
+                "content": "Watson Mill Bridge is the longest original-site covered bridge in Georgia, measuring 229 feet across the South Fork River.",
+                "description": "Watson Mill Bridge State Park is home to the longest covered bridge in Georgia, spanning 229 feet across the South Fork River. Visitors can explore the bridge on foot, enjoying picturesque views of the surrounding forest and river below. The park offers a variety of outdoor activities such as hiking, picnicking, and fishing, making it a popular destination for nature enthusiasts. In addition to the covered bridge, visitors can also explore the park's historic grist mill and take a leisurely stroll along the nature trails. Watson Mill Bridge State Park is a beautiful and tranquil spot to spend a day in nature, perfect for a family outing or a peaceful retreat.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Watson%20Mill%20Bridge"
+            },
+            {
+                "name": "Chief Vann House",
+                "url": "https://gastateparks.org/ChiefVannHouse",
+                "content": "The Chief Vann House is a historic site in Georgia that showcases the life and legacy of Cherokee leader James Vann.",
+                "description": "1. The Chief Vann House, located in Chatsworth, Georgia, is an exceptionally preserved example of Cherokee plantation life in the early 19th century. \n2. Visitors can explore the two-story brick mansion, which was built by Chief James Vann, a Cherokee leader, in 1804. The house features beautiful hand-painted ceilings and original furnishings.\n3. The site also includes a smokehouse, springhouse, and Vann's tavern, providing a glimpse into daily life on the plantation.\n4. Guided tours are available for visitors to learn about the history of the Cherokee people, the impact of European colonization, and the tragic Trail of Tears.\n5. The Chief Vann House is a fascinating and educational destination for anyone interested in Native American history and antebellum architecture.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chief%20Vann%20House"
+            },
+            {
+                "name": "Dahlonega Gold Museum",
+                "url": "https://gastateparks.org/DahlonegaGoldMuseum",
+                "content": "The Dahlonega Gold Museum showcases the history of the Georgia Gold Rush with exhibits and artifacts.",
+                "description": "The Dahlonega Gold Museum is located in the historic Lumpkin County Courthouse in Dahlonega, Georgia. Visitors can explore exhibits detailing the rich history of the Georgia Gold Rush, which took place in the 1830s. The museum features interactive displays, original gold mining equipment, and a large collection of gold nuggets. Guests can also enjoy guided tours of the courthouse and learn about the impact of gold mining on the local community. The museum is a fascinating destination for history buffs and anyone interested in learning more about Georgia's gold mining heritage.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dahlonega%20Gold%20Museum"
+            },
+            {
+                "name": "Etowah Indian Mounds",
+                "url": "https://gastateparks.org/EtowahIndianMounds",
+                "content": "The Etowah Indian Mounds is an archaeological site in Georgia that preserves six earthen mounds built by the indigenous Mississippian culture, offering visitors a glimpse into the ancient civilization's religious and political center.",
+                "description": "The Etowah Indian Mounds are a fascinating archaeological site in Georgia that dates back over a thousand years. Visitors can explore six earthen mounds, with the tallest reaching nearly 63 feet high. This site was once the center of a thriving Native American community and served as a ceremonial and political hub. The museum on site offers a wealth of information about the history and culture of the people who lived here. Don't miss the chance to climb to the top of the largest mound for a stunning view of the surrounding area.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Etowah%20Indian%20Mounds"
+            },
+            {
+                "name": "Fort King George",
+                "url": "https://gastateparks.org/FortKingGeorge",
+                "content": "Fort King George is a historic site in Georgia that showcases a reconstructed 18th-century British fort.",
+                "description": "Fort King George is a historic site located in Darien, Georgia, that was established in 1721 by the British to defend against Spanish invasions. Visitors can explore the reconstructed fort, which includes barracks, a blockhouse, and a moat. The site offers guided tours, historical reenactments, and educational programs to give visitors a glimpse into life at the fort during the early 18th century. In addition to learning about the history of the fort, visitors can also enjoy scenic views of the nearby river and marshlands. Fort King George is a must-visit destination for history buffs and anyone interested in Georgia's colonial past.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20King%20George"
+            },
+            {
+                "name": "Fort Morris",
+                "url": "https://gastateparks.org/FortMorris",
+                "content": "Fort Morris played a crucial role in protecting Georgia from British invasion during the Revolutionary War.",
+                "description": "Fort Morris, located in Sunbury, Georgia, was a vital stronghold during the Revolutionary War, protecting the important port of Sunbury. Visitors to the fort can explore the reconstructed earthen walls, barracks, and cannons that once defended the area from British forces. The fort offers guided tours and living history programs that provide a glimpse into daily life for the soldiers stationed there. One of the most notable events in Fort Morris's history was the Battle of Sunbury, where patriot forces successfully defended the fort against a British attack in 1778. The site also features a museum with exhibits on the fort's history and the role it played in the Revolutionary War.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Morris"
+            },
+            {
+                "name": "Hardman Farm",
+                "url": "https://gastateparks.org/HardmanFarm",
+                "content": "Hardman Farm is a historic site in Georgia that showcases a 19th-century Italianate mansion and farm grounds.",
+                "description": "1. Hardman Farm Historic Site in Georgia is a beautifully preserved 19th-century estate that offers visitors a glimpse into the region's rich history and culture.\n2. The centerpiece of the farm is the stunning Italianate mansion, built in 1870, which showcases fine architectural details and period furnishings.\n3. Visitors can explore the farm's grounds, complete with a historic barn, carriage house, and a vast garden filled with heirloom plants and flowers.\n4. The farm also features a museum that highlights the history of the site and offers educational exhibits on rural life in the late 19th and early 20th centuries.\n5. Guided tours are available for visitors to learn more about the farm's fascinating past and the families who once called it home.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hardman%20Farm"
+            },
+            {
+                "name": "Hofwyl-Broadfield Plantation",
+                "url": "https://gastateparks.org/HofwylBroadfieldPlantation",
+                "content": "Hofwyl-Broadfield Plantation is a Georgia State Park that preserves a historic rice plantation once owned by the same family for over 200 years.",
+                "description": "Hofwyl-Broadfield Plantation is a historic site in Brunswick, Georgia that offers visitors a glimpse into the antebellum South. The plantation was originally established in the early 19th century and was once a thriving rice plantation. Visitors can explore the fully restored plantation house, which is filled with period furnishings and personal items belonging to the family who lived there.\n\nOne of the highlights of a visit to Hofwyl-Broadfield Plantation is the beautiful grounds, which feature live oak trees draped in Spanish moss and a peaceful marsh overlook. The plantation also offers guided tours that provide in-depth historical information about the site and its significance in Southern history.\n\nIn addition to touring the plantation house and grounds, visitors can also learn about the daily lives of the enslaved individuals who worked on the plantation. The site offers educational programs and exhibits that explore the complex history of slavery in the South.\n\nHofwyl-Broadfield Plantation is a popular destination for history enthusiasts, school groups, and families looking to learn more about the history of the American South. The site is open to the public for tours and special events throughout the year, offering a unique opportunity to step back in time and experience life on a Southern plantation.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hofwyl-Broadfield%20Plantation"
+            },
+            {
+                "name": "Jarrell Plantation",
+                "url": "https://gastateparks.org/JarrellPlantation",
+                "content": "Jarrell Plantation is a preserved historic plantation in Georgia that provides a glimpse into the lives of a middle-class farming family in the 19th and early 20th centuries.",
+                "description": "Jarrell Plantation is a historic cotton plantation located in Juliette, Georgia, that has been preserved as a living history museum. Visitors can explore original outbuildings such as the cotton gin, gristmill, and blacksmith shop, providing a glimpse into the life of a working plantation in the 19th century. The plantation is set within a beautiful rural landscape, surrounded by gardens and pecan orchards, making it a peaceful and scenic destination for a day trip. Guided tours are available to learn about the history of the plantation and the Jarrell family who owned and operated it for over 140 years. The site also hosts special events and programs throughout the year, offering a fun and educational experience for visitors of all ages.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jarrell%20Plantation"
+            },
+            {
+                "name": "New Echota",
+                "url": "https://gastateparks.org/NewEchota",
+                "content": "The representive at New Echota State Historic Site serves as a guide, sharing the rich history and cultural significance of this former Cherokee capital in Georgia.",
+                "description": "New Echota is a historic site located in Georgia that was once the capital of the Cherokee Nation in the 1830s. Visitors can explore the reconstructed buildings, including the council house, Supreme Courthouse, and print shop, to get a glimpse of Cherokee life during that time. The site also features a museum with artifacts and exhibits that tell the story of the Cherokee people and their forced removal on the Trail of Tears. Nature lovers can enjoy the peaceful surroundings with walking trails and a serene pond. Overall, New Echota offers a unique opportunity to learn about the rich history of the Cherokee Nation in a beautiful setting.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=New%20Echota"
+            },
+            {
+                "name": "Pickett's Mill Battlefield",
+                "url": "https://gastateparks.org/PickettsMillBattlefield",
+                "content": "Pickett's Mill Battlefield is a historic Civil War site in Dallas, Georgia, where visitors can explore preserved earthworks and learn about the May 1864 battle that took place there.",
+                "description": "Pickett's Mill Battlefield is a preserved Civil War battlefield located in Dallas, Georgia. Visitors to the battlefield can explore well-marked trails that take them through the site of one of the war's most intense battles. Interpretive signage along the trails provides historical context and information about the battle that took place here in May 1864. The park also features a museum with artifacts and exhibits related to the battle, offering further insight into this important moment in American history. In addition to its historical significance, Pickett's Mill Battlefield offers a picturesque setting for picnics and nature walks, making it a great destination for history buffs and outdoor enthusiasts alike.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pickett%27s%20Mill%20Battlefield"
+            },
+            {
+                "name": "Roosevelt's Little White House",
+                "url": "https://gastateparks.org/LittleWhiteHouse",
+                "content": "Roosevelt's Little White House in Warm Springs, Georgia was the personal retreat of President Franklin D. Roosevelt where he sought relief for his polio symptoms.",
+                "description": "Roosevelt's Little White House in Warm Springs, Georgia was once the personal retreat of President Franklin D. Roosevelt. Visitors can explore the historic site and learn about the president's time spent there. The house has been preserved as it was during Roosevelt's visits, giving guests a glimpse into his daily life and activities. The grounds also feature a museum with exhibits dedicated to Roosevelt and his presidency. Additionally, visitors can take a guided tour of the property to hear fascinating stories and anecdotes about the president's time at the Little White House.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Roosevelt%27s%20Little%20White%20House"
+            },
+            {
+                "name": "Traveler's Rest",
+                "url": "https://gastateparks.org/TravelersRest",
+                "content": "Traveler's Rest is a historic site in Georgia that served as a stagecoach inn and tavern, offering visitors a glimpse into 19th-century travel and hospitality.",
+                "description": "1. Traveler's Rest State Historic Site in Toccoa, Georgia, offers a glimpse into the life of early 19th century travelers along the Unicoi Turnpike. Visitors can explore the historic inn, which served as a resting place for stagecoach passengers and pioneers.\n\n2. The site features the original two-story inn, complete with period furnishings and exhibits detailing the inn's importance as a stopping point for travelers heading west. Guests can also wander through the onsite museum to learn more about the history of the area.\n\n3. Outdoor enthusiasts will enjoy wandering the grounds of Traveler's Rest, where they can stroll through the beautiful gardens, picnic in the shaded areas, or take a hike along one of the nearby trails. The site offers a peaceful retreat from the hustle and bustle of modern life.\n\n4. History buffs will appreciate the interpretive programs and special events held at Traveler's Rest throughout the year, from living history demonstrations to hands-on activities for all ages. Whether you're interested in the historical significance of the inn or simply looking for a tranquil spot to relax, Traveler's Rest State Historic Site has something for everyone.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Traveler%27s%20Rest"
+            },
+            {
+                "name": "Wormsloe",
+                "url": "https://gastateparks.org/Wormsloe",
+                "content": "Wormsloe Historic Site in Savannah, Georgia features the iconic Avenue of Oaks, a breathtaking mile-long avenue lined with centuries-old live oak trees, making it a must-see destination for visitors seeking natural beauty and history.",
+                "description": "Wormsloe Historic Site in Savannah, Georgia is a beautiful and historic destination for visitors to explore. The site is home to the oldest standing structure in Savannah, the Colonial Estate House, which offers a glimpse into Georgia's colonial past. Visitors can stroll along the picturesque avenue lined with stunning live oak trees covered in Spanish moss, creating a truly magical and enchanting atmosphere. The site also features a museum with exhibits showcasing the history of the estate and its former residents. Nature enthusiasts will enjoy the hiking trails that wind through the marshes and forests, providing opportunities to spot wildlife and enjoy the peaceful surroundings.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wormsloe"
+            },
+            {
+                "name": "Allatoona Pass Battlefield",
+                "url": "https://gastateparks.org/AllatoonaPassBattlefield",
+                "content": "The Allatoona Pass Battlefield is a historic site where a crucial battle took place during the Civil War, showcasing the struggle for control of the Western & Atlantic Railroad.",
+                "description": "Allatoona Pass Battlefield is a historic site located in Cartersville, Georgia, where a significant Civil War battle took place in 1864. Visitors can explore the battlefield and learn about the fierce fighting that occurred between Union and Confederate forces in this strategic location. The park features interpretive signage, monuments, and walking trails that provide insight into the events that unfolded during the battle. Additionally, the park offers picnic areas and opportunities for birdwatching and nature photography, making it a great destination for history enthusiasts and outdoor lovers alike. Be sure to stop by the visitor center for more information on the history of the battle and the significance of Allatoona Pass in the Civil War.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Allatoona%20Pass%20Battlefield"
+            },
+            {
+                "name": "Griswoldville Battlefield",
+                "url": "https://gastateparks.org/GriswoldvilleBattlefield",
+                "content": "The Griswoldville Battlefield in Jones County, Georgia was the site of a Civil War battle on November 22, 1864, where Confederate forces clashed with Union troops.",
+                "description": "The Griswoldville Battlefield is a historic site in Georgia that played a significant role in the Civil War. Visitors can explore the battlefield and learn about the devastating battle that took place there in 1864.\n\nThe battlefield features interpretive panels that provide information about the battle, as well as a walking trail that leads visitors through the site. Additionally, there are picnic areas where visitors can relax and enjoy a meal surrounded by history.\n\nVisitors can see the remains of earthworks and trenches that were built by Confederate forces during the battle, giving them a glimpse into the harsh realities of Civil War combat. The site offers a unique opportunity to connect with the past and gain a better understanding of this pivotal moment in American history.\n\nThroughout the year, the Griswoldville Battlefield hosts special events and reenactments that bring the Civil War era to life for visitors of all ages. Whether you are a history buff or just looking to learn something new, the Griswoldville Battlefield is a fascinating destination to explore.",
+                "image": "https://gastateparks.org/sites/default/files/styles/responsive_slideshow_style/public/parks/images/follow-us.jpg?itok=4USMzon1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Griswoldville%20Battlefield"
+            }
+        ]
+    }
+}
