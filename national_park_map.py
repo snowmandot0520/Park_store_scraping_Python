@@ -1,7 +1,7 @@
 import urllib.parse
 
 # Replace 'YOUR_API_KEY' with your actual API key
-api_key = "AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM"
+api_key = ""
 
 # Replace 'Birmingham Civil Rights National Monument' with the desired location
 location = 'Birmingham Civil Rights National Monument'

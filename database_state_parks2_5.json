@@ -1,0 +1,414 @@
+{
+    "Hawaii State Parks": {
+        "parks": [
+            {
+                "name": "Ahukini State Recreational Pier",
+                "url": "https://www.hawaiistateparks.org/parks/ahukini-state-recreational-pier",
+                "content": "The Ahukini State Recreational Pier offers a beautiful location for fishing, picnicking, and enjoying stunning views of Kauai's coastline.",
+                "description": "The Ahukini State Recreational Pier is a historic site located on the eastern shore of Kauai, Hawaii. Visitors can explore the ruins of the old Ahukini Landing, which was once a bustling port for cargo ships in the early 20th century. The pier offers stunning views of the Pacific Ocean and is a popular spot for fishing and picnicking. The surrounding area is home to a variety of wildlife, including seabirds and sea turtles, making it a great place for nature enthusiasts to observe and photograph these creatures in their natural habitat. Additionally, the pier is conveniently located near the Lihue Airport, making it easily accessible for travelers looking for a relaxing stop before or after their flights.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ahukini%20State%20Recreational%20Pier"
+            },
+            {
+                "name": "Ahupua\u02bba \u02bbO Kahana State Park",
+                "url": "https://www.hawaiistateparks.org/parks/ahupua-o-kahana-state-park",
+                "content": "Ahupua\u02bba \u02bbO Kahana State Park is a 5,300-acre park on O'ahu's windward coast, offering lush valleys, tranquil streams, and a sandy beach for visitors to explore.",
+                "description": "Ahupua\u02bba \u02bbO Kahana State Park is located on the windward side of O\u02bbahu and offers visitors a glimpse into traditional Hawaiian culture and practices. With lush greenery, tranquil streams, and stunning mountain views, this park is perfect for nature lovers and hikers.\n\nVisitors can explore ancient Hawaiian fishponds, taro patches, and archaeological sites that provide insight into the rich history of the area. The park also offers cultural programs and guided tours that showcase traditional Hawaiian crafts, music, and storytelling.\n\nFor those looking to spend the night, Ahupua\u02bba \u02bbO Kahana State Park has camping facilities with tents and cabins available for rent. Wake up to the sounds of nature and experience the true beauty of Hawaii in this peaceful and secluded park.\n\nDon't forget to pack your swimsuit, as the park also features a beautiful beach where visitors can swim, snorkel, or simply relax on the sandy shore. Whether you're a history buff, outdoor enthusiast, or simply seeking a peaceful retreat, Ahupua\u02bba \u02bbO Kahana State Park has something for everyone to enjoy.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ahupua%CA%BBa%20%CA%BBO%20Kahana%20State%20Park"
+            },
+            {
+                "name": "Aiea Bay State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/aiea-bay-state-recreation-area",
+                "content": "Aiea Bay State Recreation Area offers a peaceful and scenic retreat for picnicking, fishing, and enjoying stunning ocean views in Oahu, Hawaii.",
+                "description": "Aiea Bay State Recreation Area is a popular destination for both locals and visitors seeking a peaceful escape from the hustle and bustle of city life. The park offers stunning views of Aiea Bay and the surrounding mountains, making it a perfect spot for picnicking or simply enjoying the natural beauty of Oahu. Visitors can also take advantage of the park's kayak rentals and explore the calm waters of the bay, or go for a swim in the designated swimming area. For those looking to learn more about the area's history, there are interpretive displays that highlight the cultural significance of Aiea Bay. Overall, Aiea Bay State Recreation Area is a hidden gem on Oahu that offers a tranquil retreat for anyone looking to unwind and connect with nature.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Aiea%20Bay%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Akaka Falls State Park",
+                "url": "https://www.hawaiistateparks.org/parks/akaka-falls-state-park",
+                "content": "Akaka Falls State Park is home to the stunning 442-foot Akaka Falls and offers scenic hiking trails through lush rainforest.",
+                "description": "Akaka Falls State Park is a stunning natural attraction located on the Big Island of Hawaii. Visitors can enjoy a short, paved loop trail that takes them through lush tropical vegetation and leads to two breathtaking waterfalls, including the 442-foot Akaka Falls.\n\nThe park offers panoramic views of the surrounding rainforest, valleys, and coastline, providing the perfect backdrop for photography enthusiasts. Birdwatchers will also appreciate the diverse bird species that can be spotted flitting through the trees.\n\nFor those interested in learning more about the local flora and fauna, interpretive signs along the trail provide fascinating information about the park's ecosystem. Hikers should come prepared with sturdy footwear and plenty of water, as the trail can be slippery in some sections and the tropical climate can be humid.\n\nOverall, Akaka Falls State Park is a must-visit destination for nature lovers and outdoor enthusiasts looking to immerse themselves in the beauty of Hawaii's natural landscapes.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Akaka%20Falls%20State%20Park"
+            },
+            {
+                "name": "Diamond Head State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/diamond-head-state-monument",
+                "content": "Diamond Head State Monument is a popular landmark in Hawaii known for its stunning views of Honolulu and the Pacific Ocean.",
+                "description": "Diamond Head State Monument is a stunning crater on the southeastern coast of Oahu, Hawaii, known for its iconic silhouette seen from Waikiki Beach. The hike to the top of Diamond Head offers panoramic views of the island, including the sparkling waters of the Pacific Ocean and lush green landscapes below. Visitors can explore military bunkers and a historic lighthouse along the trail, providing a glimpse into the area's past. The moderate hike is approximately 1.6 miles round trip and involves climbing steep staircases and tunnels, making it a popular and rewarding activity for outdoor enthusiasts. Be sure to bring water, sunscreen, and comfortable shoes for this unforgettable adventure in the heart of paradise.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Diamond%20Head%20State%20Monument"
+            },
+            {
+                "name": "Haleki\u02bbi-Pihana Heiau State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/halekii-pihana-heiau-state-monument",
+                "content": "Haleki\u02bbi-Pihana Heiau State Monument is a historic site in Maui where ancient Hawaiians conducted religious ceremonies and rituals.",
+                "description": "Haleki\u02bbi-Pihana Heiau State Monument is a significant historical site located on the island of Maui in Hawaii. This ancient temple complex was built by early Hawaiians and served as a place of worship and ceremonial rituals. Visitors can explore the remains of the heiau, which include terraced platforms and stone walls that provide a glimpse into the site's rich cultural heritage. The monument is surrounded by lush vegetation and offers stunning views of the surrounding landscape, making it a peaceful and scenic destination for visitors to enjoy. Interpretive signs provide information about the site's history and significance, allowing visitors to learn more about this important cultural landmark.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Haleki%CA%BBi-Pihana%20Heiau%20State%20Monument"
+            },
+            {
+                "name": "Hapuna Beach State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/hapuna-beach-state-recreation-area",
+                "content": "Hapuna Beach State Recreation Area is a popular white sand beach located on the Big Island of Hawaii known for its crystal clear waters and excellent swimming and snorkeling opportunities.",
+                "description": "Hapuna Beach State Recreation Area is located on the Big Island of Hawaii and is known for its beautiful white sandy beach and crystal clear waters.\n\nVisitors can enjoy a variety of activities at Hapuna Beach, including swimming, snorkeling, bodyboarding, and sunbathing. The beach is also popular for picnicking and beachcombing.\n\nThe park offers amenities such as outdoor showers, restrooms, picnic tables, and lifeguard services, making it a great destination for families and beachgoers.\n\nHapuna Beach is also a prime spot for whale watching during the winter months, as humpback whales migrate to the warm waters of Hawaii to breed and give birth.\n\nOverall, Hapuna Beach State Recreation Area is a must-visit for anyone looking to experience the beauty and tranquility of Hawaii's stunning beaches.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hapuna%20Beach%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Ha\u02bbena State Park",
+                "url": "https://www.hawaiistateparks.org/parks/haena-state-park",
+                "content": "Ha\u02bbena State Park is a beautiful coastal park located on the north shore of Kauai with stunning views of the Na Pali Coast.",
+                "description": "Ha\u02bbena State Park, located on the North Shore of Kauai, is a beautiful and pristine area known for its stunning beaches and lush greenery. Visitors can enjoy hiking along the famous Kalalau Trail, which offers breathtaking views of the Na Pali Coast. The park is also home to the picturesque Ke\u02bbe Beach, a popular spot for swimming and snorkeling. Make sure to take a stroll through the Limahuli Garden and Preserve, where you can learn about native Hawaiian plants and cultural practices. Due to its popularity, it's recommended to make reservations in advance to access the park and its amenities.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ha%CA%BBena%20State%20Park"
+            },
+            {
+                "name": "He\u02bbeia State Park",
+                "url": "https://www.hawaiistateparks.org/parks/heeia-state-park",
+                "content": "He\u02bbeia State Park offers stunning views of Kane\u02bbohe Bay and the Ko\u02bbolau mountain range.",
+                "description": "He\u2018eia State Park is a picturesque location located on the windward side of O\u2018ahu, offering stunning views of Kane\u2018ohe Bay and the Ko\u2018olau mountains. Visitors can enjoy picnicking, fishing, hiking, and bird watching in this peaceful and scenic park. The park is also home to He\u2018eia Fishpond, one of the largest and oldest Hawaiian fishponds in the state, providing visitors with a glimpse into traditional Hawaiian aquaculture practices. Additionally, the park is a popular spot for cultural events and educational activities, allowing visitors to learn more about the rich history and heritage of the area. With its tranquil atmosphere and beautiful surroundings, He\u2018eia State Park is a must-visit destination for nature lovers and history enthusiasts alike.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=He%CA%BBeia%20State%20Park"
+            },
+            {
+                "name": "Hulihe\u02bbe Palace",
+                "url": "https://www.hawaiistateparks.org/parks/hulihee-palace",
+                "content": "Hulihe\u02bbe Palace is a historic site in Kailua-Kona, Hawaii that was once a vacation home for Hawaiian royalty and is now a museum showcasing furniture and artifacts from the 19th century.",
+                "description": "Hulihe\u02bbe Palace, located in Kailua-Kona on the Big Island of Hawaii, was once a vacation home for Hawaiian royalty.\n\nThis historic palace showcases unique Victorian architecture and features beautiful artifacts from the Hawaiian monarchy era.\n\nVisitors can take guided tours of the palace to learn about the royal history of Hawaii and the cultural significance of the artifacts on display.\n\nThe palace is surrounded by lush gardens and offers stunning views of the ocean, making it a picturesque spot for visitors to explore.\n\nHulihe\u02bbe Palace also hosts events and cultural demonstrations, giving visitors a chance to experience traditional Hawaiian practices and performances.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hulihe%CA%BBe%20Palace"
+            },
+            {
+                "name": "Iao Valley State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/iao-valley-state-monument",
+                "content": "Iao Valley State Monument is a lush, picturesque park on Maui known for its iconic Iao Needle rock formation.",
+                "description": "Iao Valley State Monument is a lush, verdant valley located in West Maui that is rich in history and cultural significance. Visitors can explore the 4,000-acre park, which is home to the prominent Iao Needle, a 1,200-foot rock formation that towers over the valley floor.\n\nThe park offers several hiking trails that lead to stunning views of the valley and surrounding mountains, providing ample opportunities for outdoor adventure and exploration. Visitors can also learn about the valley's history as a sacred site for Native Hawaiians and its significance in Hawaiian culture.\n\nOne of the highlights of the park is the Iao Stream, which flows through the valley and creates picturesque cascades and pools that are perfect for a refreshing dip on a hot day. The park is a peaceful and serene retreat from the hustle and bustle of everyday life, making it an ideal destination for nature lovers and those seeking a quiet place to relax and unwind.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Iao%20Valley%20State%20Monument"
+            },
+            {
+                "name": "Iolani Palace State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/iolani-palace-state-monument",
+                "content": "Iolani Palace State Monument is the only royal palace in the United States and served as the official residence of Hawaii's monarchy until the overthrow of Queen Liliuokalani in 1893.",
+                "description": "Iolani Palace State Monument is a must-visit attraction in Honolulu, Hawaii. It is the only royal palace in the United States and served as the official residence of the Hawaiian monarchs from 1882 until the overthrow of the monarchy in 1893.\n\nVisitors can explore the stunningly restored palace, which showcases a beautiful blend of Western and Hawaiian architectural styles. The interior of the palace is filled with exquisite period furnishings, royal collections, and historical artifacts that offer a glimpse into Hawaii's past.\n\nGuided tours are available for visitors to learn about the fascinating history of the palace and its significance in Hawaiian culture. The surrounding landscaped grounds feature lush gardens, a grand staircase, and the iconic statue of King Kamehameha I.\n\nIolani Palace State Monument is a living testament to Hawaii's rich heritage and is a must-see destination for history enthusiasts and those looking to immerse themselves in the cultural legacy of the islands.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Iolani%20Palace%20State%20Monument"
+            },
+            {
+                "name": "Kaiwi State Scenic Shoreline",
+                "url": "https://www.hawaiistateparks.org/parks/kaiwi-state-scenic-shoreline",
+                "content": "Kaiwi State Scenic Shoreline offers panoramic views of the rugged coastline and turquoise waters of Oahu.",
+                "description": "1. Kaiwi State Scenic Shoreline offers visitors stunning views of the rugged coastline, turquoise waters, and offshore islands, making it a perfect spot for nature lovers and photographers alike.\n2. The shoreline is located on the southeastern tip of Oahu and is home to several hiking trails that offer visitors the chance to explore the area's natural beauty up close.\n3. One of the most popular hikes in the area is the Makapu'u Point Lighthouse Trail, which takes hikers on a scenic journey to a historic lighthouse overlooking the Pacific Ocean.\n4. Visitors can also enjoy picnicking, whale watching (in season), and swimming in the crystal-clear waters at this picturesque state park.\n5. Whether you're looking for a leisurely stroll along the coastline or a more challenging hike with breathtaking views, Kaiwi State Scenic Shoreline has something for every type of outdoor enthusiast.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kaiwi%20State%20Scenic%20Shoreline"
+            },
+            {
+                "name": "Kalopa State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/kalopa-state-recreation-area",
+                "content": "Kalopa State Recreation Area features beautiful forests, scenic trails, and a peaceful camping experience on the Big Island of Hawaii.",
+                "description": "Kalopa State Recreation Area is a beautiful park located on the island of Hawaii, known for its lush greenery and scenic views. Visitors can explore the park's extensive network of hiking trails, which wind through forests of native ohia trees and lush ferns. The park also features picnic areas and campsites, making it a great spot for a day trip or overnight stay. Birdwatchers will be delighted by the park's diverse avian population, including the endangered native Hawaiian forest bird, the Akiapolaau. With its tranquil atmosphere and stunning natural beauty, Kalopa State Recreation Area is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kalopa%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Kaumahina State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/kaumahina-state-wayside",
+                "content": "The Kaumahina State Wayside offers stunning views of the lush Waikamoi Ridge and the rugged coastline along the Hana Highway.",
+                "description": "Kaumahina State Wayside is a scenic rest stop located along the Hana Highway on the island of Maui in Hawaii. Visitors can enjoy stunning views of the rugged coastline and lush tropical vegetation. The wayside features picnic tables where visitors can enjoy a meal surrounded by beautiful scenery. There are also hiking trails that lead to panoramic vistas of the surrounding area, providing ample opportunities for nature lovers and outdoor enthusiasts. The wayside is a great place to take a break while exploring the Hana Highway and to take in the natural beauty of Maui's eastern coastline.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kaumahina%20State%20Wayside"
+            },
+            {
+                "name": "Ka\u02bbena Point State Park",
+                "url": "https://www.hawaiistateparks.org/parks/kaena-point-state-park",
+                "content": "Ka\u02bbena Point State Park is a remote and rugged coastline park located on the western tip of the island of Oahu, offering stunning ocean views and wildlife viewing opportunities.",
+                "description": "Ka\u02bbena Point State Park is a remote and rugged natural area located on the northwestern tip of the island of Oahu in Hawaii. Visitors can hike to the point along a scenic coastal trail that offers stunning views of the Pacific Ocean and the surrounding mountains. The park is home to a variety of native Hawaiian plant and animal species, including endangered seabirds and monk seals. Snorkeling and whale watching are popular activities at Ka\u02bbena Point, and the area is known for its pristine coral reefs and crystal-clear waters. The park is also a culturally significant site, with ancient Hawaiian heiaus (temples) and petroglyphs (rock carvings) scattered throughout the area.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ka%CA%BBena%20Point%20State%20Park"
+            },
+            {
+                "name": "Keaiwa Heiau State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/keaiwa-heiau-state-recreation-area",
+                "content": "Keaiwa Heiau State Recreation Area is a peaceful park on Oahu offering hiking trails and picnicking opportunities in a scenic setting.",
+                "description": "1. Keaiwa Heiau State Recreation Area is located in Aiea, Oahu, and offers visitors a tranquil escape from the hustle and bustle of city life. With lush forested trails and breathtaking views of Pearl Harbor and the Honolulu skyline, this park is a favorite for hikers and nature enthusiasts.\n\n2. The park is home to the historic Keaiwa Heiau, a traditional Hawaiian temple believed to have been built in the 16th century. Visitors can explore the ancient stone ruins and learn about the rich cultural heritage of this sacred site.\n\n3. The park features a network of hiking trails that wind through bamboo forests and native plant communities. The Aiea Loop Trail is a popular choice, offering a moderate 4.8-mile loop with panoramic views of the surrounding valleys and mountains.\n\n4. Keaiwa Heiau State Recreation Area also has picnic areas and campsites for those looking to enjoy a leisurely day outdoors or spend the night under the stars. The park offers a serene setting for family gatherings, group outings, or solo retreats.\n\n5. Whether you're looking for a challenging hike, a cultural experience, or simply a peaceful retreat in nature, Keaiwa Heiau State Recreation Area has something to offer every visitor. Don't forget your camera to capture the stunning vistas and unique wildlife that call this park home.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Keaiwa%20Heiau%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Kealakekua Bay State Historical Park",
+                "url": "https://www.hawaiistateparks.org/parks/kealakekua-bay-state-historical-park",
+                "content": "Kealakekua Bay State Historical Park is a significant historical site in Hawaii, marking the location of Captain James Cook's death in 1779.",
+                "description": "1. Kealakekua Bay State Historical Park is located on the western coast of Hawaii's Big Island and is known for its stunning marine life and historical significance. Visitors can enjoy snorkeling in the crystal-clear waters, where they may spot colorful coral reefs, tropical fish, and even dolphins and sea turtles.\n\n2. The park is home to the Captain Cook Monument, which commemorates the site where British explorer Captain James Cook was killed in a skirmish with Native Hawaiians in 1779. History buffs will appreciate the chance to learn about this pivotal event in Hawaiian history and pay their respects at the monument.\n\n3. Hiking enthusiasts will enjoy the challenging trail that leads down to the bay from the nearby Napoopoo Beach Park. The hike offers breathtaking views of the coastline and is a great opportunity to experience the natural beauty of Hawaii up close.\n\n4. Visitors can also take a guided kayak tour of Kealakekua Bay, which provides a unique perspective on the area's marine life and history. Kayaking allows guests to explore secluded coves and hidden beaches that are not accessible by land, making for a truly unforgettable adventure.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kealakekua%20Bay%20State%20Historical%20Park"
+            },
+            {
+                "name": "Kekaha Kai State Park",
+                "url": "https://www.hawaiistateparks.org/parks/kekaha-kai-kona-coast-state-park",
+                "content": "Kekaha Kai State Park offers stunning white sandy beaches, crystal clear waters, and excellent snorkeling opportunities on the Kona Coast of Hawaii.",
+                "description": "Kekaha Kai State Park, located on the Kona Coast of Hawaii, offers visitors pristine white sandy beaches, clear turquoise waters, and diverse marine life for snorkeling and swimming.\n\nThe park is made up of three main beaches: Mahai'ula Beach, Makalawena Beach, and Kua Bay, each with their own unique features and landscapes.\n\nVisitors can hike along coastal trails to explore hidden coves, lava tubes, and ancient Hawaiian petroglyphs, providing a glimpse into the rich history and culture of the area.\n\nCamping is available at Mahai'ula Beach for those looking to spend more time in the park and enjoy the stunning sunsets and starry skies that Kekaha Kai has to offer.\n\nWith its unspoiled beauty and opportunities for outdoor activities, Kekaha Kai State Park is a must-visit destination for those looking to experience the natural wonders of the Big Island of Hawaii.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kekaha%20Kai%20State%20Park"
+            },
+            {
+                "name": "Kiholo State Park Reserve",
+                "url": "https://www.hawaiistateparks.org/parks/kiholo-state-park-reserve",
+                "content": "Kiholo State Park Reserve is a remote and rugged coastal park with a black sand beach, freshwater lagoon, and lava tube.",
+                "description": "Kiholo State Park Reserve is a remote and picturesque area located along the Kona coast of Hawaii Island. Visitors can enjoy pristine beaches, turquoise waters, and unique wildlife in this protected natural area. The park is home to ancient fish ponds, historic sites, and a large population of green sea turtles, perfect for nature lovers and history buffs alike. Hiking and camping are popular activities in the park, offering visitors a chance to immerse themselves in the beauty of the Hawaiian landscape. Be sure to pack plenty of water, sunscreen, and a camera to capture the stunning views and memories of your visit to Kiholo State Park Reserve.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kiholo%20State%20Park%20Reserve"
+            },
+            {
+                "name": "Kohala Historical Sites State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/kohala-historical-sites-state-monument",
+                "content": "Kohala Historical Sites State Monument features a collection of important cultural and archaeological sites, including sacred temples, platforms, and petroglyphs.",
+                "description": "The Kohala Historical Sites State Monument is a unique park that is home to several significant Hawaiian cultural sites. Visitors can explore the ruins of some of the oldest religious temples in Hawaii, including Mo'okini Heiau, which dates back to around 480 AD.\n\nOne of the most striking features of the park is the Akoni Pule Highway, a historic road that was built in the 1800s and offers stunning views of the Kohala coastline. This scenic drive is a must for visitors who want to experience the beauty of the area.\n\nIn addition to the historical sites, the park also offers hiking trails that wind through the lush tropical landscape of North Kohala. Visitors can enjoy a leisurely walk through the forest, taking in the sights and sounds of nature.\n\nFor those interested in Hawaiian history and culture, the Kohala Historical Sites State Monument is a must-visit destination. With its ancient temples, historic roads, and natural beauty, this park offers a truly unique and educational experience for visitors of all ages.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kohala%20Historical%20Sites%20State%20Monument"
+            },
+            {
+                "name": "Koke\u02bbe State Park",
+                "url": "https://www.hawaiistateparks.org/parks/kokee-state-park",
+                "content": "Koke\u02bbe State Park is a beautiful park located in the uplands of Kaua'i, offering stunning panoramic views, hiking trails, and a cool climate perfect for outdoor activities.",
+                "description": "Koke\u02bbe State Park is located on the island of Kauai in Hawaii and covers over 4,345 acres of diverse terrain, including cliffs, valleys, and forests. Visitors can enjoy hiking along various trails that offer stunning panoramic views of the Napali Coast and Waimea Canyon, also known as the \"Grand Canyon of the Pacific.\" The park is home to a variety of native plant and bird species, making it a great spot for birdwatching and nature photography. Visitors can also camp at one of the park's designated campsites, providing a unique opportunity to experience the natural beauty of Kauai up close and personal. Make sure to bring plenty of water, sunscreen, and sturdy hiking shoes to fully enjoy all that Koke\u02bbe State Park has to offer.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Koke%CA%BBe%20State%20Park"
+            },
+            {
+                "name": "Lapakahi State Historical Park",
+                "url": "https://www.hawaiistateparks.org/parks/lapakahi-state-historical-park",
+                "content": "Lapakahi State Historical Park is a well-preserved coastal fishing village in Hawaii, offering visitors a glimpse into ancient Hawaiian life.",
+                "description": "Lapakahi State Historical Park is a well-preserved ancient Hawaiian fishing village located on the Big Island of Hawaii. Visitors can explore the remains of ancient homes, fishponds, and agricultural terraces that offer a glimpse into the daily lives of Native Hawaiians centuries ago. The park also features stunning views of the rugged coastline and surrounding ocean, making it a great spot for picnicking and photography. Interpretive signs throughout the park provide information about the history and significance of the site, making it a educational experience for visitors. Hiking trails wind through the park, allowing visitors to further immerse themselves in the rich history and natural beauty of Lapakahi.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lapakahi%20State%20Historical%20Park"
+            },
+            {
+                "name": "Lava Tree State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/lava-tree-state-monument",
+                "content": "Lava Tree State Monument showcases lava molds of tree trunks created during a lava flow in the 18th century.",
+                "description": "Lava Tree State Monument is a unique park located on the Big Island of Hawaii that features lava molds of trees created by a volcanic eruption in 1790. Visitors can explore the park's short trails and see these incredible lava formations up close.\n\nThe park offers a peaceful and serene setting, perfect for picnicking or taking a leisurely stroll through the lush surroundings. The lush greenery and native plant life create a beautiful backdrop for the fascinating lava formations. Be sure to bring a camera to capture the incredible natural beauty of the park.\n\nFor those interested in geology or volcanic activity, Lava Tree State Monument provides a fascinating glimpse into the powerful forces of nature that have shaped the Hawaiian Islands. The park is easily accessible and makes for a great stop on a road trip around the Big Island. Don't miss the opportunity to see these one-of-a-kind lava trees during your visit to Hawaii!",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lava%20Tree%20State%20Monument"
+            },
+            {
+                "name": "La\u02bbie Point State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/laie-point-state-wayside",
+                "content": "La\u02bbie Point State Wayside offers stunning views of the ocean and surrounding cliffs, making it a popular spot for photography and relaxation.",
+                "description": "La\u02bbie Point State Wayside is a picturesque 7.8-acre state park located on the northeastern coast of Oahu, Hawaii. Visitors can enjoy stunning ocean views, unique volcanic rock formations, and the iconic offshore islet known as \"Goat Island.\" The wayside is also a popular spot for whale watching during the winter months, as humpback whales can often be seen breaching in the distance. Additionally, the park offers picnic tables and restroom facilities, making it a great place to relax and enjoy a leisurely meal while taking in the breathtaking scenery. Don't forget to keep an eye out for the Hawaiian monk seals that sometimes frequent the area, adding to the natural beauty of this hidden gem.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=La%CA%BBie%20Point%20State%20Wayside"
+            },
+            {
+                "name": "MacKenzie State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/mackenzie-state-recreation-area",
+                "content": "MacKenzie State Recreation Area is a rugged coastal park on the Big Island of Hawaii, offering hiking trails, picnicking areas, and stunning views of the Pacific Ocean.",
+                "description": "MacKenzie State Recreation Area is located on the stunning Big Island of Hawaii and offers visitors a unique experience with its rugged volcanic coastline. Visitors can enjoy breathtaking views of the Pacific Ocean and walk along the dramatic cliffs that line the shore.\n\nThis recreation area is a great spot for picnicking, fishing, and hiking, with several trails that lead through the lush rainforest and offer glimpses of the diverse plant and animal life native to Hawaii. The park is named after Albert J. MacKenzie, a prominent businessman who donated the land to the state in 1945.\n\nOne of the highlights of the park is the 436-foot long Red Road, a popular scenic drive that runs along the coast and is perfect for a leisurely cruise to take in the gorgeous views. Visitors can also explore the Puna Trail, which follows an ancient Hawaiian footpath and passes by a historic guava forest.\n\nWhether you're looking to relax on the black sand beach, hike through the jungle, or simply enjoy the beauty of the Hawaiian coastline, MacKenzie State Recreation Area offers something for everyone to enjoy. Be sure to bring your camera, as this park is a photographer's dream with its stunning landscapes and unique volcanic rock formations.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=MacKenzie%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Makena State Park",
+                "url": "https://www.hawaiistateparks.org/parks/makena-state-park",
+                "content": "Makena State Park, located on the island of Maui, offers beautiful white sand beaches and clear turquoise waters perfect for sunbathing and swimming.",
+                "description": "Makena State Park, located on the island of Maui in Hawaii, is a popular destination for visitors looking to relax on beautiful beaches and enjoy stunning ocean views. The park is home to two main beaches: Big Beach, known for its golden sands and crystal-clear waters, and Little Beach, a secluded spot popular among locals and tourists for its calm waters and vibrant sunsets.\n\nIn addition to its beaches, Makena State Park offers opportunities for snorkeling, swimming, and sunbathing. Visitors can also explore the lava rock formations along the shoreline and observe the native marine life that calls the park home. Hiking trails lead through the park's rugged terrain, offering panoramic views of the surrounding landscape and the chance to spot native plant and animal species.\n\nMakena State Park is a great place to spend a day relaxing by the ocean, exploring nature, and experiencing the beauty of Maui. Whether you're looking for a peaceful spot to unwind or an adventure-filled day in the sun, this park has something for everyone to enjoy. Be sure to pack sunscreen, snacks, and plenty of water for your visit, and don't forget your camera to capture the stunning scenery and memories of your time at Makena State Park.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Makena%20State%20Park"
+            },
+            {
+                "name": "Malaekahana State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/malaekahana-state-recreation-area",
+                "content": "Malaekahana State Recreation Area is a picturesque beach park on the North Shore of Oahu, offering campsites, picnicking areas, and stunning ocean views.",
+                "description": "Malaekahana State Recreation Area is a beautiful coastal park located on Oahu's North Shore, offering visitors stunning views of the Pacific Ocean. The park features a long stretch of sandy beach that is perfect for swimming, sunbathing, and picnicking. Visitors can also enjoy camping at one of the park's designated campsites, which are nestled among ironwood trees and offer a peaceful retreat from the hustle and bustle of city life. The park is popular with locals and tourists alike, making it a great spot to meet new people and experience the laid-back island lifestyle. Whether you're looking to relax on the beach, explore the park's hiking trails, or simply soak up the sun, Malaekahana State Recreation Area is a must-visit destination on Oahu.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Malaekahana%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Manuka State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/manuka-state-wayside",
+                "content": "Manuka State Wayside is a tranquil rest stop along the Hamakua Coast with beautiful ocean views.",
+                "description": "Manuka State Wayside is a tranquil rest stop located along the winding Hawaii Belt Road on the Big Island. Visitors can take a break from their journey and enjoy the peaceful surroundings of lush rainforest and native plants. The wayside is a popular spot for picnicking, with picnic tables nestled under the shade of towering trees. Nature lovers will appreciate the variety of birds and butterflies that can be spotted in the area. Don't forget to take a moment to explore the short nature trail that leads to a stunning viewpoint overlooking the ocean.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Manuka%20State%20Wayside"
+            },
+            {
+                "name": "Napali Coast State Wilderness Park",
+                "url": "https://www.hawaiistateparks.org/parks/napali-coast-state-wilderness-park",
+                "content": "The Napali Coast State Wilderness Park features rugged cliffs, lush valleys, and pristine beaches along the northern shoreline of Kauai.",
+                "description": "Napali Coast State Wilderness Park is a breathtaking destination located on the rugged north shore of Kauai, Hawaii. The park stretches 6,175 acres and is home to towering sea cliffs, lush valleys, and stunning waterfalls. Visitors can explore the park by hiking along the Kalalau Trail, which offers some of the most incredible views of the coastline. Camping is also available for those looking to immerse themselves in the beauty of the wilderness park. Be sure to bring plenty of water, snacks, and a camera to capture the unforgettable landscapes of Napali Coast State Wilderness Park.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Napali%20Coast%20State%20Wilderness%20Park"
+            },
+            {
+                "name": "Nu\u02bbuanu Pali State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/nuuanu-pali-state-wayside",
+                "content": "The Nu\u02bbuanu Pali State Wayside offers breathtaking panoramic views of the Oahu coastline and the Ko\u02bbolau Mountain Range.",
+                "description": "The Nu\u02bbuanu Pali State Wayside offers visitors breathtaking panoramic views from the cliffs of the Ko\u02bbolau mountain range overlooking the windward coast of O\u02bbahu. This historic site is known for its strong winds and lush greenery, making it a popular spot for sightseeing and photography.\n\nVisitors can also explore the significant historical and cultural significance of the Nu\u02bbuanu Pali, which was the site of a major battle in Hawaiian history where King Kamehameha I united the Hawaiian Islands in 1795. The wayside features informative signs and exhibits that provide more information about this important event.\n\nHiking enthusiasts can also access the nearby Pali Puka Trail, which offers a moderate-level hike with stunning views of the surrounding area. It is a great way to experience the natural beauty of the Nu\u02bbuanu Pali up close and personal.\n\nOverall, the Nu\u02bbuanu Pali State Wayside is a must-visit destination for those looking to immerse themselves in the history and natural beauty of O\u02bbahu. Visitors can enjoy picnicking, hiking, and taking in the incredible views of the island from this iconic location.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nu%CA%BBuanu%20Pali%20State%20Wayside"
+            },
+            {
+                "name": "Pala\u02bbau State Park",
+                "url": "https://www.hawaiistateparks.org/parks/palaau-state-park",
+                "content": "Pala\u02bbau State Park on Molokai offers breathtaking views of the Kalaupapa Peninsula and the Pacific Ocean.",
+                "description": "Pala\u02bbau State Park, located on the island of Molokai in Hawaii, is known for its stunning views of the island's rugged coastline and lush tropical forests. Visitors can hike through the park's lush landscapes and spot native plants and wildlife along the way.\n\nOne of the highlights of the park is the Kalaupapa Overlook, which offers breathtaking views of the historic Kalaupapa Peninsula, where Father Damien cared for patients with leprosy in the 19th century. The overlook is a popular spot for picnicking and whale watching during the winter months.\n\nFor those looking to explore the park by bike, there are several bike trails that wind through the park's diverse terrain. Visitors can enjoy a leisurely ride through the forest or challenge themselves on more rugged trails that offer panoramic views of the ocean and surrounding mountains.\n\nPala\u02bbau State Park is also home to the Phallic Rock, a sacred stone that is believed to possess fertility powers. Visitors can make a quick stop at the rock and learn about its cultural significance from the park's interpretive signs.\n\nWhether you're interested in hiking, biking, or simply taking in the natural beauty of Molokai, Pala\u02bbau State Park offers a unique and memorable experience for visitors of all ages.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pala%CA%BBau%20State%20Park"
+            },
+            {
+                "name": "Polihale State Park",
+                "url": "https://www.hawaiistateparks.org/parks/polihale-state-park",
+                "content": "Polihale State Park offers a remote and expansive sandy beach perfect for watching sunsets and enjoying the peaceful scenery.",
+                "description": "Polihale State Park is located on the west side of the island of Kauai in Hawaii, and offers stunning views of the Napali Coast and the Pacific Ocean. Visitors can enjoy the park's remote and secluded atmosphere, perfect for those looking to escape the crowds and relax on the expansive white sand beach.\n\nThe park is also home to the famous Polihale Beach, which stretches for 17 miles along the coast and is a popular spot for sunbathing, swimming, and picnicking. The beach is known for its strong currents and large waves, so it is important for visitors to exercise caution when swimming or wading in the water.\n\nIn addition to the beach, Polihale State Park offers hiking trails, camping facilities, and picnic areas for visitors to enjoy. The park is a great place to watch the sunset over the ocean, and is a popular spot for stargazing due to its remote location away from the city lights.\n\nOverall, Polihale State Park is a must-visit destination for nature lovers and outdoor enthusiasts looking to experience the beauty of Hawaii's natural landscape in a peaceful and unspoiled setting.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Polihale%20State%20Park"
+            },
+            {
+                "name": "Polipoli Spring State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/polipoli-spring-state-recreation-area",
+                "content": "Polipoli Spring State Recreation Area is a peaceful mountain park in Maui known for its scenic hiking trails and tranquil atmosphere.",
+                "description": "Polipoli Spring State Recreation Area is located at an elevation of 6,200 feet on the slopes of Haleakal\u0101, making it one of the highest state parks in Hawaii. Visitors can enjoy a unique and diverse ecosystem, including redwood trees, pine forests, and open grasslands. The park offers a variety of hiking trails, ranging from easy strolls to more challenging treks, all with stunning views of the surrounding landscape. Be sure to bring warm clothing, as temperatures can be much cooler at this higher elevation compared to the rest of Maui. This peaceful and secluded park is the perfect spot for a quiet picnic or to experience the serenity of nature away from the crowds.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Polipoli%20Spring%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Pua\u02bba Ka\u02bba State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/puaa-kaa-state-wayside",
+                "content": "Pua\u02bba Ka\u02bba State Wayside offers a picturesque picnic spot along the Hana Highway with waterfalls and lush tropical vegetation.",
+                "description": "Pua\u02bba Ka\u02bba State Wayside is a beautiful roadside park located along the Hana Highway in Maui. Visitors can take a break from their drive to relax and enjoy the serene surroundings of lush tropical forests and gardens.\n\nOne of the highlights of the wayside is the Pua\u02bba Ka\u02bba waterfall, which cascades down a series of rocks into a refreshing pool below. This is a perfect spot for a quick dip or a picnic with family and friends.\n\nThe park also offers picnic tables, restrooms, and ample parking for visitors. It is a popular stop for those exploring the Road to Hana, known for its stunning scenery and natural beauty.\n\nVisitors can take a short walk to explore the nearby bamboo forest, which is home to a variety of native plants and wildlife. Be sure to keep an eye out for birds, insects, and other creatures that call this paradise home.\n\nOverall, Pua\u02bba Ka\u02bba State Wayside is a must-visit destination for nature lovers and outdoor enthusiasts looking to experience the beauty of Maui's lush landscapes and breathtaking waterfalls.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pua%CA%BBa%20Ka%CA%BBa%20State%20Wayside"
+            },
+            {
+                "name": "Pu\u02bbu O Mahuka Heiau State Historic Site",
+                "url": "https://www.hawaiistateparks.org/parks/puu-o-mahuka-heiau-state-historic-site",
+                "content": "Pu\u02bbu O Mahuka Heiau State Historic Site is the largest heiau (place of worship) on the island of O'ahu, offering stunning panoramic views of Waimea Bay and the North Shore.",
+                "description": "Pu\u02bbu O Mahuka Heiau State Historic Site is the largest heiau (ancient Hawaiian temple) on the island of Oahu, located on the North Shore overlooking Waimea Bay. This site was once a place of great spiritual and cultural significance for the Hawaiian people, used for ceremonies, offerings, and religious rituals.\n\nVisitors to Pu\u02bbu O Mahuka Heiau can explore the impressive stone terraces and platforms that make up the 2.5-acre site, offering a glimpse into the ancient Hawaiian culture and practices. The views from the heiau are also stunning, with sweeping vistas of the coastline and surrounding valleys.\n\nThis historic site is a peaceful and sacred place, perfect for reflection and contemplation. Visitors are encouraged to respect the cultural significance of the site and to tread lightly on the ancient stones. Interpretive signs provide information about the history and significance of Pu\u02bbu O Mahuka Heiau, offering a deeper understanding of the site for curious visitors.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pu%CA%BBu%20O%20Mahuka%20Heiau%20State%20Historic%20Site"
+            },
+            {
+                "name": "Pu\u02bbu \u02bbUalaka\u02bba State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/puu-ualakaa-state-wayside",
+                "content": "Pu\u02bbu \u02bbUalaka\u02bba State Wayside offers stunning panoramic views of Honolulu and Diamond Head.",
+                "description": "Pu\u02bbu \u02bbUalaka\u02bba State Wayside is a scenic overlook located in Honolulu, Hawaii, offering breathtaking views of the city and nearby Diamond Head crater. Visitors can enjoy panoramic vistas of Waikiki Beach, the Pacific Ocean, and the lush greenery of Manoa Valley from this popular lookout point. The park is a great spot for picnics, leisurely walks, and taking in the stunning sunset views. Hiking trails start from the wayside and lead to nearby natural attractions like the Tantalus lookout and Makiki Valley State Recreation Area. Be sure to bring a camera to capture the stunning landscapes and wildlife that can be spotted in this beautiful park.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pu%CA%BBu%20%CA%BBUalaka%CA%BBa%20State%20Wayside"
+            },
+            {
+                "name": "Queen Emma Summer Palace",
+                "url": "https://www.hawaiistateparks.org/parks/queen-emma-summer-palace",
+                "content": "Queen Emma Summer Palace is a historic site in Honolulu showcasing the life and legacy of Queen Emma, the wife of King Kamehameha IV, through exhibits and tours.",
+                "description": "Queen Emma Summer Palace is a beautiful historic site located in Honolulu, Hawaii, that served as a retreat for Queen Emma of Hawaii during the 1800s. Visitors can explore the meticulously preserved palace, which is filled with unique artifacts and personal belongings of Queen Emma and her family. The palace is surrounded by lush gardens and offers stunning views of the city and the ocean. Guests can also learn about the history of the Hawaiian monarchy and the important role Queen Emma played in the cultural and social development of Hawaii. A visit to Queen Emma Summer Palace provides a fascinating glimpse into the royal past of Hawaii and offers a peaceful and serene escape from the hustle and bustle of modern life.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Queen%20Emma%20Summer%20Palace"
+            },
+            {
+                "name": "Royal Mausoleum State Monument",
+                "url": "https://www.hawaiistateparks.org/parks/royal-mausoleum-state-monument",
+                "content": "The Royal Mausoleum State Monument in Hawaii is the final resting place of Hawaiian royalty and an important historical site.",
+                "description": "The Royal Mausoleum State Monument, also known as Mauna Ala, is the final resting place of Hawaiian royalty, including kings, queens, and important figures in Hawaiian history. Visitors can explore the beautiful grounds, which feature stunning architecture and lush gardens. The monument is steeped in history and provides a poignant glimpse into Hawaii's past. Guests can pay their respects at the tombs of Hawaiian monarchs, such as King Kamehameha II and Queen Liliuokalani, making it a sacred site for many locals and visitors alike. Guided tours are available to provide insight into the rich cultural significance of this historic landmark.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Royal%20Mausoleum%20State%20Monument"
+            },
+            {
+                "name": "Russian Fort Elizabeth State Historical Park",
+                "url": "https://www.hawaiistateparks.org/parks/russian-fort-elizabeth-state-historical-park",
+                "content": "Russian Fort Elizabeth State Historical Park offers a glimpse into Hawaii's past with a reconstructed fort originally built by Russian fur traders in the early 19th century.",
+                "description": "Russian Fort Elizabeth State Historical Park is located on the island of Kauai in Hawaii and is home to the ruins of a Russian fort built in the early 19th century. The fort was constructed by the Russian-American Company to establish a presence in Hawaii and protect their interests in the fur trade. Visitors can explore the grounds and learn about the history of Russian colonization in the Pacific. The park offers beautiful views of the surrounding landscape and is a great spot for picnicking and bird watching. Don't forget to check out the interpretive exhibits in the visitor center to learn more about the fort's fascinating past.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Russian%20Fort%20Elizabeth%20State%20Historical%20Park"
+            },
+            {
+                "name": "Sand Island State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/sand-island-state-recreation-area",
+                "content": "Sand Island State Recreation Area is a popular spot for water activities and picnicking in Honolulu, Hawaii.",
+                "description": "Sand Island State Recreation Area in Hawaii is a popular destination for outdoor enthusiasts. Visitors can enjoy a variety of recreational activities such as picnicking, fishing, and swimming in the calm waters of the protected lagoon. The park offers stunning views of the Honolulu skyline and the nearby harbor, making it a great spot for photography enthusiasts. Additionally, there are hiking trails and a playground for children, making it a family-friendly destination. Visitors can also take advantage of the park's facilities, including restrooms, showers, and picnic tables for a comfortable day out in nature.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sand%20Island%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Ulupo Heiau State Historic Site",
+                "url": "https://www.hawaiistateparks.org/parks/ulupo-heiau-state-historic-site",
+                "content": "Ulupo Heiau State Historic Site is a sacred Hawaiian temple located in Kailua, Oahu, with evidence of ancient Hawaiian religious practices and agricultural traditions.",
+                "description": "1. Ulupo Heiau State Historic Site is a significant cultural landmark in Kailua, Oahu, with roots dating back to ancient Hawaiian times. The site consists of a massive stone platform believed to have been built in the 17th century for religious ceremonies and offerings.\n2. Visitors can explore the expansive grounds and learn about the site's historical and spiritual importance to the Hawaiian people. The heiau is surrounded by lush vegetation, creating a serene and sacred atmosphere for visitors to experience.\n3. The site offers a glimpse into Hawaii's rich cultural heritage and provides a unique opportunity to connect with the traditions and beliefs of the past. Interpretive signs throughout the site offer insights into the history and significance of Ulupo Heiau.\n4. Visitors are encouraged to respect the sacredness of the site and to tread lightly as they explore the grounds. Ulupo Heiau State Historic Site is a must-visit for anyone interested in Hawaiian history, culture, and spirituality.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ulupo%20Heiau%20State%20Historic%20Site"
+            },
+            {
+                "name": "Wahiawa Freshwater State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/wahiawa-freshwater-state-recreation-area",
+                "content": "Wahiawa Freshwater State Recreation Area is a peaceful park surrounded by lush greenery and offers opportunities for fishing, picnicking, and hiking.",
+                "description": "Wahiawa Freshwater State Recreation Area is a hidden gem located in Central Oahu, Hawaii, known for its peaceful atmosphere and lush greenery. Visitors can enjoy a picnic by the tranquil lake, go fishing for catfish and tilapia, or take a leisurely stroll along the scenic trails. The park also offers boat rentals for those who want to explore the water or try their hand at paddleboarding. Birdwatchers will appreciate the diverse bird species that can be spotted in the area, making it a great spot for nature enthusiasts. Overall, Wahiawa Freshwater State Recreation Area provides a refreshing escape from the hustle and bustle of the city, perfect for a relaxing day outdoors.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wahiawa%20Freshwater%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Wailoa River State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/wailoa-river-state-recreation-area",
+                "content": "Wailoa River State Recreation Area is a popular park in Hilo, Hawaii offering scenic views, walking paths, ponds, and cultural sites.",
+                "description": "The Wailoa River State Recreation Area is located in Hilo on the Big Island of Hawaii and offers a serene and picturesque setting for visitors to enjoy. The park features a beautiful Japanese garden complete with koi ponds, pagodas, and bonsai trees, offering a peaceful retreat for relaxation and reflection. Visitors can stroll along the riverwalk, which winds through lush tropical vegetation and offers views of the Wailoa River. The park also has picnic areas, pavilions, and a playground, making it a great spot for a family outing or a leisurely day in nature. Additionally, the Wailoa Center, located within the park, showcases cultural exhibits, art galleries, and workshops that highlight the rich history and traditions of Hawaii.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wailoa%20River%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Wailua River State Park",
+                "url": "https://www.hawaiistateparks.org/parks/wailua-river-state-park",
+                "content": "Wailua River State Park is a beautiful park located on the east side of Kauai and offers a variety of recreational activities such as kayaking, boating, and hiking.",
+                "description": "Wailua River State Park is located on the beautiful island of Kauai in Hawaii. Visitors can explore the lush landscape by taking a river cruise, kayaking, or hiking along the park's trails. The park is home to the famous Fern Grotto, a stunning natural amphitheater covered in lush greenery and ferns. Visitors can also enjoy fishing, swimming, and picnicking in this picturesque park. Wailua River State Park offers a peaceful and serene atmosphere, making it the perfect place to relax and connect with nature during your visit to Kauai.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wailua%20River%20State%20Park"
+            },
+            {
+                "name": "Wailua Valley State Wayside",
+                "url": "https://www.hawaiistateparks.org/parks/wailua-valley-state-wayside",
+                "content": "Wailua Valley State Wayside offers breathtaking views of the Wailua Valley and the iconic Manawaiopuna Falls.",
+                "description": "The Wailua Valley State Wayside is a scenic overlook located on the island of Kauai in Hawaii, offering breathtaking views of the Wailua Valley and the surrounding mountains. Visitors can enjoy panoramic views of lush greenery, cascading waterfalls, and the winding Wailua River below.\n\nThis wayside is a popular spot for nature enthusiasts and photographers looking to capture the beauty of the valley. It is also a great place for a peaceful picnic or to simply relax and take in the stunning scenery.\n\nThe wayside is easily accessible by car, with a parking area located just off the main road. Visitors can take a short walk from the parking lot to the overlook point, where they can soak in the panoramic views of the valley.\n\nFor those interested in hiking, there are several trails in the area that lead to more secluded viewpoints and waterfall attractions. Be sure to wear sturdy footwear and bring plenty of water for your trek through the lush vegetation of the Wailua Valley.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wailua%20Valley%20State%20Wayside"
+            },
+            {
+                "name": "Wailuku River State Park",
+                "url": "https://www.hawaiistateparks.org/parks/wailuku-river-state-park",
+                "content": "Wailuku River State Park is known for its towering waterfalls and stunning natural beauty, located in the picturesque town of Hilo on the Big Island of Hawaii.",
+                "description": "Wailuku River State Park is a beautiful park located on the Big Island of Hawaii, home to stunning waterfalls and lush tropical vegetation. One of the main attractions of the park is the 80-foot Rainbow Falls, which cascades into a large pool below, creating a mesmerizing display of colors. Visitors can also explore the Boiling Pots, a series of pools and lava rock formations created by the rushing waters of the Wailuku River. The park offers several hiking trails, including the challenging 4-mile Pu'u O'o Trail that leads to stunning panoramic views of Hilo Bay. Picnic areas are available for visitors to relax and enjoy the serene surroundings of the park. Whether you're a nature lover or an outdoor enthusiast, Wailuku River State Park is a must-visit destination on the Big Island.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wailuku%20River%20State%20Park"
+            },
+            {
+                "name": "Waimea Canyon State Park",
+                "url": "https://www.hawaiistateparks.org/parks/waimea-canyon-state-park",
+                "content": "Waimea Canyon State Park is a stunning natural attraction on the island of Kauai, featuring breathtaking views of the colorful canyon and surrounding lush landscapes.",
+                "description": "Waimea Canyon State Park, located on the island of Kauai in Hawaii, is often referred to as the \"Grand Canyon of the Pacific\" due to its stunning landscapes and vibrant colors. Visitors can enjoy panoramic views of the canyon from overlooks along the main road, offering breathtaking photo opportunities.\n\nThe park features numerous hiking trails ranging from easy walks to more challenging treks, allowing visitors to explore the diverse flora and fauna of the area. One popular trail is the Canyon Trail, which offers a scenic descent into the canyon with opportunities to see native plant species and wildlife along the way.\n\nFor those looking to take in the views from a different perspective, helicopter tours are available for a bird's eye view of the canyon and surrounding areas. The park also offers picnicking facilities, making it a great spot to enjoy a meal while taking in the natural beauty of the canyon.\n\nBe sure to check the weather conditions before visiting, as the canyon's weather can be unpredictable with sudden changes in temperature and visibility. Regardless of when you visit, Waimea Canyon State Park is a must-see destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Waimea%20Canyon%20State%20Park"
+            },
+            {
+                "name": "Waimea State Recreational Pier",
+                "url": "https://www.hawaiistateparks.org/parks/waimea-state-recreational-pier",
+                "content": "The Waimea State Recreational Pier is a historic pier located on Kauai's west shore that offers fishing, picnicking, and sightseeing opportunities.",
+                "description": "The Waimea State Recreational Pier is a popular spot for both locals and tourists on the Big Island of Hawaii. This historic pier offers stunning views of the surrounding coastline and is the perfect place to watch the sunset over the ocean. Visitors can fish off the pier or simply enjoy the picturesque scenery while listening to the sounds of the waves crashing against the shore. The pier is also a great place for snorkeling and diving, with crystal clear waters and a variety of marine life to explore. Additionally, the nearby town of Waimea offers charming shops and restaurants for visitors to enjoy after a day of outdoor activities at the pier.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Waimea%20State%20Recreational%20Pier"
+            },
+            {
+                "name": "Waiʻanapanapa State Park",
+                "url": "https://www.hawaiistateparks.org/parks/waianapanapa-state-park",
+                "content": "Wai\u02bbanapanapa State Park is a picturesque coastal park on Maui known for its black sand beach, lava tube cave, and stunning ocean views.",
+                "description": "Wai\u02bbanapanapa State Park is a breathtaking coastal park located on the eastern shore of Maui, Hawaii. This park is known for its black sand beach, volcanic rock formations, lush vegetation, and crystal-clear waters. Visitors can explore the park's trails, caves, blowholes, and freshwater caves. The park also offers camping facilities, picnic areas, and restrooms for visitors to enjoy while taking in the stunning natural beauty of the area. Be sure to keep an eye out for humpback whales during the winter months as they migrate through the waters off the coast of Wai\u02bbanapanapa State Park.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wai%CA%BBanapanapa%20State%20Park"
+            },
+            {
+                "name": "Wa\u02bbahila Ridge State Recreation Area",
+                "url": "https://www.hawaiistateparks.org/parks/waahila-ridge-state-recreation-area",
+                "content": "Wa\u02bbahila Ridge State Recreation Area offers scenic hiking trails and panoramic views of Honolulu and the surrounding area.",
+                "description": "Wa\u02bbahila Ridge State Recreation Area is a popular hiking spot located in the lush Manoa Valley on the island of Oahu, Hawaii. Visitors can enjoy a moderate to challenging hike along the Wa\u02bbahila Ridge Trail, which offers stunning views of the surrounding mountains, valleys, and even Diamond Head in the distance. The trail is about 2.5 miles long and takes about 2-3 hours to complete round trip. Along the way, hikers will encounter native vegetation, such as koa and lama trees, as well as a variety of bird species. The park also offers picnic areas, making it a great spot for a post-hike meal with friends and family. Don't forget to bring plenty of water, sunscreen, and sturdy hiking shoes to fully enjoy this beautiful recreational area.",
+                "image": "https://s3.amazonaws.com/cdn.hawaiianislands.com/uploads/2023/08/Lihue-Attraction-Ahukini-Rec.-State-Park-Trail-WM-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wa%CA%BBahila%20Ridge%20State%20Recreation%20Area"
+            }
+        ]
+    }
+}

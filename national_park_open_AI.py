@@ -12,7 +12,7 @@ import time
 
 load_dotenv()
 
-map_key = "AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM"
+map_key = ""
 
 base_url = "https://www.nps.gov"
 
@@ -135,7 +135,7 @@ def scrape_map_info(parkname):
     
 
 # Load input JSON
-with open('test_national_input.json', 'r',encoding='utf-8') as file:
+with open('national_parks.json', 'r',encoding='utf-8') as file:
     input_data = json.load(file)
 
 output_data = {}
@@ -164,6 +164,6 @@ for state, parks in input_data.items():
                  **scraped_data
                 })
                 # Write output JSON
-                with open('test_national_output.json', 'w') as json_file:
+                with open('data_national_parks.json', 'w') as json_file:
                     json.dump(output_data, json_file, indent=4)
                 

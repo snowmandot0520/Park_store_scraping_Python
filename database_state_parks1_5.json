@@ -1,0 +1,294 @@
+{
+    "California State Parks": {
+        "parks": [
+            {
+                "name": "Sue-meg State Park",
+                "url": "https://www.parks.ca.gov/?page_id=417",
+                "content": "Sue-meg State Park is a peaceful and scenic park located in California, offering opportunities for hiking, picnicking, and enjoying the great outdoors.",
+                "description": "Nestled in the lush forests of Northern California, Sue-meg State Park offers a serene escape for nature lovers and outdoor enthusiasts. Visitors can explore over 30 miles of scenic hiking trails that wind through towering redwoods and picturesque meadows, providing opportunities for birdwatching and wildlife spotting along the way. The park also features a stunning waterfall, where visitors can relax and take in the sights and sounds of nature.\n\nFor those looking to extend their stay, Sue-meg State Park offers a variety of camping options, from tent sites to RV hookups. The park's campground amenities include picnic tables, fire pits, and clean restroom facilities, ensuring a comfortable and enjoyable camping experience for all.\n\nIf you're seeking adventure, Sue-meg State Park also offers opportunities for fishing, swimming, and boating on the nearby river. Anglers can try their luck at catching trout or salmon, while swimmers can cool off in the crystal-clear waters of the river. Whether you're looking for a peaceful retreat or an action-packed outdoor adventure, Sue-meg State Park has something for everyone to enjoy.",
+                "image": "http://www.parks.ca.gov/pages/417/images/090-P110594.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sue-meg%20State%20Park"
+            },
+            {
+                "name": "Sugarloaf Ridge State Park",
+                "url": "https://www.parks.ca.gov/?page_id=481",
+                "content": "Sugarloaf Ridge State Park is a 4,020-acre park known for its scenic vistas, waterfalls, and diverse ecosystems.",
+                "description": "Sugarloaf Ridge State Park is a beautiful park located in Kenwood, California, offering visitors stunning views of the Sonoma Valley. The park boasts a variety of ecosystems, including oak woodlands, chaparral, and grasslands, making it a haven for diverse wildlife. Visitors can explore over 25 miles of hiking trails, ranging from easy strolls to challenging hikes, such as the 4.4-mile Bald Mountain Trail which leads to panoramic views of the surrounding countryside. Additionally, the park is home to the Robert Ferguson Observatory, where visitors can stargaze and learn about the night sky through educational programs and telescope viewings. With camping facilities, picnic areas, and seasonal swimming in the park's pond, Sugarloaf Ridge State Park offers a unique and unforgettable outdoor experience for nature enthusiasts.",
+                "image": "http://www.parks.ca.gov/pages/481/images/P0065182.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sugarloaf%20Ridge%20State%20Park"
+            },
+            {
+                "name": "Sunset State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=544",
+                "content": "Sunset State Beach is a beautiful coastal park in California known for its sweeping views, sandy beaches, and peaceful atmosphere.",
+                "description": "Sunset State Beach is a stunning stretch of coastline located on the central coast of California. This picturesque beach is known for its dramatic cliffs, golden sand dunes, and pristine waters, making it a popular destination for beachgoers and outdoor enthusiasts. Visitors can enjoy a variety of recreational activities such as surfing, fishing, picnicking, and beachcombing. The beach also offers camping facilities, providing a unique opportunity to wake up to the sound of crashing waves and the sight of colorful sunsets. With its natural beauty and peaceful atmosphere, Sunset State Beach is the perfect spot for a relaxing day by the ocean.",
+                "image": "http://www.parks.ca.gov/pages/544/images/090-P90657.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sunset%20State%20Beach"
+            },
+            {
+                "name": "Sutter Buttes State Park",
+                "url": "https://www.parks.ca.gov/?page_id=23452",
+                "content": "Sutter Buttes State Park is a small park surrounding a unique geological formation in the Sacramento Valley, offering hiking and bird watching opportunities.",
+                "description": "Sutter Buttes State Park is a unique park in California, as it is home to the smallest mountain range in the world. Visitors can enjoy hiking, cycling, and bird watching on the park's trails, which offer stunning panoramic views of the surrounding valleys. The park is also rich in cultural history, as it was once the site of a Maidu village and features ancient petroglyphs and sacred sites. For those interested in geology, the buttes were formed over 1.5 million years ago by volcanic activity. Overall, Sutter Buttes State Park offers a peaceful and educational outdoor experience for nature lovers and history enthusiasts alike.",
+                "image": "http://www.parks.ca.gov/pages/23452/images/090-P98244.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sutter%20Buttes%20State%20Park"
+            },
+            {
+                "name": "Sutter's Fort State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=485",
+                "content": "Sutter's Fort State Historic Park offers a glimpse into California's Gold Rush era with a reconstructed pioneer fort and living history demonstrations.",
+                "description": "Sutter's Fort State Historic Park is located in Sacramento, California and provides visitors with a glimpse into the pioneering spirit of early California settlers. The fort was originally built by John Sutter in the 1840s as a agricultural and trade center, and played a significant role in the Gold Rush era. Visitors can explore the reconstructed fort, complete with period furnishings and exhibits showcasing daily life in the 19th century. The park offers guided tours with knowledgeable docents dressed in period attire, providing a immersive experience for visitors. Additionally, the park hosts various events throughout the year including reenactments, demonstrations, and living history programs.",
+                "image": "http://www.parks.ca.gov/pages/485/images/P0068560.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sutter%27s%20Fort%20State%20Historic%20Park"
+            },
+            {
+                "name": "Tahoe State Recreation Area",
+                "url": "https://www.parks.ca.gov/?page_id=504",
+                "content": "Tahoe State Recreation Area offers beautiful swimming and picnicking areas along the shores of Lake Tahoe in California.",
+                "description": "Tahoe State Recreation Area is located along the shores of Lake Tahoe in California, offering breathtaking views of the crystal-clear waters and surrounding mountain peaks. Visitors can enjoy a variety of outdoor activities, including swimming, kayaking, hiking, and picnicking in this picturesque setting. The park also features a sandy beach where families can relax and play in the sun, as well as designated areas for fishing and birdwatching. With campgrounds available for overnight stays, visitors can experience the beauty of Lake Tahoe from sunrise to sunset. Whether you're looking for a peaceful retreat or an adventure-filled getaway, Tahoe State Recreation Area provides the perfect backdrop for a memorable outdoor experience.",
+                "image": "http://www.parks.ca.gov/pages/504/images/090-P89706.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tahoe%20State%20Recreation%20Area"
+            },
+            {
+                "name": "The Forest of Nisene Marks State Park",
+                "url": "https://www.parks.ca.gov/?page_id=666",
+                "content": "The Forest of Nisene Marks State Park is a beautiful redwood forest in the Santa Cruz Mountains, with over 30 miles of hiking trails and a variety of wildlife.",
+                "description": "The Forest of Nisene Marks State Park is a hidden gem located in Aptos, California, featuring over 30 miles of hiking trails through towering redwoods and lush fern-filled canyons. Visitors can explore the remains of the logging industry that once thrived in the area, including historic lime kilns and railroad tracks. The park is home to a diverse array of wildlife, including deer, bobcats, and banana slugs. For a unique experience, visitors can take a guided nature walk led by park rangers to learn more about the park's natural and cultural history. Don't forget to pack a picnic and enjoy a meal surrounded by the serene beauty of the park.",
+                "image": "http://www.parks.ca.gov/pages/666/images/090-P90676.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=The%20Forest%20of%20Nisene%20Marks%20State%20Park"
+            },
+            {
+                "name": "Thornton State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=530",
+                "content": "Thornton State Beach is a beautiful, secluded stretch of coast with panoramic views and tide pools to explore.",
+                "description": "Thornton State Beach is a hidden gem located in Daly City, California, offering visitors a peaceful and scenic retreat away from the hustle and bustle of city life. The beach features stunning panoramic views of the Pacific Ocean, making it the perfect spot for a relaxing day by the water.\n\nVisitors can enjoy a leisurely stroll along the sandy shores, take in the fresh ocean air, and even catch a glimpse of local wildlife such as seabirds and dolphins. The beach is also a popular spot for picnicking, with plenty of shaded areas and grassy knolls perfect for setting up a meal with friends and family.\n\nFor those looking to explore more of the area, Thornton State Beach is conveniently located near several hiking trails, including the popular Mori Point Trail, which offers breathtaking views of the coastline and surrounding hills. Whether you're looking for a peaceful retreat or a scenic adventure, Thornton State Beach has something for everyone to enjoy.",
+                "image": "http://www.parks.ca.gov/pages/530/images/090-P91660.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Thornton%20State%20Beach"
+            },
+            {
+                "name": "Tijuana Estuary NP Point of Interest",
+                "url": "https://www.parks.ca.gov/?page_id=669",
+                "content": "The Tijuana Estuary National Estuarine Research Reserve is a significant habitat for many species of birds and fish.",
+                "description": "\n\nThe Tijuana Estuary National Park located in San Diego, California, is a unique and diverse ecosystem that serves as a vital habitat for a variety of plant and animal species. One of the main points of interest in the park is the Visitor Center, which offers educational exhibits and information about the history and wildlife of the estuary.\n\nVisitors can also enjoy the scenic views of the surrounding wetlands and salt marshes from the various hiking trails in the park. One popular trail is the Bayside Bird and Butterfly Trail, which provides opportunities for birdwatching and viewing the seasonal migration of monarch butterflies.\n\nThe park is home to over 370 species of birds, making it a prime destination for bird enthusiasts and nature lovers. Visitors can spot endangered species like the light-footed clapper rail and the California least tern in their natural habitat.\n\nThe Tijuana Estuary National Park is not only a beautiful natural area but also an important conservation site, with ongoing efforts to protect and restore the delicate ecosystem. Visitors can learn about these conservation efforts and how they can help preserve this unique coastal environment for future generations.",
+                "image": "http://www.parks.ca.gov/pages/669/images/P0082487.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tijuana%20Estuary%20NP%20Point%20of%20Interest"
+            },
+            {
+                "name": "Tolowa Dunes State Park",
+                "url": "https://www.parks.ca.gov/?page_id=430",
+                "content": "Tolowa Dunes State Park is a pristine coastal park featuring expansive dunes, beaches, and wetlands perfect for hiking, picnicking, and wildlife viewing.",
+                "description": "Tolowa Dunes State Park is a beautiful coastal park located in Northern California, offering visitors stunning views of the Pacific Ocean and sandy dunes to explore. Visitors can enjoy hiking and birdwatching along the park's scenic trails, spotting native wildlife like deer, elk, and various shorebirds. The park is home to the Lake Earl Wildlife Area, a protected habitat for a variety of plant and animal species. Camping is also available at the nearby Jedediah Smith Redwoods State Park, allowing visitors to extend their stay and experience the natural beauty of the area. For a peaceful and picturesque escape along the coast, Tolowa Dunes State Park is the perfect destination.",
+                "image": "http://www.parks.ca.gov/pages/430/images/090-P89201.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tolowa%20Dunes%20State%20Park"
+            },
+            {
+                "name": "Tomales Bay State Park",
+                "url": "https://www.parks.ca.gov/?page_id=470",
+                "content": "Tomales Bay State Park is a beautiful coastal park located on the shores of Tomales Bay, known for its sandy beaches, lush forests, and abundant wildlife.",
+                "description": "Tomales Bay State Park is a scenic coastal park located along the eastern shores of Tomales Bay in California. Visitors can enjoy a variety of outdoor activities, including kayaking, hiking, picnicking, and birdwatching. The park is known for its stunning views of the bay, rugged cliffs, and lush forests, making it a popular spot for nature lovers.\n\nOne of the highlights of the park is the Tomales Bay Trail, a 5-mile hiking trail that offers breathtaking views of the bay and surrounding landscape. The park also features a historic Pierce Point Ranch, which offers a glimpse into the area's past as a dairy ranching community.\n\nVisitors to Tomales Bay State Park can also take advantage of the park's picnic areas and tide pools, where they can explore the diverse marine life that calls the bay home. Whether you're looking for a peaceful retreat in nature or an active day of outdoor adventure, Tomales Bay State Park has something for everyone.",
+                "image": "http://www.parks.ca.gov/pages/470/images/P0070573.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tomales%20Bay%20State%20Park"
+            },
+            {
+                "name": "Tomo-Kahni State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=610",
+                "content": "Tomo-Kahni State Historic Park is a Native American archaeological site in Tehachapi, California, preserving Kawaiisu village life from the 1800s.",
+                "description": "Tomo-Kahni State Historical Park is located in Tehachapi, California and offers visitors a glimpse into the lives of the Kawaiisu people who inhabited the area for over a thousand years. The park features well-preserved pictographs painted on the walls of the rock shelters, providing insight into the religious and cultural practices of the indigenous people. Visitors can take guided tours of the site to learn more about the history and significance of Tomo-Kahni. Hiking trails around the park offer stunning views of the surrounding landscape, making it a great place for outdoor enthusiasts to explore. This unique and sacred site is a must-visit for those interested in Native American history and archaeology.",
+                "image": "http://www.parks.ca.gov/pages/610/images/090-P89065.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tomo-Kahni%20State%20Historic%20Park"
+            },
+            {
+                "name": "Topanga State Park",
+                "url": "https://www.parks.ca.gov/?page_id=629",
+                "content": "Topanga State Park is a vast wilderness area known for its scenic views, diverse plant and animal life, and numerous hiking trails.",
+                "description": "Topanga State Park is located in the Santa Monica Mountains and offers visitors a diverse and picturesque landscape to explore. Hikers can enjoy over 36 miles of trails that wind through lush forests, rocky ridges, and serene creeks. The park is also home to a variety of wildlife, including deer, coyotes, and numerous bird species, making it a great spot for nature enthusiasts. Visitors can take in stunning views of the Pacific Ocean and the surrounding mountains from various lookout points throughout the park. Additionally, the park offers picnic areas and camping sites for those looking to extend their stay and fully immerse themselves in nature.",
+                "image": "http://www.parks.ca.gov/pages/629/images/P0085517.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Topanga%20State%20Park"
+            },
+            {
+                "name": "Torrey Pines State Natural Reserve",
+                "url": "https://www.parks.ca.gov/?page_id=657",
+                "content": "Torrey Pines State Natural Reserve is a coastal state park in San Diego known for its rare Torrey pine trees and stunning ocean views.",
+                "description": "Torrey Pines State Natural Reserve is a coastal wilderness area located in San Diego, California, known for its iconic Torrey pine trees, which are found only in this region. Visitors can explore the reserve's miles of hiking trails that offer stunning views of the Pacific Ocean and unique geological formations. The reserve is home to a variety of plant and animal species, including the rare Torrey pine, the San Diego pocket mouse, and the cactus wren. In addition to hiking, visitors can enjoy picnicking, birdwatching, and photography in this picturesque coastal setting. The reserve also offers guided nature walks and educational programs for those looking to learn more about the natural history of the area.",
+                "image": "http://www.parks.ca.gov/pages/657/images/P0082147.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Torrey%20Pines%20State%20Natural%20Reserve"
+            },
+            {
+                "name": "Torrey Pines State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=658",
+                "content": "Torrey Pines State Beach boasts stunning views of the rugged cliffs and picturesque coastline along with opportunities for hiking and bird watching.",
+                "description": "Torrey Pines State Beach is a pristine stretch of coastline located in La Jolla, California. Visitors can enjoy stunning views of the Pacific Ocean and the iconic Torrey Pines cliffs.\n\nThis beach is famous for its rugged beauty and is a popular spot for surfing, swimming, and sunbathing. The beach is also home to a variety of marine life, including dolphins, seals, and sea lions.\n\nVisitors can explore the nearby Torrey Pines State Natural Reserve, which offers hiking trails with breathtaking views of the ocean and the surrounding cliffs. The reserve is home to the rare and protected Torrey Pine tree, which can only be found in a few locations in the world.\n\nFor those looking to relax, there are picnic areas and barbecue pits available for use. Overall, Torrey Pines State Beach is a must-visit destination for those looking to experience the beauty of Southern California's coastline.",
+                "image": "http://www.parks.ca.gov/pages/658/images/P0082137.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Torrey%20Pines%20State%20Beach"
+            },
+            {
+                "name": "Trinidad State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=418",
+                "content": "Trinidad State Beach is a scenic coastal destination located in Northern California, offering breathtaking views, tide pools, and opportunities for hiking and wildlife viewing.",
+                "description": "Trinidad State Beach, located in Humboldt County, California, is a picturesque stretch of coastline renowned for its stunning scenery and diverse wildlife. Visitors can enjoy beachcombing, tide pooling, and birdwatching along the rocky shores, where they may spot seals, sea lions, and seabirds. The beach offers a peaceful atmosphere for picnicking or simply lounging in the sun, with breathtaking views of Trinidad Head and the surrounding cliffs. Hikers can explore the nearby Trinidad State Beach Trail, which winds through scenic bluffs and provides panoramic vistas of the Pacific Ocean. Whether seeking a relaxing day by the sea or an adventurous outdoor experience, Trinidad State Beach offers something for everyone to enjoy.",
+                "image": "http://www.parks.ca.gov/pages/418/images/P0083217.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Trinidad%20State%20Beach"
+            },
+            {
+                "name": "Trione-Annadel State Park",
+                "url": "https://www.parks.ca.gov/?page_id=480",
+                "content": "The Trione-Annadel State Park in California offers extensive hiking, mountain biking, and horseback riding trails through quintessential Northern California landscape.",
+                "description": "Trione-Annadel State Park is a picturesque destination located in Santa Rosa, California, known for its beautiful rolling hills and expansive oak woodlands. Visitors can enjoy a variety of outdoor activities such as hiking, mountain biking, and horseback riding on over 40 miles of trails that wind through the park.\n\nNature enthusiasts will appreciate the diverse ecosystems found within the park, including grasslands, chaparral, and riparian areas. Birdwatchers may spot a variety of avian species, including woodpeckers, hawks, and songbirds. The park is also home to deer, rabbits, and other wildlife.\n\nOne of the highlights of Trione-Annadel State Park is the stunning springtime display of wildflowers, which blanket the hillsides in vibrant colors. The park is a popular spot for picnicking and nature photography, offering breathtaking views of the surrounding Sonoma Valley.\n\nVisitors can also take advantage of the park's amenities, which include picnic areas, restrooms, and a visitor center with exhibits on the natural and cultural history of the area. Whether you're looking for a peaceful escape in nature or an active outdoor adventure, Trione-Annadel State Park has something for everyone to enjoy.",
+                "image": "http://www.parks.ca.gov/pages/480/images/P0074103.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Trione-Annadel%20State%20Park"
+            },
+            {
+                "name": "Tule Elk State Natural Reserve",
+                "url": "https://www.parks.ca.gov/?page_id=584",
+                "content": "Tule Elk State Natural Reserve is a protected area in California dedicated to conserving the endangered Tule elk population.",
+                "description": "1. The Tule Elk State Natural Reserve is home to a population of Tule elk, an iconic species that was once on the brink of extinction. Visitors have the unique opportunity to see these majestic creatures up close in their natural habitat.\n\n2. The reserve is located in the rolling hills of the San Joaquin Valley, providing a picturesque backdrop for hiking, wildlife viewing, and photography. It is the ideal destination for nature enthusiasts and photographers looking to capture the beauty of California's wildlife.\n\n3. Visitors can explore the reserve's trails that wind through grasslands and oak woodlands, offering stunning views of the surrounding landscape. Be sure to keep an eye out for other wildlife such as deer, coyotes, and a variety of bird species.\n\n4. The Tule Elk State Natural Reserve also offers camping facilities for those looking to extend their stay and immerse themselves in the tranquility of nature. Campers can enjoy star-gazing, campfires, and the peaceful sounds of the wilderness.\n\n5. Whether you're a wildlife lover, hiker, or photographer, the Tule Elk State Natural Reserve offers a unique and memorable experience for visitors of all ages. Don't miss the chance to witness these magnificent elk roaming free in their natural habitat.",
+                "image": "http://www.parks.ca.gov/pages/584/images/016.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tule%20Elk%20State%20Natural%20Reserve"
+            },
+            {
+                "name": "Turlock Lake State Recreation Area",
+                "url": "https://www.parks.ca.gov/?page_id=555",
+                "content": "Turlock Lake State Recreation Area offers a picturesque setting for camping, hiking, fishing, and boating in the foothills of the Sierra Nevada.",
+                "description": "Turlock Lake State Recreation Area is a popular destination for outdoor enthusiasts, offering a wide range of activities such as boating, fishing, camping, hiking, and wildlife viewing. The park is located on the shores of Turlock Lake, providing visitors with access to water sports like swimming, water skiing, and jet skiing.\n\nFor those looking to relax, there are several picnic areas and shaded campgrounds where you can enjoy a meal or spend the night under the stars. The park also has a marina where you can rent boats and kayaks, making it easy to explore the lake and surrounding areas.\n\nNature lovers will appreciate the diverse ecosystems found within the park, including oak woodlands, grasslands, and riparian habitats. Keep an eye out for a variety of bird species, deer, and other wildlife that call Turlock Lake State Recreation Area home.\n\nOverall, this hidden gem in central California offers a peaceful and picturesque setting for a day trip or weekend getaway, perfect for those seeking outdoor adventure and relaxation.",
+                "image": "http://www.parks.ca.gov/pages/555/images/090-P96604.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Turlock%20Lake%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Twin Lakes State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=547",
+                "content": "Twin Lakes State Beach is a picturesque stretch of sandy shoreline in Santa Cruz, California, popular for sunbathing and swimming.",
+                "description": "Twin Lakes State Beach is a beautiful sandy beach located in Santa Cruz, California, known for its picturesque views and calm waters. Visitors can enjoy sunbathing, swimming, picnicking, and beachcombing along the shoreline.\n\nThe beach is perfect for families with children, as the gentle waves and shallow waters make it a safe and fun place for kids to play in the ocean. Visitors can also take a leisurely stroll along the beach or relax under the shade of the cypress trees that line the shore.\n\nFor those interested in wildlife viewing, Twin Lakes State Beach is a great spot to observe seabirds, dolphins, and even the occasional sea otter. The beach is also popular among surfers, with nearby breaks attracting both beginners and experienced surfers looking to catch some waves.\n\nWith its convenient location near restaurants, shops, and other attractions, Twin Lakes State Beach is a great destination for a day trip or weekend getaway. Whether you're looking for relaxation, recreation, or simply a beautiful place to enjoy the outdoors, this beach has something for everyone.",
+                "image": "http://www.parks.ca.gov/pages/547/images/P0081753.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Twin%20Lakes%20State%20Beach"
+            },
+            {
+                "name": "Van Damme State Park",
+                "url": "https://www.parks.ca.gov/?page_id=433",
+                "content": "Van Damme State Park is a beautiful coastal park in Northern California known for its lush fern canyons and stunning beach.",
+                "description": "Van Damme State Park is a stunning coastal park located in Mendocino County, California. Visitors can explore the lush Fern Canyon, home to a variety of indigenous plant species such as the rare contorted-pod evening primrose. The park also offers a picturesque beach where visitors can relax, swim, and even go tide pooling to discover diverse marine life. For outdoor enthusiasts, there are several hiking trails that lead through the park's dense forest and offer breathtaking views of the ocean. Additionally, the park features a campground for those looking to stay overnight and immerse themselves in the park's serene surroundings.",
+                "image": "http://www.parks.ca.gov/pages/433/images/P0077245.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Van%20Damme%20State%20Park"
+            },
+            {
+                "name": "Verdugo Mountains Park Property",
+                "url": "https://www.parks.ca.gov/?page_id=635",
+                "content": "The Verdugo Mountains Park Property features hiking trails, picnic areas, and stunning views of the Los Angeles area.",
+                "description": "The Verdugo Mountains Park Property offers visitors a unique opportunity to explore the diverse ecosystems of the Verdugo Mountains. With over 244 acres of open space, visitors can enjoy hiking, biking, and birdwatching in a natural setting just minutes away from the city.\n\nOne of the highlights of the park is the Verdugo Mountains Peak Trail, which offers stunning panoramic views of the surrounding area. The trail is a challenging but rewarding hike, with steep inclines and rocky terrain leading to the summit.\n\nFor those looking for a more leisurely experience, the park also features picnic areas and meadows perfect for a relaxing day out with family and friends. Keep an eye out for the diverse wildlife that calls the park home, including deer, rabbits, and a variety of bird species.\n\nVisitors can also learn about the history and geology of the area at the park's interpretive center, which offers educational exhibits and information about the natural features of the park. Overall, Verdugo Mountains Park Property is a hidden gem in the Los Angeles area, offering a peaceful escape from the hustle and bustle of the city.",
+                "image": "http://www.parks.ca.gov/pages/635/images/090-P94512.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Verdugo%20Mountains%20Park%20Property"
+            },
+            {
+                "name": "Ward Creek Park Property",
+                "url": "https://www.parks.ca.gov/?page_id=513",
+                "content": "This beautiful 172-acre property at Ward Creek Park offers a variety of outdoor recreational activities such as hiking, picnicking, and exploring the natural beauty of the Sierra Nevada foothills.",
+                "description": "1. Ward Creek Park is a peaceful and serene property located in the beautiful Lake Tahoe Basin. Visitors can enjoy a leisurely stroll through the lush meadow areas or take a hike along the shaded trails that wind through the forest.\n\n2. The park offers stunning views of Ward Creek and the surrounding mountains, making it a perfect spot for a picnic or a relaxing afternoon of birdwatching.\n\n3. Nature enthusiasts will appreciate the diverse plant and animal life that call Ward Creek Park home, including wildflowers, songbirds, and maybe even a glimpse of a deer or two.\n\n4. Fishing is a popular activity at Ward Creek Park, with opportunities to catch trout or other native fish species in the clear, cold waters of the creek.\n\n5. Whether you're looking for a peaceful escape into nature or a fun day of outdoor activities, Ward Creek Park has something for everyone to enjoy in its serene and beautiful setting.",
+                "image": "http://www.parks.ca.gov/pages/513/images/090-P101335.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ward%20Creek%20Park%20Property"
+            },
+            {
+                "name": "Washoe Meadows State Park",
+                "url": "https://www.parks.ca.gov/?page_id=516",
+                "content": "Washoe Meadows State Park is a scenic park in South Lake Tahoe known for its pine forests, meadows, and the Upper Truckee River.",
+                "description": "Washoe Meadows State Park is located in South Lake Tahoe, California and offers a variety of outdoor recreational activities for visitors to enjoy. The park features beautiful meadows, a historic ranch site, and breathtaking views of the surrounding mountains.\n\nVisitors can explore the park's network of hiking and biking trails, which wind through meadows filled with wildflowers and provide a glimpse of the area's diverse wildlife. There are also opportunities for picnicking, birdwatching, and fishing in the nearby streams and lakes.\n\nNature lovers will appreciate the park's diverse ecosystems, which range from pine forests to wetlands, providing a rich habitat for a wide variety of plant and animal species. Washoe Meadows State Park is a peaceful and serene destination for those seeking to immerse themselves in nature and enjoy the great outdoors.",
+                "image": "http://www.parks.ca.gov/pages/516/images/090-P92360.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washoe%20Meadows%20State%20Park"
+            },
+            {
+                "name": "Wassama Round House State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=586",
+                "content": "Wassama Round House State Historic Park is a Native American gathering place featuring a reconstructed round house and ceremonial dance area.",
+                "description": "The Wassama Round House State Historic Park is a significant cultural site for the local Native American tribes in the area. The roundhouse, or kutchin, is a traditional ceremonial structure used for various tribal ceremonies and gatherings. Visitors can explore the park and learn about the history and traditions of the indigenous people who have inhabited the region for centuries. The park offers guided tours and interpretive programs that provide a deeper understanding of the importance of the roundhouse to the local tribes. Additionally, visitors can enjoy the peaceful surroundings and take in the beautiful natural scenery of the park.",
+                "image": "http://www.parks.ca.gov/pages/586/images/P0083791.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wassama%20Round%20House%20State%20Historic%20Park"
+            },
+            {
+                "name": "Watts Towers of Simon Rodia State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=613",
+                "content": "The Watts Towers of Simon Rodia State Historic Park is a unique sculpture garden featuring 17 interconnected structures created by Italian immigrant Simon Rodia over a period of 33 years.",
+                "description": "Watts Towers of Simon Rodia State Historic Park is a unique and fascinating site located in Los Angeles, California. The park is home to the famous Watts Towers, a collection of 17 interconnected structures made of steel and covered in mortar, embellished with a variety of objects such as glass, tile, and ceramics.\n\nVisitors can marvel at the intricate designs and intricate craftsmanship of the towers, which were built by Italian immigrant Simon Rodia over a period of 33 years without the use of any scaffolding or machinery. The tallest tower reaches a height of nearly 100 feet, making it an impressive sight to behold.\n\nIn addition to the towers, the park features a small museum with exhibits on the history and construction of the Watts Towers, as well as a garden and amphitheater for performances and events. The site is a designated National Historic Landmark and is a must-see for art and architecture enthusiasts visiting the Los Angeles area.\n\nVisitors can take guided tours of the park to learn more about the history and significance of the Watts Towers, or simply explore the site on their own. The park also hosts community events and workshops, making it a vibrant cultural hub in the heart of Watts.",
+                "image": "http://www.parks.ca.gov/pages/613/images/P0078654.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Watts%20Towers%20of%20Simon%20Rodia%20State%20Historic%20Park"
+            },
+            {
+                "name": "Weaverville Joss House State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=457",
+                "content": "The Weaverville Joss House State Historic Park is a historic Taoist temple in Weaverville, California that offers a glimpse into Chinese culture and the Gold Rush era.",
+                "description": "Weaverville Joss House State Historic Park is a beautifully preserved Chinese Taoist temple located in Weaverville, California. The temple was built in 1874 by Chinese immigrants during the gold rush era and served as a spiritual and cultural hub for the local Chinese community. Visitors can explore the temple grounds and see the traditional Chinese architecture, intricate carvings, and ornate decorations that have been carefully maintained over the years.\n\nInside the temple, visitors can see an altar dedicated to the Taoist deity Guan Di, who is believed to bring good fortune and protection. The temple also contains artifacts and historical exhibits that provide insight into the lives of Chinese immigrants in California during the 19th century. Weaverville Joss House State Historic Park offers a unique opportunity to experience an important piece of California's multicultural history and learn about the contributions of Chinese immigrants to the state's development.",
+                "image": "http://www.parks.ca.gov/pages/457/images/P0083142.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Weaverville%20Joss%20House%20State%20Historic%20Park"
+            },
+            {
+                "name": "Westport-Union Landing State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=440",
+                "content": "Westport-Union Landing State Beach is a beautiful coastal destination featuring a sandy beach, stunning views, and opportunities for fishing and picnicking.",
+                "description": "Westport-Union Landing State Beach is a picturesque stretch of coastline located in Mendocino County, California. Visitors can enjoy stunning views of the rugged cliffs, sandy beaches, and pristine waters of the Pacific Ocean. The beach is a popular spot for picnicking, sunbathing, beachcombing, and wildlife watching.\n\nThis state beach is also known for its excellent fishing opportunities, with salmon, rockfish, and crab being commonly caught in the area. Additionally, the beach is home to a variety of bird species, making it a great destination for birdwatchers.\n\nFor those looking to explore the area further, there are hiking trails nearby that offer breathtaking views of the coastline and surrounding landscape. And if you're lucky, you may even spot whales or dolphins frolicking in the ocean. Overall, Westport-Union Landing State Beach is a peaceful and scenic destination for visitors to relax and immerse themselves in the beauty of nature.",
+                "image": "http://www.parks.ca.gov/pages/440/images/P0077192.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Westport-Union%20Landing%20State%20Beach"
+            },
+            {
+                "name": "Wilder Ranch State Park",
+                "url": "https://www.parks.ca.gov/?page_id=549",
+                "content": "Wilder Ranch State Park offers a glimpse into the past with preserved buildings, farm animals, and demonstrations of turn-of-the-century crafts and trades.",
+                "description": "Wilder Ranch State Park is a beautiful coastal park located near Santa Cruz, California. Visitors can explore over 7,000 acres of diverse landscapes, including rugged coastline, rolling hills, and lush forests. The park offers a variety of recreational activities such as hiking, biking, and horseback riding on its extensive network of trails. History buffs will enjoy learning about the park's rich agricultural past, which dates back to the late 19th century. Don't forget to check out the historic farm buildings and exhibits that offer a glimpse into the area's agricultural heritage.",
+                "image": "http://www.parks.ca.gov/pages/549/images/P0071982.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wilder%20Ranch%20State%20Park"
+            },
+            {
+                "name": "Wildwood Canyon Park Property",
+                "url": "https://www.parks.ca.gov/?page_id=22883",
+                "content": "The Wildwood Canyon Park property is a 325-acre natural area located in Yucaipa, California, offering scenic views, hiking trails, and picnicking facilities for visitors to enjoy.",
+                "description": "1. Wildwood Canyon Park is a hidden gem nestled in the hills of Yucaipa, offering visitors breathtaking views of the surrounding mountains and valleys.\n\n2. The 900-acre property features a variety of hiking trails, ranging from easy walks to more challenging treks for experienced hikers, making it the perfect destination for outdoor enthusiasts.\n\n3. Visitors can take in the beauty of the park's diverse wildlife, including sightings of deer, bobcats, and numerous bird species, making it a great spot for nature lovers and photographers alike.\n\n4. With picnic areas scattered throughout the park, visitors can enjoy a leisurely meal while soaking in the peaceful ambiance of the natural surroundings.\n\n5. Whether you're looking for a scenic hike, a relaxing picnic, or a chance to connect with nature, Wildwood Canyon Park offers something for everyone to enjoy in the heart of Southern California's beautiful landscape.",
+                "image": "http://www.parks.ca.gov/pages/22883/images/090-P102021.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wildwood%20Canyon%20Park%20Property"
+            },
+            {
+                "name": "Will Rogers State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=625",
+                "content": "Will Rogers State Beach is a popular destination for beachgoers in the Pacific Palisades area of Los Angeles, offering a long stretch of sandy shoreline and opportunities for swimming, surfing, and picnicking.",
+                "description": "Will Rogers State Beach is a popular destination for visitors looking to enjoy a day of sun, sand, and surf. The beach offers over 3 miles of pristine coastline, making it perfect for beach activities such as swimming, lounging, and beach volleyball. Visitors can also enjoy stunning views of the Santa Monica Mountains and the Pacific Ocean from the beach. In addition to beach activities, the beach is also home to the historic Will Rogers Beach House, which offers guided tours for visitors interested in learning about the history of the area. Overall, Will Rogers State Beach is a must-visit destination for anyone looking to experience the beauty of Southern California's coastline.",
+                "image": "no image",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Will%20Rogers%20State%20Beach"
+            },
+            {
+                "name": "Will Rogers State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=626",
+                "content": "Will Rogers State Historic Park is a 186-acre park in Los Angeles that was once the estate of actor and humorist Will Rogers.",
+                "description": "Will Rogers State Historic Park is located in Pacific Palisades, California and was once the private ranch home of the world-famous humorist Will Rogers. Visitors to the park can explore the 31-room ranch house that has been preserved to look just as it did when Will Rogers lived there in the 1930s. The park also features stunning gardens, hiking trails, and picnic areas with breathtaking views of the Pacific Ocean. Guided tours of the ranch house are available for those who want to learn more about Will Rogers and his life on the ranch. Additionally, the park offers a variety of educational programs and events for visitors of all ages to enjoy.",
+                "image": "http://www.parks.ca.gov/pages/626/images/090-P94590.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Will%20Rogers%20State%20Historic%20Park"
+            },
+            {
+                "name": "William B. Ide Adobe State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=458",
+                "content": "William B. Ide Adobe State Historic Park is a historic park in California that preserves the former homestead of California pioneer and the only president of the short-lived California Republic, William B. Ide.",
+                "description": "William B. Ide Adobe State Historic Park is a beautiful park located in Red Bluff, California, dedicated to the memory of William B. Ide, a key figure in the California Bear Flag Revolt of 1846. Visitors to the park can explore the historic adobe home where Ide lived with his family and played a crucial role in California's history. The park also features stunning picnic areas and scenic walking trails, perfect for enjoying a leisurely day outdoors. Additionally, the park hosts special events and living history demonstrations throughout the year, giving visitors a glimpse into the life and times of William B. Ide and early California settlers. Don't miss the opportunity to visit this fascinating historic park and learn more about the rich history of California.",
+                "image": "http://www.parks.ca.gov/pages/458/images/WBIA_SHP_ 20220213_180711629_iOS.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=William%20B.%20Ide%20Adobe%20State%20Historic%20Park"
+            },
+            {
+                "name": "Woodland Opera House State Historic Park",
+                "url": "https://www.parks.ca.gov/?page_id=488",
+                "content": "The Woodland Opera House State Historic Park is a beautifully preserved 19th-century theatre located in Woodland, California.",
+                "description": "The Woodland Opera House State Historic Park is a beautifully restored Victorian-era opera house located in Woodland, California. This historic theater first opened its doors in 1885 and continues to host a variety of performances, including plays, musicals, concerts, and dance recitals, making it a vibrant cultural hub in the community. Visitors can take guided tours of the opera house to learn about its rich history and architectural significance, including its ornate Victorian detailing and original gas fixtures. The park also offers educational programs and workshops for aspiring performers of all ages, providing a unique opportunity to experience the arts in a historic setting. Don't miss the chance to catch a show at this charming and well-preserved gem of California's cultural heritage.",
+                "image": "http://www.parks.ca.gov/pages/488/images/090-P96409.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Woodland%20Opera%20House%20State%20Historic%20Park"
+            },
+            {
+                "name": "Woodson Bridge State Recreation Area",
+                "url": "https://www.parks.ca.gov/?page_id=459",
+                "content": "Woodson Bridge State Recreation Area offers camping, fishing, hiking, and picnicking along the Sacramento River.",
+                "description": "Woodson Bridge State Recreation Area is a peaceful haven nestled along the Sacramento River, offering a serene escape for outdoor enthusiasts. The park boasts several shaded picnic areas with breathtaking views of the river, making it a popular spot for family gatherings and picnics. Visitors can partake in a variety of recreational activities, such as fishing, swimming, hiking, and birdwatching. The park also features a boat ramp, allowing for easy access to the river for boating and kayaking. With its tranquil atmosphere and scenic surroundings, Woodson Bridge State Recreation Area is a perfect destination for a day of relaxation and outdoor enjoyment.",
+                "image": "http://www.parks.ca.gov/pages/459/images/P0073939.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Woodson%20Bridge%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Zmudowski State Beach",
+                "url": "https://www.parks.ca.gov/?page_id=572",
+                "content": "Zmudowski State Beach is a picturesque stretch of coastline in Monterey County, known for its sandy dunes and rolling waves perfect for swimming, sunbathing, and picnicking.",
+                "description": "Zmudowski State Beach is a hidden gem located on the central coast of California, offering visitors a peaceful and secluded beach experience. The beach features stunning sand dunes, perfect for exploring and relaxing in the sun.\n\nNature enthusiasts will appreciate the diverse wildlife that calls Zmudowski State Beach home, including endangered birds like the snowy plover and brown pelican. The calm waters are ideal for swimming, kayaking, and fishing, making it a great spot for outdoor activities.\n\nVisitors can enjoy picnicking in the designated areas, with gorgeous views of the ocean and surrounding nature. The beach is also popular for birdwatching, with opportunities to spot a variety of shorebirds and seabirds throughout the year. Whether you're looking for a peaceful escape or outdoor adventure, Zmudowski State Beach offers something for everyone.",
+                "image": "http://www.parks.ca.gov/pages/572/images/P0083589.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Zmudowski%20State%20Beach"
+            }
+        ]
+    }
+}
