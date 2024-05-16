@@ -1,0 +1,134 @@
+{
+    "Missouri State Parks": {
+        "parks": [
+            {
+                "name": "St. Francois State Park",
+                "url": "https://mostateparks.com/park/st.-francois-state-park",
+                "content": "St. Francois State Park in Missouri boasts over 2,700 acres of forests, two lakes, and numerous hiking trails for visitors to enjoy.",
+                "description": "St. Francois State Park is a paradise for outdoor enthusiasts, offering a wide range of activities like hiking, camping, fishing, and swimming in the Big River. The park boasts over 2,700 acres of dense forests, picturesque bluffs, and scenic vistas, providing the perfect backdrop for a day of exploration and adventure. Visitors can also explore the historic sites within the park, such as the old mine shafts and charcoal kilns, which offer a glimpse into the area's rich mining history. With a variety of trails ranging from easy to challenging, St. Francois State Park is a great destination for hikers of all skill levels looking to immerse themselves in Missouri's natural beauty. Whether you're looking to relax with a picnic by the river or embark on a rugged wilderness adventure, this park has something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=St.%20Francois%20State%20Park"
+            },
+            {
+                "name": "St. Joe State Park",
+                "url": "https://mostateparks.com/park/st.-joe-state-park",
+                "content": "St. Joe State Park offers a variety of outdoor activities such as off-road vehicle trails, camping, fishing, and hiking.",
+                "description": "St. Joe State Park is a sprawling 8,238-acre park located in Park Hills, Missouri, and is known for its off-road vehicle area which features 2,000 acres of riding space for ATVs, motorcycles, and off-road vehicles. Visitors can also enjoy hiking, biking, and horseback riding on the park's extensive trail system, which winds through forests, fields, and along streams. The park is home to two beautiful lakes, Lake Show-Me and Pim Lake, where visitors can fish, swim, or paddle. For those interested in history, the park also features the historic St. Joe Lead Belt Mine, which offers guided tours that explore the area's rich mining history. St. Joe State Park is a popular destination for outdoor enthusiasts looking to experience the natural beauty and recreational opportunities of the Missouri Ozarks.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=St.%20Joe%20State%20Park"
+            },
+            {
+                "name": "Stockton State Park",
+                "url": "https://mostateparks.com/park/stockton-state-park",
+                "content": "Stockton State Park is a serene lakeside getaway offering camping, boating, fishing, and hiking opportunities in southwest Missouri.",
+                "description": "Stockton State Park is a tranquil oasis located in southwestern Missouri, offering visitors a peaceful retreat surrounded by nature. The park is centered around a beautiful 24,900-acre lake perfect for fishing, boating, and swimming. Visitors can explore the park's scenic trails, which wind through forests and prairies, providing opportunities for bird watching and wildlife spotting. The park also offers camping facilities, picnic areas, and a marina for those looking to extend their stay and fully immerse themselves in the natural beauty of the area. Whether you're looking for a relaxing weekend getaway or an outdoor adventure, Stockton State Park has something for everyone.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625849638173/15657072678.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stockton%20State%20Park"
+            },
+            {
+                "name": "Table Rock State Park",
+                "url": "https://mostateparks.com/park/table-rock-state-park",
+                "content": "Table Rock State Park is a beautiful natural retreat featuring stunning views of Table Rock Lake and towering limestone bluffs.",
+                "description": "Table Rock State Park is situated in the beautiful Ozark Mountains of southwest Missouri, offering visitors a stunning natural setting to explore and enjoy. The park features a pristine lake, stunning bluffs, and lush forests, providing ample opportunities for outdoor recreation such as hiking, fishing, and boating. Visitors can also take in breathtaking views from the park's observation deck, which overlooks Table Rock Lake and the surrounding countryside. The park is home to a variety of wildlife, including deer, foxes, and a wide array of bird species, making it a fantastic destination for nature lovers and wildlife enthusiasts. Additionally, visitors can participate in guided tours, educational programs, and special events held throughout the year to learn more about the park's natural and cultural history.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625975124228/15651080318.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Table%20Rock%20State%20Park"
+            },
+            {
+                "name": "Taum Sauk Mountain State Park",
+                "url": "https://mostateparks.com/park/taum-sauk-mountain-state-park",
+                "content": "Taum Sauk Mountain State Park is home to the highest point in Missouri and offers scenic views, hiking trails, and a breathtaking waterfall.",
+                "description": "Taum Sauk Mountain State Park is located in the Saint Francois Mountains, Missouri's highest mountain range. The park is home to the state's highest point, Taum Sauk Mountain, which stands at 1,772 feet above sea level. Visitors can take on the challenging but rewarding Mina Sauk Falls Trail, which leads to a breathtaking 132-foot waterfall. The park also offers camping, picnicking, and mountain biking opportunities for outdoor enthusiasts. With its stunning views and peaceful atmosphere, Taum Sauk Mountain State Park is a must-visit destination for nature lovers and hikers alike.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625849755989/15223266784.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Taum%20Sauk%20Mountain%20State%20Park"
+            },
+            {
+                "name": "Thomas Hart Benton Home and Studio State Historic Site",
+                "url": "https://mostateparks.com/park/thomas-hart-benton-home-and-studio-state-historic-site",
+                "content": "The Thomas Hart Benton Home and Studio State Historic Site in Kansas City, Missouri, preserves the former residence and workspace of prominent American painter Thomas Hart Benton.",
+                "description": "The Thomas Hart Benton Home and Studio State Historic Site in Kansas City, Missouri, is the former residence of American painter Thomas Hart Benton. Visitors can explore the charming house and studio where Benton lived and worked from 1939 until his death in 1975.\nThe studio is filled with Benton's original artwork, personal items, and tools that give insight into his creative process and artistic style. The site also features a beautifully landscaped garden that inspired many of Benton's nature-themed paintings.\nGuided tours of the home and studio offer a unique opportunity to learn about Benton's life and career, as well as his impact on the art world. The site is a must-visit for art enthusiasts and history buffs alike, offering a glimpse into the world of one of America's most influential painters.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625985552561/35498132374.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Thomas%20Hart%20Benton%20Home%20and%20Studio%20State%20Historic%20Site"
+            },
+            {
+                "name": "Thousand Hills State Park",
+                "url": "https://mostateparks.com/park/thousand-hills-state-park",
+                "content": "Thousand Hills State Park is a scenic park located in the rolling hills of northeast Missouri, offering camping, boating, fishing, and hiking opportunities in a beautiful natural setting.",
+                "description": "Thousand Hills State Park is a stunning park located in northern Missouri, near the town of Kirksville. The park offers a range of outdoor activities for visitors to enjoy, including hiking, fishing, and boating on Forrest Lake.\n\nOne of the highlights of the park is the Forest Lake Marina, where visitors can rent kayaks, canoes, and paddleboards for a relaxing day on the water. The park also features several well-maintained hiking trails that wind through the picturesque Ozark hills, offering visitors the chance to explore the park's natural beauty.\n\nFor those looking to overnight in the park, Thousand Hills State Park also offers a campground with both basic and electric sites, as well as cozy cabins for a more comfortable stay. Additionally, the park features a swimming beach where visitors can cool off on hot summer days and a playground for children to enjoy.\n\nWhether you're looking to relax by the water, hike through nature, or spend a night under the stars, Thousand Hills State Park is the perfect destination for outdoor enthusiasts of all ages.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625849842019/15236250517.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Thousand%20Hills%20State%20Park"
+            },
+            {
+                "name": "Towosahgy State Historic Site",
+                "url": "https://mostateparks.com/park/towosahgy-state-historic-site",
+                "content": "Towosahgy State Historic Site preserves and interprets the remains of a Mississippian village that was once prominent in the region.",
+                "description": "Towosahgy State Historic Site in Missouri is a 17-acre archaeological site that preserves the remains of a Native American village that dates back to around 1350-1680 AD. Visitors can explore the site's earthwork mounds, which were constructed by the indigenous villagers for ceremonial and social purposes.\n\nThe site offers interpretive signs that provide insight into the history and significance of the village, as well as exhibits that showcase artifacts and tools used by the villagers. Visitors can also learn about the daily life and customs of the Native American inhabitants through guided tours and educational programs offered by the park.\n\nFor those interested in archaeology, Towosahgy State Historic Site offers opportunities for hands-on learning and participation in fieldwork activities. Visitors can join in excavations, artifact identification, and other research projects led by professional archaeologists and historians.\n\nThe site is located along the Missouri River and offers picturesque views of the surrounding natural landscape, making it a peaceful and scenic destination for history enthusiasts and outdoor lovers alike. Visitors can enjoy picnicking, birdwatching, and hiking trails while exploring the ancient remains of this fascinating archaeological site.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625849867139/15258498043.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Towosahgy%20State%20Historic%20Site"
+            },
+            {
+                "name": "Trail of Tears State Park",
+                "url": "https://mostateparks.com/park/trail-of-tears-state-park",
+                "content": "Trail of Tears State Park in Missouri commemorates the forced relocation of Native American tribes in the 1830s, offering hiking trails, camping, and picnicking opportunities.",
+                "description": "Trail of Tears State Park is located in Missouri and offers visitors a glimpse into the history of the forced relocation of Native Americans in the 1800s. The park features a visitor center with exhibits detailing the tragic journey of the Cherokee, Chickasaw, Choctaw, Muscogee, and Seminole tribes. Visitors can explore hiking trails that wind through the beautiful Ozark landscape, providing scenic views of the Mississippi River. The park also has a campground, picnic areas, and a swimming beach for visitors to enjoy. Don't miss the opportunity to learn about this important moment in American history at Trail of Tears State Park.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Trail%20of%20Tears%20State%20Park"
+            },
+            {
+                "name": "Trails of the Roger Pryor Pioneer Backcountry",
+                "url": "https://mostateparks.com/park/trails-of-the-roger-pryor-pioneer-backcountry",
+                "content": "Trails of the Roger Pryor Pioneer Backcountry offers 6.75 miles of scenic hiking trails through rugged terrain and lush forests in the Mark Twain National Forest.",
+                "description": "The Trails of the Roger Pryor Pioneer Backcountry offers visitors a chance to step back in time and explore the rugged landscape that pioneers once traversed. The park features a network of trails that wind through thick forests, across streams, and up steep but rewarding inclines. Hikers can follow in the footsteps of early settlers as they make their way through this unspoiled wilderness.\n\nFor those looking for a challenge, the park offers long and strenuous trails that provide a true test of endurance and determination. Alternatively, there are shorter, more leisurely trails that offer stunning views and a chance to spot wildlife. Whether you are an experienced hiker or just starting out, the Trails of the Roger Pryor Pioneer Backcountry has something for everyone.\n\nVisitors can also learn about the history of the area through interpretive signs and exhibits along the trails. They can gain a deeper appreciation for the struggles and triumphs of the pioneers who helped shape this rugged and beautiful landscape. Overall, the Trails of the Roger Pryor Pioneer Backcountry offers a unique and unforgettable hiking experience for outdoor enthusiasts of all levels.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Trails%20of%20the%20Roger%20Pryor%20Pioneer%20Backcountry"
+            },
+            {
+                "name": "Union Covered Bridge State Historic Site",
+                "url": "https://mostateparks.com/park/union-covered-bridge-state-historic-site",
+                "content": "The Union Covered Bridge State Historic Site is home to Missouri's oldest covered bridge that spans the Elk Fork Creek and offers visitors a glimpse into the state's history.",
+                "description": "The Union Covered Bridge State Historic Site is home to the oldest covered bridge in Missouri, built in 1871. Visitors can walk or drive through the 140-foot-long bridge, which spans the Elk Fork Creek. The site also features a picnic area and hiking trails for visitors to enjoy the peaceful surroundings. The bridge is a popular spot for photographers and history enthusiasts looking to experience a piece of Missouri's past. The site is open to the public year-round and is a wonderful place to visit for a peaceful and scenic getaway.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625987225903/15241873119.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Union%20Covered%20Bridge%20State%20Historic%20Site"
+            },
+            {
+                "name": "Wakonda State Park",
+                "url": "https://mostateparks.com/park/wakonda-state-park",
+                "content": "Wakonda State Park is a peaceful park in northeastern Missouri, offering opportunities for hiking, fishing, camping, and picnicking.",
+                "description": "Wakonda State Park is a hidden gem located in northeast Missouri and offers a tranquil and picturesque setting for visitors to enjoy. The park features a 200-acre fishing lake perfect for anglers looking to reel in bass, crappie, and catfish. Visitors can also explore the park's scenic hiking trails that wind through lush forests and meadows, providing a peaceful escape into nature. For those looking to extend their stay, Wakonda State Park offers both tent and RV camping options, allowing visitors to truly immerse themselves in the beauty of the park. Whether you're seeking a relaxing day of fishing or a peaceful hike through the woods, Wakonda State Park offers something for every nature enthusiast to enjoy.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625987263535/15241925929.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wakonda%20State%20Park"
+            },
+            {
+                "name": "Wallace State Park",
+                "url": "https://mostateparks.com/park/wallace-state-park",
+                "content": "Wallace State Park is a tranquil, 501-acre park located in Cameron, Missouri, perfect for relaxing outdoor activities like fishing and picnicking.",
+                "description": "Wallace State Park is a hidden gem located in Cameron, Missouri, offering visitors a peaceful and serene natural setting. The park features a picturesque lake perfect for fishing, paddle boating, and kayaking, providing ample opportunities for outdoor recreation. Visitors can explore the park's extensive hiking trails that wind through lush forests and scenic overlooks, offering breathtaking views of the surrounding landscape. For those looking to extend their stay, Wallace State Park offers a variety of camping options, including tent and RV sites, as well as cozy cabins for a rustic getaway. Whether you're looking for a day of relaxation or a weekend of adventure, Wallace State Park has something for everyone to enjoy.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625850082845/15218046658.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wallace%20State%20Park"
+            },
+            {
+                "name": "Washington State Park",
+                "url": "https://mostateparks.com/park/washington-state-park",
+                "content": "Washington State Park in Missouri features stunning views of the Big River, historic buildings, and a variety of outdoor recreational activities.",
+                "description": "1. Washington State Park, located in De Soto, Missouri, is a natural oasis of rugged beauty with towering limestone bluffs, deep forests, and the Big River winding through the park.\n2. The park offers a variety of outdoor recreational activities such as hiking, biking, fishing, and picnicking, with more than 1,000 acres of land to explore.\n3. Visitors can take a leisurely stroll along the River Scene Trail to enjoy stunning views of the Big River and the surrounding bluffs, or challenge themselves with the 1,000 Steps Trail that climbs steeply up the bluffs for breathtaking panoramic views.\n4. Camping enthusiasts can choose from basic, electric, and walk-in campsites, as well as cozy cabins for a comfortable overnight stay in the heart of nature.\n5. History buffs will appreciate the park's historic attractions, including the remains of an old grist mill and a restored section of the historic East-West road that once connected St. Louis to the lead mines of the old Washington County.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625975578786/15309146308.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washington%20State%20Park"
+            },
+            {
+                "name": "Watkins Woolen Mill State Park and Historic Site",
+                "url": "https://mostateparks.com/park/watkins-woolen-mill-state-park-and-historic-site",
+                "content": "Watkins Woolen Mill State Park and Historic Site showcases a beautifully preserved 19th-century woolen mill, providing visitors with a glimpse into Missouri's textile manufacturing history.",
+                "description": "Watkins Woolen Mill State Park and Historic Site is a beautiful and well-preserved historic site located in Lawson, Missouri. Visitors can explore the 19th-century woolen mill that was once one of the largest in the United States. The park offers guided tours of the mill, as well as demonstrations of the mill machinery in action.\n\nIn addition to the mill, visitors can enjoy hiking and picnicking in the park's scenic grounds, which include a large fishing lake. The park also features a campground for those looking to extend their stay and immerse themselves in the history of the area.\n\nFor history buffs, the site offers a fascinating glimpse into the industrial revolution and the role that mills played in the development of the United States. With its well-preserved buildings and machinery, Watkins Woolen Mill State Park is a must-visit destination for anyone interested in history and heritage.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Watkins%20Woolen%20Mill%20State%20Park%20and%20Historic%20Site"
+            },
+            {
+                "name": "Weston Bend State Park",
+                "url": "https://mostateparks.com/park/weston-bend-state-park",
+                "content": "Weston Bend State Park offers scenic views of the Missouri River, perfect for hiking, picnicking, and enjoying nature.",
+                "description": "Weston Bend State Park is a picturesque park located along the Missouri River, offering stunning views of the surrounding bluffs and the river below. Visitors can enjoy hiking through the park's scenic trails, which lead to overlooks with panoramic views of the river valley.\n\nOne of the park's main highlights is the historic Lewis and Clark Point, which marks the spot where the famous explorers camped during their journey westward. For those looking to extend their stay, the park offers camping facilities with both basic and electric sites available.\n\nFishing enthusiasts will enjoy casting a line into the Missouri River or nearby Little Platte River, both of which offer excellent fishing opportunities. Bird watchers can also delight in the park's diverse bird population, with over 250 species of birds recorded within the park.\n\nIn the fall, visitors can witness the stunning display of colors as the park's trees transform into vibrant shades of red, orange, and yellow. Whether you're looking for outdoor adventures or simply a peaceful retreat in nature, Weston Bend State Park offers something for every visitor to enjoy.",
+                "image": "https://mostateparks.com/sites/mostateparks/files/flickrcache/72157625975632404/31460846463.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Weston%20Bend%20State%20Park"
+            }
+        ]
+    }
+}

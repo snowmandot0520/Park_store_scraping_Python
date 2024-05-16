@@ -1,0 +1,38 @@
+{
+    "Minnesota State Parks": {
+        "parks": [
+            {
+                "name": "Afton State Park",
+                "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00100#homepage",
+                "content": "Afton State Park is a beautiful park with scenic views, hiking trails, and a variety of recreational activities located along the St. Croix River in Minnesota.",
+                "description": "Afton State Park offers stunning views of the St. Croix River and surrounding woodlands, making it a popular destination for nature lovers and outdoor enthusiasts. Visitors can enjoy over 20 miles of hiking trails that wind through forests, prairies, and along the river, providing ample opportunities to spot wildlife and discover hidden gems.\n\nFor those looking to cool off during the hot summer months, the park features a sandy swimming beach perfect for soaking up the sun and taking a refreshing dip in the river. Picnic areas and grills are also available for those looking to enjoy a meal amidst the picturesque scenery.\n\nCamping is another popular activity at Afton State Park, with both drive-in and hike-in campsites available for overnight stays. Pitch a tent under the stars and fall asleep to the sounds of nature in this tranquil and peaceful setting.\n\nDuring the winter months, the park transforms into a winter wonderland, offering activities such as cross-country skiing, snowshoeing, and even ice climbing for the more adventurous visitors. With something to offer in every season, Afton State Park is a must-visit destination for anyone looking to escape the hustle and bustle of city life and reconnect with nature.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Afton%20State%20Park"
+            },
+            {
+                "name": "Banning State Park",
+                "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00103#homepage",
+                "content": "Banning State Park offers rugged beauty and recreation opportunities in a scenic stretch of the Kettle River in eastern Minnesota.",
+                "description": "Banning State Park is a beautiful park located near Sandstone, Minnesota, offering a picturesque setting for outdoor enthusiasts. Visitors can enjoy hiking on over 17 miles of trails that wind through the park's lush forests and along the Kettle River. The park is also popular for rock climbing, with several designated climbing areas for both beginner and advanced climbers. For those looking to relax, there are picnic areas, swimming spots, and camping facilities available. History buffs will appreciate the park's historic sandstone quarry, which offers a glimpse into the region's past.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Banning%20State%20Park"
+            },
+            {
+                "name": "Bear Head Lake State Park",
+                "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00109#homepage",
+                "content": "Bear Head Lake State Park is a peaceful and serene park located in northern Minnesota, offering visitors opportunities for camping, hiking, fishing, and wildlife viewing.",
+                "description": "Bear Head Lake State Park encompasses over 4,000 acres of pristine wilderness in the heart of the Superior National Forest. Visitors can enjoy a variety of outdoor activities such as hiking, biking, swimming, and fishing in the crystal-clear waters of Bear Head Lake. The park also offers a campground with modern amenities for those looking to extend their stay in this peaceful setting. Keep an eye out for wildlife such as black bears, moose, and bald eagles as you explore the park's many scenic hiking trails. In the winter, visitors can cross-country ski or snowshoe through the snow-covered forests for a truly magical experience.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bear%20Head%20Lake%20State%20Park"
+            },
+            {
+                "name": "Beaver Creek Valley State Park",
+                "url": "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00112#homepage",
+                "content": "Beaver Creek Valley State Park is a quiet park with a horse camp, trout fishing, and picturesque autumn views in southeastern Minnesota.",
+                "description": "Beaver Creek Valley State Park is a stunning natural oasis located in southeastern Minnesota, known for its picturesque limestone bluffs, lush forests, and crystal-clear streams. Visitors can enjoy a variety of outdoor activities such as hiking, picnicking, bird watching, and fishing in the park's designated trout stream. The park features a network of well-maintained trails that offer scenic views of the surrounding landscape, making it a popular destination for nature enthusiasts and photographers alike. Camping is also available in the park, providing a unique opportunity to experience the beauty of the valley under the starlit sky. Additionally, the park offers interpretive programs and events throughout the year, providing visitors with educational opportunities to learn more about the park's rich natural and cultural history.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beaver%20Creek%20Valley%20State%20Park"
+            }
+        ]
+    }
+}

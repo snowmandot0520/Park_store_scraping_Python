@@ -1,0 +1,310 @@
+{
+    "Pennsylvania State Parks": {
+        "parks": [
+            {
+                "name": "Prince Gallitzin State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/PrinceGallitzinStatePark",
+                "content": "Prince Gallitzin State Park is a peaceful destination for outdoor enthusiasts, offering camping, fishing, picnicking, hiking, and swimming in a scenic lakeside setting.",
+                "description": "Prince Gallitzin State Park is located in Cambria County, Pennsylvania and covers over 6,200 acres of land. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, boating, and swimming in the 1,635-acre Glendale Lake. The park is named after Demetrius Augustine Gallitzin, a Russian prince who became a Catholic priest and dedicated his life to serving the people of central Pennsylvania. Camping is also a popular activity at Prince Gallitzin State Park, with over 180 campsites available for tents and RVs. Additionally, the park features several picnic areas, playgrounds, and scenic overlooks for visitors to enjoy.",
+                "image": "https://c1.staticflickr.com/5/4221/34824250726_6a1b4b7f3b_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Prince%20Gallitzin%20State%20Park"
+            },
+            {
+                "name": "Promised Land State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/PromisedLandStatePark",
+                "content": "Promised Land State Park is a stunning park known for its 3,000-acre reservoir, excellent fishing, and beautiful hiking trails.",
+                "description": "Promised Land State Park is a popular destination for outdoor enthusiasts in Pennsylvania, offering a wide range of recreational activities. Visitors can enjoy swimming, boating, and fishing in two beautiful lakes within the park - Promised Land Lake and Lower Lake. The park also features over 50 miles of hiking trails, perfect for exploring the lush forests and scenic vistas of the Pocono Mountains. Additionally, campers can choose from a variety of camping options, including tent and RV sites, cabins, and yurts. With its diverse landscapes and abundance of wildlife, Promised Land State Park is a perfect place for nature lovers to escape and unwind.",
+                "image": "https://farm5.staticflickr.com/4275/34021300394_5b142d188d_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Promised%20Land%20State%20Park"
+            },
+            {
+                "name": "Prompton State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/PromptonStatePark",
+                "content": "Prompton State Park is a peaceful 1,526-acre park in northeastern Pennsylvania that offers a variety of outdoor recreational activities including fishing, boating, hiking, and picnicking.",
+                "description": "1. Prompton State Park, located in northeastern Pennsylvania, is a beautiful outdoor destination known for its 290-acre lake, perfect for fishing, boating, and swimming in the summer months.\n\n2. The park offers over 26 miles of hiking trails, mountain biking opportunities, and birdwatching, making it a popular spot for outdoor enthusiasts looking to explore the diverse landscape.\n\n3. Visitors can take advantage of the park's picnic areas, playgrounds, and volleyball courts for a fun day out with family and friends, surrounded by the tranquil beauty of the Pocono Mountains.\n\n4. Wildlife lovers will enjoy observing the various species that call Prompton State Park home, including deer, beavers, and a wide variety of birds that frequent the area.\n\n5. With camping facilities available for those looking to extend their stay, Prompton State Park offers a peaceful and scenic retreat for nature lovers seeking a break from the hustle and bustle of everyday life.",
+                "image": "https://c1.staticflickr.com/5/4227/34824643686_a87b6cc289_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Prompton%20State%20Park"
+            },
+            {
+                "name": "Prouty Place State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/ProutyPlaceStatePark",
+                "content": "Prouty Place State Park is a 245-acre park located in Wayne County, offering hiking, hunting, and wildlife viewing opportunities.",
+                "description": "Prouty Place State Park is a small, peaceful park located in Crawford County, Pennsylvania. Visitors can enjoy a leisurely hike through the park's wooded trails, which offer opportunities to spot diverse wildlife and native plant species. The park also features a scenic picnic area near the meandering French Creek, ideal for a relaxing outdoor meal with family and friends. Fishing enthusiasts will appreciate the park's access to the creek, where they can try their luck at catching a variety of fish species. Overall, Prouty Place State Park is a hidden gem for nature lovers looking to escape the hustle and bustle of everyday life.",
+                "image": "https://c1.staticflickr.com/5/4219/34701014792_739b60d193_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Prouty%20Place%20State%20Park"
+            },
+            {
+                "name": "Pymatuning State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/PymatuningStatePark",
+                "content": "Pymatuning State Park is a popular destination for fishing, boating, and camping in Pennsylvania's scenic Crawford County.",
+                "description": "Pymatuning State Park is a popular destination for outdoor enthusiasts in Pennsylvania, offering a wide range of recreational activities including boating, fishing, camping, swimming, and hiking. The park is centered around the 17,088-acre Pymatuning Reservoir, which is one of the largest man-made lakes in the state.\n\nVisitors to Pymatuning State Park can enjoy stunning views of the lake from scenic overlooks, as well as explore the surrounding woodlands and wetlands. The park is also home to an abundance of wildlife, including bald eagles, osprey, and waterfowl, making it a great spot for birdwatching.\n\nOne of the most popular attractions at Pymatuning State Park is the Spillway, where visitors can feed bread to throngs of eager carp that gather in the shallow waters. This unique experience has become a must-see for those visiting the park.\n\nAdditionally, Pymatuning State Park offers a variety of camping options, with over 340 campsites available for both RV and tent camping. The park also has cabins and yurts available for rent for those looking for a more comfortable overnight stay.",
+                "image": "https://c1.staticflickr.com/5/4219/34824902586_63fd2e9c45_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pymatuning%20State%20Park"
+            },
+            {
+                "name": "Raccoon Creek State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RaccoonCreekStatePark",
+                "content": "Raccoon Creek State Park offers a variety of outdoor activities such as fishing, hiking, and camping in a scenic and peaceful setting.",
+                "description": "Raccoon Creek State Park is a popular outdoor destination in Pennsylvania, offering a wide range of recreational activities for visitors to enjoy. The park is known for its scenic beauty, with rolling hills, lush forests, and a large lake perfect for fishing and boating. Visitors can explore over 44 miles of hiking and biking trails that wind through the park's diverse landscapes, providing opportunities to spot wildlife such as deer, birds, and even the occasional black bear. The park also features picnic areas, a swimming beach, and campsites for those looking to extend their stay and immerse themselves in the natural surroundings. With so much to see and do, Raccoon Creek State Park is a must-visit destination for outdoor enthusiasts of all ages.",
+                "image": "https://c1.staticflickr.com/5/4269/34825068566_0a8e665310.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Raccoon%20Creek%20State%20Park"
+            },
+            {
+                "name": "Ralph Stover State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RalphStoverStatePark",
+                "content": "Ralph Stover State Park is a scenic park located in Bucks County, Pennsylvania, known for its stunning cliffs, hiking trails, and views of the Tohickon Creek.",
+                "description": "Ralph Stover State Park, located in southeastern Pennsylvania, is a picturesque park known for its rugged cliffs and scenic views along the Tohickon Creek.\nVisitors can enjoy activities such as rock climbing, hiking, and picnicking in the park's beautiful natural surroundings.\nThe High Rocks section of the park offers stunning panoramic views of the surrounding countryside, making it a popular spot for photography and birdwatching.\nFor those looking to explore the area further, nearby attractions include the historic town of New Hope and the Delaware Canal State Park.\nWhether you're seeking adventure or simply want to relax in nature, Ralph Stover State Park offers something for everyone to enjoy.",
+                "image": "https://c1.staticflickr.com/5/4272/34825294656_e2ea6612c6_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ralph%20Stover%20State%20Park"
+            },
+            {
+                "name": "Ravensburg State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RavensburgStatePark",
+                "content": "Ravensburg State Park offers a peaceful setting for camping, hiking, fishing, and picnicking in the beautiful Loyalsock Creek valley.",
+                "description": "Ravensburg State Park, located in central Pennsylvania, is a hidden gem for outdoor enthusiasts. The park offers over 1,500 acres of lush forests, meadows, and picturesque mountain views perfect for hiking, picnicking, and wildlife viewing. Visitors can explore the park's network of trails, including the popular 2-mile Raven Trail, which offers stunning vistas of the surrounding countryside.\n\nFor those looking to cool off, the park features a refreshing swimming pool with a large sun deck and plenty of space to relax. Additionally, the park offers opportunities for camping, with both tent and RV sites available for overnight stays. Visitors can also enjoy fishing at the park's stocked lake, which is home to a variety of fish species.\n\nWhether you're seeking a peaceful retreat or an active outdoor adventure, Ravensburg State Park has something for everyone to enjoy. So, pack your hiking boots, fishing gear, and picnic basket, and come experience the beauty and tranquility of this hidden oasis in Pennsylvania.",
+                "image": "https://c1.staticflickr.com/5/4227/34022063424_35e78bce27_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ravensburg%20State%20Park"
+            },
+            {
+                "name": "Raymond B Winter State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RaymondBWinterStatePark",
+                "content": "Raymond B. Winter State Park is a 695-acre park in central Pennsylvania known for its scenic lake, fishing opportunities, and hiking trails.",
+                "description": "Raymond B. Winter State Park is located in central Pennsylvania and covers over 695 acres of lush forests and rolling hills. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, picnicking, and even camping at one of the designated campsites. The park is named after a former state forester who played a key role in the establishment and preservation of Pennsylvania's state forests. Wildlife enthusiasts will appreciate the diverse array of animals that call the park home, including deer, turkey, and a variety of bird species. With its peaceful atmosphere and stunning natural beauty, Raymond B. Winter State Park is the perfect destination for a relaxing day trip or weekend getaway.",
+                "image": "https://c1.staticflickr.com/5/4197/34478828940_13447d75f6_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Raymond%20B%20Winter%20State%20Park"
+            },
+            {
+                "name": "Reeds Gap State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/ReedsGapStatePark",
+                "content": "Reeds Gap State Park is a small park in the mountains of Central Pennsylvania, known for its scenic views, hiking trails, and peaceful atmosphere.",
+                "description": "Reeds Gap State Park is a picturesque park located in western Mifflin County, Pennsylvania. Visitors can enjoy the park's rugged beauty, which includes vast forests, steep slopes, and a pristine mountain stream.\n\nThe park is a popular destination for outdoor enthusiasts, offering a variety of recreational opportunities such as hiking, fishing, and picnicking. Hikers can explore over 6 miles of trails that wind through the park's diverse landscape.\n\nFishing is a favorite activity at Reeds Gap State Park, with Laurel Run stocked annually with trout. Anglers can try their luck catching a variety of fish species in the stream.\n\nFor those looking to extend their visit, the park offers camping opportunities with rustic tent and trailer sites available. Campers can enjoy the peace and tranquility of the park's natural surroundings while staying overnight.\n\nOverall, Reeds Gap State Park is a hidden gem for nature lovers seeking a peaceful escape in the heart of the Pennsylvania wilderness.",
+                "image": "https://c1.staticflickr.com/5/4275/34055562033_8b6ff4237d_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Reeds%20Gap%20State%20Park"
+            },
+            {
+                "name": "Ricketts Glen State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RickettsGlenStatePark",
+                "content": "Ricketts Glen State Park is known for its 22 beautiful waterfalls and diverse hiking trails in the heart of Pennsylvania.",
+                "description": "Ricketts Glen State Park in Pennsylvania is known for its stunning waterfalls, boasting 22 waterfalls along its hiking trails, including the famous 94-foot Ganoga Falls. Visitors can enjoy scenic views of the waterfalls from various vantage points on the Falls Trail, a challenging but rewarding hike that spans over seven miles. The park also offers camping, fishing, and boating opportunities on Lake Jean, as well as picnicking areas for families and groups to enjoy. Wildlife enthusiasts will appreciate the diverse array of flora and fauna that call Ricketts Glen State Park home, making it a perfect destination for nature lovers and outdoor adventurers.",
+                "image": "https://c1.staticflickr.com/5/4219/34734632221_1ed79bb90d_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ricketts%20Glen%20State%20Park"
+            },
+            {
+                "name": "Ridley Creek State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RidleyCreekStatePark",
+                "content": "Ridley Creek State Park in Pennsylvania offers over 2,600 acres of woodlands and meadows for visitors to explore through hiking, picnicking, fishing, and more.",
+                "description": "Ridley Creek State Park, located in Delaware County, Pennsylvania, offers visitors a diverse range of outdoor recreational activities. One of the most popular features of the park is the 5-mile long Ridley Creek, which provides opportunities for fishing, birdwatching, and peaceful walks along its banks. The park also boasts over 13 miles of hiking trails, suitable for all skill levels, that wind through lush forests and meadows. For history buffs, the park contains the Colonial Pennsylvania Plantation, a living history farm that showcases rural life in the late 18th century. Additionally, visitors can enjoy picnicking, horseback riding, and camping in designated areas throughout the park.",
+                "image": "https://c1.staticflickr.com/5/4270/34866209935_f063374f08_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ridley%20Creek%20State%20Park"
+            },
+            {
+                "name": "Ryerson Station State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/RyersonStationStatePark",
+                "content": "Ryerson Station State Park is a 1,164-acre park in the southwestern corner of Pennsylvania that offers opportunities for camping, picnicking, fishing, and hiking.",
+                "description": "Ryerson Station State Park in Pennsylvania offers visitors a picturesque setting with a beautiful 62-acre lake that provides great opportunities for fishing and boating. The park also features several miles of hiking and biking trails that wind through lush forests and open fields, providing stunning views of the surrounding countryside. For those looking to relax, there are picnic areas and a swimming pool to enjoy on warm summer days.\n\nOne of the highlights of Ryerson Station State Park is the historic and unique covered bridge that crosses the South Fork Dunkard Fork Creek. Visitors can take a leisurely stroll across the bridge and admire the craftsmanship of this architectural gem. In addition, the park offers camping facilities for those wanting to extend their stay and fully immerse themselves in the natural beauty of the area.\n\nWhether you are a nature enthusiast, outdoor adventurer, or history buff, Ryerson Station State Park has something for everyone to enjoy. From birdwatching and wildlife viewing to exploring the park's rich cultural heritage, there is no shortage of activities to keep visitors entertained and inspired. Be sure to pack your camera and capture the beauty of this hidden gem in southwestern Pennsylvania.",
+                "image": "https://c1.staticflickr.com/5/4199/34480047760_2a9bac47a8_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ryerson%20Station%20State%20Park"
+            },
+            {
+                "name": "Salt Springs State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SaltSpringsStatePark",
+                "content": "Salt Springs State Park offers a serene natural setting with a variety of outdoor recreational activities and unique historical features.",
+                "description": "Salt Springs State Park in Pennsylvania is a beautiful 405-acre park known for its natural springs that are high in minerals and salts. Visitors can explore over 15 miles of hiking trails that wind through forests, meadows, and wetlands, offering opportunities to spot a variety of wildlife. The park also features a historic 19th-century farmhouse that now serves as an environmental education center, offering programs and exhibits on the park's natural and cultural history. For those looking to relax and unwind, there are picnic areas, a swimming pool, and a rustic campground available for overnight stays. Whether you're interested in nature hikes, birdwatching, or simply enjoying the peaceful surroundings, Salt Springs State Park has something to offer for visitors of all ages.",
+                "image": "https://c1.staticflickr.com/5/4221/34735480451_bee39edae7_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Salt%20Springs%20State%20Park"
+            },
+            {
+                "name": "Samuel S. Lewis State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SamuelSLewisStatePark",
+                "content": "Samuel S. Lewis State Park is a peaceful park in Pennsylvania offering picnicking, hiking, and bird watching opportunities.",
+                "description": "Samuel S. Lewis State Park is a hidden gem located in York County, Pennsylvania, offering visitors a tranquil escape from the hustle and bustle of everyday life. The park boasts scenic views of the Susquehanna River and provides ample opportunities for hiking, picnicking, and birdwatching. Outdoor enthusiasts will appreciate the park's diverse ecosystem, which is home to a variety of plant and animal species. Additionally, the park features a boat launch for those looking to explore the river by kayak or canoe. With its peaceful atmosphere and beautiful surroundings, Samuel S. Lewis State Park is the perfect destination for nature lovers and adventurers alike.",
+                "image": "https://c1.staticflickr.com/5/4199/34827349116_c184f2e96d_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Samuel%20S.%20Lewis%20State%20Park"
+            },
+            {
+                "name": "Sand Bridge State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SandBridgeStatePark",
+                "content": "Sand Bridge State Park showcases the unique natural beauty of the Ridge and Valley region with a connecting pedestrian footbridge over the Juniata River.",
+                "description": "1. Sand Bridge State Park is a hidden gem located in central Pennsylvania, offering visitors a quiet and secluded escape from the hustle and bustle of everyday life. \n\n2. The park features a pristine sandy beach along the shore of the Susquehanna River, perfect for swimming, sunbathing, and picnicking with family and friends. \n\n3. Nature enthusiasts will enjoy exploring the park's lush forests and wetlands, where they can observe a variety of wildlife, including deer, birds, and possibly even bald eagles soaring overhead. \n\n4. Fishing is a popular activity at Sand Bridge State Park, with anglers casting their lines in search of bass, catfish, and other freshwater species that inhabit the river. \n\n5. Whether you're looking for a peaceful retreat or an outdoor adventure, Sand Bridge State Park offers something for everyone to enjoy in a tranquil natural setting.",
+                "image": "https://c1.staticflickr.com/5/4204/34867021955_d2373927b8_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sand%20Bridge%20State%20Park"
+            },
+            {
+                "name": "Shawnee State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/ShawneeStatePark",
+                "content": "Shawnee State Park is a 3,983-acre park located in Schellsburg, Pennsylvania, offering opportunities for hiking, fishing, swimming, and picnicking.",
+                "description": "Shawnee State Park is located in Bedford County, Pennsylvania and offers visitors over 3,900 acres of scenic beauty to explore. The park is home to the 451-acre Shawnee Lake, which provides opportunities for fishing, boating, and swimming. Hiking enthusiasts can enjoy over 15 miles of trails that wind through the park's forests and along the lake shore. Birdwatchers will appreciate the diverse array of bird species that call the park home, including osprey, bald eagles, and various waterfowl. The park also offers camping facilities, picnic areas, and a variety of recreational activities making it a perfect destination for outdoor enthusiasts of all ages.",
+                "image": "https://c1.staticflickr.com/5/4247/34480902240_da48f02861_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Shawnee%20State%20Park"
+            },
+            {
+                "name": "Shikellamy State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/ShikellamyStatePark",
+                "content": "Shikellamy State Park offers panoramic views of the Susquehanna River and Northumberland as well as opportunities for hiking, fishing, and picnicking.",
+                "description": "Shikellamy State Park is a stunning park located at the confluence of the Susquehanna River and the West Branch of the Susquehanna River in central Pennsylvania. Visitors to the park can enjoy a wide range of outdoor activities, including hiking, fishing, boating, and picnicking.\n\nOne of the highlights of Shikellamy State Park is the 360-degree panoramic view from the 80-foot-high scenic overlook, offering stunning vistas of the rivers and surrounding landscape. The park also features a marina with boat rentals, making it easy for visitors to explore the waterways and go fishing for bass, catfish, and more.\n\nFor those looking to explore on foot, the park offers several hiking trails of varying lengths and difficulties, including the Overlook Trail which leads to the scenic overlook. Birdwatchers will also enjoy the park, as it is home to a variety of bird species, including bald eagles and osprey.\n\nCamping is available at Shikellamy State Park, with both tent and RV sites available for overnight stays. With its beautiful natural surroundings and wealth of outdoor activities, Shikellamy State Park is a must-visit destination for nature lovers and outdoor enthusiasts in Pennsylvania.",
+                "image": "https://c1.staticflickr.com/5/4198/34704110872_f7c6966e1d_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Shikellamy%20State%20Park"
+            },
+            {
+                "name": "Simon B. Elliott State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SimonBElliottStatePark",
+                "content": "Simon B. Elliott State Park is a peaceful 220-acre park surrounded by mature forests and offering opportunities for hiking, picnicking, and wildlife watching.",
+                "description": "Simon B. Elliott State Park is a hidden gem located in Elk County, Pennsylvania, offering visitors a peaceful and secluded retreat in the heart of nature. The park boasts over 300 acres of lush forested land, perfect for hiking, wildlife watching, and picnicking. One of the highlights of the park is the beautiful Clarion River, where visitors can enjoy fishing, kayaking, and canoeing. The park also features several scenic overlooks, providing stunning views of the surrounding mountains and valleys. For those looking to extend their stay, Simon B. Elliott State Park offers camping facilities with both tent and RV sites available.",
+                "image": "https://c1.staticflickr.com/5/4196/34868417795_ba46043536_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Simon%20B.%20Elliott%20State%20Park"
+            },
+            {
+                "name": "Sinnemahoning State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SinnemahoningStatePark",
+                "content": "Sinnemahoning State Park is a 1,910-acre park in Pennsylvania known for its stunning scenery, elk viewing opportunities, and outdoor recreational activities.",
+                "description": "1. Sinnemahoning State Park is a hidden gem nestled in the Pennsylvania Wilds, offering visitors a retreat into the beauty of nature. The park features miles of hiking trails that wind through dense forests, providing opportunities for wildlife viewing and birdwatching.\n\n2. The park is home to the George B. Stevenson Dam, which creates the Sinnemahoning Reservoir, a popular spot for boating, fishing, and kayaking. Visitors can also enjoy picnicking by the water, with stunning views of the surrounding mountains.\n\n3. For those looking to stay overnight, Sinnemahoning State Park offers a variety of camping options, including tent and RV sites as well as rustic cabins. The park also has a campground store where visitors can purchase supplies and souvenirs.\n\n4. One of the park's highlights is the Wildlife Center, where visitors can learn about the diverse wildlife that call Sinnemahoning home. The center features interactive exhibits and educational programs for all ages, making it a great stop for families and nature enthusiasts.",
+                "image": "https://c1.staticflickr.com/5/4222/34737484641_07c94694f3_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sinnemahoning%20State%20Park"
+            },
+            {
+                "name": "Sizerville State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SizervilleStatePark",
+                "content": "Sizerville State Park offers a variety of outdoor activities such as camping, hiking, fishing, and picnicking in a scenic wooded setting.",
+                "description": "Sizerville State Park is a beautiful park located in the Pennsylvania Wilds, offering a remote and peaceful setting for visitors to enjoy. The park features over 400 acres of forested land, providing ample opportunities for hiking, bird watching, and wildlife viewing. One of the park's main attractions is the Sinnemahoning Creek, which flows through the park and provides a great spot for fishing and kayaking. Visitors can also explore the park's historic CCC-built picnic pavilions and visit the nearby Elk Country Visitor Center to learn more about the area's rich history and diverse wildlife. Whether you're looking to relax in nature or enjoy outdoor activities, Sizerville State Park offers something for everyone to enjoy.",
+                "image": "https://farm5.staticflickr.com/4219/34482853870_2130313813_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sizerville%20State%20Park"
+            },
+            {
+                "name": "Susquehanna State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SusquehannaStatePark",
+                "content": "Susquehanna State Park offers a variety of recreational activities, including hiking, fishing, boating, and picnicking along the Susquehanna River.",
+                "description": "Susquehanna State Park is located in Harford County, Maryland, along the scenic Susquehanna River. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, picnicking, and camping. The park also features a boat launch for boating and kayaking enthusiasts. With over 15 miles of trails, hikers can explore the park's diverse landscapes, including woodlands, meadows, and river banks. Birdwatchers will be delighted by the park's abundant wildlife, including bald eagles and osprey.",
+                "image": "https://c1.staticflickr.com/5/4252/34869018375_dbf2c28008_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Susquehanna%20State%20Park"
+            },
+            {
+                "name": "Susquehanna Riverlands\u00a0State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SusquehannaRiverlandsStatePark/Pages/default.aspx",
+                "content": "The Susquehanna Riverlands State Park offers stunning views of the Susquehanna River and diverse natural habitats for outdoor recreation and wildlife watching.",
+                "description": "Susquehanna Riverlands State Park offers a beautiful landscape with stunning views of the Susquehanna River, making it a picturesque spot for outdoor enthusiasts. Visitors can enjoy activities such as hiking, fishing, and birdwatching along the park's numerous trails and waterways. The park is also home to a variety of wildlife, including bald eagles, ospreys, and various species of migratory birds. A highlight of the park is the historic Zimmerman Center for Heritage, which provides information on the region's rich cultural and natural history. Whether you're looking to explore the great outdoors or learn about the area's heritage, Susquehanna Riverlands State Park is a must-visit destination.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Susquehanna%20Riverlands%C2%A0State%20Park"
+            },
+            {
+                "name": "Susquehannock State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SusquehannockStatePark",
+                "content": "Susquehannock State Park in Pennsylvania offers hiking, picnicking, and fishing opportunities along the Susquehanna River.",
+                "description": "1. Susquehannock State Park is located in Drumore Township, Lancaster County, Pennsylvania, nestled along the beautiful Susquehanna River. Visitors can enjoy stunning views of the river and surrounding woodlands while exploring the park's 224 acres of natural beauty.\n\n2. The park offers a variety of outdoor recreational activities, including hiking, picnicking, and birdwatching. There are several well-marked trails that wind through the park, providing hikers with opportunities to spot native wildlife and take in the peaceful scenery.\n\n3. Fishing enthusiasts will appreciate the park's access to the Susquehanna River, where they can cast a line in search of catfish, bass, and other freshwater species. Boating is also popular on the river, with a boat launch available for visitors to launch their watercraft.\n\n4. History buffs will enjoy exploring the remnants of Lock 12, part of the historic Susquehanna and Tidewater Canal, which once connected the Susquehanna River to the Chesapeake Bay. Interpretive signs throughout the park provide insight into the area's rich history and the importance of the canal system.\n\n5. Whether you're looking to relax by the river, get some exercise on the trails, or learn more about the region's history, Susquehannock State Park offers something for everyone to enjoy in a peaceful and natural setting.",
+                "image": "https://c1.staticflickr.com/5/4249/34829681106_13e5e8be67_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Susquehannock%20State%20Park"
+            },
+            {
+                "name": "Swatara State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/SwataraStatePark",
+                "content": "Swatara State Park offers outdoor recreation activities such as hiking, fishing, and camping in a serene natural setting.",
+                "description": "Swatara State Park is a beautiful getaway located along the Swatara Creek in southeastern Pennsylvania. Visitors can enjoy a wide range of recreational activities such as hiking, biking, picnicking, and fishing in this 3,520-acre park.\n\nOne of the highlights of Swatara State Park is the Swatara Rail Trail, a 10-mile scenic trail that winds through the park and offers stunning views of the surrounding landscape. For those looking to extend their stay, the park also offers camping facilities with both modern and rustic sites available.\n\nNature enthusiasts will appreciate the diverse wildlife and plant life found throughout the park, making it a great spot for birdwatching and nature photography. Additionally, history buffs can explore the remnants of the Union Canal, which once ran through the area and played a significant role in the region's transportation history.\n\nWhether you're seeking outdoor adventure or just a peaceful retreat in nature, Swatara State Park offers something for everyone to enjoy. Be sure to pack your hiking boots, fishing gear, and camera for a memorable visit to this scenic state park.",
+                "image": "https://farm5.staticflickr.com/4554/38412336886_2182ff836c_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Swatara%20State%20Park"
+            },
+            {
+                "name": "Tobyhanna State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/TobyhannaStatePark",
+                "content": "Tobyhanna State Park is a popular destination for outdoor enthusiasts, offering hiking, boating, fishing, and swimming opportunities in the beautiful Pocono Mountains region of Pennsylvania.",
+                "description": "Tobyhanna State Park is a beautiful 5,440-acre park located in the Pocono Mountains region of Pennsylvania. Visitors can enjoy a wide range of outdoor activities, including fishing, boating, hiking, and picnicking. The park's 170-acre Tobyhanna Lake is perfect for swimming, paddleboarding, and kayaking. For those looking to spend the night, the park offers camping facilities, including modern cabins and tent and RV campsites. With its scenic views, diverse wildlife, and year-round recreational opportunities, Tobyhanna State Park is a great destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://c1.staticflickr.com/5/4219/34829982416_e9b961ab33_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tobyhanna%20State%20Park"
+            },
+            {
+                "name": "Trough Creek State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/TroughCreekStatePark",
+                "content": "Trough Creek State Park offers stunning views, unique rock formations, and a variety of outdoor recreational activities for visitors to enjoy.",
+                "description": "Trough Creek State Park is a hidden gem nestled in the beautiful Raystown Lake region of Pennsylvania. Visitors can explore stunning overlooks, rocky gorges, and scenic waterfalls throughout the park's 541 acres. The park also features unique natural attractions like the balanced Rock and the Ice Mine, where visitors can witness ice accumulate even in the heat of summer. For those looking to relax, Trough Creek State Park offers a sandy beach area along its two-acre swimming lake, perfect for cooling off on a hot day. Hiking, fishing, picnicking, and camping are just a few of the outdoor activities that visitors can enjoy in this picturesque park.",
+                "image": "https://c1.staticflickr.com/5/4199/34830198766_bb6d9c8f1f_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Trough%20Creek%20State%20Park"
+            },
+            {
+                "name": "Tuscarora State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/TuscaroraStatePark",
+                "content": "Tuscarora State Park offers a 1,618-acre reservoir for fishing, boating, and swimming in addition to hiking trails and picnic areas.",
+                "description": "1. Tuscarora State Park, located in the beautiful Allegheny Mountains of Pennsylvania, offers visitors a peaceful escape into nature with its 1,618 acres of lush forests, rolling hills, and serene Lake Tuscarora.\n\n2. Outdoor enthusiasts will find plenty of recreational opportunities at the park, including hiking, mountain biking, fishing, boating, and swimming. The park boasts over 16 miles of hiking trails, ranging from easy strolls to challenging climbs with rewarding scenic views.\n\n3. Visitors can relax and unwind at the park's modern campground, which features 120 tent and trailer sites, as well as rustic cabins for those looking for a more immersive camping experience.\n\n4. Wildlife enthusiasts will delight in the diverse flora and fauna found throughout the park, including deer, turkey, and a variety of bird species. Birdwatchers can spot a wide range of migratory birds during peak seasons.\n\n5. Whether you're looking for a peaceful retreat in nature or an action-packed adventure, Tuscarora State Park has something for everyone to enjoy in every season. Don't forget to pack your camera to capture the stunning landscapes and memorable moments during your visit.",
+                "image": "https://c1.staticflickr.com/5/4225/34483817200_80b0c92f42_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tuscarora%20State%20Park"
+            },
+            {
+                "name": "Tyler State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/TylerStatePark",
+                "content": "Tyler State Park is a popular outdoor recreation destination located in Bucks County, Pennsylvania, featuring hiking and biking trails, picnicking areas, and a lake for fishing and boating.",
+                "description": "Tyler State Park is located in Bucks County, Pennsylvania and offers a beautiful escape for visitors looking to enjoy the great outdoors. With over 1,700 acres of rolling hills, wooded areas, and open fields, the park is perfect for hiking, picnicking, and birdwatching. Visitors can explore more than 20 miles of hiking trails that wind through the park's diverse landscape, offering opportunities to spot wildlife and take in stunning views. The park also features a popular disc golf course, as well as a large lake for fishing and boating. Whether you're looking for a peaceful day in nature or an active outdoor adventure, Tyler State Park has something for everyone to enjoy.",
+                "image": "https://c1.staticflickr.com/5/4219/34870170415_15ff967519_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tyler%20State%20Park"
+            },
+            {
+                "name": "Upper Pine Bottom State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/UpperPineBottomStatePark",
+                "content": "Upper Pine Bottom State Park is a small park located in Lycoming County that offers picnicking, hiking, and fishing opportunities along Upper Pine Creek.",
+                "description": "Upper Pine Bottom State Park is a hidden gem located in the heart of the PA Wilds, offering visitors a peaceful and secluded experience. Outdoor enthusiasts can enjoy activities such as hiking, fishing, picnicking, and wildlife watching in this beautiful natural setting. The park features a tranquil stream that runs through the area, providing a serene backdrop for relaxation and exploration. With its lush greenery and diverse plant and animal species, Upper Pine Bottom State Park is a great destination for nature lovers looking to escape the hustle and bustle of everyday life. Visitors can also take advantage of the park's rustic camping facilities to fully immerse themselves in the beauty of the surrounding wilderness.",
+                "image": "https://farm5.staticflickr.com/4270/34738935941_b625105878_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Upper%20Pine%20Bottom%20State%20Park"
+            },
+            {
+                "name": "Varden Conservation Area",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/VardenConservationArea",
+                "content": "Varden Conservation Area is a 140-acre park in Pennsylvania managed by the Department of Conservation and Natural Resources.",
+                "description": "The Varden Conservation Area is a hidden gem located in northwestern Pennsylvania, encompassing over 3,000 acres of pristine wilderness. Visitors can explore the area's lush forests, rolling hills, and scenic overlooks, providing a unique opportunity to connect with nature.\n\nThe park offers a variety of recreational activities, including hiking, biking, fishing, and birdwatching, making it the perfect destination for outdoor enthusiasts. With over 12 miles of trails winding through the park, visitors can easily spend a full day exploring all that Varden has to offer.\n\nOne of the highlights of the Varden Conservation Area is the picturesque Lake Pleasant, where visitors can paddle, swim, or simply relax on the sandy shores. The lake is also a great spot for picnicking, with several picnic areas scattered throughout the park.\n\nWildlife enthusiasts will be delighted to discover a diverse array of plant and animal species inhabiting the conservation area, from wildflowers and ferns to deer and songbirds. Be sure to keep an eye out for rare species, such as the endangered timber rattlesnake, which calls Varden home.\n\nWhether you're seeking solitude in nature or looking for a fun-filled day with family and friends, the Varden Conservation Area offers something for everyone. So pack your gear, lace up your hiking boots, and embark on a memorable outdoor adventure in this beautiful natural oasis.",
+                "image": "https://c1.staticflickr.com/5/4196/34059947973_dbf00db91c_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Varden%20Conservation%20Area"
+            },
+            {
+                "name": "Vosburg Neck State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/VosburgNeckStatePark/Pages/default.aspx",
+                "content": "Vosburg Neck State Park is a peaceful 100-acre park located at the confluence of the Susquehanna River and Tunkhannock Creek in northeastern Pennsylvania.",
+                "description": "Vosburg Neck State Park is a hidden gem located on a peninsula along the Susquehanna River in northeastern Pennsylvania. The park offers stunning views of the river and lush forests, making it a perfect spot for a peaceful retreat into nature.\n\nVisitors can enjoy a variety of outdoor activities at Vosburg Neck State Park, such as hiking, fishing, picnicking, and birdwatching. The park's diverse habitats attract a wide range of bird species, making it a great destination for bird enthusiasts.\n\nFor those interested in history, Vosburg Neck State Park also features the remains of an old canal system used in the 1800s, offering a glimpse into the region's past. The park's historic significance adds an extra layer of charm for visitors looking to explore the area.\n\nWith its tranquil setting and array of recreational opportunities, Vosburg Neck State Park is a must-visit destination for anyone seeking a peaceful escape in the great outdoors. Whether you're looking to relax by the water or explore the park's natural beauty, Vosburg Neck State Park has something for everyone to enjoy.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Vosburg%20Neck%20State%20Park"
+            },
+            {
+                "name": "Warriors Path State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/WarriorsPathStatePark",
+                "content": "Warriors Path State Park offers hiking, biking, picnicking, and fishing opportunities in a serene natural setting along the Juniata River.",
+                "description": "Warriors Path State Park in Pennsylvania offers visitors a variety of outdoor recreational activities such as hiking, picnicking, boating, fishing, and camping. The park features a 135-acre lake perfect for paddling and fishing with boat rentals available for visitors. Hikers can explore over 11 miles of scenic hiking trails that wind through the park's woodlands and along the lake shore. The park also has several picnic areas equipped with grills, perfect for a relaxing day out with family and friends. With its beautiful natural surroundings and abundance of activities, Warriors Path State Park is a must-visit destination for outdoor enthusiasts in Pennsylvania.",
+                "image": "https://c1.staticflickr.com/5/4271/34870411325_d19f84f104_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Warriors%20Path%20State%20Park"
+            },
+            {
+                "name": "Washington Crossing Historic Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/WashingtonCrossingHistoricPark",
+                "content": "Washington Crossing Historic Park is the site where General George Washington famously crossed the Delaware River during the Revolutionary War in 1776.",
+                "description": "1. Washington Crossing Historic Park in Pennsylvania is the site where General George Washington famously crossed the Delaware River on Christmas night in 1776 during the Revolutionary War. Visitors can explore the historic buildings, including the Thompson-Neely House, where soldiers were treated during the Continental Army's encampment.\n\n2. The park features reenactments of Washington's daring river crossing every December, allowing visitors to experience the dramatic event firsthand. Additionally, there are guided tours of the park's historic sites, providing insight into the challenges faced by Washington and his troops during their march to victory.\n\n3. Outdoor enthusiasts will enjoy the park's scenic trails for hiking and biking, offering beautiful views of the Delaware River and surrounding countryside. Birdwatchers will appreciate the diverse range of bird species that inhabit the park's natural habitats, including bald eagles and warblers.\n\n4. History buffs will find the park's visitor center to be a treasure trove of information on the Revolutionary War era, with exhibits, artifacts, and interactive displays highlighting the significance of Washington's crossing and its impact on American history. The park is a must-visit destination for those interested in learning more about this pivotal moment in the nation's founding.",
+                "image": "https://c1.staticflickr.com/5/4250/34830879936_f04fdc6f5b_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washington%20Crossing%20Historic%20Park"
+            },
+            {
+                "name": "Whipple Dam State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/WhippleDamStatePark",
+                "content": "Whipple Dam State Park in Pennsylvania offers a peaceful setting for outdoor activities such as fishing, hiking, and picnicking.",
+                "description": "Whipple Dam State Park is a beautiful natural oasis located in central Pennsylvania, offering visitors a peaceful escape from the hustle and bustle of everyday life. The park features a picturesque 22-acre lake where visitors can enjoy swimming, fishing, and boating activities. Additionally, there are several hiking trails that wind through the surrounding forests, providing opportunities to explore the local wildlife and take in stunning views of the park's lush landscapes.\n\nFor those looking to extend their stay, Whipple Dam State Park also offers camping facilities, including both tent and RV sites. The park's campground is equipped with modern amenities such as restrooms, showers, and a playground for children, ensuring a comfortable and enjoyable camping experience for all visitors.\n\nNature enthusiasts will appreciate the diverse ecosystems found at Whipple Dam State Park, which provide habitat for a variety of plant and animal species. Birdwatchers can spot a wide array of bird species throughout the park, making it an ideal destination for birding enthusiasts.\n\nOverall, Whipple Dam State Park offers a tranquil and scenic setting for visitors to reconnect with nature and enjoy outdoor activities year-round. Whether you're seeking a relaxing day by the lake or an adventurous hike through the woods, this hidden gem in central Pennsylvania has something for everyone to enjoy.",
+                "image": "https://c1.staticflickr.com/5/4272/34516600970_691ded66b6_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Whipple%20Dam%20State%20Park"
+            },
+            {
+                "name": "White Clay Creek Preserve",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/WhiteClayCreekPreserve",
+                "content": "White Clay Creek Preserve is a beautiful natural area in southeastern Pennsylvania with over 3,600 acres of forests, fields, and streams to explore.",
+                "description": "White Clay Creek Preserve is a natural oasis spanning over 1,300 acres in southeastern Pennsylvania. Visitors can explore miles of hiking trails, picnic areas, and even go fishing in the pristine waters of White Clay Creek.\n\nOne of the highlights of the preserve is the historic New London Road Covered Bridge, a charming spot for photos and a peaceful walk over the creek. The preserve is also home to a variety of wildlife, including deer, foxes, and a wide array of bird species, making it a popular spot for birdwatching.\n\nIn the winter, the preserve transforms into a winter wonderland, perfect for snowshoeing and cross-country skiing. The diverse ecosystem of the preserve ensures there is something to see and do for visitors of all interests and ages.\n\nNature enthusiasts will appreciate the abundance of native plant species and the tranquil atmosphere of White Clay Creek Preserve, making it a perfect destination for a day trip or weekend getaway.",
+                "image": "https://c1.staticflickr.com/5/4252/34863658326_04bd43501a_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=White%20Clay%20Creek%20Preserve"
+            },
+            {
+                "name": "Worlds End State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/WorldsEndStatePark",
+                "content": "Worlds End State Park is a 780-acre park known for its dramatic scenery, with a gorge and waterfalls along Loyalsock Creek, offering hiking, camping, and fishing opportunities.",
+                "description": "1. Worlds End State Park is a picturesque park located in the Endless Mountains region of Pennsylvania, offering visitors stunning views of rugged cliffs, deep ravines, and cascading waterfalls. It is a popular destination for outdoor enthusiasts, with plenty of hiking trails, fishing spots, and camping opportunities available.\n\n2. The Loyalsock Creek runs through the park, providing opportunities for kayaking, canoeing, and swimming in its clear waters. Visitors can also enjoy picnicking in scenic spots alongside the creek, or simply relaxing and taking in the natural beauty of the surrounding forest.\n\n3. The park is known for its unique geological formations, including the \"Rock Garden,\" a field of massive boulders left behind by the last glacier. These boulders create a challenging terrain for hikers to navigate, adding an element of excitement to exploring the park.\n\n4. In addition to outdoor recreation, Worlds End State Park offers educational programs and events for visitors of all ages. From guided hikes to wildlife watching opportunities, there are plenty of ways to learn about the park's natural and cultural history while enjoying the great outdoors.",
+                "image": "https://farm5.staticflickr.com/4570/38467669021_3f071d1a06_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Worlds%20End%20State%20Park"
+            },
+            {
+                "name": "Yellow Creek State Park",
+                "url": "https://www.dcnr.pa.gov/StateParks/FindAPark/YellowCreekStatePark",
+                "content": "Yellow Creek State Park is a 2,981-acre park in Indiana County known for its scenic lake, boating opportunities, and diverse wildlife.",
+                "description": "Yellow Creek State Park is a 2,981-acre park located in Indiana County, Pennsylvania. Visitors can enjoy activities such as swimming, boating, fishing, hiking, and picnicking at this beautiful park. The park features a 720-acre lake that is perfect for boating and fishing, with bass, trout, and catfish being common catches. Hikers can explore over 20 miles of trails, including the Lakeside Trail which offers stunning views of the lake. The park also has a campground for those looking to spend the night under the stars.",
+                "image": "https://c1.staticflickr.com/5/4222/34904488945_570e62237d_z.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Yellow%20Creek%20State%20Park"
+            }
+        ]
+    }
+}

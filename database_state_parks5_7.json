@@ -1,0 +1,614 @@
+{
+    "New Hampshire State Parks": {
+        "parks": [
+            {
+                "name": "Ahern State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/ahern-state-park",
+                "content": "Ahern State Park in Laconia, New Hampshire offers peaceful nature trails, swimming access, and picnic areas on the shores of Lake Winona.",
+                "description": "Ahern State Park, located in Laconia, New Hampshire, offers visitors a peaceful escape with its serene wooded surroundings and breathtaking views of Lake Winnisquam. The park is perfect for outdoor enthusiasts, offering opportunities for hiking, picnicking, and swimming in the crystal-clear waters of the lake. For those looking to explore the area by water, there are boat launches available for kayaking, canoeing, or fishing. The park also has a sandy beach area for sunbathing and relaxing, making it an ideal spot for a family day trip or weekend getaway. With its well-maintained trails and beautiful scenery, Ahern State Park is a must-visit destination for nature lovers and outdoor adventurers.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/ahern_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ahern%20State%20Park"
+            },
+            {
+                "name": "Androscoggin Wayside Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/androscoggin-wayside-park",
+                "content": "Androscoggin Wayside Park is a peaceful rest area along the Androscoggin River with picnic tables and beautiful views.",
+                "description": "Androscoggin Wayside Park is a beautiful 16-acre park located in Errol, New Hampshire, along the banks of the Androscoggin River. Visitors to the park can enjoy picnicking, fishing, and swimming in the calm waters of the river. The park also offers a boat launch for those looking to explore the scenic waterway by kayak or canoe. Nature enthusiasts will appreciate the park's peaceful setting, surrounded by lush forests and abundant wildlife. Androscoggin Wayside Park is a perfect spot for a relaxing day in nature with family and friends.",
+                "image": "https://www.nhstateparks.org/getmedia/953b1ca3-6cb6-4ed8-b376-1afbee508040/Androscoggin-Wayside-Park1.aspx?width=1222&height=475&ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Androscoggin%20Wayside%20Park"
+            },
+            {
+                "name": "Bear Brook State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/bear-brook-state-park",
+                "content": "Bear Brook State Park is the largest developed state park in New Hampshire, offering a variety of outdoor recreational activities.",
+                "description": "Bear Brook State Park is the largest developed state park in New Hampshire, offering over 10,000 acres of outdoor recreational opportunities. Visitors can enjoy hiking, biking, swimming, fishing, and picnicking in the park's picturesque surroundings. The park is also home to a large campground with over 100 sites for those looking to stay overnight. Additionally, history buffs can explore the park's fascinating past, which includes remnants of early settlement and an abandoned railway line. With diverse activities and natural beauty, Bear Brook State Park is a must-visit destination for outdoor enthusiasts in New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/bear-brook_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bear%20Brook%20State%20Park"
+            },
+            {
+                "name": "Beaver Brook Falls Wayside",
+                "url": "https://www.nhstateparks.org/find-parks-trails/beaver-brook-falls-wayside",
+                "content": "Beaver Brook Falls Wayside is a peaceful rest stop with picnic areas and a short trail leading to a picturesque waterfall in the White Mountains of New Hampshire.",
+                "description": "Beaver Brook Falls Wayside is a picturesque stop along Route 145 in Colebrook, New Hampshire, offering visitors a chance to enjoy the beauty of a stunning 80-foot waterfall. The short walk to the falls is easy and suitable for all ages, making it a great spot for a quick break during a road trip. Visitors can relax and take in the tranquil sounds of the rushing water, surrounded by a lush forest setting. Picnic tables are available for those looking to enjoy a meal or snack while taking in the natural beauty of the falls. Whether you're a local looking to unwind or a traveler passing through, Beaver Brook Falls Wayside is a hidden gem worth exploring.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/beaver-brook-falls_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beaver%20Brook%20Falls%20Wayside"
+            },
+            {
+                "name": "Bedell Bridge State Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/bedell-bridge-state-historic-site",
+                "content": "The Bedell Bridge State Historic Site is a preserved bridge that once connected New Hampshire and Vermont before being destroyed by a flood in 1979.",
+                "description": "Bedell Bridge State Historic Site in Haverhill, New Hampshire, is home to the remnants of the historic Bedell Covered Bridge, originally built in 1854. Visitors can explore the site and take in the beautiful views of the Ammonoosuc River, which helped shape the history of the region. The site offers picnic areas for visitors to enjoy a relaxing meal or snack while taking in the scenic surroundings. History buffs will appreciate the interpretive panels that provide information about the bridge's history and significance in the area. The site is a peaceful destination for those looking to connect with nature and learn about the rich history of New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/bedell-bridge_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bedell%20Bridge%20State%20Historic%20Site"
+            },
+            {
+                "name": "Cannon Mountain Aerial Tramway",
+                "url": "https://www.nhstateparks.org/find-parks-trails/cannon-mountain-aerial-tramway",
+                "content": "The Cannon Mountain Aerial Tramway is a scenic ride that takes visitors to the 4,080-foot summit of Cannon Mountain in Franconia Notch State Park.",
+                "description": "The Cannon Mountain Aerial Tramway is a must-visit attraction for visitors to New Hampshire, offering stunning views of the surrounding White Mountain National Forest. The tramway takes passengers to the 4,080-foot summit of Cannon Mountain, where they can enjoy panoramic views of Franconia Notch State Park and beyond.\n\nAt the summit, visitors can explore the observation deck, grab a bite to eat at the cafeteria, or take a hike along one of the many trails. On a clear day, it is possible to see as far as Mount Washington, the tallest peak in the Northeastern United States. The tramway operates year-round, allowing visitors to experience the beauty of the White Mountains in all seasons. Whether you're a nature lover, outdoor enthusiast, or simply seeking a memorable experience, the Cannon Mountain Aerial Tramway is sure to impress.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/cannon-aerial-tram_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cannon%20Mountain%20Aerial%20Tramway"
+            },
+            {
+                "name": "Cannon Mountain Ski Area",
+                "url": "https://www.nhstateparks.org/find-parks-trails/cannon-mountain-ski-area",
+                "content": "Cannon Mountain Ski Area offers premier skiing and riding in the White Mountains of New Hampshire.",
+                "description": "Cannon Mountain Ski Area is located in Franconia Notch State Park in the White Mountains of New Hampshire. Visitors to this ski area can enjoy stunning views of the surrounding mountains and valleys while skiing or snowboarding down the slopes. One of the highlights of Cannon Mountain is the Aerial Tramway, which takes guests to the 4,080-foot summit for breathtaking panoramic views. The ski area offers a variety of trails for all skill levels, from beginner to expert, making it suitable for both families and experienced skiers. Additionally, Cannon Mountain has a vertical drop of 2,180 feet, providing plenty of thrilling runs for all winter sports enthusiasts.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/cannon-mountain-ski-area_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cannon%20Mountain%20Ski%20Area"
+            },
+            {
+                "name": "Cardigan Mountain State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/cardigan-mountain-state-park",
+                "content": "Cardigan Mountain State Park offers hiking trails with stunning views and a fire tower lookout to enjoy panoramic vistas of the surrounding landscape.",
+                "description": "Cardigan Mountain State Park is located in the beautiful state of New Hampshire and offers visitors a unique hiking experience. The park features a challenging trail that leads to the summit of Mount Cardigan where hikers are rewarded with stunning panoramic views of the surrounding landscape. Visitors can also enjoy picnicking, camping, and bird watching within the park's boundaries.\n\nOne of the highlights of the park is the Cardigan Lodge, a cozy mountain lodge operated by the Appalachian Mountain Club. The lodge offers overnight accommodations for hikers looking to extend their stay and explore more of the area. Additionally, the park is home to a network of well-maintained trails that cater to hikers of all skill levels, making it a popular destination for outdoor enthusiasts.\n\nThe park's diverse ecosystem is also home to various wildlife species, making it a great spot for nature lovers to observe birds, mammals, and plant life. History buffs will appreciate that the park was once owned by Dartmouth College and has a rich cultural heritage that can be explored through interpretive exhibits and guided tours.\n\nOverall, Cardigan Mountain State Park offers visitors a chance to connect with nature, challenge themselves physically, and immerse themselves in the beauty of New Hampshire's wilderness. Whether you're a seasoned hiker or just looking for a peaceful retreat, this park has something for everyone to enjoy.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/cardigan-mountain_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cardigan%20Mountain%20State%20Park"
+            },
+            {
+                "name": "Cathedral Ledge State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/cathedral-ledge-state-park",
+                "content": "Cathedral Ledge State Park in New Hampshire offers stunning panoramic views of the surrounding White Mountains and is a popular destination for rock climbing and hiking.",
+                "description": "Cathedral Ledge State Park, located in North Conway, New Hampshire, offers stunning panoramic views of the White Mountains and Saco River Valley. Visitors can enjoy a variety of outdoor activities, including rock climbing, hiking, and picnicking.\n\nThe park is named after the massive rock formation known as Cathedral Ledge, which towers 500 feet above the valley below. Rock climbers come from all over to scale its vertical cliffs, which offer a variety of challenging routes for climbers of all skill levels.\n\nFor those looking for a more leisurely experience, there are several hiking trails that lead to the top of Cathedral Ledge, where visitors can take in the breathtaking views. The park also features a picnic area with tables and grills, making it the perfect spot for a family outing or a relaxing afternoon in nature.\n\nWhether you're an outdoor enthusiast or just looking for a peaceful escape from the hustle and bustle of everyday life, Cathedral Ledge State Park offers something for everyone to enjoy. Don't forget to bring your camera to capture the beauty of this unique natural wonder!",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/cathedral-ledge_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cathedral%20Ledge%20State%20Park"
+            },
+            {
+                "name": "Chesterfield Gorge Natural Area",
+                "url": "https://www.nhstateparks.org/find-parks-trails/chesterfield-gorge-natural-area",
+                "content": "Chesterfield Gorge Natural Area is a beautiful park with a scenic gorge, waterfalls, and hiking trails in New Hampshire.",
+                "description": "Chesterfield Gorge Natural Area is a stunning 13-acre park located in Chesterfield, New Hampshire that features a deep gorge carved out by the powerful currents of the Wilde River. Visitors can enjoy scenic hikes along the marked trails that wind through the wooded area, offering picturesque views of the rushing river and unique rock formations.\n\nOne of the highlights of Chesterfield Gorge is the 35-foot-tall wilderness waterfall that cascades over the granite ledges into a crystal-clear pool below, creating a tranquil and picturesque setting for visitors to relax and enjoy nature. The park also provides opportunities for birdwatching, fishing, and picnicking, making it a great spot for families and outdoor enthusiasts to spend a leisurely day in the great outdoors.\n\nFor those looking to explore further, Chesterfield Gorge is conveniently located near other popular outdoor destinations such as Pisgah State Park and the Connecticut River, offering plenty of opportunities for outdoor recreation and adventure. Visitors can immerse themselves in the natural beauty of the area, spotting wildlife, wildflowers, and unique geological features along the way.\n\nOverall, Chesterfield Gorge Natural Area provides a peaceful and scenic escape from the hustle and bustle of everyday life, allowing visitors to reconnect with nature and experience the beauty of New Hampshire's wilderness firsthand. Whether you're looking for a relaxing day by the river or an exciting outdoor adventure, Chesterfield Gorge has something to offer for everyone.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/chesterfield-gorge_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chesterfield%20Gorge%20Natural%20Area"
+            },
+            {
+                "name": "Clough State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/clough-state-park",
+                "content": "Clough State Park is located on the shore of Everett Lake and offers a sandy beach, picnic areas, and hiking trails.",
+                "description": "Clough State Park is a beautiful 77-acre park located in Weare, New Hampshire, offering visitors a serene escape surrounded by nature. The park features a large sandy beach along Everett Lake, perfect for swimming and sunbathing on hot summer days. In addition to water activities, visitors can enjoy picnicking, fishing, and hiking on the park's scenic trails. The park also has a boat launch for those looking to explore the lake by kayak or canoe. For those seeking a relaxing day outdoors, Clough State Park is the perfect destination to unwind and enjoy the natural beauty of New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/clough_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Clough%20State%20Park"
+            },
+            {
+                "name": "Coleman State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/coleman-state-park",
+                "content": "Coleman State Park is a peaceful park in New Hampshire offering camping, swimming, and hiking opportunities.",
+                "description": "Coleman State Park is a picturesque park located in northern New Hampshire, encompassing lush forests, pristine lakes, and scenic mountain views. Visitors can enjoy a variety of outdoor recreational activities such as hiking, fishing, boating, and swimming in the park's crystal-clear waters. The park offers a campground with both tent and RV sites, making it a perfect destination for a weekend getaway or extended stay. Nature enthusiasts will appreciate the abundant wildlife and diverse plant life found throughout the park, providing ample opportunities for birdwatching and photography. With its peaceful atmosphere and stunning natural beauty, Coleman State Park is a must-visit destination for anyone looking to escape the hustle and bustle of everyday life.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/Hero%20Images/coleman_hero_banner_1920x750_2023-2_1.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Coleman%20State%20Park"
+            },
+            {
+                "name": "Connecticut Lakes Headwaters Working Forest",
+                "url": "https://www.nhstateparks.org/find-parks-trails/connecticut-lakes-headwaters-working-forest",
+                "content": "The Connecticut Lakes Headwaters Working Forest is a 146,400-acre working forest in New Hampshire managed for sustainable timber harvest, recreation, and wildlife habitat conservation.",
+                "description": "The Connecticut Lakes Headwaters Working Forest is a unique conservation area in northern New Hampshire that covers over 146,000 acres of pristine wilderness. Visitors to the forest can explore miles of hiking trails, including the popular Cohos Trail which runs through the area. The forest is home to a variety of wildlife, including moose, black bear, and loons, making it a great spot for birdwatching and wildlife photography. Outdoor enthusiasts can enjoy fishing, paddling, and camping in this remote and beautiful setting. By visiting the Connecticut Lakes Headwaters Working Forest, visitors can support sustainable forestry practices and help preserve this valuable natural resource for future generations.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/clhwf_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Connecticut%20Lakes%20Headwaters%20Working%20Forest"
+            },
+            {
+                "name": "Crawford Notch State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/crawford-notch-state-park",
+                "content": "Crawford Notch State Park is a beautiful outdoor destination in the White Mountains known for its scenic vistas, hiking trails, and waterfalls.",
+                "description": "1. Crawford Notch State Park is located in the heart of the White Mountains in New Hampshire, offering visitors stunning views of towering peaks, crystal-clear streams, and lush forests.\n\n2. The park is a popular destination for hikers, with a network of trails ranging from easy walks to strenuous climbs. One highlight is the Crawford Path, the oldest continuously maintained hiking trail in the United States.\n\n3. Visitors can also enjoy scenic drives along the Kancamagus Highway, one of the most beautiful stretches of road in New England. The road passes through the park, offering breathtaking views of the surrounding mountains and valleys.\n\n4. Wildlife enthusiasts will appreciate the chance to spot moose, black bears, and other native species in their natural habitat. Birdwatchers will also find plenty to see, with a wide variety of species making their home in the park.\n\n5. Whether you're looking for a challenging hike, a scenic drive, or just a peaceful place to relax and enjoy nature, Crawford Notch State Park has something for everyone. Don't forget to bring your camera to capture the beauty of this stunning natural wonderland.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/crawford-notch-2_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Crawford%20Notch%20State%20Park"
+            },
+            {
+                "name": "Daniel Webster Birthplace",
+                "url": "https://www.nhstateparks.org/find-parks-trails/daniel-webster-birthplace",
+                "content": "The Daniel Webster Birthplace is a historic site in New Hampshire that preserves the childhood home of the famous American statesman.",
+                "description": "The Daniel Webster Birthplace in Franklin, New Hampshire is a historical site that commemorates the birthplace of the famous statesman and orator, Daniel Webster. Visitors can explore the restored farmhouse where Webster was born in 1782 and learn about his early life and political career. The site also features a museum with exhibits on Webster's impact on American history and culture. Guests can stroll through the surrounding countryside, which offers scenic views of the Merrimack River Valley and a deep connection to the landscape that shaped Webster's upbringing. The Daniel Webster Birthplace is a must-visit destination for history buffs, fans of American politics, and anyone interested in exploring New Hampshire's rich cultural heritage.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/daniel-webster_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Daniel%20Webster%20Birthplace"
+            },
+            {
+                "name": "Deer Mountain Campground",
+                "url": "https://www.nhstateparks.org/find-parks-trails/deer-mountain-campground",
+                "content": "Deer Mountain Campground is a small, primitive campground located near the Deer Mountain State Park in New Hampshire.",
+                "description": "Deer Mountain Campground is a rustic, secluded camping destination nestled within the White Mountain National Forest. Visitors can enjoy the peaceful surroundings and stunning views of nearby mountains, making it the perfect place to disconnect from the hustle and bustle of everyday life. The campground offers a variety of camping options, from tent sites to RV hook-ups, as well as amenities such as restrooms and potable water. Outdoor enthusiasts will appreciate the abundance of hiking trails and opportunities for wildlife viewing in the area. Whether you're looking for a weekend getaway or a longer adventure, Deer Mountain Campground provides a serene setting for your next camping trip.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/deer-mountain_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Deer%20Mountain%20Campground"
+            },
+            {
+                "name": "Dixville Notch State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/dixville-notch-state-park",
+                "content": "Dixville Notch State Park is a scenic park located in New Hampshire known for its beautiful waterfalls, hiking trails, and stunning views of the surrounding mountains.",
+                "description": "Dixville Notch State Park is a stunning 127-acre park located in the northern region of New Hampshire, offering breathtaking views of the surrounding mountains and forests. Visitors can explore the park's network of hiking trails, including the challenging Table Rock Trail which leads to a panoramic lookout point. The park is also home to the scenic Lake Gloriette, perfect for swimming and picnicking in the warmer months. Wildlife enthusiasts will enjoy the opportunity to spot a variety of bird species, moose, deer, and other native animals in their natural habitat. With its tranquil setting and diverse recreational opportunities, Dixville Notch State Park is a must-visit destination for outdoor enthusiasts looking to escape the hustle and bustle of everyday life.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/dixville-notch_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dixville%20Notch%20State%20Park"
+            },
+            {
+                "name": "Echo Lake State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/echo-lake-state-park",
+                "content": "Echo Lake State Park in New Hampshire offers beautiful views of the surrounding mountains and a sandy beach for swimming and picnicking.",
+                "description": "Echo Lake State Park is a picturesque park located in North Conway, New Hampshire. The park boasts stunning views of the surrounding White Mountains and is a popular spot for picnicking and swimming in the crystal-clear waters of Echo Lake. Visitors can also enjoy hiking on the park's network of scenic trails, including the popular Cathedral Ledge Trail which offers stunning views of the Saco River Valley. In the winter months, the park transforms into a snowy wonderland perfect for cross-country skiing and snowshoeing. With its beautiful scenery and variety of outdoor activities, Echo Lake State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/echo-lake-sp_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Echo%20Lake%20State%20Park"
+            },
+            {
+                "name": "Eisenhower Memorial Wayside",
+                "url": "https://www.nhstateparks.org/find-parks-trails/eisenhower-memorial-wayside",
+                "content": "The Eisenhower Memorial Wayside in New Hampshire honors President Dwight D. Eisenhower and features interpretive panels and a scenic overlook of the White Mountains.",
+                "description": "The Eisenhower Memorial Wayside in Randolph, New Hampshire, is a serene and picturesque spot where visitors can pay homage to President Dwight D. Eisenhower. The wayside features a memorial plaque and a stunning overlook with views of the Presidential Range in the White Mountains. Visitors can relax on benches and take in the peaceful surroundings while reflecting on Eisenhower's legacy as a great leader. This spot is a popular destination for hikers and nature lovers seeking a quiet place to rest and enjoy the beauty of the outdoors. The wayside is easily accessible by car and is a great starting point for exploring the nearby hiking trails and scenic vistas.",
+                "image": "https://www.nhstateparks.org/getmedia/0a6b0b49-31bf-48dc-99a1-19b405c5ba44/Eisenhower-Memorial-Wayside-Park1.aspx?width=1222&height=475&ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eisenhower%20Memorial%20Wayside"
+            },
+            {
+                "name": "Ellacoya State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/ellacoya-state-park",
+                "content": "Ellacoya State Park is a popular spot for swimming and picnicking on the shores of Lake Winnipesaukee in New Hampshire.",
+                "description": "Ellacoya State Park is a picturesque park located on the southwestern shore of Lake Winnipesaukee in Gilford, New Hampshire. The park boasts a beautiful sandy beach, popular for swimming and sunbathing during the summer months. Visitors can enjoy stunning views of the lake and surrounding mountains from the park's picnic areas and hiking trails. Boating and fishing are also popular activities at Ellacoya State Park, with a boat launch available for easy access to the lake. Additionally, the park offers modern amenities such as restrooms, showers, and a playground, making it a perfect destination for a fun-filled day by the water.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/ellacoya_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ellacoya%20State%20Park"
+            },
+            {
+                "name": "Endicott Rock Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/endicott-rock-historic-site",
+                "content": "Endicott Rock Historic Site is a boulder located in Weirs Beach, New Hampshire, inscribed by an early surveyor in 1652, marking the northernmost point of the Massachusetts Bay Colony.",
+                "description": "1. Endicott Rock Historic Site is a significant landmark in New Hampshire, as it marks the spot where the boundaries of the Massachusetts Bay Colony, New Hampshire, and the Province of Maine intersect.\n\n2. The rock was named after Governor John Endicott, who inscribed his name and the year 1652 on the boulder, making it one of the oldest inscribed rocks in North America.\n\n3. Visitors can view the rock and learn about its historical significance through interpretive signs and displays at the site.\n\n4. Endicott Rock is located in Weirs Beach, a popular tourist destination on Lake Winnipesaukee, making it a convenient stop for those exploring the area.\n\n5. This historic site offers a unique opportunity to connect with New Hampshire's colonial past and learn about the early history of the region.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/endicott-rock_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Endicott%20Rock%20Historic%20Site"
+            },
+            {
+                "name": "Flume Gorge",
+                "url": "https://www.nhstateparks.org/find-parks-trails/flume-gorge",
+                "content": "The Flume Gorge is a natural gorge located in Franconia Notch State Park in New Hampshire, known for its towering granite walls, cascading waterfalls, and wooden walkways.",
+                "description": "The Flume Gorge in New Hampshire is a natural wonder that attracts visitors from all over the world. This stunning 800-foot long gorge was formed by a glacier over 200 million years ago, creating a breathtaking canyon that is sure to leave visitors in awe. Visitors can walk along wooden boardwalks that wind through the gorge, providing stunning views of waterfalls, towering granite walls, and lush forests. The highlight of the gorge is the Flume Cascade, a 60-foot waterfall that is a must-see for nature lovers. The Flume Gorge is the perfect destination for hikers, photographers, and anyone looking to experience the beauty of New Hampshire's natural landscape.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/flume-gorge-hero-1_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Flume%20Gorge"
+            },
+            {
+                "name": "Forest Lake State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/forest-lake-state-park",
+                "content": "Forest Lake State Park is a tranquil spot offering swimming, picnicking, and exploring in a beautiful natural setting.",
+                "description": "Forest Lake State Park is a serene oasis located in New Hampshire, offering visitors a beautiful natural setting to explore. The park features a scenic lake perfect for swimming, fishing, and boating, with a sandy beach and designated swimming area for families to enjoy. Visitors can also take advantage of the park's picnic areas, hiking trails, and playground for a fun day outdoors. Birdwatchers will love the diverse array of bird species that call the park home, making it a prime spot for bird watching enthusiasts. Whether you're looking to relax by the water or explore the surrounding wooded areas, Forest Lake State Park offers something for everyone to enjoy.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/forest-lake_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Forest%20Lake%20State%20Park"
+            },
+            {
+                "name": "Fort Constitution Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/fort-constitution-historic-site",
+                "content": "Fort Constitution Historic Site in New Castle, New Hampshire, is a colonial-era military fort that played a significant role in protecting the Piscataqua River and Portsmouth Harbor.",
+                "description": "Fort Constitution Historic Site is located in New Castle, New Hampshire and overlooks the Piscataqua River. The fort has a rich history dating back to the early 17th century when it was originally called Fort William and Mary. Visitors can explore the grounds and see the remains of the original fort as well as the restored 19th-century tower. The site offers stunning views of the river and nearby harbor, making it a popular spot for picnicking and enjoying the scenery. History buffs will appreciate learning about the fort's role in various conflicts, including the American Revolution and the War of 1812.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/fort-constitution_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Constitution%20Historic%20Site"
+            },
+            {
+                "name": "Fort Stark State Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/fort-stark-state-historic-site",
+                "content": "Fort Stark State Historic Site in New Castle, New Hampshire is a former military fort that once protected the entrance of Portsmouth Harbor.",
+                "description": "Fort Stark State Historic Site is located in New Castle, New Hampshire, and offers visitors a glimpse into the history of coastal defenses during the early 20th century. The site features several well-preserved military structures, including a battery command post and gun mounts, that played a crucial role in protecting the Portsmouth Harbor. Visitors can explore the grounds on foot and enjoy stunning views of the surrounding coastline and ocean. The site also hosts special events and guided tours that provide in-depth insights into the history and significance of Fort Stark. Additionally, visitors can learn about the site's natural resources and enjoy activities such as hiking, picnicking, and wildlife viewing.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/fort-stark_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Stark%20State%20Historic%20Site"
+            },
+            {
+                "name": "Franconia Notch State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/franconia-notch-state-park",
+                "content": "Franconia Notch State Park is a scenic park in New Hampshire known for its stunning mountain views, hiking trails, and the iconic Flume Gorge.",
+                "description": "Franconia Notch State Park is a stunning natural gem located in the heart of the White Mountains of New Hampshire. Visitors can explore the park's many hiking trails, including the popular Franconia Ridge Trail which offers breathtaking views of the surrounding peaks.\n\nThe park is also home to the iconic Flume Gorge, a natural chasm with towering granite walls that visitors can walk through on a scenic boardwalk. Wildlife enthusiasts will enjoy the opportunity to spot moose, black bears, and other native species in their natural habitat.\n\nDuring the winter months, the park transforms into a winter wonderland with opportunities for skiing, snowshoeing, and ice climbing. The Cannon Mountain Ski Area offers a variety of challenging slopes for skiers and snowboarders of all levels.\n\nFor those looking to relax and unwind, Echo Lake Beach is a popular spot for swimming, picnicking, and enjoying the serene mountain views. With its diverse array of outdoor activities and natural beauty, Franconia Notch State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/franconia-notch-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Franconia%20Notch%20State%20Park"
+            },
+            {
+                "name": "Franconia Notch State Park - Echo Lake Beach",
+                "url": "https://www.nhstateparks.org/find-parks-trails/franconia-notch-state-park---echo-lake-beach",
+                "content": "Franconia Notch State Park - Echo Lake Beach features a sandy beach with stunning mountain views perfect for swimming and picnicking.",
+                "description": "Franconia Notch State Park - Echo Lake Beach is a beautiful spot nestled in the mountains of New Hampshire. Visitors can relax on the sandy beach and enjoy stunning views of the surrounding peaks. The beach area offers amenities such as restrooms, a snack bar, and kayak rentals for those looking to explore the lake. The clear, cool waters of Echo Lake are perfect for swimming, kayaking, or paddleboarding on a hot summer day. Hiking trails nearby offer even more opportunities to explore the natural beauty of Franconia Notch State Park.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/scenic-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Franconia%20Notch%20State%20Park%20-%20Echo%20Lake%20Beach"
+            },
+            {
+                "name": "Franconia Notch State Park - Lafayette Place Campground",
+                "url": "https://www.nhstateparks.org/find-parks-trails/franconia-notch-state-park---lafayette-place-campground",
+                "content": "Franconia Notch State Park - Lafayette Place Campground offers camping in the heart of the White Mountains, close to hiking trails and popular attractions like the Flume Gorge.",
+                "description": "1. Franconia Notch State Park - Lafayette Place Campground offers visitors a unique opportunity to camp in the heart of the White Mountains, surrounded by stunning natural beauty and outdoor recreational opportunities.\n\n2. Campers can enjoy hiking along the park's numerous trails, including the popular Franconia Ridge Trail, which offers breathtaking views of the surrounding mountains and valleys.\n\n3. The campground itself features spacious and well-maintained campsites, as well as amenities such as hot showers, flush toilets, and a camp store for any last-minute supplies.\n\n4. During their stay, visitors can explore nearby attractions such as the Flume Gorge, Cannon Mountain Aerial Tramway, and the Old Man of the Mountain Historic Site, all located within close proximity to the campground.\n\n5. Whether you're looking for a peaceful retreat in nature or an action-packed outdoor adventure, Franconia Notch State Park - Lafayette Place Campground has something for everyone to enjoy during their visit to New Hampshire's White Mountains.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/scenic-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Franconia%20Notch%20State%20Park%20-%20Lafayette%20Place%20Campground"
+            },
+            {
+                "name": "Franklin Pierce Homestead Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/franklin-pierce-homestead-historic-site",
+                "content": "The Franklin Pierce Homestead Historic Site is the home of the 14th president of the United States, showcasing the colonial-style house and grounds where Pierce spent his childhood.",
+                "description": "The Franklin Pierce Homestead Historic Site in Hillsborough, New Hampshire is the childhood home of the 14th President of the United States, Franklin Pierce. Visitors can tour the 19th-century farmhouse, which has been restored to its original appearance, complete with period furnishings and memorabilia.\n\nIn addition to the house, visitors can explore the surrounding grounds, which include a barn, carriage house, and gardens. The site offers a glimpse into the life of a prominent political figure and the history of New Hampshire during the mid-1800s.\n\nGuided tours are available, providing insights into Pierce's upbringing, political career, and family life. The site also hosts special events throughout the year, such as living history demonstrations and holiday celebrations. A visit to the Franklin Pierce Homestead Historic Site offers a fascinating look at one of New Hampshire's most famous citizens and a chance to step back in time to the Victorian era.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/franklin-pierce-interior-1_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Franklin%20Pierce%20Homestead%20Historic%20Site"
+            },
+            {
+                "name": "Gardner Memorial Wayside Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/gardner-memorial-wayside-park",
+                "content": "Gardner Memorial Wayside Park is a small, peaceful park in New Hampshire dedicated to the memory of a local conservationist.",
+                "description": "Gardner Memorial Wayside Park is a charming park located in Newport, New Hampshire that offers a peaceful retreat for visitors. The park boasts beautiful picnic areas where visitors can relax and enjoy a meal surrounded by the natural beauty of the area. Additionally, the park features a scenic overlook with stunning views of the Sugar River Valley, making it a great spot for photography enthusiasts.\n\nVisitors can also explore the park's hiking trails, which offer opportunities for leisurely strolls or more challenging hikes through the forested hills. The park is also home to a variety of wildlife, so keep an eye out for birds, deer, and other animals during your visit. Overall, Gardner Memorial Wayside Park provides the perfect escape for nature lovers looking to unwind and reconnect with the outdoors.",
+                "image": "https://www.nhstateparks.org/getmedia/5ec1981b-c75c-45cc-bb6e-50f549acd79c/Gardner-Memorial-Wayside-Park1.aspx?width=1222&height=475&ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gardner%20Memorial%20Wayside%20Park"
+            },
+            {
+                "name": "Governor Wentworth Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/governor-wentworth-historic-site",
+                "content": "The Governor Wentworth Historic Site in Wolfeboro, New Hampshire showcases the ruins of an 18th-century mansion owned by the influential Wentworth family.",
+                "description": "1. Governor Wentworth Historic Site, located in Wolfeboro, New Hampshire, offers visitors a glimpse into the region's colonial history. The site features the remains of the former residence of colonial Governor John Wentworth, which was constructed in the mid-18th century.\n\n2. Visitors to Governor Wentworth Historic Site can explore the restored Wentworth ice house, which was used for storing blocks of ice harvested from nearby Lake Wentworth in the 19th century. The ice house provides a fascinating look at how early New England residents preserved food before the advent of modern refrigeration techniques.\n\n3. In addition to the ice house, Governor Wentworth Historic Site also boasts a scenic picnic area overlooking Lake Wentworth. This peaceful spot is an ideal place for visitors to relax and enjoy the natural beauty of the surrounding landscape.\n\n4. History buffs will appreciate the interpretive panels located throughout Governor Wentworth Historic Site, which provide detailed information about the site's history and the people who once lived there. These panels offer valuable insights into the daily life and customs of colonial New Hampshire residents.\n\n5. Whether you're interested in history, architecture, or simply enjoying a peaceful outdoor setting, Governor Wentworth Historic Site has something to offer every visitor. Don't miss the opportunity to step back in time and experience the rich history of this fascinating colonial-era site.",
+                "image": "https://www.nhstateparks.org/getmedia/098a30cd-7412-44c0-a8c9-fd401596b9c6/Governor-Wentworth-Historic-Site1.aspx?width=1222&height=475&ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Governor%20Wentworth%20Historic%20Site"
+            },
+            {
+                "name": "Greenfield State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/greenfield-state-park",
+                "content": "Greenfield State Park offers peaceful camping, swimming, and hiking opportunities in a natural setting.",
+                "description": "Greenfield State Park is a beautiful 400-acre park located in Greenfield, New Hampshire, offering a wide range of outdoor recreational activities for visitors to enjoy. The park features a large sandy beach on Otter Lake, perfect for swimming and sunbathing during the warmer months. Visitors can also hike on over 6 miles of scenic trails that wind through the park's forests and meadows, providing opportunities to observe wildlife and enjoy the peaceful surroundings. Camping is popular at Greenfield State Park, with over 180 campsites available for both tents and RVs, as well as cabins for those who prefer a more comfortable stay. Whether you're looking to relax on the beach, explore the trails, or spend a night under the stars, Greenfield State Park is a perfect destination for outdoor enthusiasts of all ages.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/greenfield-1_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Greenfield%20State%20Park"
+            },
+            {
+                "name": "Hampton Beach State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/hampton-beach-state-park",
+                "content": "Hampton Beach State Park is a popular beach destination located in Hampton, New Hampshire, known for its sandy beach, scenic views, and family-friendly atmosphere.",
+                "description": "Hampton Beach State Park is a beautiful coastal park located in Hampton, New Hampshire. Visitors can enjoy stunning views of the Atlantic Ocean, with miles of sandy beaches perfect for swimming, sunbathing, and beachcombing. The park also offers amenities like picnic areas, restrooms, and outdoor showers, making it a convenient and comfortable place for families to spend the day. Nature enthusiasts can explore the park's diverse habitats, which are home to a variety of bird species and marine life. Additionally, Hampton Beach State Park hosts events and activities throughout the year, including concerts, sand sculpting competitions, and beach volleyball tournaments, providing entertainment for visitors of all ages.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/hampton-beach-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hampton%20Beach%20State%20Park"
+            },
+            {
+                "name": "Hannah Duston Memorial Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/hannah-duston-memorial-historic-site",
+                "content": "The Hannah Duston Memorial Historic Site commemorates the bravery of Hannah Duston, who in 1697 escaped from captivity by the Abenaki tribe after killing and scalping 10 of her captors.",
+                "description": "The Hannah Duston Memorial Historic Site in Boscawen, New Hampshire commemorates the story of Hannah Duston, a colonial woman who escaped captivity by Native Americans in 1697. Visitors can explore the memorial grounds which include a statue of Hannah Duston and several informational plaques detailing her harrowing journey. A short walk leads to a stunning view of the Merrimack River, providing a serene and peaceful setting for reflection. The site offers a unique opportunity to learn about the early history of New Hampshire and the struggles faced by settlers during this time period. The picturesque setting and historical significance of the site make it a must-visit for those interested in colonial history.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/hannah-duston_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hannah%20Duston%20Memorial%20Historic%20Site"
+            },
+            {
+                "name": "Jenness State Beach",
+                "url": "https://www.nhstateparks.org/find-parks-trails/jenness-state-beach",
+                "content": "Jenness State Beach is a beautiful sandy beach located in Rye, New Hampshire, perfect for sunbathing and swimming.",
+                "description": "Jenness State Beach is a popular destination along the New Hampshire coastline, known for its beautiful sandy beaches and stunning ocean views. Visitors can enjoy swimming, sunbathing, picnicking, and beachcombing at this picturesque spot. The beach is also a great spot for surfing and bodyboarding, with waves that are perfect for beginners and experienced surfers alike. Birdwatchers will appreciate the variety of shorebirds that can be spotted along the shore, making it a great spot for nature lovers as well. With its convenient location just minutes from downtown Portsmouth, Jenness State Beach is a must-visit destination for anyone looking to enjoy a day by the sea in New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/jenness-beach-2_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jenness%20State%20Beach"
+            },
+            {
+                "name": "Jericho Mountain State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/jericho-mountain-state-park",
+                "content": "Jericho Mountain State Park offers over 7,500 acres of outdoor recreational opportunities in the scenic North Country of New Hampshire.",
+                "description": "Jericho Mountain State Park is a popular destination for outdoor enthusiasts in New Hampshire, offering a range of activities such as hiking, biking, fishing, and ATV riding. The park features over 80 miles of trails, including the challenging Jericho Mountain Singletrack trail system for mountain bikers. Visitors can also enjoy picnicking by the lake, swimming, and wildlife viewing in the tranquil natural setting of the park. The park offers modern amenities such as restrooms, showers, and a campground for overnight stays. There are also opportunities for boating and snowmobiling in the winter months, making Jericho Mountain State Park a year-round destination for outdoor adventure.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/jericho-mtn-1_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jericho%20Mountain%20State%20Park"
+            },
+            {
+                "name": "Kingston State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/kingston-state-park",
+                "content": "Kingston State Park is a peaceful, wooded park offering hiking trails, swimming, picnicking, and fishing on its 44-acre lake in southern New Hampshire.",
+                "description": "Kingston State Park is a hidden gem located in southeastern New Hampshire, offering visitors a tranquil escape from the hustle and bustle of everyday life. The park features a beautiful sandy beach on the shores of Great Pond, perfect for swimming and sunbathing on a hot summer day. With picnic areas, volleyball courts, and a playground, Kingston State Park is a great destination for families looking to spend quality time together outdoors.\n\nFor those who enjoy fishing, the park also offers a boat launch and fishing docks, making it an ideal spot to cast a line and try to reel in a big catch. Nature enthusiasts will appreciate the park's scenic hiking trails, which wind through the wooded areas surrounding the pond and offer opportunities to spot wildlife and take in the natural beauty of the area. Whether you're looking for a relaxing day at the beach or an active outdoor adventure, Kingston State Park has something to offer for everyone.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/kingston_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kingston%20State%20Park"
+            },
+            {
+                "name": "Lake Francis State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/lake-francis-state-park",
+                "content": "Lake Francis State Park is a quiet and picturesque park located in northern New Hampshire, offering camping, fishing, and boating opportunities on the serene Lake Francis.",
+                "description": "Lake Francis State Park is a picturesque destination located in Pittsburgh, New Hampshire. Visitors can enjoy camping, fishing, boating, and swimming in the park's crystal clear waters. The park offers a variety of hiking trails that lead to scenic overlooks and wildlife viewing opportunities. There are also picnic areas and a playground for families to enjoy. Whether you are looking to relax by the water or explore the great outdoors, Lake Francis State Park has something for everyone.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/lake-francis_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Francis%20State%20Park"
+            },
+            {
+                "name": "Lake Tarleton State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/lake-tarleton-state-park",
+                "content": "Lake Tarleton State Park in Warren, New Hampshire offers a secluded and peaceful setting for camping, fishing, and water activities.",
+                "description": "Lake Tarleton State Park is a hidden gem located in the foothills of the White Mountains in New Hampshire. Visitors can enjoy a relaxing day of swimming and picnicking on the sandy beach of Lake Tarleton. The park also offers opportunities for hiking, fishing, and wildlife viewing along its scenic trails. Camping is available at the park's primitive campsites, providing a peaceful and secluded overnight experience in nature. With its tranquil atmosphere and stunning views, Lake Tarleton State Park is the perfect destination for outdoor enthusiasts looking to escape the hustle and bustle of everyday life.",
+                "image": "https://www.nhstateparks.org/getmedia/afab7bb1-a793-49f9-bfb8-b0a80773fb48/lake-tarleton-state-park1.aspx?width=1222&height=475&ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Tarleton%20State%20Park"
+            },
+            {
+                "name": "Livermore Falls Recreation Area",
+                "url": "https://www.nhstateparks.org/find-parks-trails/livermore-falls-recreation-area",
+                "content": "The Livermore Falls Recreation Area is a popular spot for swimming, picnicking, and sunbathing along the Pemigewasset River.",
+                "description": "The Livermore Falls Recreation Area, located in Plymouth, New Hampshire, offers visitors a beautiful natural setting with stunning views of the Pemigewasset River and waterfalls.\nOne of the main attractions of the park is the old stone bridge, which provides a picturesque backdrop for picnicking and relaxing by the river.\nVisitors can also enjoy swimming in the natural pools created by the cascading waterfalls, making it a popular spot for cooling off on hot summer days.\nFor those looking for more adventure, the area offers opportunities for fishing, hiking, and even cliff jumping for the more daring visitors.\nOverall, the Livermore Falls Recreation Area is a hidden gem in the White Mountains, perfect for a day trip or weekend getaway for outdoor enthusiasts.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/livermore-falls_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Livermore%20Falls%20Recreation%20Area"
+            },
+            {
+                "name": "Lodges at Coleman State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/lodges-at-coleman-state-park",
+                "content": "The Lodges at Coleman State Park offer rustic accommodations in a beautiful natural setting perfect for outdoor enthusiasts.",
+                "description": "The Lodges at Coleman State Park offer a unique lodging experience in the heart of the Great North Woods region of New Hampshire. Visitors can choose from two luxurious log homes, each with modern amenities and stunning views of Little Diamond Pond. The lodges are perfect for families or groups looking to enjoy outdoor activities like fishing, boating, hiking, and wildlife viewing in a peaceful and secluded setting. Guests can also enjoy campfires, stargazing, and exploring the nearby trails and scenic overlooks. Whether you're seeking a relaxing retreat or an adventure-filled vacation, the Lodges at Coleman State Park provide the perfect base for exploring the natural beauty of northern New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/Hero%20Images/coleman_hero_banner_1920x750_winter-2023.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lodges%20at%20Coleman%20State%20Park"
+            },
+            {
+                "name": "Madison Boulder Natural Area",
+                "url": "https://www.nhstateparks.org/find-parks-trails/madison-boulder-natural-area",
+                "content": "Madison Boulder Natural Area features the largest known glacial erratic in New England, a massive boulder estimated to weigh over 5,000 tons.",
+                "description": "Madison Boulder Natural Area is home to the largest known glacial erratic in North America, a massive boulder that weighs over 5,000 tons and measures 83 feet in length. Visitors can marvel at the sheer size of this boulder and learn about the geological processes that brought it here thousands of years ago.\n\nThis unique natural area offers opportunities for hiking and picnicking surrounded by beautiful forested landscapes and wildflowers. The boulder is a popular spot for climbing and bouldering for those looking for a more adventurous experience.\n\nInterpretive signs around the area provide information on the geology and history of the boulder, as well as the flora and fauna that call this natural area home. Birdwatchers will appreciate the variety of bird species that can be spotted in the surrounding woods, making it a great place for nature enthusiasts.\n\nVisitors can also explore nearby trails that wind through the natural area, providing opportunities to see more glacial features and enjoy the peaceful surroundings. Whether you're interested in geology, hiking, or simply taking in the beauty of nature, Madison Boulder Natural Area offers a unique and memorable experience for all who visit.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/madison-boulder_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Madison%20Boulder%20Natural%20Area"
+            },
+            {
+                "name": "Milan Hill State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/milan-hill-state-park",
+                "content": "Milan Hill State Park offers sweeping views of the White Mountains and features a network of hiking, snowmobile, and ATV trails for outdoor enthusiasts.",
+                "description": "Milan Hill State Park offers visitors a unique blend of outdoor recreation opportunities in the picturesque White Mountains of New Hampshire. With over 1,025 acres of forested land, this park is perfect for hiking, mountain biking, snowshoeing, and cross-country skiing.\n\nOne of the highlights of Milan Hill State Park is the fire tower that stands at the summit of the hill, offering breathtaking panoramic views of the surrounding mountains and valleys. The tower is open to the public for climbing, providing an exhilarating experience for those seeking an added adventure.\n\nVisitors can also enjoy picnicking at the park's designated picnic area, complete with tables and charcoal grills for a relaxing outdoor meal. Birdwatchers will delight in the diverse bird species that call the park home, making it a prime spot for wildlife enthusiasts.\n\nFor those looking to extend their stay, Milan Hill State Park offers primitive camping sites for a true wilderness experience. Whether staying for a day or a weekend, visitors will find plenty to explore and enjoy at this hidden gem in the heart of New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/milan-hill_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Milan%20Hill%20State%20Park"
+            },
+            {
+                "name": "Miller State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/miller-state-park",
+                "content": "Miller State Park offers stunning views of the surrounding area from the summit of Pack Monadnock.",
+                "description": "1. Miller State Park, located in Peterborough, New Hampshire, offers stunning panoramic views of the surrounding landscape from its summit at Pack Monadnock.\n2. Visitors can hike or drive to the summit where they can enjoy a picturesque picnic area while taking in the breathtaking vistas.\n3. The park features a variety of hiking trails, including the Wapack Trail, which traverses rocky outcroppings and scenic woodlands.\n4. Birdwatchers will delight in the diverse bird species that inhabit the park, including warblers, thrushes, and raptors.\n5. In the fall, visitors can witness the brilliant hues of autumn foliage as they explore the park's trails and take in the beauty of the changing seasons.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/miller_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Miller%20State%20Park"
+            },
+            {
+                "name": "Mollidgewock State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/mollidgewock-state-park",
+                "content": "Mollidgewock State Park is a remote and peaceful park along the Androscoggin River, perfect for fishing, camping, and enjoying nature.",
+                "description": "Mollidgewock State Park is a remote campground located on the Androscoggin River in northern New Hampshire, offering a peaceful escape for nature lovers. The park has 44 tent sites available for visitors looking to enjoy a quiet camping experience surrounded by the beauty of the White Mountains. Those seeking adventure can explore the nearby river for fishing, canoeing, or kayaking, or venture out on one of the hiking trails in the area. The park is also a great spot for birdwatching, with various species of birds found along the river and in the surrounding forests. Visitors should be prepared for a rustic camping experience, as there are no electrical hookups or showers at Mollidgewock State Park.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/mollidgewock_hero_banner_1920x750_1.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mollidgewock%20State%20Park"
+            },
+            {
+                "name": "Monadnock State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/monadnock-state-park",
+                "content": "Monadnock State Park is home to Mount Monadnock, one of the most frequently climbed mountains in the world.",
+                "description": "Monadnock State Park is located in Jaffrey, New Hampshire and is home to Mount Monadnock, one of the most climbed mountains in the world. The park offers over 40 miles of hiking trails, ranging from easy to challenging, making it a popular destination for outdoor enthusiasts. Visitors can enjoy breathtaking views of the surrounding landscape from the summit, which rises 3,165 feet above sea level. The park also features picnic areas, a campground, and a visitor center with interactive exhibits about the mountain's geology, flora, and fauna. Monadnock State Park is a perfect destination for a day trip or a weekend getaway for those looking to immerse themselves in nature.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/monadnock_hero_1920x750_2024.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Monadnock%20State%20Park"
+            },
+            {
+                "name": "Moose Brook State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/moose-brook-state-park",
+                "content": "Moose Brook State Park is a charming park in Gorham, New Hampshire, offering hiking, biking, swimming, and fishing opportunities.",
+                "description": "Moose Brook State Park is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as hiking, fishing, and picnicking. The park features a beautiful natural setting, with scenic views of the surrounding mountains and forests. Visitors can explore the park's network of hiking trails, which meander through the lush landscape and provide opportunities to spot wildlife such as moose, deer, and birds. The park also has a swimming pool and a campground, making it a great spot for a weekend getaway or a family outing. Additionally, Moose Brook State Park hosts special events and programs throughout the year, ensuring there's always something new and exciting to see and do during your visit.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/moose-brook_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Moose%20Brook%20State%20Park"
+            },
+            {
+                "name": "Mt. Sunapee State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/mt.-sunapee-state-park",
+                "content": "Mt. Sunapee State Park offers outdoor enthusiasts stunning views from the summit, miles of hiking trails, and a beautiful lake for swimming and boating.",
+                "description": "Mt. Sunapee State Park in Newbury, New Hampshire is a paradise for outdoor enthusiasts, offering a wide range of recreational activities including hiking, swimming, picnicking, and snowshoeing. Visitors can take a scenic chairlift ride to the summit of Mount Sunapee, where they can enjoy stunning panoramic views of Lake Sunapee and the surrounding mountains. The park also features a sandy beach on Lake Sunapee, perfect for swimming and sunbathing on hot summer days. For those looking for more adventure, there are several hiking trails that lead to the summit, offering a challenging but rewarding trek through the lush forests of the park. With its diverse natural beauty and abundance of activities, Mt. Sunapee State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/scenic-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mt.%20Sunapee%20State%20Park"
+            },
+            {
+                "name": "Mt. Washington State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/mt.-washington-state-park",
+                "content": "Mt. Washington State Park offers breathtaking views of New Hampshire's highest peak and surrounding mountains.",
+                "description": "1. Mt. Washington State Park is located in the heart of the White Mountains of New Hampshire and is home to the highest peak in the northeastern United States, Mt. Washington, standing at an impressive 6,288 feet.\n\n2. Visitors to the park can take the Mt. Washington Auto Road or the historic cog railway to reach the summit, where they will be rewarded with breathtaking panoramic views of the surrounding mountain ranges and valleys.\n\n3. For those looking to challenge themselves, the park offers a variety of hiking trails, including the famous Tuckerman Ravine Trail, known for its steep incline and challenging terrain.\n\n4. In the winter, Mt. Washington State Park is a popular destination for skiing, snowboarding, and snowshoeing, with opportunities for both beginners and experienced outdoor enthusiasts.\n\n5. Whether you visit during the peak of fall foliage or the snowy depths of winter, Mt. Washington State Park offers a truly unforgettable outdoor experience for all ages and abilities.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/scenic-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mt.%20Washington%20State%20Park"
+            },
+            {
+                "name": "Nansen Ski Jump State Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/nansen-ski-jump-state-historic-site",
+                "content": "The Nansen Ski Jump State Historic Site is home to the remnants of a once-popular ski jump in Milan, New Hampshire.",
+                "description": "The Nansen Ski Jump State Historic Site, located in Milan, New Hampshire, preserves the remains of one of the tallest ski jumps in the United States. Built in 1936, the ski jump was named after Fridtjof Nansen, a Norwegian explorer and humanitarian. Visitors can explore the site and learn about the history of ski jumping in New Hampshire.\n\nThe ski jump has a 225-foot vertical drop, making it a popular destination for ski jumpers in the 1930s and 1940s. The site also offers stunning views of the surrounding White Mountains and the Androscoggin River. Visitors can bring a picnic and enjoy the scenic beauty of the area while learning about the site's significance in the history of winter sports in New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/nansen-ski-jump_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nansen%20Ski%20Jump%20State%20Historic%20Site"
+            },
+            {
+                "name": "Nansen Wayside Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/nansen-wayside-park",
+                "content": "Nansen Wayside Park is a peaceful rest area located along the Androscoggin River in Milan, New Hampshire.",
+                "description": "Nansen Wayside Park is a beautiful and serene location located in Milan, New Hampshire. Visitors can enjoy stunning views of the Androscoggin River, which flows peacefully through the park.\n\nThe park offers several picnic areas, making it the perfect spot for a relaxing outdoor meal with family and friends. Visitors can also take advantage of the park's hiking and snowmobiling trails, providing a great opportunity to explore the area's natural beauty.\n\nNansen Wayside Park is named after Fridtjof Nansen, a Norwegian explorer, scientist, and humanitarian. It serves as a peaceful tribute to his legacy and commitment to the environment.\n\nOverall, Nansen Wayside Park is a hidden gem in northern New Hampshire, offering a tranquil escape from the hustle and bustle of everyday life. Whether you're looking for a quiet place to relax or an adventure in nature, this park has something for everyone.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/nansen-wayside_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nansen%20Wayside%20Park"
+            },
+            {
+                "name": "North Beach",
+                "url": "https://www.nhstateparks.org/find-parks-trails/north-beach",
+                "content": "North Beach State Park in Hampton, New Hampshire is a popular destination for beachgoers looking to relax by the ocean and enjoy the scenic views.",
+                "description": "1. North Beach is a popular destination for visitors looking to enjoy the beautiful sandy shores and cool waters of the Atlantic Ocean. \n\n2. This beach is located in Hampton, New Hampshire, and is known for its scenic views and family-friendly atmosphere. \n\n3. Visitors can take a relaxing stroll along the boardwalk, go for a swim in the ocean, or simply soak up the sun on the picturesque beach. \n\n4. North Beach also offers amenities such as restrooms, showers, and a playground, making it a convenient spot for families with children. \n\n5. Whether you're looking to relax by the water or enjoy some beach activities, North Beach has something for everyone to enjoy during their visit.",
+                "image": "https://www.nhstateparks.org/getmedia/a223e73d-bacc-4d10-a784-d3e8705e8420/North-Beach1.aspx?width=1222&height=475&ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Beach"
+            },
+            {
+                "name": "North Hampton State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/north-hampton-state-park",
+                "content": "North Hampton State Park is a small, scenic park offering sandy beaches and views of the Atlantic Ocean.",
+                "description": "North Hampton State Park is a beautiful coastal park located in North Hampton, New Hampshire. Visitors can enjoy picnicking, swimming, and sunbathing on the sandy beach with stunning views of the Atlantic Ocean. The park also offers opportunities for hiking and birdwatching along the scenic trails that wind through the surrounding salt marsh and woodlands. In addition, North Hampton State Park is a popular spot for fishing and kayaking in the calm waters of the Hampton Salt Marsh. Visitors can relax and unwind in this peaceful natural oasis just a short drive from the bustling city of Portsmouth.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/north-hampton_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Hampton%20State%20Park"
+            },
+            {
+                "name": "Northwood Meadows State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/northwood-meadows-state-park",
+                "content": "Northwood Meadows State Park features picturesque meadows, walking trails, and a pond for fishing and kayaking.",
+                "description": "Northwood Meadows State Park is a peaceful retreat located in the town of Northwood, New Hampshire. The park offers visitors a variety of outdoor activities including hiking, fishing, picnicking, and bird watching. With over 674 acres of pristine woodlands, wetlands, and a sparkling pond, the park is a haven for nature enthusiasts. The park also features a network of well-marked trails that are perfect for exploring the diverse ecosystems within the park. Visitors can enjoy a leisurely stroll through the forest or a more challenging hike up to the summit of Pine Hill for stunning views of the surrounding landscape.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/northwood-meadows_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Northwood%20Meadows%20State%20Park"
+            },
+            {
+                "name": "Odiorne Point State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/odiorne-point-state-park",
+                "content": "Odiorne Point State Park offers stunning ocean views, sandy beaches, and historic military ruins for visitors to explore.",
+                "description": "Odiorne Point State Park in Rye, New Hampshire offers visitors a beautiful coastal experience with sweeping ocean views, rocky shorelines, and sandy beaches. The park is home to the Seacoast Science Center, where visitors can learn about the local marine life and participate in hands-on educational programs. Nature enthusiasts will enjoy exploring the park's diverse habitats, including salt marshes, forests, and tidal pools. Birdwatchers will also appreciate the park's location on a major migratory route, making it a prime spot for spotting a variety of bird species. Additionally, the park has picnic areas, walking trails, and historic military installations that provide a fascinating glimpse into the area's rich history.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/odiorne-point_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Odiorne%20Point%20State%20Park"
+            },
+            {
+                "name": "Pawtuckaway State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/pawtuckaway-state-park",
+                "content": "Pawtuckaway State Park offers a variety of recreational activities including swimming, hiking, and camping in a beautiful natural setting.",
+                "description": "Pawtuckaway State Park is located in Nottingham, New Hampshire and is known for its beautiful landscapes and recreational activities. Visitors can enjoy hiking, swimming, boating, fishing, and picnicking in this picturesque park. The park also offers camping opportunities for those looking to spend the night under the stars. Wildlife enthusiasts will love the chance to spot birds, turtles, and other animals in their natural habitat. The park is a perfect destination for outdoor lovers looking to immerse themselves in nature and enjoy a variety of activities.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/pawtuckaway_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pawtuckaway%20State%20Park"
+            },
+            {
+                "name": "Pillsbury State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/pillsbury-state-park",
+                "content": "Pillsbury State Park is a remote and peaceful park located in the southwestern corner of New Hampshire, known for its serene ponds and extensive trail system for hiking and exploring.",
+                "description": "Pillsbury State Park, located in Washington, New Hampshire, is known for its serene and secluded atmosphere, making it the perfect destination for nature lovers looking to escape the hustle and bustle of city life. The park offers a variety of outdoor activities, such as hiking, fishing, and boating, allowing visitors to fully immerse themselves in the natural beauty of the area.\n\nOne of the highlights of Pillsbury State Park is the pristine and picturesque pond that is ideal for swimming and relaxing on hot summer days. The park also features several well-maintained hiking trails that wind through lush forests and offer stunning views of the surrounding landscape, making it a great spot for both casual strolls and more challenging hikes.\n\nCamping is a popular activity at Pillsbury State Park, with several campsites available for both tents and RVs. Whether you prefer a more secluded and rustic camping experience or the convenience of modern amenities, there is a camping option to suit every visitor's needs.\n\nWildlife enthusiasts will appreciate the abundance of birdwatching opportunities at Pillsbury State Park, as the area is home to a diverse array of bird species. Be sure to bring your binoculars and camera to capture sightings of woodpeckers, warblers, and other feathered friends during your visit to this tranquil and scenic park.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/pillsbury_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pillsbury%20State%20Park"
+            },
+            {
+                "name": "Pisgah State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/pisgah-state-park",
+                "content": "Pisgah State Park is the largest state park in New Hampshire, encompassing over 13,300 acres of forests, waterfalls, and hiking trails.",
+                "description": "Pisgah State Park is the largest state park in New Hampshire, with over 13,300 acres of diverse terrain to explore. Visitors can enjoy hiking, mountain biking, horseback riding, and fishing in this beautiful park. The park is also home to the Pisgah Reservoir, which offers opportunities for paddling and wildlife viewing. With over 50 miles of trails to choose from, there is something for everyone to enjoy at Pisgah State Park. Be sure to keep an eye out for the park's resident wildlife, including deer, moose, and a variety of bird species.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/pisgah_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pisgah%20State%20Park"
+            },
+            {
+                "name": "Rhododendron State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/rhododendron-state-park",
+                "content": "Rhododendron State Park in New Hampshire is home to the largest rhododendron grove in New England, making it a stunning spot for nature lovers and photographers alike.",
+                "description": "Rhododendron State Park, located in Fitzwilliam, New Hampshire, is home to the largest natural stand of Rhododendron maximum on the north-eastern United States.\n\nThis beautiful park is a popular destination for visitors looking to explore the colorful trails lined with vibrant pink and purple blooms during the summer months.\n\nThe park also offers picnic areas and a visitor center where guests can learn more about the unique flora and fauna found within the park.\n\nHiking and bird watching are popular activities at Rhododendron State Park, with over 2,700 acres of forest to explore and a variety of bird species to spot.\n\nVisitors to the park can also enjoy the serene atmosphere and peaceful surroundings, making it a perfect spot for a day of relaxation and outdoor adventure.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/rhododendron_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rhododendron%20State%20Park"
+            },
+            {
+                "name": "Robert Frost Farm Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/robert-frost-farm-historic-site",
+                "content": "The Robert Frost Farm Historic Site is the former home of beloved American poet Robert Frost, where he lived from 1900-1911 and wrote many of his best-known poems.",
+                "description": "The Robert Frost Farm Historic Site is the former home of renowned poet Robert Frost, located in Derry, New Hampshire. Visitors to the site can explore the farmhouse where Frost lived and wrote some of his most famous poems.\nThe property includes a beautiful stone wall, apple orchard, and walking trails that provide a peaceful and scenic setting for poetry lovers and nature enthusiasts. The site also hosts various events and programs throughout the year, such as poetry readings, workshops, and guided tours.\nVisitors can learn about Frost's life and work through exhibits and interactive displays in the museum located on the property. The site offers a unique opportunity to step back in time and experience the inspiration behind Frost's timeless poetry.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/robert-frost-farm_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Robert%20Frost%20Farm%20Historic%20Site"
+            },
+            {
+                "name": "Rollins State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/rollins-state-park",
+                "content": "Rollins State Park offers panoramic views of Lake Sunapee and the surrounding mountains from its summit, accessible by a scenic one-mile hike.",
+                "description": "Rollins State Park is nestled in Warner, New Hampshire and offers visitors stunning panoramic views of the surrounding mountains and Lake Sunapee. The park is famous for its historic fire tower, which visitors can climb to get even better views of the area. Hiking trails in the park cater to a range of skill levels, making it a great destination for outdoor enthusiasts of all abilities. The park is also a popular spot for picnicking and birdwatching, with a variety of bird species calling the area home. Visitors can also take advantage of the park's proximity to Lake Sunapee for swimming, boating, and fishing.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/CTA_hero-full/rollins_hero_std.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rollins%20State%20Park"
+            },
+            {
+                "name": "Rye Harbor State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/rye-harbor-state-park",
+                "content": "Rye Harbor State Park in New Hampshire offers stunning coastal views, a sandy beach, and a bustling harbor for visitors to explore.",
+                "description": "Rye Harbor State Park is located in Rye, New Hampshire and offers visitors stunning views of the Atlantic Ocean. The park features a sandy beach perfect for relaxing and sunbathing, as well as opportunities for swimming and paddleboarding. For those interested in wildlife viewing, the park is home to a variety of seabirds and seals that can be seen along the coastline. Visitors can also explore the rocky shores and tide pools, providing a unique experience for nature enthusiasts. Additionally, the park offers picnic areas and restroom facilities for added convenience during your visit.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/rye-harbor_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rye%20Harbor%20State%20Park"
+            },
+            {
+                "name": "Sculptured Rocks Natural Area",
+                "url": "https://www.nhstateparks.org/find-parks-trails/sculptured-rocks-natural-area",
+                "content": "Sculptured Rocks Natural Area features unique geological formations and a crystal-clear swimming hole in Groton, New Hampshire.",
+                "description": "Sculptured Rocks Natural Area is a unique geological site located in Groton, New Hampshire, featuring fascinating rock formations sculpted by the Cockermouth River over thousands of years. Visitors can explore the area's stunning rock walls, potholes, and cascading waterfalls along a short, scenic loop trail.\n\nThe natural area is a popular spot for picnicking, swimming, and rock hopping, making it a great destination for families and nature enthusiasts looking to cool off on a hot day. Interpretive signs along the trail provide information about the geological history of the area and the forces that shaped its striking features.\n\nThe natural area is managed by the New Hampshire Division of Parks and Recreation, which strives to preserve the site's natural beauty and educate visitors about its geology and ecology. Visitors are encouraged to pack out all trash and respect the fragile environment by staying on designated trails and avoiding climbing on or altering the rock formations.\n\nOverall, Sculptured Rocks Natural Area offers a tranquil escape into nature, where visitors can marvel at the impressive rock formations, relax by the river, and immerse themselves in the beauty of New Hampshire's natural landscape.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/sculptured-rocks_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sculptured%20Rocks%20Natural%20Area"
+            },
+            {
+                "name": "Silver Lake State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/silver-lake-state-park",
+                "content": "Silver Lake State Park is a popular spot for swimming, picnicking, and relaxing by the water in New Hampshire.",
+                "description": "Silver Lake State Park in New Hampshire is a popular destination for outdoor enthusiasts, offering a picturesque setting for swimming, fishing, and picnicking. The park features a sandy beach with clear, refreshing water perfect for cooling off on a hot summer day. Visitors can also explore the surrounding woods on hiking trails or enjoy a leisurely paddle in a kayak or canoe. The park is known for its stunning views of Mount Kearsarge, making it a great spot for photographers and nature lovers. With amenities such as picnic tables, grills, and a bathhouse, Silver Lake State Park is a great place for families to come together and enjoy a day in nature.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/silver-lake_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Silver%20Lake%20State%20Park"
+            },
+            {
+                "name": "South Beach - Hampton Beach State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/south-beach---hampton-beach-state-park",
+                "content": "South Beach at Hampton Beach State Park is a beautiful sandy beach that offers a more secluded and quiet experience compared to the main Hampton Beach.",
+                "description": "South Beach at Hampton Beach State Park is a beautiful and popular spot for visitors to relax and enjoy the sun along the Atlantic Ocean. The beach is known for its soft sand and clear blue waters, perfect for swimming and beachcombing. Visitors can also explore the seaside boardwalk, lined with shops, restaurants, and arcades. The park offers amenities such as restrooms, showers, and picnic areas, making it a great destination for families. With stunning views of the ocean and a vibrant atmosphere, South Beach is a must-visit destination for those looking to experience the best of Hampton Beach.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/scenic-4_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=South%20Beach%20-%20Hampton%20Beach%20State%20Park"
+            },
+            {
+                "name": "Taylor Mill Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/taylor-mill-historic-site",
+                "content": "The Taylor Mill Historic Site in Derry, New Hampshire preserves the remains of an early 19th century sawmill complex, offering visitors a glimpse into the region's industrial past.",
+                "description": "Taylor Mill Historic Site is a picturesque area in Derry, New Hampshire that offers visitors a glimpse into the town's rich history. The site features the fully restored Taylor Sawmill, a water-powered sawmill that dates back to the early 1800s. Visitors can take a self-guided tour of the mill and learn about the process of turning timber into lumber. The site also includes a blacksmith shop and a carriage shed, giving visitors a comprehensive look at life in 19th-century New Hampshire. Additionally, there are hiking trails and picnic areas for visitors to enjoy the natural beauty of the surrounding area.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/taylor-mill_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Taylor%20Mill%20Historic%20Site"
+            },
+            {
+                "name": "Umbagog Lake State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/umbagog-lake-state-park",
+                "content": "Umbagog Lake State Park offers a remote and scenic setting, perfect for experiencing the natural beauty of New Hampshire's North Woods region.",
+                "description": "Umbagog Lake State Park is located in the scenic Great North Woods region of New Hampshire, offering stunning views of the surrounding mountains and forests. Visitors can enjoy a variety of outdoor activities such as swimming, fishing, kayaking, and hiking along the park's many trails. The park is also home to a variety of wildlife, including moose, bald eagles, and loons, making it a prime spot for birdwatching and wildlife photography. Campers can choose from a range of camping options, from traditional tent sites to more modern RV hookups, all set against the backdrop of the beautiful Umbagog Lake. Whether you're looking for a peaceful retreat in nature or an action-packed adventure, Umbagog Lake State Park has something for everyone to enjoy.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/umbagog-lake_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Umbagog%20Lake%20State%20Park"
+            },
+            {
+                "name": "Wadleigh State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/wadleigh-state-park",
+                "content": "Wadleigh State Park is a small, tranquil park located on the shores of Kezar Lake in Sutton, New Hampshire, offering opportunities for swimming, picnicking, and fishing.",
+                "description": "Wadleigh State Park is a peaceful and picturesque park located on Kezar Lake in North Sutton, New Hampshire. Visitors can enjoy swimming, picnicking, and fishing on the shores of the pristine lake. The park also offers several miles of hiking trails with stunning views of the surrounding mountains. Camping is not allowed at the park, but day-use visitors can take advantage of the picnic areas and boat launch. Birdwatchers will appreciate the variety of bird species that can be spotted in the park, making it a great destination for nature lovers.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/wadleigh_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wadleigh%20State%20Park"
+            },
+            {
+                "name": "Wallis Sands State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/wallis-sands-state-park",
+                "content": "Wallis Sands State Park in Rye, New Hampshire offers a beautiful sandy beach, picnic areas, and stunning views of the Atlantic Ocean.",
+                "description": "Wallis Sands State Park, located in Rye, New Hampshire, is a beautiful coastal park known for its sandy beach and picturesque views of the Atlantic Ocean. The park offers visitors a variety of amenities, including restrooms, a bathhouse, and a concession stand for snacks and beach essentials.\n\nVisitors to Wallis Sands State Park can enjoy swimming, sunbathing, and picnicking on the sandy shores, or take a leisurely stroll along the shoreline to explore the natural beauty of the area. The park is also a popular spot for fishing and birdwatching, with a diverse array of marine life and bird species to observe.\n\nFor those looking to extend their stay, Wallis Sands State Park offers a campground with tent sites available for reservation. With its convenient location near the bustling town of Portsmouth and easy access to the ocean, this state park is a perfect destination for a fun and relaxing beach day or weekend getaway.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/wallis-sands_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wallis%20Sands%20State%20Park"
+            },
+            {
+                "name": "Weeks State Park & The John Wingate Weeks Historic Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/weeks-state-park-&-the-john-wingate-weeks-historic--------------------------site",
+                "content": "Weeks State Park is a beautiful park in Lancaster, New Hampshire with views of the White Mountains, and it also includes the John Wingate Weeks Historic Site, the former summer estate of the U.S. Secretary of War.",
+                "description": "Weeks State Park, located in Lancaster, New Hampshire, offers stunning views of the Presidential Range and the Connecticut River Valley. Visitors can enjoy hiking, picnicking, and wildlife viewing in this 420-acre park. The park is named after John Wingate Weeks, a conservationist and former U.S. Senator who played a key role in the creation of the National Park Service.\n\nThe John Wingate Weeks Historic Site, located within the park, includes the former summer estate of the Weeks family. The historic Colonial Revival mansion, known as the \"Castle in the Clouds,\" offers guided tours that provide insights into the life and legacy of John Wingate Weeks. The estate also features beautifully landscaped gardens and walking trails for visitors to explore.\n\nIn addition to its natural beauty and historic significance, Weeks State Park offers educational programs and events for visitors of all ages. From birding workshops to history lectures, there are plenty of opportunities to learn and connect with the park's rich heritage. Whether you're a nature lover, history buff, or simply looking for a peaceful retreat, Weeks State Park has something for everyone to enjoy.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Weeks%20State%20Park%20%26%20The%20John%20Wingate%20Weeks%20Historic%20Site"
+            },
+            {
+                "name": "Wellington State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/wellington-state-park",
+                "content": "Wellington State Park is a beautiful lakeside park located on the shores of Newfound Lake, offering sandy beaches, picnic areas, and scenic views.",
+                "description": "Wellington State Park is a beautiful park located on Newfound Lake in New Hampshire, offering stunning views of the surrounding mountains. Visitors can enjoy a swim in the clear waters of the lake, relax on the sandy beach, or take a leisurely stroll along the shoreline. The park also features a picnic area with tables and grills, making it a perfect spot for a family outing or a gathering with friends. Additionally, there are hiking trails nearby for those looking to explore the natural beauty of the area. Whether you're looking to soak up the sun or enjoy a peaceful day by the water, Wellington State Park has something for everyone.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/wellington_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wellington%20State%20Park"
+            },
+            {
+                "name": "Wentworth State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/wentworth-state-park",
+                "content": "Wentworth State Park features a two-mile stretch of sandy beach on the shores of scenic Wentworth Lake in New Hampshire.",
+                "description": "Wentworth State Park, located in Wolfeboro, New Hampshire, offers visitors a picturesque escape with its sandy beach and stunning views of Lake Wentworth. The park is perfect for swimming, picnicking, fishing, and boating, with canoe and kayak rentals available for those looking to explore the calm waters of the lake.\n\nVisitors can enjoy hiking and mountain biking on the park's network of trails, or simply relax on the beach and soak up the sun. The park also features a playground, volleyball court, and horseshoe pits, making it a great destination for families and groups looking for outdoor fun.\n\nWentworth State Park is a popular spot for birdwatching, with a variety of species to be spotted in the surrounding woodlands and wetlands. Be sure to bring your binoculars and keep an eye out for bald eagles, ospreys, and herons.\n\nFor those looking to extend their stay, the park offers 50 primitive campsites for tents and RVs, as well as a group camping area. With its peaceful setting and range of recreational activities, Wentworth State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/wentworth_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wentworth%20State%20Park"
+            },
+            {
+                "name": "Wentworth-Coolidge Mansion",
+                "url": "https://www.nhstateparks.org/find-parks-trails/wentworth-coolidge-mansion",
+                "content": "The Wentworth-Coolidge Mansion is a historic colonial-era home located in Portsmouth, New Hampshire, with stunning views of the waterfront.",
+                "description": "1. The Wentworth-Coolidge Mansion, located in Portsmouth, New Hampshire, is a stunning example of Georgian architecture and is one of the last remaining royal governor's residences in the United States.\n\n2. Built in 1750 by colonial Governor Benning Wentworth, the mansion was later expanded and renovated in the 19th century by the Coolidge family, who played a significant role in Portsmouth's maritime history.\n\n3. Visitors to the mansion can explore the beautifully preserved rooms, which showcase period furnishings, artwork, and decorative details that offer a glimpse into colonial New England life.\n\n4. The mansion is set on a picturesque 100-acre estate overlooking Little Harbor and features walking trails, gardens, and picnic areas for visitors to enjoy a leisurely stroll and take in the stunning coastal views.\n\n5. Guided tours of the mansion are available, providing visitors with a fascinating insight into the history of the building, its former residents, and the important role it played in shaping the cultural heritage of New Hampshire.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/wentworth-coolidge_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wentworth-Coolidge%20Mansion"
+            },
+            {
+                "name": "White Island Historical Site",
+                "url": "https://www.nhstateparks.org/find-parks-trails/white-island-historical-site",
+                "content": "White Island Historical Site is a picturesque island located off the coast of Rye, New Hampshire, showcasing a historic lighthouse and ruins dating back to the early 1800s.",
+                "description": "White Island Historical Site is located on an island in the beautiful Lake Winnipesaukee in New Hampshire. Visitors can explore the remains of the historic White Island Lighthouse, which was built in 1859 and is the oldest lighthouse in the state. The island also features a charming keeper's house, which has been restored and is open to the public for tours. Guests can take a boat tour to the island and learn about the fascinating history of the lighthouse and the keepers who lived there. The picturesque setting of White Island makes it a perfect destination for history buffs and nature lovers alike.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/white-island_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=White%20Island%20Historical%20Site"
+            },
+            {
+                "name": "White Lake State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/white-lake-state-park",
+                "content": "White Lake State Park offers a picturesque setting for swimming, hiking, fishing, and camping in the heart of the White Mountains.",
+                "description": "White Lake State Park in New Hampshire offers a picturesque setting with a beautiful sandy beach and clear, refreshing waters perfect for swimming. Visitors can also enjoy boating, fishing, and picnicking in the park, making it an ideal spot for a day of outdoor fun with family and friends. The park's hiking trails offer stunning views of the surrounding White Mountains and are great for nature lovers looking to explore the area. The park also features a campground with both tent and RV sites, providing a convenient option for those looking to extend their stay and enjoy all that the park has to offer. With its peaceful atmosphere and range of activities, White Lake State Park is a must-visit destination for anyone looking to experience the beauty of New Hampshire's outdoor scenery.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/white-lake_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=White%20Lake%20State%20Park"
+            },
+            {
+                "name": "Winslow State Park",
+                "url": "https://www.nhstateparks.org/find-parks-trails/winslow-state-park",
+                "content": "Winslow State Park offers stunning views of Mount Kearsarge and Cascade Marsh from its picnic areas and hiking trails.",
+                "description": "Winslow State Park is located in southwestern New Hampshire and offers stunning views of Mount Monadnock. Visitors can enjoy hiking trails that wind through the park's scenic forests and meadows, providing opportunities for birdwatching and wildlife viewing. The park also has a small pond where visitors can fish for trout and enjoy a peaceful picnic by the water. Camping is available at Winslow State Park, with tent sites nestled among the trees offering a tranquil setting for a night under the stars. Overall, Winslow State Park provides a peaceful escape into nature with plenty of recreational activities for visitors to enjoy.",
+                "image": "https://www.nhstateparks.org/NHStateParks/media/NHStateParks/New_Hero-Banners/Park-Page-Banners/winslow_hero_1920x750.jpg?ext=.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Winslow%20State%20Park"
+            }
+        ]
+    }
+}

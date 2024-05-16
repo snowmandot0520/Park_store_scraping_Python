@@ -1,0 +1,398 @@
+{
+    "New Jersey State Parks": {
+        "parks": [
+            {
+                "name": "Abram S. Hewitt State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/abramshewittstateforest.html",
+                "content": "The Abram S. Hewitt State Forest offers a rugged and challenging landscape for outdoor enthusiasts to explore and enjoy.",
+                "description": "1. Abram S. Hewitt State Forest is a beautiful 973-acre forest located in the heart of Passaic County, New Jersey. Visitors can stroll along scenic hiking trails, enjoy a picnic by the serene Greenwood Lake, or try their hand at fishing in Bearfort Waters. \n\n2. The forest is named after Abram Stevens Hewitt, a prominent 19th-century industrialist and philanthropist who played a key role in the development of the surrounding area. His legacy lives on in this peaceful and natural setting, perfect for a day of relaxation and exploration.\n\n3. Birdwatchers will delight in the diverse array of avian species that call the forest home, including warblers, woodpeckers, and hawks. Binoculars are a must for any nature enthusiast looking to catch a glimpse of these winged wonders in their natural habitat.\n\n4. History buffs will appreciate the remnants of the past that can still be found within the forest, such as old stone walls and foundations from the 19th-century iron mining and charcoal production operations that once thrived in the area. Interpretive signage provides insight into the forest's rich industrial heritage.\n\n5. Whether you're seeking a peaceful escape from the hustle and bustle of daily life, a scenic spot for outdoor recreation, or a glimpse into the region's history, Abram S. Hewitt State Forest offers something for everyone to enjoy. Don't forget to pack a camera to capture the beauty of this hidden gem in northern New Jersey.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Abram%20S.%20Hewitt%20State%20Forest"
+            },
+            {
+                "name": "Allamuchy Mountain State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/allamuchymountainstatepark.html",
+                "content": "Allamuchy Mountain State Park offers scenic views, varied terrain for hiking and mountain biking, and several water activities in its 9,000-acre expanse.",
+                "description": "Allamuchy Mountain State Park covers over 9,000 acres of rugged and scenic terrain in northern New Jersey. Visitors can enjoy a variety of outdoor activities, including hiking, mountain biking, and horseback riding on the park's extensive trail system. The park also offers opportunities for fishing and birdwatching, with several picturesque lakes and ponds throughout the area. For those looking to extend their stay, there are campsites available for overnight camping. With its diverse landscape and abundant wildlife, Allamuchy Mountain State Park is a great destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Allamuchy%20Mountain%20State%20Park"
+            },
+            {
+                "name": "Farny State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/farnystatepark.html",
+                "content": "Farny State Park is a serene natural area known for its diverse wildlife and picturesque hiking trails in Morris County, New Jersey.",
+                "description": "Farny State Park is a beautiful outdoor destination nestled in the heart of New Jersey's Highlands region. Visitors can explore over 3,500 acres of lush forests, meandering streams, and serene lakes. The park offers multiple trails for hiking, mountain biking, and horseback riding, providing opportunities for outdoor enthusiasts of all levels. History buffs can also visit remnants of the Morris Canal, which once transported coal, iron, and other goods through the area. With its stunning natural scenery and diverse recreational opportunities, Farny State Park is a hidden gem waiting to be discovered.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Farny%20State%20Park"
+            },
+            {
+                "name": "High Point State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/highpointstatepark.html",
+                "content": "High Point State Park offers stunning panoramic views from the highest point in New Jersey, along with camping, fishing, and hiking opportunities for outdoor enthusiasts.",
+                "description": "High Point State Park is the highest point in New Jersey, offering visitors stunning panoramic views of the surrounding landscape from its famous Monument. The park features over 50 miles of hiking trails, including part of the Appalachian Trail, making it a popular destination for outdoor enthusiasts. In addition to hiking, visitors can enjoy fishing, picnicking, and camping in designated areas within the park. The park is also home to Lake Marcia, a popular spot for swimming and paddle boating during the summer months. With its beautiful scenery and wide range of recreational activities, High Point State Park is a must-visit destination for nature lovers in New Jersey.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=High%20Point%20State%20Park"
+            },
+            {
+                "name": "Hopatcong State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/hopatcongstatepark.html",
+                "content": "Hopatcong State Park is a tranquil lakefront park in New Jersey offering swimming, fishing, picnicking, and hiking opportunities for visitors.",
+                "description": "Hopatcong State Park is located on the shores of Lake Hopatcong, the largest freshwater body in New Jersey. Visitors can enjoy a variety of recreational activities such as swimming, boating, fishing, and picnicking. The park also offers a playground, hiking trails, and a bird-watching area for nature enthusiasts. With stunning views of the lake and surrounding mountains, Hopatcong State Park is a perfect destination for a day of outdoor fun and relaxation. Additionally, the park hosts events and programs throughout the year, making it a great spot for families, friends, and individuals looking to connect with nature.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hopatcong%20State%20Park"
+            },
+            {
+                "name": "Jenny Jump State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/jennyjumpstateforest.html",
+                "content": "Jenny Jump State Forest is a 4,466-acre park in Warren County, New Jersey known for its rugged terrain, stunning views, and a variety of recreational activities such as hiking, camping, and birdwatching.",
+                "description": "Jenny Jump State Forest is located in Warren County, New Jersey and is a popular destination for outdoor enthusiasts. The forest offers over 14 miles of trails for hiking, mountain biking, and horseback riding, providing stunning views of the surrounding countryside. Visitors can also enjoy picnicking, camping, and fishing at nearby Jenny Jump Lake. The forest is named after Jenny Jump Mountain, a prominent geological feature in the area that folklore claims got its name from a young girl named Jenny who leaped from the mountain to escape capture by Native Americans. With its diverse ecosystem and recreational opportunities, Jenny Jump State Forest is a must-visit destination for nature lovers in New Jersey.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jenny%20Jump%20State%20Forest"
+            },
+            {
+                "name": "Kittatinny Valley State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/kittatinnyvalleystatepark.html",
+                "content": "Kittatinny Valley State Park is a sprawling park in northwestern New Jersey known for its picturesque landscapes and diverse wildlife.",
+                "description": "Kittatinny Valley State Park is a beautiful outdoor destination located in Sussex County, New Jersey. Visitors can enjoy a variety of outdoor activities such as hiking, biking, fishing, and birdwatching throughout the park's 5,600 acres of rolling hills and scenic vistas.\n\nOne of the highlights of the park is the Paulinskill Valley Trail, a 27-mile multi-use trail that follows the route of the former New York, Susquehanna, and Western Railway. This trail offers stunning views of the surrounding countryside and is perfect for hiking, biking, or horseback riding.\n\nNature lovers will also appreciate the park's diverse wildlife and plant species, including bald eagles, red-tailed hawks, and wild turkeys. The park is a designated Important Bird Area, making it a popular destination for birdwatchers looking to spot a variety of species in their natural habitat.\n\nFor those looking to relax and unwind, the park offers several picnic areas and playgrounds, making it a great spot for a family day out. With its tranquil surroundings and abundance of outdoor activities, Kittatinny Valley State Park is the perfect destination for nature enthusiasts and outdoor adventurers alike.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kittatinny%20Valley%20State%20Park"
+            },
+            {
+                "name": "Long Pond Ironworks State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/longpondironworksstatepark.html",
+                "content": "Long Pond Ironworks State Park is a historic site in Ringwood, New Jersey, featuring remnants of a 19th-century ironworking village.",
+                "description": "Long Pond Ironworks State Park is a historic site located in Hewitt, New Jersey that offers visitors a glimpse into the area's industrial past. The park is home to the remnants of an 18th-century ironworks village, including a blast furnace, waterwheel, and blacksmith shop. Visitors can explore the extensive hiking trails that wind through the surrounding woodlands, offering picturesque views of the Wanaque Reservoir. The park also features various picnic areas, making it a great spot for a day trip or family outing. For history buffs, guided tours are available to learn more about the ironworks and the role it played in shaping the region's economy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Long%20Pond%20Ironworks%20State%20Park"
+            },
+            {
+                "name": "Norvin Green State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/norvingreenstateforest.html",
+                "content": "Norvin Green State Forest is a 5,416-acre park located in northern New Jersey, offering visitors opportunities for hiking, fishing, and wildlife watching in a scenic woodland setting.",
+                "description": "Norvin Green State Forest in New Jersey is a popular destination for outdoor enthusiasts, offering over 4,000 acres of diverse landscapes to explore. Visitors can enjoy hiking along the miles of scenic trails, with options ranging from easy strolls to challenging climbs. The forest is home to several picturesque waterfalls, including the iconic Chikahoki Falls, which make for great photo opportunities. Birdwatchers will also appreciate the abundance of avian species that call Norvin Green State Forest home, making it a great spot for birdwatching. For those looking to extend their stay, the forest offers several camping areas for overnight stays in the midst of nature.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Norvin%20Green%20State%20Forest"
+            },
+            {
+                "name": "Ramapo Mountain State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/ramapomountainstateforest.html",
+                "content": "Ramapo Mountain State Forest offers hiking trails, scenic views, and a variety of recreational activities in a natural setting.",
+                "description": "Ramapo Mountain State Forest is a sprawling 4,200-acre park located in Bergen and Passaic counties in New Jersey. Visitors can enjoy a variety of recreational activities, including hiking, mountain biking, and horseback riding on over 30 miles of scenic trails. The forest is home to diverse wildlife, including birds, deer, and black bears, making it a great spot for nature lovers and wildlife enthusiasts. One of the highlights of the forest is the Ramapo Lake, a picturesque spot for fishing, picnicking, and canoeing. Additionally, the forest has several designated camping areas for those looking to spend a night under the stars in a peaceful natural setting.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ramapo%20Mountain%20State%20Forest"
+            },
+            {
+                "name": "Ringwood State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/ringwoodstatepark.html",
+                "content": "Ringwood State Park is a sprawling 4,444-acre park located in the heart of the Ramapo Mountains, offering a variety of outdoor activities such as hiking, fishing, swimming, and picnicking.",
+                "description": "Ringwood State Park, located in the heart of the Ramapo Mountains in New Jersey, offers visitors a peaceful and scenic retreat from the hustle and bustle of everyday life. The park boasts over 5,000 acres of woodlands, lakes, and hiking trails, making it a popular destination for outdoor enthusiasts. Visitors can explore the historic Ringwood Manor, a mansion that dates back to the 18th century and offers guided tours of its beautifully preserved rooms and grounds. The park also features the New Jersey State Botanical Garden, home to a stunning collection of native and exotic plant species, as well as a variety of colorful gardens and walking paths. Whether you're looking to hike, fish, picnic, or simply relax in nature, Ringwood State Park has something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ringwood%20State%20Park"
+            },
+            {
+                "name": "Stephens State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/stephensstatepark.html",
+                "content": "Stephens State Park in Hackettstown, New Jersey offers scenic hiking trails and picnic areas along the Musconetcong River.",
+                "description": "Stephens State Park is a beautiful and serene park located in Hackettstown, New Jersey. Visitors can explore over seven miles of scenic trails perfect for hiking, mountain biking, and horseback riding. The park also features a tranquil lake where visitors can enjoy fishing and canoeing. History enthusiasts will appreciate the remnants of a 19th-century ironworks operation that can be found throughout the park. With its diverse wildlife, stunning scenery, and recreational opportunities, Stephens State Park offers something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stephens%20State%20Park"
+            },
+            {
+                "name": "Stokes State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/stokesstateforest.html",
+                "content": "Stokes State Forest is a diverse 16,447-acre public recreation area located in the Kittatinny Mountains offering hiking trails, camping, and stunning mountain views.",
+                "description": "Stokes State Forest, located in Branchville, New Jersey, offers visitors a paradise for outdoor enthusiasts with over 16,000 acres of pristine wilderness to explore. Visitors can enjoy a variety of activities such as hiking, fishing, camping, and birdwatching in this picturesque forest. The forest is home to stunning views, including the Sunrise Mountain Scenic Overlook where visitors can take in panoramic vistas of the surrounding landscape. With over 60 miles of hiking trails, visitors can discover hidden waterfalls, peaceful streams, and abundant wildlife as they explore the forest. For those looking to extend their stay, Stokes State Forest also offers camping facilities with options for both tent and RV camping.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stokes%20State%20Forest"
+            },
+            {
+                "name": "Swartswood State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/swartswoodstatepark.html",
+                "content": "Swartswood State Park is New Jersey's first state park, offering swimming, picnicking, boating, and hiking in a peaceful natural setting.",
+                "description": "Swartswood State Park is the first state park in New Jersey and offers a variety of outdoor activities for visitors to enjoy. The park is known for its serene Swartswood Lake, which is great for swimming, boating, and fishing. There are also several hiking trails that wind through the park, providing stunning views of the surrounding forests and wildlife. Visitors can rent canoes, kayaks, and paddleboards to explore the lake or relax on the sandy beach. With picnic areas, camping facilities, and a playground, Swartswood State Park is the perfect destination for a fun-filled day with family and friends.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Swartswood%20State%20Park"
+            },
+            {
+                "name": "Wawayanda State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/wawayandastatepark.html",
+                "content": "Wawayanda State Park is a 34,350-acre state park in Sussex County known for its serene forests, expansive lakes, and diverse wildlife.",
+                "description": "Wawayanda State Park in New Jersey is a nature lover's paradise, spanning over 35,000 acres of forests, lakes, and trails. Visitors can enjoy activities such as hiking, fishing, boating, and camping within the park. One of the highlights of the park is the Wawayanda Lake, where visitors can swim, paddle, or simply relax on the sandy beach. The park also features the historic Wawayanda Furnace, a remnant of the area's iron-mining past. With its diverse landscapes and recreational opportunities, Wawayanda State Park offers something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wawayanda%20State%20Park"
+            },
+            {
+                "name": "Worthington State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/worthingtonstateforest.html",
+                "content": "Worthington State Forest is a beautiful 6,867-acre park located in New Jersey, offering scenic views, hiking trails, and camping opportunities along the Delaware Water Gap.",
+                "description": "1. Worthington State Forest is a beautiful natural oasis located in Columbia, New Jersey, offering visitors a chance to escape the hustle and bustle of everyday life and immerse themselves in the serene surroundings of the Delaware Water Gap.\n\n2. With over 7,000 acres of pristine wilderness to explore, Worthington State Forest is a paradise for outdoor enthusiasts, offering a wide range of activities such as hiking, fishing, camping, and birdwatching.\n\n3. The forest is home to several scenic hiking trails, including the famous Appalachian Trail, which offers stunning views of the Delaware River, waterfalls, and lush forests, making it a popular destination for hikers of all skill levels.\n\n4. For those looking to spend the night under the stars, Worthington State Forest offers several campgrounds equipped with fire pits, picnic tables, and restroom facilities, providing a peaceful and comfortable camping experience for visitors.\n\n5. Whether you're a nature lover, an adventure seeker, or simply looking for a place to relax and unwind, Worthington State Forest has something for everyone to enjoy, making it a must-visit destination for nature enthusiasts in New Jersey.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Worthington%20State%20Forest"
+            },
+            {
+                "name": "Allaire State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/allairestatepark.html",
+                "content": "Allaire State Park is a historical park located in Monmouth County that features a restored 19th-century ironworks village and offers hiking, biking, and picnicking opportunities.",
+                "description": "Allaire State Park, located in Monmouth County, New Jersey, offers visitors a unique combination of history and natural beauty. The park is home to the Historic Village at Allaire, a restored 19th-century iron-making village that offers guided tours and special events. Visitors can explore the village's historic buildings, including a blacksmith shop, general store, and church.\n\nIn addition to its historic attractions, Allaire State Park features over 3,000 acres of preserved land, including hiking and biking trails, picnic areas, and a lake for fishing and boating. The park is also a popular spot for wildlife viewing, with opportunities to see deer, birds, and other native species.\n\nAllaire State Park hosts a variety of events throughout the year, including craft fairs, historical reenactments, and educational programs for visitors of all ages. The park's Visitor Center provides information on upcoming events, as well as maps and brochures for exploring the park's attractions.\n\nVisitors to Allaire State Park can also enjoy recreational activities such as camping, horseback riding, and cross-country skiing. The park's diverse amenities and rich history make it a popular destination for families, nature enthusiasts, and history buffs alike.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Allaire%20State%20Park"
+            },
+            {
+                "name": "Bulls Island Recreation Area",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/bullsislandrecreationarea.html",
+                "content": "Bulls Island Recreation Area offers outdoor activities such as hiking, fishing, and picnicking along the Delaware River.",
+                "description": "Bulls Island Recreation Area is a picturesque spot located along the Delaware River, offering visitors a tranquil escape from the hustle and bustle of daily life. With over 80 acres of lush green space, the area is perfect for picnicking, fishing, or simply enjoying a leisurely stroll along the riverbank. The historic Carversville Covered Bridge provides a charming backdrop for photos and adds to the area's rustic appeal.\n\nFor nature enthusiasts, the recreation area is home to a variety of wildlife, including numerous bird species that can be spotted throughout the year. Additionally, the D&R Canal State Park Trail runs through Bulls Island, providing a scenic route for hiking or biking along the canal towpath. Whether you're looking for a peaceful retreat or a place to explore the great outdoors, Bulls Island Recreation Area offers something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bulls%20Island%20Recreation%20Area"
+            },
+            {
+                "name": "Cheesequake State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/cheesequakestatepark.html",
+                "content": "Cheesequake State Park is a unique park in New Jersey that features a blend of hardwood forests, swamps, and saltwater marshes.",
+                "description": "Cheesequake State Park in New Jersey offers a unique blend of coastal landscapes, including saltwater and freshwater marshes, open fields, and a hardwood forest. Visitors can explore over five miles of hiking trails that wind through the diverse ecosystems, providing opportunities to observe a wide variety of plant and animal species.\n\nThe park also features a swimming area, playgrounds, and picnic areas, making it a popular destination for families. Birdwatchers will appreciate the park's designation as an Important Bird Area by the National Audubon Society, with over 200 bird species recorded within its boundaries.\n\nFor those interested in camping, Cheesequake State Park offers tent and trailer campsites, providing a peaceful retreat for nature lovers. Additionally, the park hosts educational programs and events throughout the year, offering visitors the chance to learn more about the natural and cultural history of the area.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cheesequake%20State%20Park"
+            },
+            {
+                "name": "D & R Canal State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/drcanalstatepark.html",
+                "content": "The D & R Canal State Park in New Jersey offers a scenic 70-mile trail perfect for walking, jogging, biking, and horseback riding alongside the historic Delaware & Raritan Canal.",
+                "description": "1. The D & R Canal State Park offers visitors a unique opportunity to explore the historic Delaware and Raritan Canal, a 70-mile-long waterway that was once a vital transportation route for coal, lumber, and other goods in the 19th century.\n\n2. Visitors can enjoy a variety of recreational activities at the park, including hiking and biking along the scenic towpath that runs parallel to the canal, fishing in the tranquil waters, and picnicking in designated areas with beautiful views of the surrounding landscape.\n\n3. The park also features several historic sites, such as Lock 11 in the charming town of Lambertville, where visitors can learn about the engineering marvels that made the canal possible and the role it played in shaping the region's history.\n\n4. Nature lovers will appreciate the diverse wildlife and plant species that call the park home, including herons, turtles, and wildflowers that bloom along the water's edge, providing plenty of opportunities for birdwatching and photography.\n\n5. Whether you're looking for a relaxing day trip or a longer outdoor adventure, the D & R Canal State Park offers something for everyone to enjoy, with its peaceful surroundings, rich history, and abundance of recreational opportunities waiting to be explored.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=D%20%26%20R%20Canal%20State%20Park"
+            },
+            {
+                "name": "Hacklebarney State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/hacklebarneystatepark.html",
+                "content": "Hacklebarney State Park is a scenic and peaceful park in New Jersey known for its picturesque waterfalls, hiking trails, and opportunities for birdwatching.",
+                "description": "Hacklebarney State Park is a hidden gem located in Morris County, New Jersey, known for its stunning waterfalls and scenic trails. Visitors can enjoy hiking along the Black River, surrounded by lush greenery and towering cliffs. The park is also a popular spot for birdwatching, with a variety of species to be spotted throughout the year. Be sure to pack a picnic and enjoy a meal by the river, or simply relax and take in the peaceful atmosphere of this beautiful natural oasis. Don't forget your camera - Hacklebarney State Park offers countless opportunities for nature photography, from the cascading waterfalls to the wildlife that calls the park home.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hacklebarney%20State%20Park"
+            },
+            {
+                "name": "Monmouth Battlefield State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/monmouthbattlefieldstatepark.html",
+                "content": "Monmouth Battlefield State Park is a historical site in New Jersey where one of the largest battles of the American Revolution took place in 1778.",
+                "description": "Monmouth Battlefield State Park is a historic site in New Jersey that commemorates the Battle of Monmouth, fought during the Revolutionary War in 1778. Visitors can explore the battlefield where General George Washington's Continental Army clashed with British forces in the largest land battle of the war. The park offers a variety of walking and hiking trails, as well as picnic areas and a visitor center with exhibits on the battle. Additionally, visitors can tour the Craig House, which served as a field hospital during the battle and now stands as a museum. Monmouth Battlefield State Park is a must-visit destination for history enthusiasts and anyone interested in learning more about the Revolutionary War.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Monmouth%20Battlefield%20State%20Park"
+            },
+            {
+                "name": "Pigeon Swamp State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/pigeonswampstatepark.html",
+                "content": "Pigeon Swamp State Park is a 1,000-acre park located in central New Jersey, offering hiking, fishing, and birdwatching opportunities in a peaceful natural setting.",
+                "description": "Pigeon Swamp State Park is a hidden gem located in South Brunswick, New Jersey, offering visitors a tranquil escape from the hustle and bustle of city life. The park features over 1,200 acres of pristine woodlands, wetlands, and hiking trails, providing ample opportunities for outdoor recreation and exploration. Birdwatchers will be delighted by the diverse avian species that call the park home, including woodpeckers, hawks, and, of course, pigeons. The park is also a popular destination for nature enthusiasts, who can enjoy the sights and sounds of the surrounding wilderness while hiking, picnicking, or simply basking in the serenity of the great outdoors. Whether you're a seasoned hiker or just looking for a peaceful retreat, Pigeon Swamp State Park offers something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pigeon%20Swamp%20State%20Park"
+            },
+            {
+                "name": "Princeton Battlefield State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/princetonbattlefieldstatepark.html",
+                "content": "Princeton Battlefield State Park is a historic site where American troops defeated British forces during the Revolutionary War in 1777.",
+                "description": "Princeton Battlefield State Park is a historic site in New Jersey where one of the pivotal battles of the American Revolution took place in 1777. Visitors can explore the battlefield, which is preserved as a pristine, open space with monuments marking the locations of key events during the battle. Additionally, the park features the Clarke House Museum, a restored farmhouse from the 18th century that served as a field hospital during the battle. Nature enthusiasts will enjoy the park's diverse wildlife and walking trails, offering a peaceful escape from the hustle and bustle of everyday life. History buffs can attend guided tours or special events to learn more about the significance of the Princeton Battlefield in shaping America's future.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Princeton%20Battlefield%20State%20Park"
+            },
+            {
+                "name": "Round Valley Recreation Area",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/roundvalleyrecreationarea.html",
+                "content": "Round Valley Recreation Area is a popular destination for fishing, swimming, hiking, and camping in the heart of Hunterdon County.",
+                "description": "The Round Valley Recreation Area in New Jersey offers visitors a picturesque setting with a 2,350-acre reservoir surrounded by rolling hills and forested areas. Outdoor enthusiasts can enjoy a variety of activities such as hiking, biking, picnicking, fishing, and swimming. The park also features several designated swimming areas, including a sandy beach and a diving area for more adventurous visitors. Additionally, there are 85 wilderness campsites available for those looking to spend a night under the stars in this tranquil natural setting. Whether you're seeking a relaxing day by the water or a challenging hike through the rugged terrain, Round Valley Recreation Area has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Round%20Valley%20Recreation%20Area"
+            },
+            {
+                "name": "Six Mile Run Reservoir Site",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/sixmilerunreservoirsite.html",
+                "content": "Six Mile Run Reservoir Site offers a peaceful natural area for hiking, biking, and birdwatching in central New Jersey.",
+                "description": "Six Mile Run Reservoir Site is a beautiful natural area located in Franklin Township, NJ known for its scenic beauty and hiking trails. Visitors can enjoy a variety of outdoor activities such as hiking, biking, horseback riding, and fishing. The 3,000-acre site features diverse habitats including wetlands, forests, and grasslands making it a haven for wildlife enthusiasts. History buffs will appreciate the remnants of the historic D&R Canal that can still be seen throughout the site. With its peaceful atmosphere and stunning landscapes, Six Mile Run Reservoir Site is the perfect destination for nature lovers looking to escape the hustle and bustle of city life.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Six%20Mile%20Run%20Reservoir%20Site"
+            },
+            {
+                "name": "Spruce Run Recreation Area",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/sprucerunrecreationarea.html",
+                "content": "Spruce Run Recreation Area is a popular 1,290-acre state park located in Clinton, New Jersey, offering swimming, fishing, boating, hiking, and camping activities for outdoor enthusiasts.",
+                "description": "Spruce Run Recreation Area is a popular destination for outdoor enthusiasts in New Jersey, offering a wide range of activities for visitors to enjoy. The park features a beautiful 1,290-acre reservoir where visitors can go swimming, boating, and fishing.\n\nHiking and picnicking are also popular pastimes at Spruce Run, with several miles of scenic trails winding through the park's wooded areas and along the reservoir shores. The park is home to a variety of wildlife, making it a great spot for birdwatching and nature photography.\n\nFor those looking to spend the night, Spruce Run offers camping facilities with tent and RV sites available. The campground is equipped with modern amenities such as restrooms, showers, and a camp store for convenience.\n\nVisitors can also take advantage of the park's picnic areas, playgrounds, and sports fields, making it a great spot for a fun-filled day with family and friends. With its beautiful natural surroundings and abundance of outdoor activities, Spruce Run Recreation Area is a must-visit destination for anyone looking to enjoy the great outdoors in New Jersey.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Spruce%20Run%20Recreation%20Area"
+            },
+            {
+                "name": "Voorhees State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/voorheesstatepark.html",
+                "content": "Voorhees State Park is a peaceful and picturesque park offering hiking trails, picnic areas, and opportunities for birdwatching and nature exploration.",
+                "description": "Voorhees State Park is a beautiful and serene park located in Lebanon Township, New Jersey. The park offers a variety of recreational activities such as hiking, picnicking, birdwatching, and nature photography. One of the highlights of the park is its scenic overlook which provides breathtaking views of the surrounding landscape. Visitors can also explore the historic observatory located within the park, which was once used for astronomical research. With its peaceful atmosphere and diverse array of activities, Voorhees State Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Voorhees%20State%20Park"
+            },
+            {
+                "name": "Washington Crossing State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/washingtoncrossingstatepark.html",
+                "content": "Washington Crossing State Park is a scenic recreation area located along the Delaware River that commemorates George Washington's historic crossing during the Revolutionary War.",
+                "description": "Washington Crossing State Park is a beautiful and historically significant park located in Titusville, New Jersey. Visitors can explore the historic site where General George Washington and his troops crossed the Delaware River on Christmas night in 1776. The park offers a variety of recreational activities, including hiking, picnicking, and birdwatching along the Delaware River. History enthusiasts will enjoy visiting the Johnson Ferry House, a restored 18th-century farmhouse that served as a pivotal location during the Revolutionary War. The park also features a Visitor Center with exhibits and information about the park's history and natural resources.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washington%20Crossing%20State%20Park"
+            },
+            {
+                "name": "Washington Rock State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/washingtonrockstatepark.html",
+                "content": "Washington Rock State Park offers panoramic views of the New York City skyline, the Watchung Mountains, and surrounding area.",
+                "description": "Located in Green Brook Township, New Jersey, Washington Rock State Park offers visitors stunning panoramic views of the surrounding landscape, including the Watchung Mountains and New York City skyline. The park is named after General George Washington, who reportedly used the rock as a lookout point during the American Revolution. Visitors can enjoy picnicking, hiking, and birdwatching at this picturesque park. A short hike to the top of the rock provides unforgettable views, especially during sunrise or sunset. Be sure to bring a camera to capture the breathtaking vistas from Washington Rock State Park.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washington%20Rock%20State%20Park"
+            },
+            {
+                "name": "Atsion Recreation Area",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/atsionrecreationarea.html",
+                "content": "Atsion Recreation Area offers a variety of outdoor activities including swimming, hiking, and camping in the picturesque Pine Barrens of New Jersey.",
+                "description": "Atsion Recreation Area is located in the vast Wharton State Forest in Shamong Township, New Jersey, offering a picturesque setting for outdoor enthusiasts. Visitors can enjoy swimming and picnicking at the sandy beach area along the stunning Atsion Lake, which is also great for fishing and canoeing. The area features historic ruins of the Atsion Mansion, a former ironmaster's grand home dating back to the 18th century, adding a touch of historical charm to the natural beauty. Hikers will appreciate the various trails that wind through the surrounding pine forests, providing opportunities to spot wildlife and immerse in the peaceful atmosphere. Camping is also available at Atsion Campground, allowing visitors to extend their stay and fully experience the beauty of this recreational area.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Atsion%20Recreation%20Area"
+            },
+            {
+                "name": "Bass River State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/bassriverstateforest.html",
+                "content": "Bass River State Forest is New Jersey's first forest and offers recreational activities like hiking, camping, and fishing in a peaceful pine forest setting.",
+                "description": "Bass River State Forest is the first forest acquired by the state of New Jersey in 1905 for public recreation and conservation purposes. Visitors can enjoy a variety of outdoor activities, including hiking, camping, fishing, and kayaking. The forest features over 23 miles of marked trails for hiking and horseback riding, with opportunities to spot wildlife like deer, foxes, and various bird species. Camping facilities include over 100 tent and trailer sites, as well as cabins and group camping areas. Additionally, the forest offers a serene setting for picnicking and enjoying the natural beauty of the Pine Barrens region.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bass%20River%20State%20Forest"
+            },
+            {
+                "name": "Belleplain State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/belleplainstateforest.html",
+                "content": "Belleplain State Forest is a 22,251-acre forest in New Jersey's Pine Barrens region, offering hiking, camping, swimming, and boating opportunities.",
+                "description": "Belleplain State Forest, located in New Jersey, spans over 21,000 acres and offers a wide array of recreational activities for visitors to enjoy. From hiking and biking trails to fishing and hunting opportunities, there is something for everyone to explore in this beautiful forest. Visitors can also go camping in one of the many campsites available, surrounded by the serene forest setting. Birdwatchers will be thrilled with the diverse bird species that call Belleplain State Forest home, making it a popular destination for birding enthusiasts. With its peaceful atmosphere and natural beauty, Belleplain State Forest is the perfect place to escape the hustle and bustle of everyday life and connect with nature.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Belleplain%20State%20Forest"
+            },
+            {
+                "name": "Brendan T. Byrne State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/brendantbyrnestateforest.html",
+                "content": "Brendan T. Byrne State Forest is a vast preserve offering over 25 miles of trails for hiking, biking, and horseback riding.",
+                "description": "1. The Brendan T. Byrne State Forest, located in the heart of the New Jersey Pinelands, offers visitors the chance to explore over 37,000 acres of diverse ecosystems including pine forests, swamps, and streams.\n\n2. Outdoor enthusiasts will enjoy the extensive network of hiking and biking trails that wind through the forest, providing opportunities to observe unique wildlife and stunning natural landscapes.\n\n3. For those looking to experience the forest from the water, there are several canoeing and kayaking routes available along the Mullica River, which runs through the heart of the state forest.\n\n4. Camping is also a popular activity in Brendan T. Byrne State Forest, with several designated campsites perfect for a weekend getaway immersed in nature.\n\n5. With its peaceful surroundings and abundance of recreational activities, Brendan T. Byrne State Forest is a must-visit destination for nature lovers and outdoor adventurers alike.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brendan%20T.%20Byrne%20State%20Forest"
+            },
+            {
+                "name": "Double Trouble State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/doubletroublestatepark.html",
+                "content": "Double Trouble State Park is a 8,000 acre park in Ocean County that features a historic village, cranberry bogs, and opportunities for hiking, fishing, and wildlife viewing.",
+                "description": "Double Trouble State Park is a unique and historic park located in Ocean County, New Jersey. The park is named after the Double Trouble Village, a 19th-century company town built for the workers of a cranberry farm. Visitors can explore the village's preserved buildings, including the general store and cranberry sorting and packing houses. The park offers a variety of outdoor activities, such as hiking, biking, fishing, and birdwatching, with over 8,000 acres of pine and oak forest to explore. Nature enthusiasts will appreciate the park's diverse wildlife and ecosystems, including the opportunity to see rare bird species like the osprey and bald eagle in their natural habitat.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Double%20Trouble%20State%20Park"
+            },
+            {
+                "name": "Parvin State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/parvinstatepark.html",
+                "content": "Parvin State Park offers a peaceful getaway surrounded by the beauty of nature, with opportunities for hiking, fishing, swimming, and picnicking.",
+                "description": "Parvin State Park is a beautiful 1,309-acre park located in Pittsgrove Township, New Jersey. It offers visitors a wide range of outdoor activities such as hiking, fishing, boating, and picnicking. The park is home to two crystal-clear lakes, Thundergust Lake and Parvin Lake, perfect for swimming and kayaking.\n\nThere are 56 tent and trailer campsites available for overnight stays, making it a great spot for camping enthusiasts. Visitors can also explore the park's extensive network of trails, including the popular 15-mile Batona Trail which passes through the park.\n\nThe park is known for its diverse wildlife, including bald eagles, red-tailed hawks, and a variety of songbirds. Birdwatchers will especially enjoy the park's tranquil setting and abundance of bird species. Overall, Parvin State Park is a perfect destination for nature lovers and outdoor enthusiasts looking to escape the hustle and bustle of city life.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Parvin%20State%20Park"
+            },
+            {
+                "name": "Penn State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/pennstateforest.html",
+                "content": "Penn State Forest is a 45,000-acre forest in the heart of the New Jersey Pine Barrens, offering hiking, hunting, fishing, and picnic areas for visitors to enjoy.",
+                "description": "Penn State Forest, located in the Pine Barrens of New Jersey, offers visitors a chance to experience the unique natural beauty of this region. With over 30 miles of trails for hikers, mountain bikers, and horseback riders, this forest is a paradise for outdoor enthusiasts. The diverse plant and animal life, including rare species like the Pine Barrens Tree Frog, make it a great destination for nature lovers. The forest also features several serene lakes and streams, perfect for fishing, kayaking, or simply enjoying a peaceful picnic. Whether you're looking for a challenging hike or a relaxing day in nature, Penn State Forest has something for every visitor to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Penn%20State%20Forest"
+            },
+            {
+                "name": "Rancocas State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/rancocasstatepark.html",
+                "content": "Rancocas State Park offers outdoor recreational activities such as hiking, biking, and picnicking in a scenic natural setting along the Rancocas Creek.",
+                "description": "Rancocas State Park in New Jersey offers visitors a peaceful escape from the hustle and bustle of everyday life. The park spans over 1,200 acres and boasts a variety of recreational activities for all ages, including hiking, fishing, and picnicking.\n\nOne of the highlights of the park is its extensive trail system, which winds through dense forests, open fields, and along the scenic Rancocas Creek. Birdwatchers will be delighted by the diverse array of bird species that call the park home, including bald eagles, osprey, and herons.\n\nFor those looking to spend a relaxing day on the water, the park features a boat launch and offers canoe and kayak rentals. Anglers can try their luck at catching bass, catfish, and sunfish in the creek.\n\nVisitors can also take advantage of the park\u2019s picnic areas, playgrounds, and pavilions for a fun day out with family and friends. Whether you\u2019re looking for a leisurely stroll in nature or an action-packed day of outdoor activities, Rancocas State Park has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rancocas%20State%20Park"
+            },
+            {
+                "name": "Stow Creek State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/stowcreekstatepark.html",
+                "content": "Stow Creek State Park offers a peaceful and picturesque natural setting perfect for hiking, fishing, birdwatching, and enjoying the outdoors.",
+                "description": "Stow Creek State Park is a hidden gem located in the quiet countryside of Cumberland County, New Jersey. The park offers a serene setting for visitors to enjoy picnicking, hiking, and fishing along the beautiful Stow Creek. Birdwatchers will delight in the variety of avian species that call the park home, including bald eagles and osprey. History buffs can explore the remnants of the historic Alloway-Kirkwood Railroad that once ran through the park. With its peaceful atmosphere and diverse recreational opportunities, Stow Creek State Park is a perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stow%20Creek%20State%20Park"
+            },
+            {
+                "name": "Tall Pines State Preserve",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/tallpinesstatepreserve.html",
+                "content": "Tall Pines State Preserve is a 111-acre park in Gloucester County, New Jersey, featuring hiking trails, wildlife viewing, and a peaceful natural setting for outdoor recreation.",
+                "description": "Tall Pines State Preserve is a 111-acre natural area located in Gloucester County, New Jersey. It offers visitors a peaceful escape from the hustle and bustle of the surrounding urban areas. The preserve features a variety of habitats, including upland forests, wetlands, and meadows, making it a great destination for nature lovers and birdwatchers. There are several miles of hiking trails that wind through the preserve, providing opportunities to explore and discover the diverse flora and fauna that call this area home. Visitors can also enjoy a picnic at one of the designated picnic areas while taking in the tranquil surroundings of Tall Pines State Preserve.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tall%20Pines%20State%20Preserve"
+            },
+            {
+                "name": "Warren Grove Recreation Area",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/warrengroverecreationarea.html",
+                "content": "Warren Grove Recreation Area offers a variety of outdoor activities such as hiking, picnicking, and birdwatching in a serene pine barrens setting.",
+                "description": "Warren Grove Recreation Area is a popular destination for outdoor enthusiasts, offering a variety of activities such as hiking, picnicking, and birdwatching. The park features miles of scenic trails that wind through pine forests, providing opportunities for visitors to explore the natural beauty of the area.\n\nOne of the highlights of Warren Grove Recreation Area is the picturesque Warren Grove Lake, where visitors can enjoy fishing, boating, and swimming during the warmer months. The park also has several picnic areas equipped with tables and grills, making it a great spot for a relaxing afternoon with family and friends.\n\nFor those interested in birdwatching, Warren Grove Recreation Area is home to a diverse array of bird species, including bald eagles, ospreys, and warblers. The park's tranquil setting and abundant wildlife make it a perfect place for nature lovers to observe and appreciate the local ecosystem.\n\nVisitors to Warren Grove Recreation Area can also take advantage of the park's camping facilities, which include tent and RV sites with access to showers and restrooms. Whether you're looking for a day trip or a weekend getaway, this park offers a peaceful retreat where visitors can unwind and connect with nature.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Warren%20Grove%20Recreation%20Area"
+            },
+            {
+                "name": "Wharton State Forest",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/whartonstateforest.html",
+                "content": "Wharton State Forest is the largest state forest in New Jersey, offering over 122,000 acres of pine barrens landscape for hiking, camping, and outdoor recreation.",
+                "description": "Wharton State Forest is the largest state forest in New Jersey, covering over 115,000 acres of beautiful wilderness. Visitors can explore miles of hiking and biking trails, paddle along the scenic Mullica River, and even camp under the stars in designated camping areas. The forest is home to a variety of wildlife, including bald eagles, bobcats, and white-tailed deer, making it a great spot for nature enthusiasts. History buffs will also enjoy exploring historic sites like Batsto Village, a former bog iron and glass-making industrial center from the 18th century. Pack a picnic, grab your camera, and prepare for a day of outdoor adventure at Wharton State Forest.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wharton%20State%20Forest"
+            },
+            {
+                "name": "Barnegat Lighthouse State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/barnegatlighthousestatepark.html",
+                "content": "Barnegat Lighthouse State Park is home to the historic Barnegat Lighthouse, offering panoramic views of Long Beach Island and the surrounding coastal areas.",
+                "description": "Barnegat Lighthouse State Park, located on the northern tip of Long Beach Island in New Jersey, offers stunning views of the Atlantic Ocean and Barnegat Bay. The park is home to the historic Barnegat Lighthouse, which has been a navigational landmark for ships along the Jersey Shore since 1859. Visitors can climb the 217 steps to the top of the lighthouse for panoramic views of the surrounding area. The park also features picnic areas, nature trails, and a maritime forest for visitors to explore. During the summer months, visitors can enjoy guided tours, special events, and educational programs at the park.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Barnegat%20Lighthouse%20State%20Park"
+            },
+            {
+                "name": "Cape May Point State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/capemaypointstatepark.html",
+                "content": "Cape May Point State Park is a peaceful coastal park in New Jersey with picturesque views of the Atlantic Ocean and a historic lighthouse.",
+                "description": "Cape May Point State Park is a hidden gem located at the southern tip of New Jersey, offering stunning views of both the Atlantic Ocean and Delaware Bay. Visitors can explore the park's trails, which wind through various habitats including dunes, marshes, and forests, providing opportunities to observe a wide variety of bird species. The park is home to the Cape May Lighthouse, where visitors can climb to the top for panoramic views of the surrounding area. Additionally, the park features a World War II bunker, once used for coastal defense, that now serves as a unique historical site for visitors to explore. Overall, Cape May Point State Park is a must-visit destination for nature lovers, bird watchers, and history enthusiasts alike.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cape%20May%20Point%20State%20Park"
+            },
+            {
+                "name": "Corson's Inlet State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/corsonsinletstatepark.html",
+                "content": "Corson's Inlet State Park is a peaceful and scenic natural area located in Ocean City, New Jersey, offering opportunities for hiking, wildlife viewing, and beach access.",
+                "description": "Corson's Inlet State Park is located in Ocean City, New Jersey and offers visitors a serene and natural experience. The park features over 300 acres of pristine coastal dunes and wetlands, making it an ideal spot for birdwatching and wildlife observation. Visitors can explore the park's trails, which provide stunning views of the Atlantic Ocean and the back bay.\n\nOne of the highlights of Corson's Inlet State Park is its beautiful beach, which is perfect for sunbathing, swimming, and relaxing. The park also offers opportunities for fishing and kayaking in the calm waters of the back bay. With its peaceful and secluded atmosphere, Corson's Inlet State Park is a great place to escape the hustle and bustle of everyday life and connect with nature.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Corson%27s%20Inlet%20State%20Park"
+            },
+            {
+                "name": "Fort Mott State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/fortmottstatepark.html",
+                "content": "Fort Mott State Park in Pennsville Township is a historic site overlooking the Delaware River that offers picnicking, hiking, fishing, and stunning views.",
+                "description": "Fort Mott State Park is located along the Delaware River and offers visitors a glimpse into historical military fortifications, including Fort Mott and Fort Delaware on Pea Patch Island. These forts were constructed during the 19th and 20th centuries to protect the cities of Philadelphia and Wilmington from naval attacks. The park features hiking trails, picnic areas, and stunning views of the river, making it a popular spot for outdoor enthusiasts and history buffs alike. Visitors can explore the remnants of the forts, including gun batteries, barracks, and a museum that showcases the area's rich military history. Be sure to bring your camera to capture the picturesque landscapes and unique historical sites at Fort Mott State Park.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Mott%20State%20Park"
+            },
+            {
+                "name": "Island Beach State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/islandbeachstatepark.html",
+                "content": "Island Beach State Park is a pristine barrier island along the Atlantic Ocean shoreline, offering visitors opportunities for swimming, fishing, hiking, and wildlife viewing.",
+                "description": "Island Beach State Park is a beautiful barrier island located off the coast of New Jersey, offering visitors pristine beaches and stunning natural scenery. The park is home to a variety of wildlife, including ospreys, piping plovers, and American oystercatchers, making it a popular destination for birdwatching enthusiasts. In addition to swimming and sunbathing, visitors can enjoy hiking, biking, and fishing along the park's miles of trails and waterways. Island Beach State Park is also a great spot for picnicking and camping, with designated areas equipped with picnic tables, grills, and campsites. With its tranquil atmosphere and diverse recreational opportunities, this park is the perfect escape for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Island%20Beach%20State%20Park"
+            },
+            {
+                "name": "Liberty State Park",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/libertystatepark.html",
+                "content": "Liberty State Park is a waterfront park located in Jersey City that offers stunning views of the Statue of Liberty and Ellis Island.",
+                "description": "Liberty State Park in New Jersey offers visitors a breathtaking view of the Manhattan skyline and the Statue of Liberty from its waterfront promenade. The park is a popular destination for outdoor activities such as biking, picnicking, and bird watching. Visitors can also explore the historic Central Railroad of New Jersey Terminal, which served as a major transportation hub for immigrants arriving in the United States. Additionally, the park hosts events and concerts throughout the year, making it a lively and dynamic destination for all ages. Don't forget to stop by the Liberty Science Center, located within the park, for interactive exhibits and a hands-on learning experience.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Liberty%20State%20Park"
+            },
+            {
+                "name": "North Brigantine Natural Area",
+                "url": "https://www.nj.gov/dep/parksandforests/parks/northbrigantinenaturalarea.html",
+                "content": "The North Brigantine Natural Area is a unique coastal ecosystem preserve, featuring tidal marshes, dunes, and maritime forests for visitors to explore and enjoy.",
+                "description": "North Brigantine Natural Area is a hidden gem located on the northern end of Brigantine Island in New Jersey. This pristine natural area boasts beautiful sand dunes, salt marshes, and tidal ponds for visitors to explore. Birdwatchers will be delighted by the numerous species of birds that can be spotted year-round, including ospreys and terns. Hiking trails wind through the protected area, offering stunning views of the surrounding landscape. Visitors can also enjoy fishing and wildlife viewing opportunities, making this a perfect destination for nature enthusiasts.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Brigantine%20Natural%20Area"
+            }
+        ]
+    }
+}

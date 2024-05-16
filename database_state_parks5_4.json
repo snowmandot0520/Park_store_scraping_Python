@@ -1,0 +1,438 @@
+{
+    "Montana State Parks": {
+        "parks": [
+            {
+                "name": "Ackley Lake",
+                "url": "https://fwp.mt.gov/stateparks/ackley-lake",
+                "content": "Ackley Lake State Park is a popular destination for fishing, boating, and camping in Montana.",
+                "description": "Ackley Lake State Park is a hidden gem nestled in the beautiful Judith Basin County of Montana. The park features a 160-acre lake perfect for fishing, boating, and swimming. Visitors can enjoy picnicking at the designated areas or exploring the surrounding nature trails. The park is known for its diverse bird-watching opportunities, with over 100 bird species recorded in the area. Whether you're looking for a tranquil escape or an outdoor adventure, Ackley Lake State Park offers something for every visitor to enjoy.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ackley%20Lake"
+            },
+            {
+                "name": "Anaconda Smoke Stack",
+                "url": "https://fwp.mt.gov/stateparks/anaconda-smoke-stack",
+                "content": "The Anaconda Smoke Stack in Montana is a historic landmark towering over the town of Anaconda, once part of a massive copper smelter complex.",
+                "description": "The Anaconda Smoke Stack is an iconic landmark in Anaconda, Montana, standing at an impressive 585 feet tall. Visitors can climb to the top of the smoke stack for a stunning panoramic view of the surrounding area, including the nearby Clark Fork River and the Anaconda Range. The smoke stack was built in 1918 as part of the Anaconda Copper Mining Company's smelter operation, which was once the largest copper smelting operation in the world. Today, the smoke stack serves as a reminder of Anaconda's rich mining history and is a popular attraction for history buffs and outdoor enthusiasts alike. Additionally, visitors can explore the nearby Old Works Golf Course, a unique course built on the reclaimed land of the former smelter site.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Anaconda%20Smoke%20Stack"
+            },
+            {
+                "name": "Bannack",
+                "url": "https://fwp.mt.gov/stateparks/bannack-state-park",
+                "content": "The Bannack State Park representative provides information about the rich history and natural beauty of the park to visitors.",
+                "description": "Bannack State Park is a well-preserved ghost town located in southwestern Montana, offering visitors a glimpse into the Old West. Visitors can explore over 50 historic buildings, including a schoolhouse, church, and jail, which provide insight into the lives of early settlers. The park also offers camping and picnicking opportunities, allowing visitors to immerse themselves in the stunning natural surroundings of the area. History buffs will appreciate the interpretive signs and guided tours available, shedding light on the town's fascinating past as a bustling mining community. Bannack State Park is a must-visit destination for those looking to step back in time and experience the rugged frontier spirit of Montana's past.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bannack"
+            },
+            {
+                "name": "Beaverhead Rock",
+                "url": "https://fwp.mt.gov/stateparks/beaverhead-rock",
+                "content": "Beaverhead Rock is a prominent landmark in Montana that holds historical significance as a guiding landmark for Lewis and Clark during their expedition.",
+                "description": "Beaverhead Rock, also known as Point of Rocks, is a unique geological formation located in Beaverhead County, Montana. This rock formation rises 1,500 feet above the Beaverhead River and is easily identifiable due to its distinctive pyramid shape.\n\nThis iconic landmark holds significant historical and cultural importance as it was once a prominent landmark for Native American tribes and later served as a key navigational point for Lewis and Clark during their expedition through the American West.\n\nVisitors to Beaverhead Rock can explore the surrounding area by hiking the nearby trails or enjoying a picnic with stunning views of the rock formation and the scenic Beaverhead River. Birdwatchers will also appreciate the diverse bird species that can be spotted in the area, including eagles and hawks.\n\nWhether you're interested in history, geology, or simply enjoying the beautiful natural surroundings, Beaverhead Rock offers a unique and memorable experience for visitors exploring Montana's diverse landscapes.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beaverhead%20Rock"
+            },
+            {
+                "name": "Beavertail Hill",
+                "url": "https://fwp.mt.gov/stateparks/beavertail-hill",
+                "content": "Beavertail Hill State Park offers picturesque views, fishing opportunities, and camping facilities along the Clark Fork River in Montana.",
+                "description": "Beavertail Hill State Park is nestled along the Clark Fork River in western Montana, offering breathtaking views of the surrounding mountains and lush forests. Visitors can enjoy a variety of recreational activities such as fishing, hiking, picnicking, and wildlife viewing in this peaceful natural setting. The park is known for its towering cliffs and unique rock formations, making it a favorite spot for rock climbers and nature enthusiasts. With a designated swimming area and sandy beach, Beavertail Hill is also a great destination for those looking to cool off and relax on a hot summer day. Campers can take advantage of the park's rustic campsites and RV hookups, making it an ideal spot for a weekend getaway or outdoor adventure.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beavertail%20Hill"
+            },
+            {
+                "name": "Big Arm",
+                "url": "https://fwp.mt.gov/stateparks/big-arm",
+                "content": "Big Arm State Park offers stunning views of Flathead Lake and plenty of opportunities for fishing, boating, and picnicking.",
+                "description": "Big Arm State Park is a picturesque destination located on the western shore of Flathead Lake in Montana. The park offers visitors stunning views of the lake and surrounding mountains, making it a perfect spot for enjoying outdoor activities such as fishing, boating, and hiking.\n\nOne of the highlights of Big Arm State Park is its sandy beach, which is a popular spot for swimming and sunbathing during the summer months. The park also features a boat ramp, making it easy for visitors to launch their watercraft and explore the crystal-clear waters of Flathead Lake.\n\nFor those looking to spend the night, Big Arm State Park offers both tent and RV campsites, as well as cabins for rent. The park is also home to a day-use picnic area, making it a great spot for a leisurely lunch with family or friends.\n\nWhether you're seeking adventure on the water or a relaxing day at the beach, Big Arm State Park has something for everyone to enjoy. Don't miss the chance to visit this hidden gem in Montana and experience the beauty of Flathead Lake firsthand.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Arm"
+            },
+            {
+                "name": "Black Sandy",
+                "url": "https://fwp.mt.gov/stateparks/black-sandy",
+                "content": "The Black Sandy State Park representative is dedicated to preserving the beauty of this sandy beach and offering recreational opportunities for visitors to enjoy along the shores of Hauser Lake.",
+                "description": "Black Sandy State Park is a beautiful recreation area located on the shores of Hauser Reservoir in Montana. Visitors can enjoy a variety of outdoor activities such as swimming, boating, fishing, and hiking. The park also boasts a sandy beach, perfect for sunbathing and picnicking with stunning views of the surrounding mountains. Those looking to spend the night can pitch a tent at one of the park's campsites or rent a cozy cabin for a more comfortable stay. With its peaceful atmosphere and natural beauty, Black Sandy State Park is the perfect destination for a relaxing getaway.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Black%20Sandy"
+            },
+            {
+                "name": "Brush Lake",
+                "url": "https://fwp.mt.gov/stateparks/brush-lake",
+                "content": "Brush Lake State Park is a peaceful 1,300-acre park in eastern Montana, offering fishing, boating, and camping opportunities for outdoor enthusiasts.",
+                "description": "Brush Lake is a hidden gem in Montana, offering visitors a peaceful and secluded escape surrounded by pristine natural beauty. The crystal-clear waters of the lake are perfect for swimming, fishing, and paddleboarding, making it a popular spot for outdoor enthusiasts. The surrounding area boasts a variety of hiking trails, picnic areas, and campgrounds, providing ample opportunities for visitors to enjoy the great outdoors. Birdwatchers will also appreciate the abundance of wildlife that calls Brush Lake home, including bald eagles, osprey, and various waterfowl species. Whether you're looking for a relaxing day on the water or a weekend camping adventure, Brush Lake has something to offer for everyone.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brush%20Lake"
+            },
+            {
+                "name": "Chief Plenty Coups",
+                "url": "https://fwp.mt.gov/stateparks/chief-plenty-coups",
+                "content": "Chief Plenty Coups was a respected Crow leader who advocated for peace and unity among Native American tribes.",
+                "description": "Chief Plenty Coups was a prominent leader of the Crow Nation in the late 19th and early 20th centuries. He was known for his diplomacy skills and ability to navigate the changing political landscape during a tumultuous time for Native American tribes. Visitors can explore the Chief Plenty Coups State Park and learn about his legacy through exhibits, artifacts, and interpretive programs. The park also offers hiking trails, picnic areas, and stunning views of the Beartooth Mountains. Chief Plenty Coups' story serves as a reminder of the resilience and cultural richness of the Crow people.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chief%20Plenty%20Coups"
+            },
+            {
+                "name": "Clark's Lookout",
+                "url": "https://fwp.mt.gov/stateparks/clarks-lookout",
+                "content": "Clark's Lookout is a scenic state park in Montana that offers panoramic views of the Beaverhead River and surrounding mountains.",
+                "description": "1. Clark's Lookout State Park offers visitors a unique opportunity to hike up to the historic lookout point where Captain William Clark stood in 1806 to get a better view of the surrounding landscape.\n\n2. The park is located along the Lewis and Clark National Historic Trail, providing a glimpse into the expedition of Lewis and Clark as they journeyed through this rugged terrain over 200 years ago.\n\n3. On a clear day, visitors can enjoy breathtaking panoramic views of the Bitterroot Valley and the surrounding Rocky Mountains from the top of Clark's Lookout.\n\n4. The park also features interpretive signage along the trail that provides insight into the history of the area and the Lewis and Clark expedition, making it both a scenic and educational destination.\n\n5. Whether you're a history buff, nature lover, or outdoor enthusiast, Clark's Lookout State Park offers a peaceful and scenic setting for visitors to explore and appreciate the natural beauty of Montana.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Clark%27s%20Lookout"
+            },
+            {
+                "name": "Cooney",
+                "url": "https://fwp.mt.gov/stateparks/cooney",
+                "content": "The Cooney State Park representative is knowledgeable and enthusiastic about promoting outdoor recreational opportunities in the beautiful park area.",
+                "description": "Cooney State Park, located in Roberts, Montana, is a popular destination for outdoor enthusiasts looking to enjoy the beauty of nature. The park boasts a 78-acre reservoir perfect for boating, fishing, and swimming, surrounded by stunning mountain views.\n\nVisitors can explore the miles of hiking and biking trails that wind through the park, offering opportunities to spot wildlife such as deer, elk, and eagles. The park also has picnicking areas with beautiful waterfront views, making it a great spot for a relaxing day trip or family outing.\n\nFor those looking to spend the night, Cooney State Park offers a campground with RV and tent sites, as well as cabins available for rent. Whether you're seeking adventure on the water or a peaceful retreat in nature, Cooney State Park has something for everyone to enjoy. Don't forget to pack your camera to capture the breathtaking scenery and wildlife that call this park home.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cooney"
+            },
+            {
+                "name": "Council Grove",
+                "url": "https://fwp.mt.gov/stateparks/council-grove",
+                "content": "The Council Grove State Park in Montana is represented by a council grove, which is a council ring of trees used by Native American tribes for important ceremonies and meetings.",
+                "description": "Council Grove State Park is a historic site located in Missoula, Montana, showcasing the area where the first recorded meeting between the Nez Perce people and Lewis and Clark took place in 1805. Visitors can explore the interpretive trail that guides them through the meeting site, offering a glimpse into the history of early interactions between Native Americans and European explorers. The park also features picnic areas and stunning views of the surrounding Bitterroot Mountains, making it a perfect spot for a peaceful afternoon outing. Birdwatchers will enjoy the diverse range of avian species that can be spotted in the park, including bald eagles and osprey. With its rich history and natural beauty, Council Grove State Park offers a unique and educational experience for visitors of all ages.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Council%20Grove"
+            },
+            {
+                "name": "Elkhorn",
+                "url": "https://fwp.mt.gov/stateparks/elkhorn",
+                "content": "The representative for Elkhorn State Park in Montana is a Spire Tower, an iconic structure that offers panoramic views of the surrounding mountains and valleys.",
+                "description": "Elkhorn State Park is a hidden gem nestled in the Elkhorn Mountains of Montana, offering stunning views and an array of outdoor recreational activities. Visitors can explore the park's network of hiking trails, which wind through old-growth forests and open meadows, perfect for wildlife sightings and birdwatching. The park is also a popular spot for fishing, with several pristine mountain lakes and streams teeming with trout. For those looking to stay overnight, Elkhorn State Park offers a tranquil campground with RV and tent sites, giving visitors the opportunity to soak in the serenity of the mountains under a starlit sky. Whether you're seeking a peaceful retreat or an adventurous escape, Elkhorn State Park has something for every nature enthusiast to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Elkhorn"
+            },
+            {
+                "name": "Finley Point",
+                "url": "https://fwp.mt.gov/stateparks/finley-point",
+                "content": "Finley Point State Park is a scenic park located on Flathead Lake in Montana, offering camping, picnicking, and stunning views of the lake and surrounding mountains.",
+                "description": "Finley Point State Park is located on a peninsula jutting out into Flathead Lake, offering stunning panoramic views of the surrounding mountains and pristine water. Visitors can enjoy a variety of recreational activities such as swimming, fishing, boating, picnicking, and wildlife viewing. The park has a designated swimming area with a sandy beach, perfect for families to relax and enjoy the sun. There are also nearby hiking trails that wind through the lush forest and provide opportunities to spot various bird species. For those looking to extend their stay, the park offers campsites with amenities such as fire pits and picnic tables, making it a great spot for a weekend getaway.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Finley%20Point"
+            },
+            {
+                "name": "First Peoples' Buffalo Jump",
+                "url": "https://fwp.mt.gov/stateparks/first-peoples-buffalo-jump",
+                "content": "First Peoples' Buffalo Jump is a historical site in Montana where Native American peoples used a steep cliff to hunt buffalo for thousands of years.",
+                "description": "The First Peoples' Buffalo Jump is a large limestone cliff in Montana that was used by Native American tribes for over 2,000 years to hunt bison. Visitors can explore the remains of the drive lanes and jump area where the tribes would drive the bison over the cliff edge. Interpretive signs along the trails provide information on the history of the buffalo jump and the different tribes that used it. The park also features a visitor center with exhibits on Native American culture and the importance of the buffalo to their way of life. Visitors can enjoy hiking trails, picnic areas, and guided tours of the buffalo jump site.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=First%20Peoples%27%20Buffalo%20Jump"
+            },
+            {
+                "name": "Fish Creek",
+                "url": "https://fwp.mt.gov/stateparks/fish-creek",
+                "content": "Fish Creek State Park is a hidden gem located in the northwestern corner of Montana, offering picturesque landscapes, diverse wildlife, and endless recreational opportunities for outdoor enthusiasts.",
+                "description": "Fish Creek State Park in Montana is a scenic destination known for its rugged cliffs and towering forests, offering visitors a peaceful retreat surrounded by natural beauty. The park is popular for fishing, with the clear waters of Fish Creek providing ample opportunities to catch native trout species. Hiking trails wind through the park, offering stunning views of the surrounding landscape and plenty of opportunities for wildlife viewing. Campers can enjoy the park's well-maintained campsites, complete with picnic tables and fire rings, making it a perfect spot for a weekend getaway in nature. Whether you're looking to cast a line, hike through the wilderness, or simply relax in the great outdoors, Fish Creek State Park has something for every nature lover to enjoy.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fish%20Creek"
+            },
+            {
+                "name": "Flathead Lake",
+                "url": "https://fwp.mt.gov/stateparks/flathead-lake",
+                "content": "Flathead Lake is the largest natural freshwater lake west of the Mississippi River and is surrounded by stunning mountain scenery, making it a popular destination for outdoor recreation.",
+                "description": "Flathead Lake is the largest natural freshwater lake west of the Mississippi River, known for its crystal-clear waters and stunning mountain views. Visitors can enjoy a variety of recreational activities, including boating, fishing, swimming, and picnicking along the lake's shores.\n\nThe lake is home to a diverse array of wildlife, including bald eagles, ospreys, and mule deer, making it a popular destination for birdwatching and wildlife viewing. The lake's rich cultural history is evident in the numerous Native American archaeological sites found along its shores, providing a fascinating glimpse into the region's past.\n\nThe nearby town of Polson offers charming shops, galleries, and restaurants for visitors to explore after a day spent on the lake. With miles of shoreline and numerous campgrounds and RV parks, Flathead Lake is the perfect destination for a weekend getaway or a longer vacation in the great outdoors. Whether you're looking to relax on a sandy beach, go for a hike in the surrounding mountains, or simply soak in the natural beauty of the lake, Flathead Lake has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Flathead%20Lake"
+            },
+            {
+                "name": "Fort Owen",
+                "url": "https://fwp.mt.gov/stateparks/fort-owen",
+                "content": "Fort Owen State Park represents Montana's first permanent white settlement and provides insight into the state's early history.",
+                "description": "Fort Owen State Park is located in the beautiful Bitterroot Valley of western Montana and is home to the historic Fort Owen. This fort was the first permanent white settlement in Montana and played a crucial role in the early days of the region's history. Visitors can explore the reconstructed fort buildings, including the blacksmith shop, trading post, and living quarters, to get a glimpse of what life was like for early pioneers. The park also offers stunning views of the surrounding mountains and provides opportunities for hiking, picnicking, and wildlife viewing. History buffs and nature lovers alike will enjoy a visit to Fort Owen State Park.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Owen"
+            },
+            {
+                "name": "Frenchtown Pond",
+                "url": "https://fwp.mt.gov/stateparks/frenchtown-pond",
+                "content": "The Frenchtown Pond State Park representative is a popular outdoor destination for swimming, fishing, and picnicking in western Montana.",
+                "description": "Frenchtown Pond is a picturesque destination located just 14 miles west of Missoula, Montana. Visitors can enjoy swimming, boating, and fishing in the clear waters of the pond, which is stocked with rainbow trout. The park also offers hiking trails, picnic areas, and a sandy beach for sunbathing. Birdwatchers will appreciate the diverse avian species that can be spotted around the pond, including osprey and bald eagles. With its tranquil setting and array of recreational opportunities, Frenchtown Pond is the perfect spot for a day of outdoor fun in western Montana.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Frenchtown%20Pond"
+            },
+            {
+                "name": "Giant Springs",
+                "url": "https://fwp.mt.gov/stateparks/giant-springs",
+                "content": "Giant Springs is one of the largest freshwater springs in the United States, producing over 156 million gallons of water per day.",
+                "description": "Giant Springs is a breathtaking natural wonder located in Giant Springs State Park near Great Falls, Montana. The springs boast a flow rate of 156 million gallons of water per day, making it one of the largest freshwater springs in the United States. Visitors can enjoy scenic walks along the spring's crystal-clear waters and observe the diverse wildlife that call the area home, including rainbow trout and various bird species. The park also features picnic areas and hiking trails, making it a perfect destination for a day of outdoor exploration and relaxation. Don't forget to bring your camera to capture the stunning views and unique features of Giant Springs during your visit.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Giant%20Springs"
+            },
+            {
+                "name": "Granite",
+                "url": "https://fwp.mt.gov/stateparks/granite-ghost-town",
+                "content": "Granite Ghost Town State Park in Montana preserves the remnants of a once-thriving 19th century silver mining town.",
+                "description": "Granite Ghost Town State Park is a historic mining town located in southwestern Montana. Visitors can explore the abandoned buildings of this once bustling mining community, giving them a glimpse into the past. The town was established in the late 1800s during the peak of the mining boom in the area. Today, the park offers hiking trails and picnic areas for visitors to enjoy while experiencing the rich history of the town. Don't forget to bring your camera to capture the picturesque views of the surrounding mountains and valleys.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Granite"
+            },
+            {
+                "name": "Greycliff Prairie Dog Town",
+                "url": "https://fwp.mt.gov/stateparks/greycliff-prairie-dog-town",
+                "content": "Greycliff Prairie Dog Town is a unique wildlife viewing area where visitors can observe colonies of prairie dogs in their natural habitat.",
+                "description": "Greycliff Prairie Dog Town is a must-see attraction for animal lovers and nature enthusiasts. Visitors can observe adorable prairie dogs in their natural habitat, scurrying around and communicating with their unique barking sounds. The park offers scenic views of the surrounding landscape, making it a perfect spot for hiking and picnicking. Be sure to bring your camera to capture the playful antics of these charismatic creatures up close. Additionally, the park provides educational opportunities to learn about the importance of prairie dogs in maintaining healthy ecosystems.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Greycliff%20Prairie%20Dog%20Town"
+            },
+            {
+                "name": "Lake Elmo",
+                "url": "https://fwp.mt.gov/stateparks/lake-elmo",
+                "content": "Lake Elmo State Park is a popular destination for outdoor enthusiasts, offering opportunities for fishing, boating, hiking, and picnicking.",
+                "description": "1. Lake Elmo State Park is a beautiful oasis tucked away in the bustling city of Billings, Montana, offering visitors a serene escape from the urban environment.\n2. This 123-acre reservoir is a popular spot for fishing, with abundant populations of rainbow trout, largemouth bass, and bluegill.\n3. In addition to fishing, visitors can enjoy a variety of water activities such as boating, kayaking, and paddleboarding on the calm waters of Lake Elmo.\n4. The park also features several scenic hiking trails winding through the surrounding woodlands, perfect for nature lovers looking to explore the area's diverse wildlife and plant species.\n5. With picnic areas, a beach for swimming, and well-maintained campgrounds, Lake Elmo State Park provides the perfect setting for a day trip or weekend getaway for visitors of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Elmo"
+            },
+            {
+                "name": "Lake Mary Ronan",
+                "url": "https://fwp.mt.gov/stateparks/lake-mary-ronan",
+                "content": "Lake Mary Ronan State Park is a beautiful lakeside park in Montana with clear waters perfect for fishing, boating, and swimming.",
+                "description": "Lake Mary Ronan is a scenic mountain lake located in northwest Montana, just 14 miles west of the town of Flathead Valley. The crystal-clear waters of the lake offer excellent fishing opportunities for anglers, with the chance to catch rainbow trout, yellow perch, and kokanee salmon. Visitors can enjoy a variety of water activities such as boating, swimming, and paddleboarding, or simply relax on the sandy beach and take in the stunning views of the surrounding Mission and Salish Mountains. The park also features a campground with RV hookups and tent sites, making it a perfect place for a weekend getaway or a family vacation. Hiking trails wind through the lush forests surrounding the lake, providing opportunities to spot wildlife such as deer, bears, and eagles.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Mary%20Ronan"
+            },
+            {
+                "name": "Les Mason",
+                "url": "https://fwp.mt.gov/stateparks/les-mason",
+                "content": "Les Mason State Park is a peaceful retreat located along US Highway 93 that offers camping, picnicking, fishing, and birdwatching opportunities.",
+                "description": "Les Mason State Park is a hidden gem nestled in the heart of the beautiful Avon Valley in Montana. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, and picnicking in the peaceful and scenic surroundings of the park. The park is known for its abundance of wildlife, including a variety of bird species and deer roaming through the forests. The park also offers camping opportunities for those looking to immerse themselves in nature and enjoy a night under the stars. With its breathtaking views and tranquil atmosphere, Les Mason State Park is the perfect destination for a relaxing outdoor adventure.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Les%20Mason"
+            },
+            {
+                "name": "Lewis & Clark Caverns",
+                "url": "https://fwp.mt.gov/stateparks/lewis-and-clark-caverns",
+                "content": "Lewis & Clark Caverns State Park in Montana features a stunning limestone cavern system with guided tours available for visitors to explore.",
+                "description": "Lewis & Clark Caverns State Park is home to one of the most spectacular limestone caverns in the Northwest. Visitors can explore the underground world of stalactites, stalagmites, helictites, and columns on guided tours of the caverns.\n\nThe park offers a variety of outdoor recreational activities, including hiking, camping, picnicking, and wildlife viewing. Visitors can also enjoy the breathtaking views of the Jefferson River Valley from the park's scenic hiking trails.\n\nThe Lewis & Clark Caverns were first discovered in 1892 and were named in honor of the famous explorers who led the Corps of Discovery. The caverns are located in the heart of the Rocky Mountains and provide a unique glimpse into Montana's geological history.\n\nGuided tours are available from May to September, allowing visitors to explore the intricate passageways and stunning formations of the caverns. The park is a popular destination for families, outdoor enthusiasts, and anyone interested in experiencing the natural beauty of Montana.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lewis%20%26%20Clark%20Caverns"
+            },
+            {
+                "name": "Logan",
+                "url": "https://fwp.mt.gov/stateparks/logan",
+                "content": "The Logan State Park representative promotes outdoor recreation and adventure in the beautiful natural surroundings of Montana.",
+                "description": "Logan State Park is a beautiful 17-acre park located in northwestern Montana, offering stunning views of the surrounding mountains and Lake Frances. Visitors can enjoy a variety of outdoor activities, including fishing, boating, hiking, and birdwatching. The park is known for its abundant wildlife, and visitors may catch a glimpse of deer, bald eagles, or even black bear. Camping is available at the park, with both tent and RV sites equipped with picnic tables and fire rings. Whether you come for a day trip or stay overnight, Logan State Park is a peaceful and scenic destination for nature lovers to explore.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Logan"
+            },
+            {
+                "name": "Lone Pine",
+                "url": "https://fwp.mt.gov/stateparks/lone-pine",
+                "content": "The Lone Pine State Park in Montana is named after a solitary ponderosa pine tree on the hillside that stands as a symbol of resilience and strength in the face of adversity.",
+                "description": "The Lone Pine State Park is home to a towering lone ponderosa pine tree that is estimated to be over 400 years old, making it a unique and ancient landmark within the park. Visitors can enjoy stunning panoramic views of the Flathead Valley, Glacier National Park, and the Mission and Swan mountain ranges from the park's trails and picnic areas. The park offers opportunities for hiking, mountain biking, wildlife viewing, and birdwatching, with a variety of native wildlife including deer, elk, and a variety of bird species. The park also features a disc golf course and a visitor center with interpretive displays on the local flora, fauna, and history of the area. It is a peaceful and scenic destination for nature lovers and outdoor enthusiasts to explore and appreciate the beauty of Montana's landscape.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lone%20Pine"
+            },
+            {
+                "name": "Lost Creek",
+                "url": "https://fwp.mt.gov/stateparks/lost-creek",
+                "content": "Lost Creek State Park in Montana offers stunning views of limestone cliffs and a peaceful canyon perfect for hiking and camping.",
+                "description": "Lost Creek State Park in Montana is a hidden gem waiting to be discovered by visitors. The park is nestled in a lush forested area, offering stunning views of the surrounding mountains and streams. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, and picnicking in this serene setting. The park is also home to diverse wildlife, making it a great spot for birdwatching and nature photography. Whether you're looking for a peaceful getaway or a scenic adventure, Lost Creek State Park has something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lost%20Creek"
+            },
+            {
+                "name": "Madison Buffalo Jump",
+                "url": "https://fwp.mt.gov/stateparks/madison-buffalo-jump",
+                "content": "Madison Buffalo Jump State Park is a unique archaeological site that was used by Native American tribes for over 2,000 years to trap and kill buffalo for food, hides, and tools.",
+                "description": "Madison Buffalo Jump State Park is a fascinating archaeological site located in Montana, where Native American tribes once drove large herds of bison off a cliff during hunts. Visitors can explore the interpretive trail that leads to the top of the cliff, offering stunning views of the surrounding landscape and an insight into the hunting techniques used by the tribes.\n\nThe park also features a visitor center with displays about the history of the buffalo jump and the culture of the native peoples who lived in the area. Guests can learn about the significance of the buffalo to the tribes and how they utilized every part of the animal for food, clothing, and tools.\n\nFor a more immersive experience, visitors can participate in guided tours of the buffalo jump site, led by knowledgeable park staff who provide in-depth information about the archaeological findings and the traditions of the Native American tribes. With its rich history and scenic beauty, Madison Buffalo Jump State Park offers a unique opportunity to step back in time and learn about the ancient practices of the tribal peoples.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Madison%20Buffalo%20Jump"
+            },
+            {
+                "name": "Makoshika",
+                "url": "https://fwp.mt.gov/stateparks/makoshika",
+                "content": "A representative for Makoshika State Park can provide information on the park's unique geology, dinosaur fossils, and hiking opportunities.",
+                "description": "Makoshika State Park, located in eastern Montana, is the largest state park in the state and is known for its stunning badlands landscape.\n\nVisitors to Makoshika can explore over 11,000 acres of rugged terrain, which includes unique rock formations, fossil remains, and a variety of wildlife.\n\nThe park offers numerous hiking trails, picnic areas, and camping facilities for visitors to enjoy while taking in the breathtaking views.\n\nIn addition to outdoor activities, Makoshika State Park is also a popular destination for fossil hunting, with numerous dinosaur fossils having been discovered in the area.\n\nWhether you're a nature enthusiast, fossil hunter, or just looking to explore the beautiful Montana landscape, Makoshika State Park offers something for everyone.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Makoshika"
+            },
+            {
+                "name": "Medicine Rocks",
+                "url": "https://fwp.mt.gov/stateparks/medicine-rocks",
+                "content": "Medicine Rocks State Park features unique sandstone rock formations that have been a sacred site for Native Americans for hundreds of years.",
+                "description": "Medicine Rocks State Park in Montana is a unique and sacred site that features hundreds of sandstone pillars and rock formations, some reaching up to 80 feet in height. The area holds special significance for Native American tribes, who believe the rocks possess healing powers and spiritual energy.\n\nVisitors to Medicine Rocks can explore the park's scenic trails, marvel at the intricate patterns and shapes of the rocks, and take in stunning views of the surrounding prairie landscape. The park is also a popular spot for birdwatching, with a variety of species making their home among the rocks and cliffs.\n\nLegend has it that the rocks were used by Native American tribes for vision quests, ceremonies, and as a place of meditation and reflection. Today, visitors can still feel the powerful energy and presence of the rocks, making it a truly special and memorable experience.\n\nFor those looking to immerse themselves in nature and history, Medicine Rocks State Park offers a one-of-a-kind opportunity to connect with the land, culture, and spiritual traditions of the area. Whether you come for the natural beauty, the cultural significance, or the serene atmosphere, a visit to Medicine Rocks is sure to leave a lasting impression.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Medicine%20Rocks"
+            },
+            {
+                "name": "Milltown",
+                "url": "https://fwp.mt.gov/stateparks/milltown",
+                "content": "The representative for Milltown works to ensure that the state park is maintained for the enjoyment of visitors.",
+                "description": "Milltown State Park is located at the confluence of the Blackfoot and Clark Fork Rivers in Montana, offering visitors breathtaking views of the surrounding mountains and rivers. The park is a popular spot for fishing, with opportunities to catch trout and other native fish species in the rivers. Visitors can also explore the park's historic remnants, including the Old Milltown Dam ruins, which are a reminder of the area's industrial past. The park is a great place for picnicking and birdwatching, with a variety of bird species to be seen throughout the year. Whether you're looking to enjoy a peaceful day by the river or learn more about the area's history, Milltown State Park has something to offer for all visitors.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Milltown"
+            },
+            {
+                "name": "Missouri Headwaters",
+                "url": "https://fwp.mt.gov/stateparks/missouri-headwaters",
+                "content": "The Missouri Headwaters State Park in Montana is the point where the Madison, Jefferson, and Gallatin Rivers converge to form the Missouri River, making it a significant historical and geographical landmark in the state.",
+                "description": "Missouri Headwaters State Park in Montana is where the Gallatin, Jefferson, and Madison rivers converge to form the Missouri River, marking the beginning of the longest river in North America. Visitors can explore the park's diverse landscapes, which include lush river valleys, rolling hills, and rugged canyons. History enthusiasts will enjoy learning about the Lewis and Clark Expedition, as the park is a significant part of their journey to the Pacific Ocean. Outdoor enthusiasts can enjoy fishing, hiking, and wildlife viewing in this pristine natural setting. Camping facilities are available for those who want to immerse themselves in the beauty of the Missouri Headwaters.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Missouri%20Headwaters"
+            },
+            {
+                "name": "Painted Rocks",
+                "url": "https://fwp.mt.gov/stateparks/painted-rocks",
+                "content": "Painted Rocks State Park in Montana features colorful rock formations created by ancient volcanic activity.",
+                "description": "Painted Rocks State Park in Montana is known for its stunning cliffs, towering rock formations, and crystal-clear waters. Visitors can take part in a variety of activities such as fishing, camping, hiking, and birdwatching against the breathtaking backdrop of the Bitterroot Mountains. The park is home to a diverse range of wildlife, including deer, elk, and bald eagles, making it a popular spot for nature enthusiasts. History buffs will be intrigued by the ancient petroglyphs that can be found throughout the park, offering a glimpse into the Native American tribes that once inhabited the area. Whether you're looking to relax by the water or embark on an outdoor adventure, Painted Rocks State Park has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Painted%20Rocks"
+            },
+            {
+                "name": "Pictograph Cave",
+                "url": "https://fwp.mt.gov/stateparks/pictograph-cave",
+                "content": "The Pictograph Cave State Park in Montana features ancient rock art created by indigenous peoples, offering a glimpse into their culture and history.",
+                "description": "1. The Pictograph Cave State Park in Montana is home to a fascinating collection of prehistoric rock art created by the Native American tribes in the area over 2,000 years ago. These pictographs depict a variety of symbols, animals, people, and geometric shapes, offering a glimpse into the spiritual and cultural beliefs of the early inhabitants of the region.\n2. Visitors to the Pictograph Cave can take a guided tour of the site to learn about the history and significance of the rock art. Park rangers provide insights into the meaning behind the different symbols and help visitors understand the cultural context in which they were created.\n3. In addition to the rock art, the park also features a series of caves that were once used as shelter by Native American tribes. These caves offer a unique glimpse into the daily lives of the early inhabitants of the region and provide a fascinating insight into their hunting, gathering, and social practices.\n4. The Pictograph Cave State Park is not only a place of historical significance but also a beautiful natural area with stunning views of the surrounding landscape. Visitors can enjoy hiking trails, picnic areas, and wildlife watching opportunities while exploring the park and learning about the rich cultural heritage of the area.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pictograph%20Cave"
+            },
+            {
+                "name": "Pirogue Island",
+                "url": "https://fwp.mt.gov/stateparks/pirogue-island",
+                "content": "Pirogue Island State Park is a day use-only park located on the Missouri River with opportunities for fishing, picnicking, and wildlife viewing.",
+                "description": "1. Pirogue Island State Park is a hidden gem in Montana, offering visitors a peaceful and secluded escape surrounded by the natural beauty of the Missouri River.\n\n2. The park is a popular destination for outdoor enthusiasts, with opportunities for fishing, birdwatching, hiking, and wildlife viewing.\n\n3. Visitors can explore the island's diverse ecosystems, from lush forests to sandy beaches, and might catch a glimpse of bald eagles, deer, or otters in their natural habitat.\n\n4. Camping is available on the island, offering a unique and immersive experience for those looking to truly disconnect and unwind in nature.\n\n5. Whether you're looking for a day trip or a weekend adventure, Pirogue Island State Park is a perfect destination for those seeking serenity and outdoor recreation in a beautiful setting.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pirogue%20Island"
+            },
+            {
+                "name": "Placid Lake",
+                "url": "https://fwp.mt.gov/stateparks/placid-lake",
+                "content": "Placid Lake is a peaceful mountain lake surrounded by lush forested hills in western Montana.",
+                "description": "Placid Lake State Park is a serene oasis nestled in the heart of the Montana wilderness, offering visitors a tranquil escape from the hustle and bustle of everyday life. The crystal-clear waters of Placid Lake are perfect for swimming, boating, and fishing, making it a popular destination for outdoor enthusiasts. The park also features a sandy beach area, picnic spots, and a boat launch, providing ample opportunities for recreation and relaxation. Surrounding by towering forests and majestic mountain peaks, Placid Lake State Park is a picturesque setting for camping and wildlife viewing, with a variety of hiking trails and abundant birdwatching opportunities. Whether you're looking to soak up the sun on the beach or explore the great outdoors, Placid Lake State Park has something for everyone to enjoy.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Placid%20Lake"
+            },
+            {
+                "name": "Rosebud Battlefield",
+                "url": "https://fwp.mt.gov/stateparks/rosebud-battlefield",
+                "content": "Rosebud Battlefield is a historic site in Montana where the battle between the U.S. military led by General Crook and Native American tribes led by Crazy Horse took place in 1876.",
+                "description": "The Rosebud Battlefield State Park in Montana is the site of a significant battle that took place between the US Army and Native American forces in 1876.\n\nVisitors to the park can explore the battlefield and learn about the clash that took place here, which was a precursor to the more famous Battle of the Little Bighorn.\n\nThe park offers interpretive displays, walking trails, and guided tours that provide insight into the history of the site and the events that unfolded here.\n\nIn addition to its historical significance, the Rosebud Battlefield State Park is also a beautiful natural area with stunning views of the surrounding landscape.\n\nFor history buffs and outdoor enthusiasts alike, a visit to the Rosebud Battlefield State Park offers a unique and educational experience.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rosebud%20Battlefield"
+            },
+            {
+                "name": "Salmon Lake",
+                "url": "https://fwp.mt.gov/stateparks/salmon-lake",
+                "content": "Salmon Lake State Park is a popular recreational destination with opportunities for camping, fishing, boating, and wildlife viewing.",
+                "description": "Salmon Lake State Park is a beautiful destination in Montana known for its stunning lake views and scenic surroundings. Visitors can enjoy a variety of recreational activities at the lake, including boating, fishing, swimming, and picnicking. The park also offers well-maintained camping facilities, making it a perfect spot for a weekend getaway with family and friends. Hiking trails meander through the park, offering opportunities for wildlife viewing and peaceful nature walks. Whether you're looking to relax by the water or get active outdoors, Salmon Lake State Park has something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Salmon%20Lake"
+            },
+            {
+                "name": "Sluice Boxes",
+                "url": "https://fwp.mt.gov/stateparks/sluice-boxes",
+                "content": "Sluice Boxes State Park in Montana offers stunning natural scenery, rugged hiking trails, and excellent fishing opportunities along Belt Creek.",
+                "description": "Sluice Boxes State Park in Montana offers visitors the opportunity to explore rugged landscapes and deep canyons carved by the Belt Creek. With over 7,000 acres to explore, hikers can discover breathtaking views of the cliffs and rock formations that make this park a hidden gem. The park's rich history, including traces of mining and railroad operations, adds a unique element to the outdoor experience. For those craving adventure, the park offers opportunities for fishing, rock climbing, and wildlife viewing. Whether you're seeking a peaceful hike or an adrenaline-fueled adventure, Sluice Boxes State Park has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sluice%20Boxes"
+            },
+            {
+                "name": "Smith River",
+                "url": "https://fwp.mt.gov/stateparks/smith-river",
+                "content": "The Smith River in Montana is known for its scenic float trips through a remote limestone canyon.",
+                "description": "The Smith River in Montana is renowned for its pristine waters and stunning scenery, making it a popular destination for outdoor enthusiasts. Visitors can enjoy a scenic float down the river, surrounded by towering limestone cliffs and lush forests. The river is also known for its excellent fishing opportunities, with an abundance of trout and other fish species. Camping along the banks of the Smith River is a unique experience, offering a peaceful retreat in the heart of nature. Permits are required for floating and camping on the Smith River, making it a truly special and secluded destination for those seeking a true wilderness getaway.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Smith%20River"
+            },
+            {
+                "name": "Somers Beach",
+                "url": "https://fwp.mt.gov/stateparks/somers-beach",
+                "content": "Somers Beach is a popular spot for swimming, fishing, and picnicking on Flathead Lake in Montana.",
+                "description": "One of the main highlights of Somers Beach is its stunning panoramic views of Flathead Lake, the largest natural freshwater lake west of the Mississippi. Visitors can take in the breathtaking scenery while relaxing on the sandy shores or enjoying a picnic at one of the designated picnic areas. \n\nFor those looking to cool off on a hot summer day, Somers Beach offers swimming opportunities in the clear, refreshing waters of Flathead Lake. The beach is also a popular spot for water sports such as kayaking, paddleboarding, and fishing.\n\nNature lovers will appreciate the abundance of wildlife and birdwatching opportunities at Somers Beach. Keep an eye out for bald eagles, osprey, and various species of waterfowl that call the area home.\n\nHiking enthusiasts can explore the nearby Somers Beach Trail, a scenic path that winds through the surrounding forests and offers glimpses of the lake along the way. Whether you're looking for a relaxing day by the water or an outdoor adventure, Somers Beach has something for every type of visitor to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Somers%20Beach"
+            },
+            {
+                "name": "Spring Meadow Lake",
+                "url": "https://fwp.mt.gov/stateparks/spring-meadow-state-park",
+                "content": "Spring Meadow Lake is a peaceful oasis located in Spring Meadow State Park, offering fishing, swimming, and picnicking opportunities.",
+                "description": "Spring Meadow Lake is a beautiful state park located in Helena, Montana, offering visitors a tranquil setting for a variety of outdoor activities. The park features a picturesque lake, surrounded by lush meadows and rolling hills, making it the perfect spot for picnicking and wildlife viewing. Visitors can also enjoy fishing, swimming, and non-motorized boating on the pristine waters of the lake. With several hiking trails winding through the park, nature enthusiasts can explore the diverse plant and animal life that call Spring Meadow Lake home. Whether you're looking for a relaxing day by the water or a fun-filled outdoor adventure, Spring Meadow Lake is the ideal destination for nature lovers of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Spring%20Meadow%20Lake"
+            },
+            {
+                "name": "Thompson Chain of Lakes",
+                "url": "https://fwp.mt.gov/stateparks/thompson-chain-of-lakes",
+                "content": "Thompson Chain of Lakes is a beautiful recreational area in Montana known for its pristine lakes, fishing opportunities, and scenic campgrounds.",
+                "description": "Thompson Chain of Lakes State Park is a popular recreational destination in northwest Montana, offering a variety of outdoor activities for visitors to enjoy. The park consists of a chain of seven lakes connected by channels and is surrounded by stunning mountain scenery. Visitors can partake in activities such as fishing, boating, kayaking, and swimming in the crystal-clear waters of the lakes. Hiking and mountain biking trails wind through the surrounding forest, providing opportunities to explore the area's natural beauty. Camping facilities are available for those looking to spend the night under the stars in this picturesque setting.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Thompson%20Chain%20of%20Lakes"
+            },
+            {
+                "name": "Thompson Falls",
+                "url": "https://fwp.mt.gov/stateparks/thompson-falls",
+                "content": "Thompson Falls State Park is a picturesque park located along the Clark Fork River in Montana, offering scenic views, picnic areas, fishing spots, and hiking trails.",
+                "description": "Thompson Falls State Park is a beautiful outdoor destination located in the mountains of western Montana. Visitors can enjoy stunning views of the picturesque Thompson Falls from various hiking trails within the park. The park is also a great spot for fishing, with the Clark Fork River running through the area, offering opportunities to catch trout and other native fish species. Birdwatchers will also appreciate the diverse bird population in the park, including bald eagles and osprey. Additionally, the park offers picnic areas and camping facilities for visitors looking to experience the natural beauty of Montana overnight.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Thompson%20Falls"
+            },
+            {
+                "name": "Tongue River Reservoir",
+                "url": "https://fwp.mt.gov/stateparks/tongue-river-reservoir",
+                "content": "Tongue River Reservoir State Park offers a variety of water activities, including boating, fishing, and swimming, surrounded by beautiful mountain views.",
+                "description": "Tongue River Reservoir is a popular destination in southeastern Montana, offering visitors a variety of recreational activities such as boating, fishing, and camping. The reservoir covers over 12,000 acres and is a perfect spot for water sports enthusiasts.\n\nAnglers will be delighted to know that Tongue River Reservoir is home to a variety of fish species, including walleye, catfish, and bass. The reservoir is known for its excellent fishing opportunities, making it a favorite among locals and tourists alike.\n\nCampers can enjoy the beautiful surroundings of Tongue River Reservoir State Park, which offers several campgrounds with both tent and RV sites. There are also picnic areas, hiking trails, and wildlife viewing opportunities for visitors to enjoy.\n\nThe park is a great place for birdwatching, with over 186 bird species recorded in the area. Visitors can expect to see a variety of birds, including pelicans, eagles, and waterfowl while exploring the park.\n\nOverall, Tongue River Reservoir is a fantastic destination for outdoor enthusiasts looking to immerse themselves in nature and enjoy a wide range of recreational activities in a stunning setting.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tongue%20River%20Reservoir"
+            },
+            {
+                "name": "Tower Rock",
+                "url": "https://fwp.mt.gov/stateparks/tower-rock",
+                "content": "Tower Rock is a prominent geological formation rising 424 feet above the Missouri River in Montana.",
+                "description": "Tower Rock is a massive sandstone formation located in Black Sandy State Park in Montana. Standing at 400 feet tall, it offers breathtaking views of the surrounding landscape. Visitors can hike to the top of the rock for a truly unforgettable experience.\n\nIn addition to its natural beauty, Tower Rock is also a popular spot for rock climbers looking for a challenge. The rock offers a variety of routes suitable for climbers of all skill levels.\n\nThe area surrounding Tower Rock is perfect for outdoor enthusiasts, with opportunities for fishing, boating, and camping. Wildlife lovers will also enjoy the chance to spot bald eagles, osprey, and other local wildlife.\n\nHistory buffs will appreciate the cultural significance of Tower Rock, as it was a traditional meeting place for Native American tribes in the area. The rock holds a special place in the history of the region and is worth a visit for those interested in learning more about Montana's past.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tower%20Rock"
+            },
+            {
+                "name": "Travelers' Rest",
+                "url": "https://fwp.mt.gov/stateparks/travelers-rest",
+                "content": "Travelers' Rest State Park is a historic site in Montana where Lewis and Clark camped during their expedition in 1805 and features interpretive exhibits and walking trails.",
+                "description": "Travelers' Rest State Park in Montana is a historical site that served as a stopping point for Lewis and Clark during their expedition to the Pacific Ocean in 1805-1806. Visitors can explore the reconstructed expedition buildings, including a replica of the explorers' quarters and a dugout canoe display. The park offers a variety of outdoor activities such as hiking, fishing, and bird watching along the Lolo Trail. In addition, there are interpretive programs and guided tours available for those interested in learning more about the history of the area. Travelers' Rest State Park is a perfect destination for history buffs and outdoor enthusiasts alike.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Travelers%27%20Rest"
+            },
+            {
+                "name": "Wayfarers",
+                "url": "https://fwp.mt.gov/stateparks/wayfarers",
+                "content": "The Wayfarers State Park representative is dedicated to providing visitors with a memorable outdoor experience in a beautiful lakeside setting in Montana.",
+                "description": "Wayfarers State Park is located on the shores of Flathead Lake in Montana and offers breathtaking views of the surrounding mountains and crystal-clear waters.\n\nVisitors to Wayfarers can enjoy a variety of recreational activities such as swimming, fishing, hiking, and picnicking in the scenic park. The park also features a sandy beach area where families can relax and enjoy the sunshine.\n\nFor those looking to explore the area further, Wayfarers State Park is a great starting point for boating adventures on Flathead Lake, one of the largest natural freshwater lakes in the western United States.\n\nNature enthusiasts will appreciate the diverse wildlife and plant species that can be found within the park, making it a great spot for birdwatching and nature photography.\n\nWith its beautiful scenery and abundant outdoor activities, Wayfarers State Park is the perfect destination for a relaxing day trip or weekend getaway in Montana.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wayfarers"
+            },
+            {
+                "name": "West Shore",
+                "url": "https://fwp.mt.gov/stateparks/west-shore",
+                "content": "West Shore State Park offers stunning views of Flathead Lake and the surrounding mountains.",
+                "description": "West Shore State Park in Montana offers visitors a beautiful shoreline along Flathead Lake, perfect for swimming, boating, and fishing. The park is a great spot for picnicking with stunning views of the surrounding mountains and crystal clear water. Hiking trails wind through the park, providing opportunities for birdwatching and wildlife viewing. Overnight camping is available at the park's campground, allowing visitors to wake up to the sounds of nature and the tranquil waters of Flathead Lake. Whether you're looking for a relaxing day by the lake or an active outdoor adventure, West Shore State Park has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=West%20Shore"
+            },
+            {
+                "name": "Whitefish Lake",
+                "url": "https://fwp.mt.gov/stateparks/whitefish-lake",
+                "content": "Whitefish Lake State Park offers scenic views, water activities, and hiking trails in the stunning Rocky Mountains of Montana.",
+                "description": "Whitefish Lake is a stunning alpine lake located in northwest Montana, surrounded by the picturesque Whitefish Mountain Range. Visitors can enjoy a variety of water activities, including boating, fishing, and swimming in the crystal-clear waters. The lake is also a popular spot for picnicking, with numerous scenic spots offering breathtaking views of the surrounding mountains. For those looking to explore the area further, there are several hiking trails that wind through the lush forests and meadows near the lake. Whether you're seeking relaxation or adventure, Whitefish Lake offers a tranquil escape in the heart of Montana's natural beauty.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Whitefish%20Lake"
+            },
+            {
+                "name": "Wild Horse Island",
+                "url": "https://fwp.mt.gov/stateparks/wild-horse-island",
+                "content": "Wild Horse Island is a paradise for hikers, boaters, and wildlife enthusiasts located in Flathead Lake State Park in Montana.",
+                "description": "Wild Horse Island is located on the largest freshwater lake west of the Mississippi, Flathead Lake in Montana. The island is home to a herd of wild horses, giving it its unique name. Visitors can explore the island by hiking the 2.5-mile trail that offers breathtaking views of the lake and surrounding mountains. The island is also a popular spot for bird watching, with over 75 species of birds spotted on the island. Visitors can also enjoy activities such as picnicking, fishing, and wildlife viewing while on the island.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wild%20Horse%20Island"
+            },
+            {
+                "name": "Yellow Bay",
+                "url": "https://fwp.mt.gov/stateparks/yellow-bay",
+                "content": "The representative of Yellow Bay State Park in Montana is dedicated to preserving the natural and cultural resources of the park for visitors to enjoy.",
+                "description": "Yellow Bay State Park is a hidden gem nestled along the western shore of Flathead Lake in Montana. Visitors flock to its sandy beach for swimming and sunbathing, or enjoy picnicking in the shade of towering ponderosa pines. The park is popular among boaters, who can launch from the easily accessible boat ramp and explore the crystal-clear waters of Flathead Lake. Birdwatchers will delight in spotting osprey, bald eagles, and other feathered residents that call Yellow Bay home. With its stunning lake views and peaceful atmosphere, Yellow Bay State Park is a must-visit destination for outdoor enthusiasts looking to relax and reconnect with nature.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Yellow%20Bay"
+            }
+        ]
+    }
+}

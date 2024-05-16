@@ -1,0 +1,14 @@
+{
+    "North Carolina State Parks": {
+        "parks": [
+            {
+                "name": "Bob's Creek State Natural Area",
+                "url": "https://www.ncparks.gov/state-parks/bobs-creek-state-natural-area",
+                "content": "Bob's Creek State Natural Area offers a peaceful escape for outdoor enthusiasts to hike, fish, and enjoy the beautiful wilderness.",
+                "description": "Bob's Creek State Natural Area is a hidden gem nestled in the heart of the North Carolina mountains. This serene and peaceful park offers visitors the chance to explore untouched wilderness and reconnect with nature. Hiking trails wind through lush forests, past cascading waterfalls, and offer stunning views of the surrounding mountains. Wildlife enthusiasts will delight in the diverse array of plants and animals that call this area home, including rare and endangered species. Whether you're looking for a challenging hike or a quiet spot to relax and enjoy the sounds of nature, Bob's Creek State Natural Area is the perfect destination for outdoor enthusiasts.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bob%27s%20Creek%20State%20Natural%20Area"
+            }
+        ]
+    }
+}

@@ -1,0 +1,158 @@
+{
+    "North Dakota State Parks": {
+        "parks": [
+            {
+                "name": "Cross Ranch State Park",
+                "url": "https://www.parkrec.nd.gov/cross-ranch-state-park",
+                "content": "Cross Ranch State Park is located along the winding Knife River in North Dakota and offers a peaceful retreat for hiking, camping, and wildlife viewing.",
+                "description": "Cross Ranch State Park is located along the Missouri River and is known for its rugged beauty, diverse plant and animal life, and rich cultural history. Visitors can explore over 13 miles of trails that wind through wooded ravines, grassy meadows, and along the riverbank, providing opportunities for hiking, horseback riding, and birdwatching. The park also offers camping facilities, including primitive and electrical sites, as well as a group camp area and a rustic bunkhouse, making it a great destination for weekend getaways or family vacations. Canoeing and kayaking are popular activities on the river, and anglers can try their luck fishing for catfish, walleye, and northern pike. With its tranquil setting and abundant outdoor recreation opportunities, Cross Ranch State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/DSC_3311%20-%20WEB.jpg?itok=vnE6GUzD",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cross%20Ranch%20State%20Park"
+            },
+            {
+                "name": "Pembina Gorge State Recreation Area",
+                "url": "https://www.parkrec.nd.gov/pembina-gorge-state-recreation-area",
+                "content": "Pembina Gorge State Recreation Area offers scenic views, hiking trails, camping facilities, and recreational activities for visitors to enjoy.",
+                "description": "Pembina Gorge State Recreation Area is a beautiful outdoor destination located in the northeast corner of North Dakota. Visitors can explore over 2,800 acres of pristine wilderness, including scenic overlooks, wooded hills, and grassy meadows. The area offers a wide range of recreational activities, such as hiking, mountain biking, horseback riding, and wildlife viewing. One of the most popular attractions is the Pembina Gorge Trail, a 12-mile path that winds through the rugged landscape and offers stunning views of the Pembina River. Whether you're looking for a relaxing nature retreat or an adventurous outdoor experience, Pembina Gorge State Recreation Area has something for everyone.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/IMG_2092%20copy_0.jpg?itok=mJa8C-dP",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pembina%20Gorge%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Sully Creek State Park",
+                "url": "https://www.parkrec.nd.gov/sully-creek-state-park",
+                "content": "Sully Creek State Park is a picturesque park located in western North Dakota along the Little Missouri River, offering camping, hiking, and scenic views of the Badlands.",
+                "description": "Sully Creek State Park is a beautiful natural area located along the Little Missouri River in western North Dakota. This park is popular among outdoor enthusiasts for its scenic hiking trails, fishing opportunities, and picturesque camping spots. Visitors can enjoy exploring the park's rugged badlands terrain, spotting wildlife such as bison and mule deer, and soaking in the peaceful atmosphere of the river valley. The park is also a great spot for birdwatching, with a variety of species to be seen throughout the year. Whether you're looking for a peaceful retreat or an adrenaline-pumping outdoor adventure, Sully Creek State Park has something for everyone to enjoy.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/SullyCreek_AerialPhoto-2-WEB_1.jpg?itok=A9dlDkWS",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sully%20Creek%20State%20Park"
+            },
+            {
+                "name": "Turtle River State Park",
+                "url": "https://www.parkrec.nd.gov/turtle-river-state-park",
+                "content": "Turtle River State Park offers a peaceful and scenic natural setting with trails for hiking, camping, and fishing in North Dakota.",
+                "description": "Turtle River State Park is located in Grand Forks County, North Dakota, and spans over 800 acres of beautiful woodland and prairie landscapes. Visitors can enjoy activities such as hiking, camping, picnicking, and wildlife viewing in this tranquil park. The Turtle River meanders through the park, providing opportunities for kayaking and fishing. The park also features a disc golf course, playgrounds, and a swimming area for visitors to enjoy. With its scenic beauty and abundance of recreational opportunities, Turtle River State Park is a perfect destination for outdoor enthusiasts of all ages.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/IMG_0597.jpg?itok=rqOEhBEE",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Turtle%20River%20State%20Park"
+            },
+            {
+                "name": "Little Missouri State Park",
+                "url": "https://www.parkrec.nd.gov/little-missouri-state-park-0",
+                "content": "Little Missouri State Park is surrounded by the rugged beauty of the Little Missouri River Badlands and offers opportunities for hiking, wildlife viewing, and camping.",
+                "description": "Little Missouri State Park is a sprawling park located in the heart of the Badlands and named after the nearby Little Missouri River. Visitors can enjoy stunning views of the rugged landscape, hike along the park's trails, and even go horseback riding through the picturesque terrain. The park is also a popular spot for birdwatching, with a variety of species to be spotted throughout the year. Make sure to bring a camera to capture the beauty of this unique North Dakota park. Don't forget to check out the park's camping facilities for a truly immersive experience in the great outdoors.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/LittleMissouri-2022-182.jpg?itok=jpifHwph",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Missouri%20State%20Park"
+            },
+            {
+                "name": "Fort Abraham Lincoln State Park",
+                "url": "https://www.parkrec.nd.gov/fort-abraham-lincoln-state-park",
+                "content": "Fort Abraham Lincoln State Park offers visitors a glimpse into history with reconstructed military buildings and the famous On-A-Slant Indian Village.",
+                "description": "Fort Abraham Lincoln State Park is a historical gem located in Mandan, North Dakota. Visitors can explore the reconstructed infantry and cavalry posts from the 1870s which once housed the famous General Custer and his troops. The park offers guided tours of the On-A-Slant Indian Village, giving visitors a glimpse into the lives of the Mandan Indians who inhabited the area centuries ago. Outdoor enthusiasts will enjoy hiking and biking along the scenic trails that wind through the park's beautiful prairies and along the Missouri River. And for those looking to extend their stay, the park also offers camping and picnicking facilities for a truly immersive experience in the great outdoors.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/296X4879_0.JPG?itok=wZF7BxLm",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Abraham%20Lincoln%20State%20Park"
+            },
+            {
+                "name": "Fort Ransom State Park",
+                "url": "https://www.parkrec.nd.gov/fort-ransom-state-park",
+                "content": "Fort Ransom State Park is a peaceful nature retreat located along the Sheyenne River in North Dakota, offering hiking trails, camping facilities, and scenic picnic areas.",
+                "description": "Fort Ransom State Park is located in the Sheyenne River Valley, offering visitors a beautiful natural setting for outdoor activities like hiking and picnicking. The park is known for its scenic views of the surrounding hills and valleys, making it a popular destination for nature enthusiasts and photographers. Visitors can explore historic buildings and artifacts from the area's pioneer days, giving a glimpse into North Dakota's rich history. The park also features a variety of campsites for those looking to stay overnight and immerse themselves in the peaceful atmosphere of the park. Additionally, visitors can enjoy fishing and wildlife viewing opportunities in the park's designated areas.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/FortRansomCamp.jpg?itok=7wwgF_D4",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Ransom%20State%20Park"
+            },
+            {
+                "name": "Icelandic State Park",
+                "url": "https://www.parkrec.nd.gov/icelandic-state-park",
+                "content": "Icelandic State Park is located in northeastern North Dakota and offers scenic views of the surrounding hills and valleys.",
+                "description": "Icelandic State Park in North Dakota is located on the shores of Lake Renwick, offering stunning views and recreational activities for visitors. The park is known for its Icelandic heritage, with a replica of an Icelandic turf church on the grounds. Visitors can explore miles of hiking and biking trails, as well as enjoy picnicking, fishing, and boating on the lake. The park also features a campground and cabins for overnight stays, making it a perfect destination for a weekend getaway. Don't miss the annual Icelandic Festival held in August, celebrating the park's heritage with traditional food, music, and dancing.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/IMG_3847.JPG?itok=x1cvOhwL",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Icelandic%20State%20Park"
+            },
+            {
+                "name": "Beaver Lake State Park",
+                "url": "https://www.parkrec.nd.gov/beaver-lake-state-park",
+                "content": "Beaver Lake State Park is a scenic recreation area located on the shores of Beaver Lake in North Dakota.",
+                "description": "Beaver Lake State Park in North Dakota offers visitors a peaceful and secluded setting surrounded by rolling hills and beautiful prairie landscapes. The park features a picturesque tree-lined lake that is perfect for boating, fishing, and swimming. Visitors can explore the park's hiking and biking trails, which provide opportunities to see a variety of wildlife and wildflowers. The park also offers camping facilities, including modern and primitive campgrounds, as well as picnic areas for visitors to enjoy a relaxing outdoor meal. Overall, Beaver Lake State Park is a hidden gem for outdoor enthusiasts looking to immerse themselves in nature and enjoy a tranquil escape from the hustle and bustle of everyday life.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/BeaverLake_Beach_Panorama_02_CC.jpg?itok=rzJaAs1j",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beaver%20Lake%20State%20Park"
+            },
+            {
+                "name": "Fort Stevenson State Park",
+                "url": "https://www.parkrec.nd.gov/fort-stevenson-state-park",
+                "content": "Fort Stevenson State Park in Garrison, North Dakota is a picturesque spot along Lake Sakakawea offering camping, hiking, fishing, and boating opportunities.",
+                "description": "Fort Stevenson State Park is located on the north shore of Lake Sakakawea in North Dakota, making it a great destination for water activities such as fishing, boating, and swimming. Visitors can explore the historic Fort Stevenson site, which was a military outpost during the 1800s. The park offers a variety of camping options, from RV sites to cabins, for those looking to stay overnight. Hiking and biking trails wind through the park, offering beautiful views of the surrounding landscape. Birdwatchers will enjoy spotting a variety of bird species in the park, including bald eagles and pelicans.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/Fort%20Stevenson%20Selects_01_39_30_13%20crop_2.jpg?itok=l6nfOsFO",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Stevenson%20State%20Park"
+            },
+            {
+                "name": "Grahams Island State Park",
+                "url": "https://www.parkrec.nd.gov/grahams-island-state-park",
+                "content": "Grahams Island State Park is the only North Dakota state park located on an island, offering a unique outdoor experience with opportunities for camping, swimming, boating, and hiking.",
+                "description": "Grahams Island State Park is located on a peninsula surrounded by the waters of Devils Lake in North Dakota. Visitors can enjoy a variety of outdoor activities such as fishing, boating, hiking, and bird watching in this scenic park. The park also features a swimming beach, playgrounds, and picnic areas for families to relax and enjoy the beautiful surroundings. Camping is available for those looking to stay overnight, with both tent and RV sites, as well as cabins for rent. With stunning views of Devils Lake and plenty of recreational opportunities, Grahams Island State Park is a popular destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/DJI_0044.JPG?itok=-56pM1Rn",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grahams%20Island%20State%20Park"
+            },
+            {
+                "name": "Lake Metigoshe State Park",
+                "url": "https://www.parkrec.nd.gov/lake-metigoshe-state-park",
+                "content": "Lake Metigoshe State Park is a peaceful retreat featuring pristine lakes, lush forests, and a variety of recreational activities for visitors to enjoy.",
+                "description": "Lake Metigoshe State Park is a beautiful natural oasis located in the Turtle Mountains of North Dakota. Visitors can enjoy a variety of outdoor activities such as fishing, hiking, and boating on the pristine waters of Lake Metigoshe. The park also offers scenic picnic areas, campgrounds, and cozy cabins for those looking to extend their stay. Wildlife enthusiasts will be delighted by the diverse array of birds and animals that inhabit the park, making it a perfect spot for bird watching and nature photography. With its stunning views and peaceful atmosphere, Lake Metigoshe State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/P6261723_CC%20%281%29_1.jpg?itok=QNuE63u-",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Metigoshe%20State%20Park"
+            },
+            {
+                "name": "Lake Sakakawea State Park",
+                "url": "https://www.parkrec.nd.gov/lake-sakakawea-state-park",
+                "content": "Lake Sakakawea State Park is located on the beautiful shores of Lake Sakakawea, one of the largest man-made reservoirs in the United States.",
+                "description": "Lake Sakakawea State Park is located on the beautiful shores of Lake Sakakawea, which is the third-largest man-made lake in the United States. Visitors can enjoy a variety of outdoor activities such as boating, fishing, hiking, and camping in this picturesque park.\n\nThe park offers several well-maintained campgrounds with modern amenities such as electricity, water, and showers. There are also picnic areas, playgrounds, and a swimming beach for visitors to enjoy during their stay.\n\nFor those interested in fishing, Lake Sakakawea is home to a variety of fish species including walleye, northern pike, and bass. The park also has a marina where visitors can rent boats and fishing equipment.\n\nHikers can explore the park's miles of scenic trails that wind through rolling prairies and woodlands, offering stunning views of the lake and surrounding landscape. Wildlife enthusiasts may also spot a variety of bird species and other animals during their visit to Lake Sakakawea State Park.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/Camping%20Solitude%20DSC02608_0.jpg?itok=URWqnNhC",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Sakakawea%20State%20Park"
+            },
+            {
+                "name": "Lewis & Clark State Park",
+                "url": "https://www.parkrec.nd.gov/lewis-clark-state-park",
+                "content": "Lewis & Clark State Park in North Dakota offers a variety of outdoor activities including fishing, boating, and hiking along the scenic Missouri River.",
+                "description": "Lewis & Clark State Park is located along the scenic north shore of Lake Sakakawea in North Dakota. Visitors can enjoy a variety of outdoor activities such as hiking, boating, fishing, and camping in this beautiful park. The park also offers picnic shelters, playgrounds, and a sandy beach area for families to relax and enjoy the sun. With over 490 acres of natural beauty, Lewis & Clark State Park is a popular destination for both locals and tourists looking to escape the hustle and bustle of everyday life. Don't forget to bring your camera to capture the stunning views of the lake and surrounding landscape!",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/Lewis%20and%20Clark%20Selects_01_39_28_12%20edit%20RGB.jpg?itok=ky77rlYN",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lewis%20%26%20Clark%20State%20Park"
+            },
+            {
+                "name": "Crow Flies High State Recreation Area",
+                "url": "https://www.parkrec.nd.gov/crow-flies-high-state-recreation-area",
+                "content": "Crow Flies High State Recreation Area offers scenic views, camping, fishing, and hiking opportunities in North Dakota.",
+                "description": "Crow Flies High State Recreation Area is a peaceful getaway located along the scenic Heart River in North Dakota. Visitors can enjoy activities such as hiking, biking, birdwatching, and picnicking in the beautiful surroundings of the park. The park also offers fishing opportunities on the river and a boat ramp for easy access to the water. With its stunning views and serene atmosphere, Crow Flies High State Recreation Area is the perfect place to relax and unwind in nature. Be sure to keep an eye out for the diverse wildlife that calls the park home, including deer, bald eagles, and various bird species.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/DSC_0538_CC_2.jpg?itok=6BfnSzEc",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Crow%20Flies%20High%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Gunlogson State Nature Preserve",
+                "url": "https://www.parkrec.nd.gov/gunlogson-state-nature-preserve",
+                "content": "Gunlogson State Nature Preserve is a 800-acre site in North Dakota that protects a diverse ecosystem including grasslands, wetlands, and forests.",
+                "description": "Gunlogson State Nature Preserve is a hidden gem located in North Dakota that offers visitors a chance to experience untouched prairie landscapes. The preserve spans over 1,600 acres and is home to a variety of rare plant species, including the Western Prairie Fringed Orchid. Visitors can explore the preserve's hiking trails, which wind through rolling hills and grasslands, providing stunning views of the surrounding countryside. Birdwatchers will also enjoy the opportunity to spot a variety of bird species, including meadowlarks and bobolinks, in their natural habitat. With its peaceful atmosphere and diverse ecosystems, Gunlogson State Nature Preserve is a must-visit destination for nature lovers.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/Icelandic_AerialPhoto-8.jpg?itok=9YQZgWY8",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gunlogson%20State%20Nature%20Preserve"
+            },
+            {
+                "name": "Little Metigoshe State Recreation Area",
+                "url": "https://www.parkrec.nd.gov/little-metigoshe-state-recreation-area",
+                "content": "The Little Metigoshe State Recreation Area is a scenic destination in North Dakota offering a wide range of outdoor recreational activities including hiking, fishing, and boating.",
+                "description": "Little Metigoshe State Recreation Area is located in Bottineau County, North Dakota, offering visitors a picturesque setting surrounded by natural beauty. The park features a variety of outdoor activities, such as fishing, hiking, and camping, making it an ideal destination for nature enthusiasts. Visitors can explore the crystal-clear waters of Lake Metigoshe, known for its excellent fishing opportunities, including walleye, perch, and northern pike. The park also has several hiking trails that wind through the lush forest, providing a chance to observe local wildlife and enjoy the tranquil surroundings. With its stunning scenery and abundance of recreational opportunities, Little Metigoshe State Recreation Area is the perfect place to escape the hustle and bustle of everyday life.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/Littte%20Metigoshe.JPG?itok=zLTDIml8",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Metigoshe%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Missouri River State Natural Area",
+                "url": "https://www.parkrec.nd.gov/missouri-river-state-natural-area",
+                "content": "Missouri River State Natural Area in North Dakota is a pristine and undeveloped stretch of the Missouri River offering a variety of outdoor recreation opportunities.",
+                "description": "The Missouri River State Natural Area is a picturesque 214-acre park located along the banks of the Missouri River in North Dakota. Visitors can enjoy hiking, birdwatching, fishing, and camping in this beautiful natural area. The park offers several hiking trails that wind through woodlands, meadows, and along the river, providing stunning views of the surrounding landscape. Birdwatchers will delight in the opportunity to spot a variety of bird species, including bald eagles, herons, and warblers. Camping is available at the park's primitive campsites, allowing visitors to fully immerse themselves in the tranquility of the natural surroundings.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/Missouri%20River%20Natrual%20Area.jpg?itok=QlEyqGCJ",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Missouri%20River%20State%20Natural%20Area"
+            },
+            {
+                "name": "Turtle Mountain State Recreation Area",
+                "url": "https://www.parkrec.nd.gov/turtle-mountain-state-recreation-area",
+                "content": "Turtle Mountain State Recreation Area offers outdoor activities such as boating, fishing, hiking, and camping in a scenic natural setting.",
+                "description": "Turtle Mountain State Recreation Area is located in North Dakota, encompassing over 800 acres of beautiful natural surroundings. Visitors can enjoy activities such as hiking, horseback riding, fishing, and wildlife viewing in this scenic area. The park also features a campground with both primitive and electric hook-up sites, making it a great spot for overnight stays. One of the highlights of the park is Lake Metigoshe, a picturesque body of water perfect for swimming, boating, and paddling. With its stunning landscapes and abundance of recreational opportunities, Turtle Mountain State Recreation Area is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://www.parkrec.nd.gov/sites/www/files/styles/slideshow_banner_mobile/public/documents/slideshow/DSC_0175_1.jpg?itok=MQ4eo9ZI",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Turtle%20Mountain%20State%20Recreation%20Area"
+            }
+        ]
+    }
+}
