@@ -1,0 +1,606 @@
+{
+    "Ohio State Parks": {
+        "parks": [
+            {
+                "name": "Alum Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/alum-creek-state-park",
+                "content": "Alum Creek State Park offers a variety of outdoor recreational activities including boating, fishing, hiking, and camping in a beautiful natural setting.",
+                "description": "Alum Creek State Park is located in central Ohio and offers a variety of outdoor activities for visitors to enjoy. The park features a large reservoir where visitors can swim, fish, boat, and kayak. Additionally, the park has over 80 miles of hiking and biking trails that wind through forests and meadows, providing stunning views of the surrounding landscape.\n\nFor those looking to spend the night, Alum Creek State Park offers camping facilities as well as cozy cabins for rent. The park also has a beach area with picnic tables and grills, making it a great spot for a family outing or a relaxing day in the sun. With its diverse range of activities and beautiful natural scenery, Alum Creek State Park is a perfect destination for outdoor enthusiasts of all ages.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Alum%20Creek%20State%20Park"
+            },
+            {
+                "name": "Madison Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/madison-lake-state-park",
+                "content": "Madison Lake State Park is a small park in southwestern Ohio that offers a peaceful setting for fishing and picnicking.",
+                "description": "Madison Lake State Park is a picturesque destination in Ohio that features a 92-acre lake surrounded by scenic woodlands. Visitors can enjoy a variety of recreational activities such as fishing, boating, picnicking, and hiking along the park's well-maintained trails. The park also has a designated swimming area for those looking to cool off on hot summer days. Birdwatchers will delight in the opportunity to spot a variety of avian species, including bald eagles, at the park. With its peaceful atmosphere and abundance of natural beauty, Madison Lake State Park is the perfect spot for a relaxing day outdoors.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Madison%20Lake%20State%20Park"
+            },
+            {
+                "name": "A.W. Marion State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/a-w-marion-state-park",
+                "content": "A.W. Marion State Park offers a peaceful retreat with a variety of recreational activities such as camping, hiking, fishing, and boating in central Ohio.",
+                "description": "A.W. Marion State Park is a hidden gem located in central Ohio, just a short drive from Columbus. The park offers a variety of outdoor activities for visitors to enjoy, including hiking, fishing, picnicking, and even a beach for swimming. The park's 145-acre lake is perfect for boating, kayaking, and paddleboarding, with boat rentals available for those without their own equipment. Nature lovers will appreciate the park's diverse wildlife and beautiful scenery, making it a great spot for birdwatching and photography. With over 300 acres of land to explore, A.W. Marion State Park is the perfect destination for a day trip or weekend getaway.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=A.W.%20Marion%20State%20Park"
+            },
+            {
+                "name": "Buckeye Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/buckeye-lake-state-park",
+                "content": "Buckeye Lake State Park is a popular outdoor recreation destination in Ohio, offering activities such as boating, fishing, hiking, and picnicking along the shoreline of Buckeye Lake.",
+                "description": "Buckeye Lake State Park offers a variety of water-based recreational activities, including boating, fishing, and swimming. Visitors can enjoy sailing, kayaking, and paddleboarding on the lake, as well as hiking and picnicking along the shoreline. The park also features a 4.1-mile long multi-use trail that is perfect for biking, walking, and running. Nature enthusiasts will appreciate the diverse wildlife and plant species that can be found throughout the park. Additionally, the park hosts events and programs throughout the year, making it a great destination for families and outdoor enthusiasts.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buckeye%20Lake%20State%20Park"
+            },
+            {
+                "name": "Deer Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/deer-creek-state-park",
+                "content": "Deer Creek State Park in Ohio offers a beautiful scenic getaway with a large lake for fishing, boating, and swimming, as well as hiking trails and a golf course.",
+                "description": "Deer Creek State Park, located in Mount Sterling, Ohio, offers visitors a variety of recreational activities including hiking, fishing, boating, and camping. The park features a 18-hole golf course, making it a popular destination for golf enthusiasts. Visitors can also explore the park's nature center, which showcases the local wildlife and ecosystem.\n\nFor those looking to relax, Deer Creek State Park offers a beach area where visitors can swim and sunbathe during the summer months. The park also has picnic areas and shelters, perfect for families and groups looking to enjoy a meal outdoors. Additionally, the park hosts various events and programs throughout the year, providing visitors with opportunities to learn more about the park's natural beauty.\n\nOverall, Deer Creek State Park is a great destination for outdoor enthusiasts and nature lovers alike, offering something for everyone to enjoy in a beautiful, scenic setting. Whether you're looking for adventure or simply want to unwind in nature, Deer Creek State Park has something to offer every visitor.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Deer%20Creek%20State%20Park"
+            },
+            {
+                "name": "Delaware State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/delaware-state-park",
+                "content": "Delaware State Park offers a scenic setting for outdoor recreation with fishing, boating, hiking, and camping opportunities.",
+                "description": "Delaware State Park is a beautiful recreation area located in Delaware, Ohio that offers a wide range of activities for visitors to enjoy. The park features a scenic lake with opportunities for fishing, boating, and swimming, as well as several hiking and biking trails for nature enthusiasts to explore. There are also picnic areas and campgrounds available for those looking to spend the day or even a few nights in the park.\n\nOne of the most popular attractions at Delaware State Park is the beach area, which is perfect for sunbathing and enjoying the water on a hot summer day. Additionally, the park has a marina where visitors can rent kayaks, paddleboards, and other water equipment to make the most of their lake experience. This versatile park also hosts regular events and programs for all ages, making it a great destination for families, couples, and solo travelers alike.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Delaware%20State%20Park"
+            },
+            {
+                "name": "Buck Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/buck-creek-state-park",
+                "content": "Buck Creek State Park is a peaceful park offering a variety of recreational activities including camping, hiking, fishing, and boating.",
+                "description": "Buck Creek State Park located in Springfield, Ohio offers a range of outdoor activities for visitors to enjoy, including hiking, fishing, boating, and camping. The park boasts a beautiful 2,120-acre lake with multiple boat ramps and a marina for water recreation. There are several hiking trails within the park, perfect for exploring the lush forests and spotting wildlife. Visitors can also take advantage of the park's picnic areas, playgrounds, and swimming beach for a fun day out with family and friends. Buck Creek State Park is a popular destination for birdwatching, with over 200 different species of birds known to inhabit the area.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buck%20Creek%20State%20Park"
+            },
+            {
+                "name": "Lake Logan State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/lake-logan-state-park",
+                "content": "Lake Logan State Park is a scenic park in Ohio that offers a picturesque lake for fishing and boating, along with hiking trails and a beach area for swimming.",
+                "description": "Lake Logan State Park is a 318-acre park located in the Hocking Hills region of Ohio. Visitors can enjoy boating, fishing, swimming, and hiking along the shores of the picturesque 400-acre lake. The park also offers camping facilities for those looking to spend a few nights surrounded by nature. One of the main highlights of the park is the stunning sunset views over the lake, making it a popular spot for photography enthusiasts. Wildlife lovers will also appreciate the diverse bird species that call the park home, including bald eagles and osprey.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Logan%20State%20Park"
+            },
+            {
+                "name": "Mt Gilead State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/mt-gilead-state-park",
+                "content": "Mt Gilead State Park is a peaceful and scenic park in central Ohio with opportunities for camping, hiking, fishing, and picnicking.",
+                "description": "1. Mt Gilead State Park is located in central Ohio and offers a variety of outdoor activities for visitors to enjoy, including hiking, fishing, and picnicking.\n\n2. The park is home to a scenic lake that is perfect for boating and fishing, with several species of fish such as bluegill, crappie, and bass available for anglers to catch.\n\n3. For those looking to explore the area on foot, Mt Gilead State Park features several miles of hiking trails that wind through wooded areas and offer great views of the surrounding landscape.\n\n4. Visitors can also take advantage of the park's picnic areas and shelters, making it a great spot for a family outing or a relaxing day in nature.\n\n5. With its peaceful atmosphere and array of recreational opportunities, Mt Gilead State Park is a great destination for outdoor enthusiasts looking to escape the hustle and bustle of everyday life.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mt%20Gilead%20State%20Park"
+            },
+            {
+                "name": "Great Seal State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/great-seal-state-park",
+                "content": "Great Seal State Park in Ohio features stunning views of the Appalachian Plateau and is home to a variety of recreational activities such as hiking, fishing, and picnicking.",
+                "description": "Great Seal State Park in Ohio is a beautiful destination for outdoor enthusiasts, offering over 1,862 acres of scenic landscapes to explore. Visitors can enjoy hiking, bird watching, fishing, and mountain biking on the park's numerous trails, which wind through forests and meadows. The park is also home to a picturesque lake, perfect for boating and swimming during the warmer months. Campers can stay overnight at one of the park's secluded campsites, surrounded by the sounds of nature. Great Seal State Park is a wonderful place to escape from the hustle and bustle of everyday life and connect with the natural beauty of Ohio.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Great%20Seal%20State%20Park"
+            },
+            {
+                "name": "Tar Hollow State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/tar-hollow-state-park",
+                "content": "Tar Hollow State Park is a scenic outdoor destination in Ohio featuring miles of hiking trails, a tranquil lake, and peaceful campsites.",
+                "description": "Tar Hollow State Park is a sprawling 604-acre park located in the rugged hills of south-central Ohio. Visitors can enjoy hiking, camping, fishing, and picnicking in this beautiful natural setting. The park features a 15-acre lake perfect for boating and fishing, as well as over 20 miles of scenic hiking trails. Those looking to extend their stay can book one of the park's cozy cabins or spacious campsites. With its diverse wildlife, stunning landscapes, and numerous recreational activities, Tar Hollow State Park is a hidden gem for outdoor enthusiasts in Ohio.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tar%20Hollow%20State%20Park"
+            },
+            {
+                "name": "Hocking Hills State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/hocking-hills-state-park",
+                "content": "Hocking Hills State Park in Ohio is known for its stunning waterfalls, towering cliffs, and unique rock formations.",
+                "description": "Hocking Hills State Park in Ohio is known for its stunning natural beauty and unique rock formations, such as Old Man's Cave and Cedar Falls. Visitors can enjoy hiking along the many scenic trails that wind through the park, offering opportunities to see impressive cliffs, waterfalls, and lush forests.\n\nFor those looking for a more adventurous experience, the park also offers activities such as rock climbing, rappelling, and zip-lining. The park is a popular destination for nature lovers, photographers, and outdoor enthusiasts looking to escape the hustle and bustle of city life.\n\nCamping is available at the park, with both tent and RV sites, as well as cabins for those looking for a more comfortable stay. Hocking Hills State Park is a must-visit destination for anyone looking to immerse themselves in the beauty of nature and explore the unique geological features that make this park so special.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hocking%20Hills%20State%20Park"
+            },
+            {
+                "name": "Dillon State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/dillon-state-park",
+                "content": "Dillon State Park is a popular recreational destination in Ohio, offering opportunities for camping, fishing, hiking, and boating on the 1,560-acre Dillon Reservoir.",
+                "description": "Dillon State Park is a recreation paradise, offering visitors 1,560 acres of land to explore. The park is surrounded by the rolling hills of eastern Ohio, providing stunning views and a peaceful atmosphere for outdoor activities. Visitors can enjoy boating, fishing, hiking, and camping at Dillon State Park, with ample opportunities to immerse themselves in nature. The park also features a 1,560-acre reservoir that is perfect for water sports and relaxing by the shoreline. For those looking to extend their stay, Dillon State Park offers a variety of camping options, making it a great destination for a weekend getaway or longer vacation.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dillon%20State%20Park"
+            },
+            {
+                "name": "John Bryan State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/john-bryan-state-park",
+                "content": "John Bryan State Park offers scenic hiking trails, limestone gorge views, and large stands of hemlock trees.",
+                "description": "John Bryan State Park is located in Yellow Springs, Ohio and offers visitors a peaceful retreat in nature. The park is named after John Bryan, a local conservationist who played a key role in preserving the natural beauty of the area. Hiking is a popular activity at the park, with over ten miles of trails winding through dense forest and along breathtaking limestone cliffs. Visitors can also enjoy picnicking, fishing, and camping at the park, making it a great destination for outdoor enthusiasts of all ages. Additionally, the park is home to Clifton Gorge, a National Natural Landmark that showcases stunning rock formations and a rushing river.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=John%20Bryan%20State%20Park"
+            },
+            {
+                "name": "Scioto Trail State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/scioto-trail-state-park",
+                "content": "Scioto Trail State Park offers scenic hiking trails and a peaceful getaway in the heart of southern Ohio.",
+                "description": "Scioto Trail State Park is a hidden gem located in Ross County, Ohio, offering visitors a peaceful and scenic retreat. The park features a variety of outdoor activities, including hiking trails, fishing, and picnicking areas for families to enjoy. One of the highlights of the park is the lookout tower, which provides stunning views of the surrounding forest and the Scioto River. Nature enthusiasts will appreciate the diverse wildlife and plant species that call this park home, making it a great spot for birdwatching and tree identification. For those looking to extend their stay, the park offers camping facilities with both electric and non-electric sites available.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Scioto%20Trail%20State%20Park"
+            },
+            {
+                "name": "Kiser Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/kiser-lake-state-park",
+                "content": "Kiser Lake State Park is a peaceful retreat offering fishing, hiking, and picnicking opportunities in Champaign County, Ohio.",
+                "description": "Kiser Lake State Park is a beautiful outdoor destination situated in Champaign County, Ohio. Visitors can enjoy a variety of recreational activities including fishing, boating, hiking, and picnicking. The park also features a sandy beach area where visitors can relax and swim during the warmer months. Nature enthusiasts will appreciate the park's diverse wildlife and scenic views, making it a great spot for birdwatching and photography. With its tranquil atmosphere and numerous amenities, Kiser Lake State Park is the perfect place for a peaceful day outdoors.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kiser%20Lake%20State%20Park"
+            },
+            {
+                "name": "Lake Hope State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/lake-hope-state-park",
+                "content": "Lake Hope State Park is a serene and beautiful park located in Ohio that offers camping, hiking, fishing, and boating opportunities for outdoor enthusiasts.",
+                "description": "Lake Hope State Park is a stunning natural oasis nestled in the scenic forested hills of southeastern Ohio. Visitors can explore over 2,000 acres of lush woodlands, winding trails, and the 120-acre Lake Hope, perfect for fishing, boating, and swimming. The park offers a variety of recreational activities, including hiking, mountain biking, and horseback riding on its extensive trail system. Camping options range from primitive tent sites to cozy cabins, providing an ideal setting for a peaceful getaway in nature. In addition to outdoor adventures, guests can also enjoy the charming lodge, picnic areas, and a sandy beach for a fun-filled day at Lake Hope State Park.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Hope%20State%20Park"
+            },
+            {
+                "name": "Paint Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/paint-creek-state-park",
+                "content": "Paint Creek State Park offers a variety of outdoor activities, including boating, fishing, hiking, and camping, in a beautiful natural setting in Ohio.",
+                "description": "Paint Creek State Park is a popular outdoor destination located in Highland County, Ohio, offering a beautiful setting for hiking, fishing, boating, camping, and picnicking. Visitors can take advantage of over 14 miles of hiking trails that wind through forested areas and along the scenic lakeshore. The park's 1,000-acre lake is perfect for boating, with two marinas providing boat rentals and easy access to the water. Anglers will enjoy the abundance of bass, crappie, bluegill, and catfish that can be found in the lake. Those looking to extend their stay can choose from a variety of camping options, including RV sites, tent sites, and cabin rentals.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Paint%20Creek%20State%20Park"
+            },
+            {
+                "name": "Malabar Farm State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/malabar-farm-state-park",
+                "content": "Malabar Farm State Park is a historic farm and park where visitors can explore the former home of Pulitzer Prize-winning author Louis Bromfield and enjoy hiking, fishing, and horseback riding.",
+                "description": "Malabar Farm State Park is located in Pleasant Valley, Ohio, and covers over 1,000 acres of rolling hills and farmland. Visitors can explore the historic home of Pulitzer Prize-winning author Louis Bromfield, which offers guided tours throughout the year. The park also features several miles of hiking trails, including the popular Hemlock Gorge Trail which leads to the picturesque Pleasant Hill Dam. Additionally, visitors can enjoy horseback riding, fishing, and birdwatching in the park's serene natural surroundings. Make sure to stop by the Visitor Center to learn more about the farm's history and conservation efforts.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Malabar%20Farm%20State%20Park"
+            },
+            {
+                "name": "Mohican State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/mohican-state-park",
+                "content": "Mohican State Park offers over 1,000 acres of stunning natural beauty, including towering cliffs, cascading waterfalls, and pristine woodlands for hiking and camping.",
+                "description": ". Mohican State Park in Ohio is a popular destination for outdoor enthusiasts, offering over 1,100 acres of natural beauty and recreational opportunities. \n\n2. Visitors can enjoy hiking, mountain biking, fishing, and horseback riding on the park's extensive trail system, which includes the challenging 24-mile Mohican Valley Trail. \n\n3. The park is also home to the scenic Clear Fork Gorge, where visitors can hike along the rim and take in breathtaking views of the lush forest and rushing river below. \n\n4. For those looking to relax, there are two scenic campgrounds within the park, as well as cabin rentals and a rustic lodge for overnight stays. \n\n5. Birdwatchers will also appreciate the diverse bird population in the park, with the opportunity to spot species such as bald eagles, hawks, and songbirds throughout the year.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mohican%20State%20Park"
+            },
+            {
+                "name": "Burr Oak State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/burr-oak-state-park",
+                "content": "Burr Oak State Park is a beautiful natural area in Ohio with a scenic lake, campground, and miles of hiking trails.",
+                "description": "Burr Oak State Park is a beautiful recreation area in southeastern Ohio that offers visitors a variety of outdoor activities. The park is centered around the 664-acre Burr Oak Lake, where visitors can enjoy fishing, boating, and swimming. There are also numerous hiking trails throughout the park, perfect for exploring the scenic woodlands and spotting local wildlife. Additionally, Burr Oak State Park has a campground with both electric and non-electric sites, making it a great place for a weekend getaway. Whether you're looking to relax by the lake or get active on the trails, Burr Oak State Park has something for everyone to enjoy.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Burr%20Oak%20State%20Park"
+            },
+            {
+                "name": "Pike Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/pike-lake-state-park",
+                "content": "Pike Lake State Park is located in southern Ohio and offers activities such as hiking, fishing, and camping in a picturesque setting.",
+                "description": "1. Pike Lake State Park is a hidden gem located in the Appalachian foothills of Ohio, offering visitors a peaceful escape into nature with its serene lake and wooded trails.\n\n2. The park's 13-acre lake is perfect for fishing, boating, and swimming, making it a popular destination for water enthusiasts of all ages.\n\n3. Hiking enthusiasts will enjoy exploring the park's 11 miles of scenic trails, including the popular 3.5-mile Lakeshore Trail that winds along the shoreline of Pike Lake.\n\n4. The park is also home to a variety of wildlife, including deer, wild turkey, and numerous bird species, making it a great spot for birdwatching and nature photography.\n\n5. Visitors can take advantage of the park's amenities, such as picnic areas, playgrounds, and campsites, for a full day of outdoor fun and relaxation.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pike%20Lake%20State%20Park"
+            },
+            {
+                "name": "Indian Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/indian-lake-state-park",
+                "content": "Indian Lake State Park is a scenic park located in Ohio with over 5,000 acres of water for boating and fishing.",
+                "description": "Indian Lake State Park is a popular destination for visitors looking to enjoy recreational activities such as boating, fishing, and hiking in a picturesque natural setting. The park is located in northwest Ohio and features over 800 acres of land surrounding the 5,800-acre Indian Lake, making it the perfect spot for water enthusiasts.\n\nVisitors can take advantage of the park's marina, which offers boat rentals and a launch ramp for easy access to the lake. Fishing is also a popular activity at Indian Lake, with anglers catching a variety of species such as bass, bluegill, and catfish. \n\nFor those looking to explore the park on land, there are several hiking trails that wind through the wooded areas surrounding the lake. Birdwatchers will also appreciate the diverse array of bird species that can be spotted in the park, making it a great spot for birdwatching enthusiasts.\n\nCamping is available at Indian Lake State Park, with both RV and tent camping options. The park offers modern amenities such as showers, laundry facilities, and a camp store for convenience. Overall, Indian Lake State Park is a fantastic destination for outdoor enthusiasts looking to enjoy a variety of activities in a beautiful natural setting.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Indian%20Lake%20State%20Park"
+            },
+            {
+                "name": "Lake White State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/lake-white-state-park",
+                "content": "Lake White State Park is a beautiful park located in Ohio with a 337-acre lake that offers fishing, boating, hiking, and camping opportunities.",
+                "description": "Lake White State Park is a beautiful 127-acre park located in Pike County, Ohio. Visitors can enjoy a variety of outdoor recreational activities such as boating, fishing, hiking, and picnicking in this picturesque setting. The park also offers a swimming beach and a campground for those looking to extend their stay. Additionally, Lake White is stocked with a variety of fish species, making it a popular spot for anglers of all skill levels. Whether you're seeking a relaxing day by the water or a weekend camping trip, Lake White State Park is a great destination for outdoor enthusiasts.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20White%20State%20Park"
+            },
+            {
+                "name": "Rocky Fork State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/rocky-fork-state-park",
+                "content": "Rocky Fork State Park is a 2,080-acre park located in Highland County, Ohio offering a variety of outdoor activities including camping, hiking, fishing, and boating.",
+                "description": "Rocky Fork State Park in southern Ohio is a popular destination for outdoor enthusiasts, offering over 2,000 acres of beautiful natural scenery. Visitors can enjoy a variety of activities such as fishing, hiking, camping, and picnicking in the park's picturesque surroundings. The park also features a sandy beach area along the shores of Rocky Fork Lake, perfect for swimming and relaxing on a sunny day. Wildlife enthusiasts will appreciate the park's diverse ecosystem, which is home to a variety of bird species and other wildlife. With its tranquil atmosphere and range of recreational opportunities, Rocky Fork State Park is a great place to escape the hustle and bustle of everyday life and connect with nature.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rocky%20Fork%20State%20Park"
+            },
+            {
+                "name": "Blue Rock State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/blue-rock-state-park",
+                "content": "Blue Rock State Park in Ohio offers hiking, fishing, and camping opportunities in a scenic natural setting.",
+                "description": "Blue Rock State Park is located in Muskingum County, Ohio and offers a variety of outdoor recreational activities for visitors to enjoy. The park is known for its scenic landscapes, including hardwood forests, lush meadows, and the stunning Blue Rock Lake. Visitors can hike along the park's many trails, go fishing or boating on the lake, or have a picnic in one of the designated picnic areas. Birdwatchers will also appreciate the diverse bird species that can be seen in the park, making it a great spot for wildlife enthusiasts. Overall, Blue Rock State Park is a peaceful and beautiful destination for nature lovers looking to escape the hustle and bustle of everyday life.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blue%20Rock%20State%20Park"
+            },
+            {
+                "name": "Caesar Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/caesar-creek-state-park",
+                "content": "Caesar Creek State Park offers outdoor enthusiasts over 7,900 acres of diverse recreational activities including hiking, fishing, camping, and boating.",
+                "description": "Caesar Creek State Park is a beautiful outdoor destination located in southwestern Ohio. Visitors can explore over 7,900 acres of rolling hills, forests, and the sparkling waters of Caesar Creek Lake. The park offers a variety of recreational opportunities, including hiking, boating, fishing, and camping. Nature lovers will enjoy spotting a variety of plant and animal species, including white-tailed deer, wild turkey, and bald eagles. Be sure to check out the park's nature center, which features educational exhibits and interactive displays about the local wildlife and ecosystems.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Caesar%20Creek%20State%20Park"
+            },
+            {
+                "name": "Cowan Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/cowan-lake-state-park",
+                "content": "Cowan Lake State Park is a scenic park in Ohio offering opportunities for boating, fishing, hiking, and picnicking near the peaceful Cowan Lake.",
+                "description": "Cowan Lake State Park is located in Clinton County, Ohio and offers a peaceful retreat for outdoor enthusiasts. The 700-acre lake is perfect for boating, fishing, and swimming, with a public beach available for visitors to enjoy. The park also features scenic hiking trails that wind through wooded areas and offer picturesque views of the lake. Birdwatchers will appreciate the diverse habitat that attracts a variety of bird species, making it a popular spot for birdwatching. Visitors can also stay overnight at the park's campground or rent a cabin for a longer getaway in nature.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cowan%20Lake%20State%20Park"
+            },
+            {
+                "name": "Lake Alma State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/lake-alma-state-park",
+                "content": "Lake Alma State Park is a scenic outdoor destination offering fishing, boating, hiking, and camping opportunities in southeastern Ohio.",
+                "description": "Lake Alma State Park is a nature lover's paradise located in Vinton County, Ohio. Visitors can enjoy a variety of outdoor activities such as fishing, boating, hiking, and picnicking around the 60-acre lake. The park also offers a campground with electric hookups for those looking to spend a night under the stars. The scenic views of the lake and surrounding forests make it a perfect spot for a peaceful getaway or a fun day trip with family and friends. With its serene atmosphere and abundant wildlife, Lake Alma State Park is a hidden gem waiting to be explored.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Alma%20State%20Park"
+            },
+            {
+                "name": "Muskingum River State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/muskingum-river-state-park",
+                "content": "Muskingum River State Park is a scenic park in southeast Ohio that offers boating, fishing, and camping along the Muskingum River.",
+                "description": "Muskingum River State Park is located in southeastern Ohio and offers a variety of recreational opportunities for visitors to enjoy. The park spans over 80 miles along the Muskingum River, providing stunning views of the water and surrounding landscape. Visitors can explore the park by hiking, biking, or birdwatching on one of the many scenic trails. Fishing and boating are also popular activities at the park, with opportunities to catch a variety of fish species in the river. Camping facilities are available for visitors looking to extend their stay and immerse themselves in the natural beauty of the area.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Muskingum%20River%20State%20Park"
+            },
+            {
+                "name": "Strouds Run State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/strouds-run-state-park",
+                "content": "Strouds Run State Park is a popular outdoor destination in Ohio offering hiking trails, swimming in the lake, camping, and picnicking.",
+                "description": "Strouds Run State Park is located in Athens County, Ohio and covers over 2,606 acres of land, offering a variety of outdoor activities for visitors to enjoy. The park features a beautiful lake where visitors can swim, fish, and rent canoes or kayaks to explore the water. There are several hiking trails throughout the park that showcase the stunning natural scenery and offer opportunities to see wildlife. The park also has picnic areas, a campground, and a beach for families to relax and spend time together. With its diverse recreational opportunities, Strouds Run State Park is a popular destination for both locals and tourists looking to experience the great outdoors.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Strouds%20Run%20State%20Park"
+            },
+            {
+                "name": "Jesse Owens State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/jesse-owens-state-park",
+                "content": "Jesse Owens State Park offers visitors a peaceful setting for hiking, fishing, and camping in central Ohio.",
+                "description": "Jesse Owens State Park is located in eastern Ohio, near the town of McConnelsville. This park is named after the legendary Olympic athlete, Jesse Owens, who was born in Alabama but later became a resident of Ohio. Visitors to the park can enjoy a variety of outdoor activities, such as hiking, fishing, and boating on the nearby Burr Oak Reservoir. The park also features a campground for those looking to spend the night in the great outdoors. Additionally, guests can explore the historic sites within the park, including the Stockport Mill Inn and the Johnson Family Dairy Farm.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jesse%20Owens%20State%20Park"
+            },
+            {
+                "name": "Sycamore State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/sycamore-state-park",
+                "content": "Sycamore State Park is a quiet park offering hiking and bird-watching opportunities in Montgomery County.",
+                "description": "Sycamore State Park covers over 2,400 acres of rolling farmland and woodlands in Ohio, providing a diverse natural setting for visitors to explore. The park offers a variety of recreational activities, including hiking, fishing, and hunting, making it a popular destination for outdoor enthusiasts. Visitors can also enjoy picnicking in designated areas or camping at the park's campground, which offers both electric and non-electric sites. Additionally, Sycamore State Park features several historic sites, such as the Johnson Covered Bridge, for visitors to learn about the area's rich history. Whether you're looking to enjoy nature or learn about the region's past, Sycamore State Park offers something for everyone to enjoy.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sycamore%20State%20Park"
+            },
+            {
+                "name": "Lake Loramie State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/lake-loramie-state-park",
+                "content": "Lake Loramie State Park offers a variety of outdoor recreational activities such as fishing, hiking, and camping in a picturesque lakefront setting.",
+                "description": "Lake Loramie State Park is located in Minster, Ohio and offers a variety of outdoor recreational activities for visitors to enjoy. The park features a 1,655-acre lake perfect for boating, fishing, and swimming. Birdwatching enthusiasts will love exploring the park's diverse habitats, home to a wide variety of bird species. For those looking to stay overnight, the park offers camping facilities, as well as cabins for rent. With over 400 acres of land to explore, Lake Loramie State Park is a great destination for nature lovers and outdoor enthusiasts alike.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Loramie%20State%20Park"
+            },
+            {
+                "name": "Wolf Run State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/wolf-run-state-park",
+                "content": "Wolf Run State Park is a 1,046-acre park in eastern Ohio known for its peaceful lake, wooded trails, and variety of recreational activities for visitors to enjoy.",
+                "description": "Wolf Run State Park is a 1,046-acre park located in Noble County, Ohio, offering a variety of outdoor recreational activities for visitors to enjoy. The park features a 220-acre lake that is stocked with a variety of fish, making it a popular spot for fishing enthusiasts. Visitors can also explore the park's hiking trails, which offer stunning views of the surrounding forests and wildlife. Additionally, Wolf Run State Park has a campground with both electric and non-electric sites, perfect for those looking to spend a night under the stars. With its serene natural setting and abundance of outdoor activities, Wolf Run State Park is a great destination for a day trip or weekend getaway.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wolf%20Run%20State%20Park"
+            },
+            {
+                "name": "Jackson Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/jackson-lake-state-park",
+                "content": "Jackson Lake State Park in Ohio offers a peaceful retreat with opportunities for fishing, boating, camping, and picnicking along the shores of the 135-acre lake.",
+                "description": "Jackson Lake State Park is situated in the rolling hills of southeastern Ohio, offering visitors a peaceful retreat surrounded by natural beauty. The sandy beach is a popular spot for swimming and sunbathing, while boating and fishing opportunities abound on the 1065-acre lake. Hiking trails wind through the wooded areas, providing stunning views of the water and the surrounding landscape. The park also features a disc golf course, perfect for a fun and active afternoon with friends or family. Campers can enjoy the tranquil setting overnight at the park's campground, making it a great destination for a weekend getaway.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jackson%20Lake%20State%20Park"
+            },
+            {
+                "name": "Stonelick State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/stonelick-state-park",
+                "content": "Stonelick State Park offers scenic views, hiking trails, and fishing opportunities in Clermont County.",
+                "description": "Stonelick State Park is located in Clermont County, Ohio and offers a variety of recreational opportunities for visitors. The park features a large lake perfect for fishing and boating, with a boat ramp available for easy access. Hiking enthusiasts can explore over 8 miles of scenic trails that wind through the park's wooded areas and fields. For those looking to spend the night, Stonelick State Park offers both tent and RV camping facilities with electric hookups. Additionally, the park has a playground, picnic areas, and a beach for visitors to enjoy during their stay.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stonelick%20State%20Park"
+            },
+            {
+                "name": "Salt Fork State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/salt-fork-state-park",
+                "content": "Salt Fork State Park is Ohio's largest state park, offering activities such as boating, fishing, hiking, and camping across its 17,000 acres of scenic landscapes and diverse wildlife.",
+                "description": "Salt Fork State Park is Ohio's largest state park, spanning over 17,000 acres and offering a variety of outdoor activities for visitors to enjoy. This park is known for its excellent fishing opportunities, with the 3,000-acre Salt Fork Lake stocked with a variety of fish species. Visitors can also explore over 14 miles of hiking trails, perfect for enjoying the park's diverse wildlife and beautiful scenery. For those looking to stay overnight, the park offers campsites, cabins, and a lodge with stunning views of the lake. Additionally, Salt Fork State Park hosts numerous events and programs throughout the year, making it a great destination for families and outdoor enthusiasts alike.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Salt%20Fork%20State%20Park"
+            },
+            {
+                "name": "Little Miami State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/little-miami-state-park",
+                "content": "Little Miami State Park is a scenic park with a trail that follows the beautiful Little Miami River for nearly 80 miles.",
+                "description": "Little Miami State Park is a popular destination for outdoor enthusiasts, offering a variety of activities such as hiking, biking, fishing, and picnicking along the Little Miami River. Visitors can explore over 50 miles of multi-use trails that wind through the scenic landscape, providing opportunities to spot wildlife and enjoy the natural beauty of the area. The park also features several historic landmarks, including remnants of the Miami and Erie Canal, providing a glimpse into the region's past. Whether you're looking for a peaceful nature walk or an adventurous bike ride, Little Miami State Park has something for everyone to enjoy in a tranquil and beautiful setting. Be sure to pack a picnic and relax by the river, or try your luck at catching some fish in the crystal-clear waters.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Miami%20State%20Park"
+            },
+            {
+                "name": "Adams Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/adams-lake-state-park",
+                "content": "Adams Lake State Park offers opportunities for hiking, fishing, and picnicking in a beautiful natural setting.",
+                "description": "Adams Lake State Park is a picturesque park located in Adams County, Ohio, encompassing a 47-acre lake perfect for fishing, boating, and swimming. Visitors can enjoy exploring the park's hiking trails, which offer stunning views of the lake and the surrounding woodlands. The park is also home to a variety of wildlife, making it a great spot for birdwatching and nature photography. Additionally, the park offers picnic areas, playgrounds, and camping facilities for those looking to extend their stay and enjoy the peace and quiet of this beautiful natural setting. Overall, Adams Lake State Park offers a serene and tranquil escape for outdoor enthusiasts looking to connect with nature.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Adams%20Lake%20State%20Park"
+            },
+            {
+                "name": "Shawnee State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/shawnee-state-park",
+                "content": "Shawnee State Park in Ohio offers stunning scenery, recreational activities, and a peaceful retreat for outdoor enthusiasts.",
+                "description": "Shawnee State Park is located in Scioto County, Ohio and offers a serene natural setting for visitors to explore. The park is known for its beautiful forests, rolling hills, and scenic views of the Ohio River. Visitors can enjoy a variety of outdoor activities such as hiking on the park's trails, fishing in the lake, and picnicking in one of the designated areas. The park also offers camping facilities for those looking to extend their stay and fully immerse themselves in the natural surroundings. Additionally, Shawnee State Park is a great spot for birdwatching, with a diverse range of species that call the park home.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Shawnee%20State%20Park"
+            },
+            {
+                "name": "Van Buren State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/van-buren-state-park",
+                "content": "Van Buren State Park in Ohio offers a relaxing setting for camping, fishing, and hiking.",
+                "description": "Van Buren State Park is an ideal destination for outdoor enthusiasts, offering 252 acres of lush greenery and scenic natural beauty. Visitors can enjoy a variety of activities such as hiking, picnicking, birdwatching, and wildlife viewing. The park features a picturesque 45-acre lake that is perfect for fishing and boating, with a boat ramp available for easy access. There are also several miles of trails for hiking and biking, providing opportunities to explore the park's diverse ecosystems and abundant wildlife. Whether you're looking for a peaceful retreat or a fun day out in nature, Van Buren State Park has something for everyone to enjoy.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Van%20Buren%20State%20Park"
+            },
+            {
+                "name": "Forked Run State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/forked-run-state-park",
+                "content": "Forked Run State Park is a scenic outdoor destination in southeastern Ohio, with opportunities for hiking, fishing, camping, and boating along the shoreline of the Ohio River.",
+                "description": "Forked Run State Park is a beautiful destination for outdoor enthusiasts, offering a variety of activities such as hiking, fishing, and boating. Visitors can explore over 2,000 acres of forests and meadows, providing a peaceful retreat from the hustle and bustle of everyday life. The park is also home to a 102-site campground, perfect for those looking to spend a night under the stars. Additionally, the park features a sandy beach along the shores of the Ohio River, ideal for swimming and relaxing on a hot summer day. Whether you're looking for a leisurely stroll through nature or an adrenaline-filled day on the water, Forked Run State Park has something for everyone to enjoy.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Forked%20Run%20State%20Park"
+            },
+            {
+                "name": "Grand Lake St Marys State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/grand-lake-st-marys-state-park",
+                "content": "Grand Lake St Marys State Park is Ohio's largest inland lake, offering opportunities for boating, fishing, camping, and nature exploration.",
+                "description": "Grand Lake St. Marys State Park is the oldest man-made reservoir in Ohio, offering visitors a picturesque setting for outdoor activities such as boating, fishing, and picnicking. The park covers over 2,300 acres of land and water, providing plenty of space for exploration and relaxation. Visitors can enjoy the sandy beach area for swimming or take a leisurely stroll along the shoreline to take in the scenic views. Nature enthusiasts will appreciate the diverse wildlife and habitats found within the park, making it a great destination for birdwatching and photography. Additionally, the park offers camping facilities for those looking to extend their stay and immerse themselves in the natural beauty of the area.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%20St%20Marys%20State%20Park"
+            },
+            {
+                "name": "East Fork State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/east-fork-state-park",
+                "content": "East Fork State Park is a beautiful outdoor recreation area with a 2,160-acre lake, camping facilities, and hiking trails in Clermont County, Ohio.",
+                "description": "East Fork State Park is located in the beautiful rolling hills of southern Ohio, offering visitors a peaceful escape into nature. With over 2,000 acres of pristine woodlands and scenic lakes, the park is a popular destination for hiking, fishing, boating, and camping. The park's 32-mile trail system provides hikers with a variety of options, from easy paved paths to more challenging terrain. Anglers can enjoy fishing for bass, crappie, and catfish in the park's 2,160-acre lake. For those looking to extend their stay, the park offers a campground with over 400 sites, as well as cabins and a lodge for a more comfortable experience. Whether you're seeking adventure or just a relaxing weekend getaway, East Fork State Park has something for everyone.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=East%20Fork%20State%20Park"
+            },
+            {
+                "name": "Findley State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/findley-state-park",
+                "content": "Findley State Park is a peaceful outdoor retreat offering camping, fishing, hiking, and boating in northern Ohio.",
+                "description": "Findley State Park is a popular destination for outdoor enthusiasts, offering a variety of activities such as hiking, fishing, and boating. The park features a 93-acre lake where visitors can fish for bass, bluegill, and catfish. There are also numerous hiking trails that wind through the park's scenic forests and fields, providing opportunities for birdwatching and wildlife viewing. For those looking to spend the night, the park offers camping facilities with electric hookups and modern amenities. Additionally, Findley State Park hosts special events and educational programs throughout the year, making it a great destination for families and nature lovers alike.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Findley%20State%20Park"
+            },
+            {
+                "name": "Hueston Woods State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/hueston-woods-state-park",
+                "content": "Hueston Woods State Park features a beautiful natural area with a large lake, campground, lodges, and hiking trails.",
+                "description": "Hueston Woods State Park is a 3,596-acre park located in College Corner, Ohio, near the Indiana border. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, boating, and camping. The park also features an 18-hole golf course, a beach on Acton Lake, and several miles of multi-use trails for biking and horseback riding. Nature enthusiasts will appreciate the park's diverse wildlife, including deer, wild turkey, and a variety of bird species. Be sure to check out the beautiful lodge overlooking Acton Lake for a relaxing weekend getaway.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hueston%20Woods%20State%20Park"
+            },
+            {
+                "name": "Portage Lakes State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/portage-lakes-state-park",
+                "content": "Portage Lakes State Park is a scenic park located in Portage County, Ohio, known for its seven glacial lakes and variety of recreational activities.",
+                "description": "Portage Lakes State Park in Ohio offers a beautiful natural setting for visitors to enjoy outdoor activities such as fishing, boating, and hiking. The park is made up of eight interconnected lakes, allowing for plenty of water-based fun. Visitors can rent boats and kayaks at the marina to explore the lakes or relax on the sandy beach. The park also features several hiking trails that wind through wetlands, forests, and meadows, providing opportunities to observe local wildlife. With picnic areas and playgrounds scattered throughout the park, Portage Lakes is a perfect spot for a family day trip or weekend getaway.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Portage%20Lakes%20State%20Park"
+            },
+            {
+                "name": "Barkcamp State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/barkcamp-state-park",
+                "content": "Barkcamp State Park is a beautiful 1,005-acre park in Ohio offering camping, fishing, hiking, and other outdoor recreational activities.",
+                "description": "Barkcamp State Park covers over 1,000 acres of beautiful woodlands and rolling hills in Belmont County, Ohio. This park offers a variety of outdoor activities for visitors to enjoy, including hiking, fishing, boating, and picnicking. The park's centerpiece is a large 117-acre lake that is perfect for swimming and paddleboarding in the summer months. There are also several scenic trails for hiking and wildlife spotting, making it a great destination for nature lovers. Additionally, the park has a campground with both electric and non-electric sites available for those looking to extend their stay in this serene natural setting.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Barkcamp%20State%20Park"
+            },
+            {
+                "name": "East Harbor State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/east-harbor-state-park",
+                "content": "East Harbor State Park offers sandy beaches, swimming, fishing, camping, and picnicking along Lake Erie's shore.",
+                "description": "East Harbor State Park is located on the shores of Lake Erie in Ohio and offers a variety of outdoor recreational activities for visitors to enjoy. The park features a beautiful sandy beach where visitors can swim, sunbathe, and build sandcastles. Boating and fishing are popular activities at East Harbor State Park, with a marina and boat launch available for those looking to explore the waters of Lake Erie. The park also has several hiking trails, picnic areas, and camping facilities for visitors to use during their stay. Additionally, wildlife viewing is a common pastime at the park, with ample opportunities to see various bird species and other animals in their natural habitat.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=East%20Harbor%20State%20Park"
+            },
+            {
+                "name": "Marblehead Lighthouse State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/marblehead-lighthouse-state-park",
+                "content": "Marblehead Lighthouse State Park is a picturesque lakeside park with a historic lighthouse overlooking Lake Erie.",
+                "description": "Marblehead Lighthouse State Park is located on the northern tip of the Marblehead Peninsula on Lake Erie in Ohio. The iconic Marblehead Lighthouse, built in 1822, is the oldest lighthouse in continuous operation on the Great Lakes. Visitors can climb to the top of the lighthouse for stunning views of Lake Erie and the surrounding area. The park also offers hiking trails, picnic areas, and beaches for visitors to enjoy. In addition, the park is a popular spot for birdwatching, with opportunities to see a variety of migratory birds.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Marblehead%20Lighthouse%20State%20Park"
+            },
+            {
+                "name": "Mary Jane Thurston State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/mary-jane-thurston-state-park",
+                "content": "Mary Jane Thurston State Park is a scenic park located along the Maumee River in Northwest Ohio, offering opportunities for hiking, fishing, and picnicking.",
+                "description": "Mary Jane Thurston State Park is located along the scenic Maumee River in northwestern Ohio, offering visitors a peaceful and picturesque setting for outdoor recreation. The park features over 1,000 acres of natural beauty, including wooded areas, wetlands, and meadows. Visitors can enjoy a variety of activities such as hiking, fishing, picnicking, and birdwatching. The park also has a boat ramp for easy access to the river, making it a popular spot for boating and kayaking. With its diverse wildlife and tranquil atmosphere, Mary Jane Thurston State Park is a perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mary%20Jane%20Thurston%20State%20Park"
+            },
+            {
+                "name": "Catawba Island State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/catawba-island-state-park",
+                "content": "Catawba Island State Park is a scenic park on Lake Erie offering stunning views, picnicking areas, and access to fishing and boating opportunities.",
+                "description": "Catawba Island State Park, located on the western shore of Catawba Island in Lake Erie, offers a beautiful sandy beach for visitors to enjoy swimming, sunbathing, and picnicking. The park also features stunning views of the lake and nearby islands, making it a popular spot for photography and birdwatching. Additionally, visitors can take advantage of the park's hiking trails, fishing opportunities, and boating access for a variety of recreational activities. The park is open year-round and has a campground available for those looking to extend their stay and enjoy the peaceful natural surroundings of Catawba Island State Park. Whether you're looking for a relaxing beach day or an outdoor adventure, this state park has something for everyone to enjoy.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Catawba%20Island%20State%20Park"
+            },
+            {
+                "name": "Quail Hollow State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/quail-hollow-state-park",
+                "content": "Quail Hollow State Park is a beautiful natural area in Ohio, featuring wooded trails, a picturesque manor house, and diverse wildlife.",
+                "description": "Quail Hollow State Park, located in Hartville, Ohio, offers visitors the chance to explore over 700 acres of beautiful natural scenery. The park is home to several hiking trails, perfect for both experienced hikers and beginners looking for a leisurely stroll.\n\nOne of the main attractions at Quail Hollow is the historic Haines House, a restored 19th-century farmhouse that gives visitors a glimpse into the region's past. The park also features a variety of educational programs and events throughout the year, making it a great destination for families and nature lovers alike.\n\nIn addition to its scenic beauty, Quail Hollow State Park is known for its diverse wildlife, including a variety of bird species, deer, and other mammals. Birdwatchers will particularly enjoy exploring the park's numerous habitats, which provide opportunities to spot both common and rare bird species.\n\nFor those looking to extend their stay, Quail Hollow offers camping facilities with both primitive and electric campsites available. Whether you're looking for a day trip or a weekend getaway, Quail Hollow State Park has something to offer for everyone.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Quail%20Hollow%20State%20Park"
+            },
+            {
+                "name": "Wingfoot Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/wingfoot-lake-state-park",
+                "content": "Wingfoot Lake State Park is a serene getaway with a 444-acre lake for fishing and boating, along with hiking trails and picnic areas for all to enjoy.",
+                "description": "Wingfoot Lake State Park is a beautiful 411-acre park located in Portage County, Ohio. The park is centered around a 444-acre glacial kettle lake, offering plenty of opportunities for boating, fishing, and swimming. Visitors can enjoy hiking and birdwatching on the park's scenic trails, which wind through forests and wetlands. The park also features a swimming beach, picnic areas, and a disc golf course for visitors to enjoy. Additionally, the park is home to the Goodyear Blimp hangar, adding a unique and historical element to the park's landscape.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wingfoot%20Lake%20State%20Park"
+            },
+            {
+                "name": "Independence Dam State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/independence-dam-state-park",
+                "content": "Independence Dam State Park offers opportunities for hiking, fishing, and camping in a beautiful natural setting along the Maumee River.",
+                "description": "Independence Dam State Park is located along the Maumee River in Defiance, Ohio, offering a beautiful natural setting for visitors to enjoy. The park features scenic hiking trails that wind through woodlands, meadows, and along the river, providing opportunities for birdwatching and wildlife viewing. Visitors can also fish in the river or rent a kayak or canoe to explore the waterways. The park has a campground with both RV and tent sites, as well as cabins for those looking to spend the night in the great outdoors. Whether you're looking for a peaceful nature retreat or an active outdoor adventure, Independence Dam State Park has something for everyone to enjoy.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Independence%20Dam%20State%20Park"
+            },
+            {
+                "name": "Kelleys Island State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/kelleys-island-state-park",
+                "content": "Kelleys Island State Park offers beautiful beaches, hiking trails, and camping opportunities on the largest American island in Lake Erie.",
+                "description": "Kelleys Island State Park is a beautiful 677-acre park located on the northern shores of Kelleys Island in Lake Erie. Visitors can enjoy a variety of outdoor activities such as hiking, birdwatching, fishing, and swimming in the crystal-clear waters of the Great Lake. The park also features a campground with electric hookups, modern restrooms, and showers for those looking to stay overnight. One of the highlights of the park is the Glacial Grooves Geological Preserve, where visitors can see the largest and most easily accessible glacial grooves in the world. Additionally, the park offers stunning views of the lake and surrounding landscapes, making it a perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kelleys%20Island%20State%20Park"
+            },
+            {
+                "name": "South Bass Island State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/south-bass-island-state-park",
+                "content": "South Bass Island State Park offers stunning views of Lake Erie from its rocky cliffs and provides a perfect spot for picnicking, fishing, hiking, and camping.",
+                "description": "South Bass Island State Park is located on South Bass Island in Lake Erie, near the popular tourist destination of Put-in-Bay, Ohio. The park offers stunning views of the crystal-clear waters of Lake Erie and the surrounding islands.\n\nVisitors to South Bass Island State Park can enjoy picnicking, swimming, and fishing along the park's rocky shoreline. The park is also a great spot for birdwatching, with a variety of migratory birds passing through the area.\n\nOne of the highlights of the park is the Perry's Victory and International Peace Memorial, which commemorates the Battle of Lake Erie during the War of 1812. Visitors can climb to the top of the memorial for panoramic views of the lake and surrounding islands.\n\nFor those looking to extend their stay, the park offers camping facilities with both RV and tent sites available. Visitors can enjoy the peaceful surroundings of the park while being just a short ferry ride away from the bustling activities of Put-in-Bay.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=South%20Bass%20Island%20State%20Park"
+            },
+            {
+                "name": "Oak Point State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/oak-point-state-park",
+                "content": "Oak Point State Park in Ohio offers a variety of outdoor recreational activities, including hiking, fishing, picnicking, and wildlife viewing along the shores of Lake Erie.",
+                "description": "Oak Point State Park offers a beautiful natural setting with over two miles of shoreline along the Sandusky Bay. Visitors can enjoy hiking and bird watching on the park's scenic trails, which offer breathtaking views of the water and surrounding wetlands. The park also provides a fishing pier for anglers looking to catch striped bass, catfish, and other popular species found in the bay. For those looking to relax, there are picnic areas and shelters available for a tranquil day by the water. Additionally, the park offers kayak and canoe rentals for visitors looking to explore the bay from the water.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Oak%20Point%20State%20Park"
+            },
+            {
+                "name": "Middle Bass Island State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/middle-bass-island-state-park",
+                "content": "Middle Bass Island State Park is a scenic island park located on Lake Erie with opportunities for boating, fishing, and picnicking.",
+                "description": "Middle Bass Island State Park is located in the western basin of Lake Erie and is accessible by ferry. The park offers beautiful views of the lake, opportunities for fishing, boating, and picnicking. Visitors can explore the historic Lonz Winery ruins, which have been preserved as a tribute to the island's past. The park also has a campground for those who want to extend their stay and enjoy all that the island has to offer. Don't forget to bring your camera to capture the stunning sunsets over the water.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Middle%20Bass%20Island%20State%20Park"
+            },
+            {
+                "name": "Jefferson Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/jefferson-lake-state-park",
+                "content": "Jefferson Lake State Park is a scenic outdoor destination in Ohio, offering a variety of recreational activities such as fishing, boating, hiking and picnicking.",
+                "description": "Jefferson Lake State Park is a picturesque destination in Ohio offering a variety of outdoor activities for visitors. The park boasts a beautiful lake perfect for fishing, boating, and swimming. Visitors can also enjoy hiking, picnicking, and camping in the scenic surroundings of the park. The park features several scenic overlooks and trails that provide stunning views of the lake and surrounding woodlands. With its peaceful atmosphere and abundance of outdoor recreation opportunities, Jefferson Lake State Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jefferson%20Lake%20State%20Park"
+            },
+            {
+                "name": "Maumee Bay State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/maumee-bay-state-park",
+                "content": "Maumee Bay State Park is a popular outdoor destination in Ohio with a variety of recreational activities including hiking, fishing, and golf.",
+                "description": "Maumee Bay State Park is located within a unique ecosystem known as the Maumee State Forest in Ohio. The park offers a wide range of outdoor activities including hiking, biking, bird watching, and swimming in Lake Erie. Visitors can also enjoy fishing, boating, and golfing at the park's amenities. The park is known for its diverse wildlife, including bald eagles, white-tailed deer, and various species of waterfowl. With its stunning natural beauty and diverse recreational opportunities, Maumee Bay State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Maumee%20Bay%20State%20Park"
+            },
+            {
+                "name": "North Bass Island State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/north-bass-island-state-park",
+                "content": "North Bass Island State Park is a remote and undeveloped park located on North Bass Island in Lake Erie, offering pristine natural beauty and solitude for outdoor enthusiasts.",
+                "description": "North Bass Island State Park is a hidden gem in Lake Erie, offering visitors a secluded and peaceful retreat. The park is only accessible by private boat or charter service, adding to its allure. Visitors can explore the island's natural beauty through hiking trails that offer stunning views of the lake. The park is also a popular spot for birdwatching, with a variety of migratory birds making their home on the island. Camping is allowed on the island, giving visitors the opportunity to experience a true escape from the hustle and bustle of daily life.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Bass%20Island%20State%20Park"
+            },
+            {
+                "name": "Tinkers Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/tinkers-creek-state-park",
+                "content": "Tinkers Creek State Park is a peaceful natural area located in Ohio with opportunities for hiking, picnicking, and wildlife viewing.",
+                "description": "Tinkers Creek State Park is located in northeastern Ohio and offers a variety of outdoor recreational activities for visitors to enjoy. The park's main feature is the beautiful Tinkers Creek Gorge, which offers stunning views and opportunities for hiking and birdwatching. Visitors can explore over 2.5 miles of hiking trails that wind through the park's diverse landscapes, including forests, wetlands, and meadows. The park is also a popular spot for fishing, with Tinkers Creek offering opportunities to catch trout, smallmouth bass, and other fish species. Additionally, the park has a picnic area and a playground, making it a great destination for families looking to spend a day outdoors.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tinkers%20Creek%20State%20Park"
+            },
+            {
+                "name": "Guilford Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/guilford-lake-state-park",
+                "content": "Guilford Lake State Park is a serene outdoor recreation area in Ohio known for its beautiful lake, perfect for fishing, boating, and swimming.",
+                "description": "Guilford Lake State Park is located in northeastern Ohio and offers a picturesque setting for outdoor enthusiasts. The 1,600-acre park features a scenic 400-acre lake that is perfect for boating, fishing, and swimming. Visitors can enjoy hiking and picnicking along the shoreline, as well as camping in the park's well-maintained campground. The park also has a variety of wildlife, including deer, waterfowl, and other bird species, making it a great spot for nature lovers to explore. With its beautiful scenery and recreational opportunities, Guilford Lake State Park is a must-visit destination for anyone looking to enjoy the great outdoors in Ohio.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Guilford%20Lake%20State%20Park"
+            },
+            {
+                "name": "West Branch State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/west-branch-state-park",
+                "content": "West Branch State Park in Ohio offers a variety of outdoor activities, including hiking, fishing, boating, and camping opportunities.",
+                "description": "West Branch State Park is located in Portage County, Ohio and offers over 5,000 acres of outdoor recreation opportunities. Visitors can enjoy activities such as boating, fishing, hiking, and camping in the park's picturesque surroundings. The park's reservoir is a popular spot for water sports enthusiasts, with designated swimming areas and boat launches available. Nature lovers will appreciate the diverse wildlife and plant species found throughout the park, making it a great destination for birdwatching and nature photography. Additionally, the park offers seasonal events and programs for visitors of all ages to enjoy.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=West%20Branch%20State%20Park"
+            },
+            {
+                "name": "Lake Milton State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/lake-milton-state-park",
+                "content": "Lake Milton State Park is a popular recreational area located on a 1,685-acre lake in northeastern Ohio, offering fishing, boating, and hiking opportunities.",
+                "description": "Lake Milton State Park is located in northeastern Ohio and offers a wide range of recreational activities for visitors to enjoy. The park encompasses a 1,685-acre reservoir that is popular for boating, fishing, and swimming. Visitors can explore the scenic shoreline by hiking, biking, or picnicking in designated areas. The park also features a sandy beach with a concession stand and playground for families to enjoy a day by the water. Campsites are available for those looking to extend their stay and immerse themselves in the beauty of the park.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Milton%20State%20Park"
+            },
+            {
+                "name": "Harrison Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/harrison-lake-state-park",
+                "content": "Harrison Lake State Park is a scenic and peaceful park featuring a 105-acre lake for fishing and boating, as well as hiking trails to explore the natural beauty of the area.",
+                "description": "Harrison Lake State Park in Fayette, Ohio offers a serene atmosphere for visitors to enjoy outdoor recreational activities such as fishing, boating, and hiking. The park features a 105-acre lake with a swimming beach perfect for cooling off on hot summer days. Visitors can also explore the park's extensive trail system, which offers picturesque views of the surrounding woodlands and wildlife. Camping is available at the park's campground, providing a great opportunity for overnight stays in nature. Additionally, the park hosts various events and programs throughout the year, making it a popular destination for both locals and tourists seeking a peaceful escape in nature.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Harrison%20Lake%20State%20Park"
+            },
+            {
+                "name": "Beaver Creek State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/beaver-creek-state-park",
+                "content": "Beaver Creek State Park is a scenic park in eastern Ohio known for its rugged beauty, deep valleys, and historic Gaston's Mill.",
+                "description": "Beaver Creek State Park is located in East Liverpool, Ohio, and offers visitors a beautiful natural setting with a variety of activities to enjoy. The park features over 2,700 acres of rolling hills, forests, and scenic streams that are perfect for hiking, fishing, and wildlife viewing. Visitors can explore the park's historic landmarks, including the remnants of the Sandy and Beaver Canal, as well as the Gaston's Mill and Daniel T. Hall House. The park also offers camping and picnicking facilities, making it a great destination for families looking to escape the hustle and bustle of city life. With its peaceful atmosphere and rich history, Beaver Creek State Park is a must-visit destination for outdoor enthusiasts in Ohio.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beaver%20Creek%20State%20Park"
+            },
+            {
+                "name": "Punderson State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/punderson-state-park",
+                "content": "Punderson State Park is a scenic outdoor destination offering camping, fishing, boating, hiking trails, and a championship golf course in Newbury, Ohio.",
+                "description": "Punderson State Park is a beautiful outdoor destination located in Newbury, Ohio. Visitors can enjoy a variety of activities such as hiking, fishing, and boating on the 150-acre Punderson Lake.\n\nThe park offers a challenging 18-hole disc golf course that winds through the scenic forested area, providing a fun and interactive way to explore the park. There are also several picnic areas and shelters available for families and groups to enjoy a meal surrounded by nature.\n\nFor those looking to extend their stay, Punderson State Park also features a campground with electric and non-electric sites, as well as a cozy cabin rental option. The park's picturesque landscape and peaceful atmosphere make it a perfect getaway for nature lovers and outdoor enthusiasts.\n\nThroughout the year, the park hosts various events and programs, including guided nature hikes, birdwatching tours, and educational workshops. Visitors can check the park's website for a calendar of upcoming events to plan their visit accordingly.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Punderson%20State%20Park"
+            },
+            {
+                "name": "Nelson-Kennedy Ledges State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/nelsonkennedy-ledges-state-park",
+                "content": "Nelson-Kennedy Ledges State Park features unique rock formations, hiking trails, and picnic areas in a beautiful natural setting.",
+                "description": "1. Nelson-Kennedy Ledges State Park is a stunning natural area located in northeastern Ohio, known for its unique rock formations, towering cliffs, and lush woodlands. Visitors can explore several miles of hiking trails that wind through the park, offering breathtaking views of the surrounding landscape.\n\n2. One of the park's main attractions is the towering rock formations that create narrow passageways and hidden grottos to explore. These sandstone cliffs, some as high as 60 feet, provide a thrilling backdrop for hikers and climbers looking for an adventure.\n\n3. The park is a popular destination for rock climbing enthusiasts, with several designated climbing areas available for experienced climbers. Visitors can test their skills on challenging routes that range from beginner to advanced levels, all while surrounded by the park's rugged beauty.\n\n4. For those looking to relax and enjoy the scenery, Nelson-Kennedy Ledges State Park also offers picnic areas, a playground, and a tranquil stream for fishing or wading. Visitors can spend a peaceful afternoon taking in the sights and sounds of nature, making it a great destination for a family outing or a solo retreat.\n\n5. Whether you're a thrill-seeker seeking an adrenaline rush on the cliffs, a nature lover looking to explore the park's diverse ecosystems, or simply in need of a peaceful getaway in the great outdoors, Nelson-Kennedy Ledges State Park offers something for everyone to enjoy. Don't miss the chance to experience the beauty and adventure that this hidden gem has to offer.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nelson-Kennedy%20Ledges%20State%20Park"
+            },
+            {
+                "name": "Mosquito Lake State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/mosquito-lake-state-park",
+                "content": "Mosquito Lake State Park is a popular recreational destination in Ohio, offering camping, fishing, boating, hiking, and swimming opportunities.",
+                "description": "1. Mosquito Lake State Park is located in northeastern Ohio and is a popular destination for outdoor enthusiasts. The park surrounds a 7,241-acre lake that offers opportunities for boating, fishing, and swimming. Visitors can enjoy 600 campsites, eight boat ramps, and six marinas throughout the park.\n\n2. The park also features several picnic areas with shelters and playgrounds for families to enjoy. The scenic hiking trails provide opportunities to explore the natural beauty of the area, with views of the lake and surrounding forests. Birdwatchers will appreciate the diverse wildlife in the park, including bald eagles, osprey, and various waterfowl.\n\n3. For those interested in water sports, the park offers rentals for kayaks, canoes, and stand-up paddleboards. Anglers can try their luck catching walleye, bass, and crappie in the lake, which is known for its abundant fish populations. The park also hosts fishing tournaments throughout the year for enthusiasts to participate in.\n\n4. In addition to outdoor activities, Mosquito Lake State Park has a variety of amenities for visitors to enjoy, including a beach area for swimming and sunbathing. The park has a marina store where visitors can purchase snacks, bait, and fishing supplies. Wildlife enthusiasts may spot deer, turkeys, and other animals roaming the park's wooded areas.\n\n5. Whether you're looking for a relaxing day by the water or an adventurous outdoor experience, Mosquito Lake State Park has something for everyone. With its scenic views, abundant wildlife, and recreational opportunities, the park is a great destination for nature lovers and outdoor enthusiasts alike.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mosquito%20Lake%20State%20Park"
+            },
+            {
+                "name": "Headlands Beach State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/headlands-beach-state-park",
+                "content": "Headlands Beach State Park is Ohio's largest natural sand beach and offers stunning views of Lake Erie.",
+                "description": "Headlands Beach State Park is the longest natural beach in Ohio, stretching for over a mile along Lake Erie. Visitors can enjoy swimming, sunbathing, and picnicking on the sandy shores, or take a leisurely walk along the beach to enjoy the picturesque views of the lake. The park also offers hiking trails, birdwatching opportunities, and a designated dog beach for visitors with furry companions. Additionally, the park features a campground with electric hookups for those looking to extend their stay and immerse themselves in nature. Whether you prefer relaxing by the water or exploring the outdoors, Headlands Beach State Park offers something for every type of visitor to enjoy.",
+                "image": " www.naturallyamazing.com/americasparks/18435.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Headlands%20Beach%20State%20Park"
+            },
+            {
+                "name": "Geneva State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/geneva-state-park",
+                "content": "Geneva State Park is a beautiful lakeside park located on the shores of Lake Erie in Ohio.",
+                "description": "Geneva State Park is a beautiful recreational area located on the shores of Lake Erie in northeastern Ohio. Visitors can enjoy a variety of outdoor activities including swimming, fishing, boating, hiking, and picnicking. The park offers several campgrounds and cabins for overnight stays, making it a great destination for a family vacation or weekend getaway. Additionally, Geneva State Park features a marina with boat rentals and a sandy beach for sunbathing and swimming. Nature enthusiasts will appreciate the park's scenic trails and wildlife viewing opportunities.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Geneva%20State%20Park"
+            },
+            {
+                "name": "Pymatuning State Park",
+                "url": "https://ohiodnr.gov/wps/portal/gov/odnr/go-and-do/plan-a-visit/find-a-property/pymatuning-state-park",
+                "content": "Pymatuning State Park offers a variety of recreational activities including fishing, boating, camping, and wildlife viewing on its 17,088-acre lake.",
+                "description": "Pymatuning State Park, located in Ashtabula County, Ohio, is a popular destination for outdoor enthusiasts of all kinds. Visitors can enjoy the 17,088-acre Pymatuning Reservoir, which is one of the largest man-made lakes in the state, perfect for fishing, boating, and swimming.\n\nThe park offers a variety of recreational activities, including hiking and biking trails, picnic areas, and playgrounds for families to enjoy. Bird watchers will appreciate the park's location along a major migration route, making it a prime spot for spotting a wide variety of bird species.\n\nFor those looking to extend their stay, the park offers camping facilities, including cabins and RV sites, as well as a marina and boat rentals for easy access to the water. Whether you're looking for a relaxing weekend getaway or a fun-filled day trip, Pymatuning State Park has something for everyone to enjoy.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pymatuning%20State%20Park"
+            }
+        ]
+    }
+}

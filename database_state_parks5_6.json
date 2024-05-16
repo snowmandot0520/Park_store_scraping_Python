@@ -1,0 +1,230 @@
+{
+    "Nevada State Parks": {
+        "parks": [
+            {
+                "name": "Beaver Dam",
+                "url": "https://parks.nv.gov/parks/beaver-dam",
+                "content": "Beaver Dam State Park in Nevada features a beautiful and historic beaver dam built in the 1850s by early Mormon settlers.",
+                "description": "Beaver Dam State Park in Nevada is home to a fascinating beaver dam located in a lush, green canyon. Visitors can observe the industrious beavers at work building and maintaining their dam, creating a unique and captivating sight in the natural landscape. The park also offers opportunities for hiking, picnicking, and wildlife viewing, making it a perfect destination for outdoor enthusiasts. With its tranquil surroundings and diverse ecosystem, Beaver Dam State Park is a must-see attraction for nature lovers looking to experience the beauty of Nevada's wilderness. So, be sure to bring your camera and binoculars to capture the beauty of the beaver dam and its surroundings during your visit.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beaver%20Dam"
+            },
+            {
+                "name": "Berlin-Ichthyosaur",
+                "url": "https://parks.nv.gov/parks/berlin-ichthyosaur",
+                "content": "Berlin-Ichthyosaur State Park in Nevada is home to the remains of an ancient marine reptile, the ichthyosaur, as well as the preserved ghost town of Berlin.",
+                "description": "The Berlin-Ichthyosaur State Park in Nevada is a unique destination where visitors can explore both the remnants of a ghost town from the 19th century and a fascinating fossil site. The park is home to the remains of a historic mining town called Berlin, where visitors can walk among well-preserved buildings and learn about the area's rich history. Additionally, the park contains an impressive fossil bed with over 40 ichthyosaur skeletons, making it one of the largest concentrations of these ancient marine reptiles in the world. Visitors can take guided tours of the fossil site to learn more about these incredible creatures that lived in the oceans over 200 million years ago. The park offers a truly one-of-a-kind experience that combines history, paleontology, and natural beauty in a stunning desert setting.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Berlin-Ichthyosaur"
+            },
+            {
+                "name": "Big Bend of the Colorado",
+                "url": "https://parks.nv.gov/parks/big-bend-of-the-colorado",
+                "content": "Big Bend of the Colorado offers stunning views of the Colorado River and is a popular spot for picnicking and camping.",
+                "description": "1. Big Bend of the Colorado State Recreation Area offers a stunning view of the Colorado River as it winds its way through a majestic canyon, providing visitors with a picturesque setting for outdoor activities such as hiking, camping, and birdwatching.\n\n2. The park is a popular destination for water enthusiasts, with opportunities for boating, fishing, and swimming in the cool waters of the river. Visitors can also enjoy picnicking by the riverbank or exploring the surrounding desert landscape.\n\n3. Big Bend of the Colorado is home to a variety of wildlife, including bighorn sheep, desert tortoises, and a wide range of bird species. Birdwatchers will delight in spotting bald eagles, hawks, and herons soaring overhead.\n\n4. The park offers several hiking trails of varying difficulty levels, allowing visitors to explore the rugged terrain and enjoy panoramic views of the river and surrounding mountains. A hike to the top of the Black Mountains provides breathtaking vistas of the entire area.\n\n5. Whether you're looking for a peaceful retreat in nature or an adventurous getaway filled with outdoor activities, Big Bend of the Colorado State Recreation Area has something for everyone to enjoy in this beautiful and serene setting along the Colorado River.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Bend%20of%20the%20Colorado"
+            },
+            {
+                "name": "Buckland Station",
+                "url": "https://parks.nv.gov/parks/buckland-station",
+                "content": "Buckland Station is a historic stagecoach stop in Nevada that offers visitors a glimpse into the state's pioneer past.",
+                "description": "Buckland Station is a historic site located in northern Nevada that once served as a crucial stop along the emigrant trail in the 19th century.\nVisitors can explore the restored adobe building, which was originally used as a stage stop and trading post for weary travelers.\nThe station offers a glimpse into Nevada's pioneer past, with exhibits showcasing artifacts, photos, and information about the area's early settlers.\nNature enthusiasts can also enjoy the surrounding Buckland Meadows, a peaceful outdoor area perfect for hiking, birdwatching, and picnicking.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buckland%20Station"
+            },
+            {
+                "name": "Cathedral Gorge",
+                "url": "https://parks.nv.gov/parks/cathedral-gorge",
+                "content": "Cathedral Gorge State Park in Nevada features unique geological formations known as cathedral-like spires and slot canyons.",
+                "description": "Cathedral Gorge State Park in Nevada is a unique destination known for its stunning geological formations created by erosion over millions of years. Visitors can explore deep slot canyons, towering spires, and intricate caves that have been shaped by the forces of nature. The park offers a variety of hiking trails that lead visitors through the dramatic landscape, providing opportunities for both experienced hikers and casual walkers to admire the beauty of the area. In addition to hiking, visitors can also enjoy picnicking, camping, and birdwatching in this picturesque park. Whether you're looking for outdoor adventure or simply seeking a peaceful retreat surrounded by natural beauty, Cathedral Gorge State Park offers a one-of-a-kind experience for visitors of all ages.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cathedral%20Gorge"
+            },
+            {
+                "name": "Cave Lake",
+                "url": "https://parks.nv.gov/parks/cave-lake",
+                "content": "Cave Lake State Park features a serene mountain lake surrounded by lush pine trees and offers fishing, hiking, camping, and wildlife viewing opportunities.",
+                "description": "Cave Lake State Park is a stunning destination located in the eastern part of Nevada. The park is home to a beautiful, crystal-clear lake that is perfect for fishing, boating, and swimming. Visitors can also explore the nearby limestone cave, which offers a unique and fascinating underground experience. The park is surrounded by picturesque mountain ranges, making it a great spot for hiking and wildlife viewing. With its peaceful atmosphere and abundance of outdoor activities, Cave Lake State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cave%20Lake"
+            },
+            {
+                "name": "Cave Rock",
+                "url": "https://parks.nv.gov/parks/lake-tahoe-nevada-state-park-2",
+                "content": "Cave Rock is a unique geological formation located in Lake Tahoe Nevada State Park, featuring a large tunnel and spectacular views of the lake.",
+                "description": "Cave Rock is a significant cultural site for the Washoe Tribe, who consider it a sacred place. Visitors can explore the caves and rock formations that are believed to have been used for shelter and spiritual ceremonies. The rock is also a popular spot for rock climbing, offering stunning views of Lake Tahoe from the top. Some visitors come to Cave Rock to witness the annual August full moon rise directly over the lake, creating a breathtaking natural spectacle. While visiting, be sure to respect the site's cultural and natural significance, and leave no trace to preserve its beauty for future generations.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cave%20Rock"
+            },
+            {
+                "name": "Dayton",
+                "url": "https://parks.nv.gov/parks/dayton",
+                "content": "The Dayton State Park representative is dedicated to preserving the natural beauty and history of the park for visitors to enjoy.",
+                "description": "Dayton State Park in Nevada is a historical site that offers visitors a glimpse into the rich mining history of the area. The park features the remains of Rock Point Mill, which was once a bustling hub during the Comstock mining boom.\n\nVisitors can explore the area and learn about the daily life of miners and their families through interpretive displays and guided tours. The park also offers camping, picnicking, and hiking opportunities, making it a great destination for outdoor enthusiasts.\n\nOne of the highlights of Dayton State Park is its location along the Carson River, providing picturesque views and a peaceful setting for visitors to relax and enjoy nature. Birdwatchers will be delighted by the variety of bird species that can be spotted along the river.\n\nHistory buffs will appreciate the park's proximity to nearby historic sites, such as the Carson & Colorado Railways station and the remains of the old town of Dayton. Overall, Dayton State Park offers a unique blend of history, nature, and recreation for visitors to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dayton"
+            },
+            {
+                "name": "Echo Canyon",
+                "url": "https://parks.nv.gov/parks/echo-canyon",
+                "content": "Echo Canyon State Park is a beautiful desert oasis offering camping, fishing, hiking, and picnicking opportunities in eastern Nevada.",
+                "description": "Echo Canyon State Park is a stunning natural oasis nestled in the heart of the Nevada desert, offering visitors a chance to explore unique geology and captivating wildlife. The park boasts a picturesque canyon with towering limestone cliffs that provide a breathtaking backdrop for hiking and wildlife viewing. Visitors can enjoy camping under the starry Nevada sky, with campsites nestled among the juniper and pine trees. For those looking to cool off, there is a scenic reservoir where you can swim, boat, or fish for rainbow trout. Echo Canyon State Park is a hidden gem for outdoor enthusiasts seeking a peaceful retreat in the rugged beauty of the Nevada wilderness.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Echo%20Canyon"
+            },
+            {
+                "name": "Elgin Schoolhouse",
+                "url": "https://parks.nv.gov/parks/elgin-schoolhouse",
+                "content": "The Elgin Schoolhouse Historic Site is a well-preserved one-room schoolhouse that provides a glimpse into the education system of Nevada in the early 1900s.",
+                "description": "The Elgin Schoolhouse is a historic one-room schoolhouse located in the Kershaw-Ryan State Park in Nevada. Built in 1924, it served as a school for local children until 1967. Today, visitors can step back in time and experience what education was like in a rural setting nearly a century ago. The schoolhouse is furnished with authentic desks, chalkboards, and other educational artifacts from the early 20th century. Guided tours are available to provide visitors with more information about the history of the schoolhouse and the surrounding area.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Elgin%20Schoolhouse"
+            },
+            {
+                "name": "Fort Churchill",
+                "url": "https://parks.nv.gov/parks/fort-churchill",
+                "content": "Fort Churchill State Historic Park preserves the ruins of a U.S. Army fort established in 1860 to protect early settlers and travelers on the Pony Express route.",
+                "description": "Fort Churchill State Historic Park, located in Nevada, offers visitors a unique glimpse into the history of the American West during the 1860s. This historic fort was established in 1860 to protect early settlers and travelers along the Pony Express route and served as a supply depot during the Civil War.\n\nVisitors can explore the well-preserved ruins of the fort, including the restored officer's quarters and the ruins of several other buildings. The park also features a visitor center with exhibits on the history of Fort Churchill and the surrounding area, as well as a picnic area and hiking trails.\n\nOne of the highlights of Fort Churchill State Historic Park is the restored adobe ruins of the fort's hospital, which provides a fascinating look at the medical facilities of the time. The park is also home to a variety of wildlife, including deer, rabbits, and a wide variety of bird species, making it a great spot for nature lovers.\n\nOverall, Fort Churchill State Historic Park provides a fascinating blend of history and natural beauty for visitors to explore and enjoy. Whether you're interested in the history of the American West or simply looking to enjoy a peaceful day in nature, this park has something to offer for everyone.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Churchill"
+            },
+            {
+                "name": "Ice Age Fossils",
+                "url": "https://parks.nv.gov/parks/ice-age-fossils",
+                "content": "Ice Age Fossils found in Nevada State Parks provide a glimpse into the prehistoric past of the region.",
+                "description": "The Ice Age Fossils State Park in Nevada is home to an incredible collection of fossilized remains from animals that roamed the area during the last Ice Age.\n\nVisitors to the park can see fossils of mammoths, saber-toothed cats, giant sloths, and more, providing a glimpse into the prehistoric world that existed thousands of years ago.\n\nThe park offers guided tours led by knowledgeable experts who can provide insight into the history and significance of the fossils found in the area.\n\nIn addition to viewing the fossils, visitors can also enjoy hiking, bird watching, and picnicking in the scenic surroundings of the park.\n\nIce Age Fossils State Park is a must-visit destination for anyone interested in paleontology and the fascinating creatures that once inhabited the region.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ice%20Age%20Fossils"
+            },
+            {
+                "name": "Kershaw-Ryan",
+                "url": "https://parks.nv.gov/parks/kershaw-ryan",
+                "content": "Kershaw-Ryan State Park is a tranquil oasis in the Nevada desert, featuring a lush canyon with flowing springs and a variety of plant and animal life.",
+                "description": "Kershaw-Ryan State Park is a hidden gem located in Nevada's Eastern region, offering visitors a tranquil escape with its lush greenery and natural springs. The park is known for its unique juxtaposition of desert landscape and unexpected oasis-like vegetation, making it a popular spot for hikers and nature enthusiasts.\n\nOne of the main attractions at Kershaw-Ryan State Park is the series of natural springs that flow year-round, providing a refreshing respite from the desert heat. Visitors can enjoy picnicking in the shaded areas near the springs, as well as exploring the diverse plant and wildlife that call the park home.\n\nThe park is named after James Ryan and James Kershaw, two early settlers who established ranches in the area in the late 1800s. Their legacy lives on in the park's historic stone cabins, which are available for rent to visitors looking to experience a taste of pioneer life.\n\nIn addition to hiking and picnicking, visitors can also enjoy bird watching, photography, and stargazing at Kershaw-Ryan State Park. Whether you're seeking a peaceful retreat or an outdoor adventure, this hidden oasis is sure to delight nature lovers of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kershaw-Ryan"
+            },
+            {
+                "name": "Lahontan",
+                "url": "https://parks.nv.gov/parks/lahontan",
+                "content": "The Lahontan State Recreation Area in Nevada offers a variety of outdoor activities such as fishing, swimming, boating, and camping.",
+                "description": "Lahontan State Recreation Area is a gem in the high desert of Nevada, offering visitors a wide range of activities including boating, fishing, camping, and hiking. The reservoir provides excellent opportunities for water sports, with several boat ramps and designated swimming areas.\n\nOne of the highlights of the park is the Lahontan Dam, which was completed in 1915 and created the reservoir. Visitors can marvel at the engineering feat while taking in stunning views of the surrounding desert landscape.\n\nBirdwatchers will delight in the diverse avian species that call the park home, including bald eagles, peregrine falcons, and ospreys. The area is a popular spot for birdwatching, especially during the spring and fall migration seasons.\n\nFor those looking to explore on foot, there are several hiking trails that wind through the park, offering opportunities to see wildlife and take in the tranquility of the desert landscape. Whether you're looking for a relaxing day on the water or a challenging hike, Lahontan State Recreation Area has something for every outdoor enthusiast.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lahontan"
+            },
+            {
+                "name": "Mormon Station",
+                "url": "https://parks.nv.gov/parks/mormon-station",
+                "content": "Mormon Station State Historic Park in Nevada is a replica of the first permanent non-native settlement in the Carson Valley.",
+                "description": "Mormon Station State Historic Park is located in Genoa, Nevada and is home to a replica of the first permanent non-native settlement in Nevada. Visitors can explore a blacksmith shop, a schoolhouse, and a museum that showcases the history of the early settlers in the area. The park also features picnic areas and walking trails, making it a great spot for a leisurely afternoon outing. Be sure to check out the annual events held at the park, such as the Genoa Cowboy Festival, which celebrates the area's western heritage. Whether you're a history buff or just looking for a scenic spot to relax, Mormon Station State Historic Park offers something for everyone.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mormon%20Station"
+            },
+            {
+                "name": "Old Las Vegas Mormon Fort",
+                "url": "https://parks.nv.gov/parks/old-las-vegas-mormon-fort",
+                "content": "The Old Las Vegas Mormon Fort is a historic site that represents the first permanent non-native settlement in the Las Vegas Valley.",
+                "description": "Old Las Vegas Mormon Fort is the oldest building in Las Vegas and served as a crucial stopover for travelers during the pioneer era. Visitors can explore the historic site and see reconstructed adobe buildings that showcase what life was like during the mid-1800s. The fort was originally constructed by Mormon missionaries in 1855 and offers a glimpse into the rich history of early settlement in the area. The site also features a visitor center with exhibits on the fort's history and the impact of Mormon settlers in the Las Vegas Valley. It's a must-see attraction for history buffs and anyone interested in the unique heritage of Las Vegas.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Old%20Las%20Vegas%20Mormon%20Fort"
+            },
+            {
+                "name": "Rye Patch",
+                "url": "https://parks.nv.gov/parks/rye-patch",
+                "content": "The representative at Rye Patch State Recreation Area is knowledgeable, friendly, and dedicated to providing visitors with a memorable outdoor experience.",
+                "description": "Rye Patch State Recreation Area is a hidden gem located in the high desert region of northwestern Nevada. Visitors can enjoy a variety of outdoor activities such as boating, fishing, and camping along the beautiful Rye Patch Reservoir. The park is also home to historic structures from the California Trail, offering a glimpse into the area's past. Nature enthusiasts will appreciate the diverse wildlife and spectacular desert landscapes found within the park. With its tranquil setting and stunning views, Rye Patch is the perfect getaway for those looking to escape the hustle and bustle of everyday life.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rye%20Patch"
+            },
+            {
+                "name": "Sand Harbor",
+                "url": "https://parks.nv.gov/parks/lake-tahoe-nevada-state-park",
+                "content": "Sand Harbor is a beautiful and popular beach within Lake Tahoe Nevada State Park known for its stunning blue waters and picturesque white sands.",
+                "description": "Sand Harbor is a beautiful beach located within Lake Tahoe Nevada State Park, offering visitors stunning views of the crystal-clear waters and surrounding mountains. The beach is known for its unique white sand beaches, which are unlike any other in the area. Visitors can relax on the shore, go swimming, or even take a kayak or paddleboard out on the water.\n\nOne of the highlights of Sand Harbor is its famous Shakespeare Festival, which takes place on the beach every summer. Visitors can enjoy live performances of classic plays in a picturesque outdoor setting. Additionally, the park offers hiking trails and picnic areas, making it the perfect spot for a day of outdoor adventure and relaxation.\n\nDuring the summer months, Sand Harbor can get quite crowded, so visitors are encouraged to arrive early to secure a spot on the beach. Parking can be limited, so carpooling or taking a shuttle from nearby locations is also recommended. Overall, Sand Harbor is a must-visit destination for anyone looking to experience the natural beauty of Lake Tahoe.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sand%20Harbor"
+            },
+            {
+                "name": "South Fork",
+                "url": "https://parks.nv.gov/parks/south-fork",
+                "content": "The South Fork State Recreation Area representative offers outdoor enthusiasts a beautiful destination for camping, fishing, and boating in northeastern Nevada.",
+                "description": "The South Fork State Recreation Area is a beautiful destination located in northeast Nevada, offering visitors a peaceful retreat from the hustle and bustle of everyday life. With expansive views of the South Fork Reservoir, this park is a popular spot for fishing, boating, and picnicking. The area is also home to a diverse array of wildlife, making it a great location for birdwatching and nature photography. Additionally, the park features camping facilities, perfect for those looking to enjoy a night under the stars in this serene natural setting. Whether you're looking to relax by the water or explore the surrounding trails, the South Fork State Recreation Area has something for every outdoor enthusiast to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=South%20Fork"
+            },
+            {
+                "name": "Spooner Lake & Backcountry",
+                "url": "https://parks.nv.gov/parks/spooner-lake",
+                "content": "Spooner Lake is a picturesque alpine lake located in the backcountry of Nevada's Lake Tahoe State Park, offering peaceful hiking and fishing opportunities surrounded by stunning mountain scenery.",
+                "description": "Spooner Lake is a popular destination for outdoor enthusiasts in Nevada. The lake offers breathtaking views of the surrounding Sierra Nevada mountains, making it perfect for hikers and nature lovers to explore. The area also features a variety of wildlife, including deer, bears, and a wide range of bird species, making it a great spot for wildlife enthusiasts as well. Visitors can enjoy a leisurely walk around the lake or venture further into the backcountry for a more challenging hike. With its peaceful atmosphere and stunning scenery, Spooner Lake is a must-visit for anyone looking to experience the beauty of Nevada's outdoors.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Spooner%20Lake%20%26%20Backcountry"
+            },
+            {
+                "name": "Spring Mountain Ranch",
+                "url": "https://parks.nv.gov/parks/spring-mountain-ranch",
+                "content": "Spring Mountain Ranch offers a beautiful historic site with hiking trails, picnic areas, and guided tours in the heart of the Nevada desert.",
+                "description": "1. Spring Mountain Ranch is a historic oasis nestled in the stunning landscape of the Red Rock Canyon National Conservation Area, offering visitors a peaceful retreat just minutes from the hustle and bustle of Las Vegas.\n\n2. Originally settled by the Wilson family in the 1860s, the ranch has a rich history that includes ownership by several prominent Las Vegas families and even a brief stint as a luxury resort in the 1950s.\n\n3. Visitors can explore the historic ranch house, which has been restored to its former glory and now serves as a museum showcasing the area's history and culture.\n\n4. Outdoor enthusiasts will love the miles of scenic hiking trails that wind through the ranch's lush meadows, pristine ponds, and towering cottonwood trees, offering unparalleled views of the surrounding mountains.\n\n5. With regular events and programming, including guided hikes, living history demonstrations, and even Shakespeare performances in the outdoor theater, Spring Mountain Ranch is a must-visit destination for history buffs, nature lovers, and anyone looking to escape the city for a day.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Spring%20Mountain%20Ranch"
+            },
+            {
+                "name": "Spring Valley",
+                "url": "https://parks.nv.gov/parks/spring-valley",
+                "content": "Spring Valley State Park in Nevada is a serene destination offering camping, fishing, and boating opportunities on a 65-acre reservoir.",
+                "description": "Spring Valley State Park is a serene oasis located in eastern Nevada, offering a tranquil escape for visitors seeking peace and quiet in nature. The park features a stunning reservoir perfect for fishing, boating, and swimming, surrounded by picturesque mountain views. Hiking and birdwatching are popular activities in the park, with an abundance of wildlife to observe among the lush vegetation. Campers can enjoy the convenience of RV and tent camping sites, as well as cozy cabins for rent. Whether you're looking to relax by the water or explore the beautiful surroundings, Spring Valley State Park offers a unique and unforgettable experience for all.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Spring%20Valley"
+            },
+            {
+                "name": "Valley of Fire",
+                "url": "https://parks.nv.gov/parks/valley-of-fire",
+                "content": "Valley of Fire State Park is known for its stunning red sandstone formations that appear to be on fire when illuminated by the sun.",
+                "description": "Valley of Fire State Park in Nevada is named for its stunning red sandstone formations that appear to be on fire when illuminated by the sun. Visitors can explore unique geological features such as petrified trees and arches, as well as ancient petroglyphs left behind by the area's early inhabitants. The park offers a variety of hiking trails ranging from easy to moderate, allowing visitors to experience the park's rugged beauty up close. Camping is also available for those looking to spend more time immersed in this otherworldly landscape. Don't forget to bring plenty of water and sunscreen, as the park can get extremely hot during the summer months.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Valley%20of%20Fire"
+            },
+            {
+                "name": "Van Sickle",
+                "url": "https://parks.nv.gov/parks/lake-tahoe-nevada-state-park-3",
+                "content": "Van Sickle State Park is a popular recreation area in Lake Tahoe known for its scenic hiking trails and stunning views of the lake.",
+                "description": "Van Sickle is a beautiful state park located in Lake Tahoe, Nevada, offering visitors stunning views of the lake and surrounding mountains. The park boasts a network of scenic hiking trails that wind through pine forests and meadows, making it a popular spot for outdoor enthusiasts. One of the highlights of the park is the Van Sickle Trail, which connects to the famous Tahoe Rim Trail and provides access to even more breathtaking views of the area. Visitors can also enjoy picnicking, bird watching, and horseback riding in this picturesque setting. With its convenient location near the town of South Lake Tahoe, Van Sickle State Park is a must-visit destination for those looking to experience the natural beauty of Lake Tahoe.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Van%20Sickle"
+            },
+            {
+                "name": "Walker River",
+                "url": "https://parks.nv.gov/parks/walker-river",
+                "content": "The Walker River State Recreation Area offers a peaceful and scenic setting along the river for fishing, hiking, camping, and wildlife viewing.",
+                "description": "The Walker River is a scenic waterway located in the heart of Nevada's high desert region, offering visitors a peaceful and picturesque place to explore. The river is popular for fishing, with a variety of trout species including rainbow, brown, and cutthroat trout.  Canoeing and kayaking are also popular activities on the river, allowing visitors to soak in the stunning views of the surrounding mountains and wildlife. The Walker River State Recreation Area offers several campsites and picnic areas along the river, providing a perfect spot for a relaxing weekend getaway.  Hiking trails along the river offer opportunities for birdwatching and wildlife spotting, making it a great destination for nature enthusiasts.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Walker%20River"
+            },
+            {
+                "name": "Ward Charcoal Ovens",
+                "url": "https://parks.nv.gov/parks/ward-charcoal-ovens",
+                "content": "Ward Charcoal Ovens State Historic Park features six beehive-shaped charcoal ovens that were used in the late 1800s to produce charcoal for the silver smelters in the region.",
+                "description": "Ward Charcoal Ovens State Historic Park in Nevada is home to six beehive-shaped charcoal ovens that were built in the late 19th century to sustain the area's silver mines. These ovens are the best-preserved charcoal ovens in the American West and are a fascinating glimpse into the region's mining history. Visitors can explore the ovens up close, learning about the intricate process of turning wood into charcoal and the important role these ovens played in the local economy. The park also offers hiking and picnicking opportunities, making it a great spot for a day trip or weekend getaway in the great outdoors. Don't forget to bring a camera to capture the unique beauty of these historic structures against the backdrop of the stunning Nevada landscape.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ward%20Charcoal%20Ovens"
+            },
+            {
+                "name": "Washoe Lake",
+                "url": "https://parks.nv.gov/parks/washoe-lake",
+                "content": "Washoe Lake State Park is a popular destination for boating, fishing, hiking, and bird-watching in Nevada.",
+                "description": "Washoe Lake is a beautiful natural oasis located just 15 miles south of Reno, Nevada. It is a popular spot for outdoor enthusiasts, offering activities such as hiking, picnicking, birdwatching, and fishing.\n\nThe lake is surrounded by the stunning backdrop of the Sierra Nevada Mountains, providing a picturesque setting for visitors to enjoy. The diverse wildlife in the area includes waterfowl, migratory birds, and even the occasional bald eagle.\n\nVisitors can explore the park on foot or by bike using the numerous trails that wind through the surrounding area. There are also designated camping areas for those looking to spend the night under the stars.\n\nDuring the summer months, the lake is a great spot for swimming and paddleboarding, while winter brings opportunities for ice fishing and snowshoeing. Whether you're looking for a relaxing day in nature or an adventurous outdoor experience, Washoe Lake has something to offer for everyone.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washoe%20Lake"
+            },
+            {
+                "name": "Wild Horse",
+                "url": "https://parks.nv.gov/parks/wild-horse",
+                "content": "The wild horses in Nevada are symbolic of the wild spirit of the American West and represent the freedom and resilience of these majestic animals.",
+                "description": "Visitors to the Wild Horse State Recreation Area in Nevada will be captivated by the sight of these majestic creatures roaming freely in their natural habitat. These wild horses have roamed the area for generations and are a unique and cherished part of Nevada's landscape. The park offers a rare opportunity for visitors to observe these beautiful animals up close and appreciate their wild and untamed spirit. With over 20 miles of trails for hiking, biking, and horseback riding, visitors can explore the park and potentially catch a glimpse of these graceful creatures in action. The Wild Horse State Recreation Area is a must-visit destination for nature enthusiasts and animal lovers looking for a one-of-a-kind experience in the Nevada wilderness.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wild%20Horse"
+            }
+        ]
+    }
+}

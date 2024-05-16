@@ -1,0 +1,310 @@
+{
+    "Oklahoma State Parks": {
+        "parks": [
+            {
+                "name": "Alabaster Caverns",
+                "url": "https://www.travelok.com/listings/view.profile/id.110",
+                "content": "Explore the stunning underground world of Alabaster Caverns, known for its unique alabaster rock formations and guided tours for all levels of adventurers.",
+                "description": "1. Alabaster Caverns State Park in Oklahoma is home to the largest natural gypsum cave in the world that is open to the public.\n\n2. Visitors can take guided tours through the stunning underground caverns, where they can explore unique formations such as stalactites, stalagmites, and rare helictites.\n\n3. The park offers camping facilities for those looking to extend their stay and enjoy the surrounding area, which also features hiking trails and picnic areas.\n\n4. In addition to the cave tours, guests can enjoy recreational activities such as fishing, boating, and swimming in the nearby Woodward Lake.\n\n5. Alabaster Caverns State Park is a must-visit destination for nature lovers and adventure seekers looking to experience the beauty and wonder of Oklahoma's geological wonders.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Alabaster%20Caverns"
+            },
+            {
+                "name": "Arrowhead",
+                "url": "https://www.travelok.com/listings/view.profile/id.293",
+                "content": "The Arrowhead-shaped stone at the Tishomingo State Park in Oklahoma is a reminder of the Native American tribes that once inhabited the area.",
+                "description": "Visitors to Oklahoma should make sure to check out the Arrowhead State Park, located in the beautiful southeast region of the state. The park offers a variety of outdoor activities including camping, hiking, fishing, and golfing on the stunning 18-hole Arrowhead State Park Golf Course. For those looking to explore the great outdoors, the park features miles of hiking and equestrian trails, as well as access to the picturesque Lake Eufaula for boating and swimming. The park also boasts a visitor center with interactive displays that showcase the history and natural beauty of the area. With its scenic views and abundance of recreational opportunities, Arrowhead State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Arrowhead"
+            },
+            {
+                "name": "Beavers Bend",
+                "url": "https://www.travelok.com/listings/view.profile/id.422",
+                "content": "Beavers Bend is an outdoor recreation paradise in southeastern Oklahoma, known for its stunning pine forests, crystal-clear waterways, and abundance of trout fishing opportunities.",
+                "description": "Beavers Bend State Park, located in southeastern Oklahoma, offers visitors a picturesque setting with lush forests, crystal-clear waters, and stunning mountain vistas. Outdoor enthusiasts can enjoy a variety of activities such as hiking, fishing, boating, and horseback riding. The park also features cozy cabins and campsites for overnight accommodations, perfect for those looking to immerse themselves in nature. Be sure to keep an eye out for wildlife such as deer, bald eagles, and even black bears! Whether you're seeking adventure or relaxation, Beavers Bend State Park has something for everyone to enjoy.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beavers%20Bend"
+            },
+            {
+                "name": "Black Mesa",
+                "url": "https://www.travelok.com/listings/view.profile/id.631",
+                "content": "Black Mesa is Oklahoma's highest peak, standing at 4,973 feet above sea level, and offers hikers a challenging but rewarding trek to the summit.",
+                "description": "Black Mesa, located in the Oklahoma Panhandle, is the highest point in the state, offering stunning views of the surrounding landscape. Visitors can embark on a challenging hike to the summit, which spans about 8.4 miles round trip. The area is rich in wildlife and plant species, making it a popular destination for nature enthusiasts and bird watchers. Camping is available at the Black Mesa State Park, allowing visitors to fully immerse themselves in the beauty of this unique natural area. Don't forget to bring plenty of water and sun protection, as the high elevation and open terrain can make for harsh conditions during the warmer months.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Black%20Mesa"
+            },
+            {
+                "name": "Boiling Springs",
+                "url": "https://www.travelok.com/listings/view.profile/id.672",
+                "content": "Boiling Springs State Park in Woodward, OK features a natural boiling spring which has been a popular spot for visitors since the late 1800s.",
+                "description": "Boiling Springs State Park in Woodward, Oklahoma is a unique geological wonder that features a natural spring that appears to be boiling due to the high mineral content. Visitors can witness the bubbling springs up close and even take a dip in the mineral-rich waters believed to have healing properties. The park offers hiking trails, picnicking areas, and campsites for those looking to spend a day or weekend in nature. The park is also a haven for birdwatchers, with over 250 species of birds recorded in the area. Don't miss the opportunity to experience the fascinating Boiling Springs State Park on your next trip to Oklahoma!",
+                "image": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1120,q_auto:eco/v1438048694/ddc63ot5tnrovktxbjlu.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Boiling%20Springs"
+            },
+            {
+                "name": "Cherokee Landing",
+                "url": "https://www.travelok.com/listings/view.profile/id.1290",
+                "content": "Cherokee Landing State Park offers a peaceful lakeside retreat with camping, fishing, and boating opportunities in a scenic natural setting.",
+                "description": "Cherokee Landing in Oklahoma offers visitors a peaceful retreat with stunning views of Lake Eufaula, perfect for fishing, boating, and relaxation. The nearby equestrian trails are perfect for horseback riding enthusiasts, and the spacious campgrounds are great for those looking to reconnect with nature. Visitors can also enjoy picnicking by the water's edge or taking a hike through the picturesque surroundings. With its serene atmosphere and array of outdoor activities, Cherokee Landing is a hidden gem for nature lovers looking to escape the hustle and bustle of city life.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cherokee%20Landing"
+            },
+            {
+                "name": "Clayton Lake",
+                "url": "https://www.travelok.com/listings/view.profile/id.1601",
+                "content": "Clayton Lake State Park offers scenic camping, fishing, and boating opportunities in southeastern Oklahoma.",
+                "description": "Clayton Lake State Park is a hidden gem in southeastern Oklahoma, offering visitors a tranquil setting for fishing, camping, and wildlife viewing. The park features a picturesque 93-acre lake perfect for boating and kayaking, as well as a swimming beach for hot summer days. Hiking enthusiasts will enjoy exploring the park's scenic trails, which wind through pine forests and offer stunning views of the surrounding Ouachita Mountains. Birdwatchers can spot a variety of species in the park, including bald eagles, herons, and woodpeckers. With its peaceful atmosphere and abundance of outdoor activities, Clayton Lake State Park is the perfect destination for nature lovers looking to escape the hustle and bustle of city life.",
+                "image": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1120,q_auto:eco/v1438048694/ddc63ot5tnrovktxbjlu.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Clayton%20Lake"
+            },
+            {
+                "name": "Fort Cobb",
+                "url": "https://www.travelok.com/listings/view.profile/id.2822",
+                "content": "Fort Cobb State Park is a beautiful outdoor recreation destination featuring a picturesque lake, RV campsites, fishing opportunities, and hiking trails.",
+                "description": "Fort Cobb State Park is a beautiful destination for outdoor enthusiasts, offering a variety of activities such as hiking, fishing, and boating on its picturesque lake. Visitors can also stay overnight at the park's campsites or cabins, providing a great opportunity to experience the natural beauty of the area. The park is home to diverse wildlife, making it a popular spot for birdwatching and nature photography. History buffs will appreciate the park's historic fort buildings, which offer a glimpse into the area's past as a military outpost. Overall, Fort Cobb State Park is a hidden gem in Oklahoma, perfect for a peaceful and relaxing getaway.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Cobb"
+            },
+            {
+                "name": "Foss",
+                "url": "https://www.travelok.com/listings/view.profile/id.2848",
+                "content": "This Foss representative is an adventurous soul who loves exploring the great outdoors in Oklahoma.",
+                "description": "Fosswith 4 or 5 is a unique attraction located in Sallisaw, Oklahoma that offers visitors the chance to explore a stunning canyon filled with beautiful foliage and intriguing rock formations. The site is home to a natural bridge that spans 100 feet, providing a picturesque backdrop for hiking and photography. Visitors can also enjoy picnicking and camping opportunities, making it a great destination for a weekend getaway. The canyon is accessible via a short hike, offering a peaceful and serene escape from the hustle and bustle of everyday life. Whether you're an outdoor enthusiast or simply seeking a tranquil retreat, Fosswith 4 or 5 is sure to impress with its natural beauty and scenic views.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Foss"
+            },
+            {
+                "name": "Gloss Mountain",
+                "url": "https://www.travelok.com/listings/view.profile/id.3030",
+                "content": "Gloss Mountain State Park offers stunning panoramic views of the surrounding red-rock landscape in northwest Oklahoma.",
+                "description": "Gloss Mountain State Park in Oklahoma offers visitors a unique landscape of vibrant red-hued mesas and buttes that shimmer in the sunlight, creating a breathtaking sight. The peaks of the mountains are covered in a layer of high-gloss gypsum, giving them their distinctive appearance and name. Hiking trails winding through the park provide panoramic views of the surrounding plains and mountains, making it a popular destination for outdoor enthusiasts. Visitors can also explore the park's geological formations, including caves and canyons, which offer a glimpse into the area's rich natural history. Don't forget to bring your camera to capture the stunning beauty of Gloss Mountain State Park's stunning landscape.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gloss%20Mountain"
+            },
+            {
+                "name": "Grand Lake: Bernice",
+                "url": "https://www.travelok.com/listings/view.profile/id.477",
+                "content": "Grand Lake is a popular destination in northeastern Oklahoma known for its crystal-clear waters, scenic beauty, and abundant recreational opportunities.",
+                "description": "Grand Lake: Bernice is a popular destination for outdoor enthusiasts looking to enjoy a variety of water activities such as fishing, boating, and swimming. The lake is known for its crystal-clear waters and picturesque surroundings, making it the perfect spot for a relaxing getaway.\n\nVisitors can explore the scenic shoreline by hiking or biking along the numerous trails that wind through the surrounding forests. For those looking to relax, there are plenty of picnic areas and campgrounds where you can enjoy a leisurely afternoon by the water.\n\nFishing enthusiasts will be thrilled with the abundance of fish species that call Grand Lake: Bernice home, including bass, crappie, and catfish. The lake is also a popular spot for birdwatching, with a variety of migratory birds passing through the area throughout the year.\n\nWhether you're looking for a serene retreat or an action-packed adventure, Grand Lake: Bernice has something to offer for every type of visitor. Don't forget to pack your sunscreen and swimsuit for a day of fun in the sun at this beautiful Oklahoma lake.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Bernice"
+            },
+            {
+                "name": "Grand Lake: Cherokee",
+                "url": "https://www.travelok.com/listings/view.profile/id.1302",
+                "content": "Grand Lake: Cherokee is a 46,500-acre lake known for its beautiful scenery, boating, and fishing opportunities in northeastern Oklahoma.",
+                "description": "Grand Lake: Cherokee is the largest lake in Oklahoma and offers visitors a variety of activities such as fishing, boating, and water sports. The lake is surrounded by picturesque scenery, including rolling hills and lush forests, making it a popular destination for nature lovers. Visitors can also explore the charming towns and cities located around the lake, which offer unique shops, restaurants, and cultural attractions. With over 1,300 miles of shoreline, Grand Lake: Cherokee provides plenty of opportunities for outdoor recreation and relaxation. Whether you're looking for a peaceful getaway or an adventure-filled vacation, this stunning lake has something to offer everyone.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Cherokee"
+            },
+            {
+                "name": "Grand Lake: Disney",
+                "url": "https://www.travelok.com/listings/view.profile/id.25420",
+                "content": "Grand Lake is a popular vacation destination in northeast Oklahoma known for its crystal clear waters, scenic beauty, and variety of outdoor activities.",
+                "description": "Grand Lake, located in northeastern Oklahoma, is a popular destination for visitors seeking outdoor recreation, relaxation, and stunning natural beauty. The lake covers over 46,500 acres and has over 1,300 miles of shoreline, offering ample opportunities for boating, fishing, swimming, and other water activities.\n\nVisitors can explore the charming lakeside towns surrounding Grand Lake, such as Grove and Monkey Island, which offer a variety of dining, shopping, and entertainment options. The lake is also home to several marinas and resorts, providing convenient access to boat rentals, guided fishing trips, and waterfront accommodations.\n\nNature lovers will appreciate the diverse wildlife and scenic landscapes found at Grand Lake, including rugged cliffs, lush forests, and picturesque sunsets over the water. The lake is also a popular spot for birdwatching, with a variety of species that call the area home.\n\nWhether you're looking for a relaxing retreat or an action-packed adventure, Grand Lake offers something for everyone to enjoy. From water sports and hiking to live music and local events, this Oklahoma gem is a must-visit destination for outdoor enthusiasts and nature lovers alike.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Disney"
+            },
+            {
+                "name": "Grand Lake: Honey Creek",
+                "url": "https://www.travelok.com/listings/view.profile/id.3617",
+                "content": "Grand Lake: Honey Creek offers stunning scenery and a tranquil setting perfect for recreational activities like boating and fishing.",
+                "description": "Grand Lake: Honey Creek is a beautiful destination in northeastern Oklahoma known for its crystal-clear waters and stunning natural scenery. Visitors can enjoy a variety of water sports activities such as swimming, boating, and fishing in the lake. The area also offers hiking trails, picnic areas, and camping facilities for those looking to spend more time exploring the great outdoors. Don't miss the opportunity to catch a breathtaking sunset over the water, creating the perfect backdrop for a relaxing evening by the lake. With its peaceful atmosphere and picturesque surroundings, Grand Lake: Honey Creek is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Honey%20Creek"
+            },
+            {
+                "name": "Grand Lake: Little Blue",
+                "url": "https://www.travelok.com/listings/view.profile/id.2251",
+                "content": "Grand Lake: Little Blue is a beautiful 900-acre lake located in northeastern Oklahoma known for its clear blue waters and sandy beaches.",
+                "description": "Grand Lake: Little Blue is a beautiful and serene lake located in northeastern Oklahoma, making it a perfect destination for outdoor enthusiasts. Visitors can enjoy a wide range of activities such as fishing, boating, and swimming in the clear blue waters of the lake. The surrounding area also offers hiking trails, picnic spots, and camping grounds for those looking to immerse themselves in nature. Additionally, Grand Lake: Little Blue is home to a variety of wildlife, providing a unique opportunity for birdwatching and nature photography. With its peaceful atmosphere and stunning views, this lake is a must-visit destination for anyone seeking a relaxing getaway in the heart of Oklahoma.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Little%20Blue"
+            },
+            {
+                "name": "Grand Lake: Spavinaw",
+                "url": "https://www.travelok.com/listings/view.profile/id.7148",
+                "content": "Grand Lake: Spavinaw is a 1,200-acre lake located in northeast Oklahoma known for its great fishing and tranquil waters.",
+                "description": "Grand Lake: Spavinaw is located in northeastern Oklahoma and is known for its crystal-clear water and scenic surroundings. Visitors can enjoy a variety of water activities such as boating, fishing, and swimming in the lake. The area also offers beautiful hiking trails and picturesque picnic spots for those looking to soak in the natural beauty of the region.\n\nFor history buffs, Grand Lake: Spavinaw has a rich past as it was built in the 1920s as a water supply for the city of Tulsa. Visitors can learn more about the lake's history at the nearby Spavinaw State Park, which offers interpretive exhibits and educational programs. Overall, Grand Lake: Spavinaw is a great destination for outdoor enthusiasts and anyone looking to unwind in a tranquil, natural setting.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Spavinaw"
+            },
+            {
+                "name": "Grand Lake: Twin Bridges",
+                "url": "https://www.travelok.com/listings/view.profile/id.8250",
+                "content": "Grand Lake: Twin Bridges is a peaceful park and camping area located on the shores of Grand Lake in Twin Bridges, Oklahoma.",
+                "description": "Grand Lake Twin Bridges is a beautiful spot located near Wyandotte, Oklahoma that offers visitors a stunning view of the surrounding area. The lake is perfect for fishing, boating, and relaxing on the water with friends and family. Visitors can also enjoy exploring the nearby nature trails or picnicking in one of the designated areas. The area is known for its abundant wildlife, making it a great spot for birdwatching and wildlife photography. Whether you're looking for a peaceful getaway or an adventurous day on the water, Grand Lake Twin Bridges has something for everyone.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Lake%3A%20Twin%20Bridges"
+            },
+            {
+                "name": "Great Plains",
+                "url": "https://www.travelok.com/listings/view.profile/id.3201",
+                "content": "The Great Plains is a vast region of flat grasslands and agricultural land that covers a significant portion of central North America.",
+                "description": "The Great Plains is a vast and beautiful region of Oklahoma with rolling hills, open prairies, and stunning sunsets that stretch for miles. Visitors can explore the Tallgrass Prairie Preserve, the largest protected remnant of tallgrass prairie in the world, and see bison roaming free in their natural habitat. The region is also home to unique geological formations like the Gloss Mountains, which offer breathtaking views of the surrounding landscape. Outdoor enthusiasts can enjoy a variety of activities such as hiking, birdwatching, and stargazing in this serene and peaceful setting. The Great Plains is a must-visit destination for anyone looking to experience the beauty and tranquility of the Oklahoma countryside.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Great%20Plains"
+            },
+            {
+                "name": "Greenleaf",
+                "url": "https://www.travelok.com/listings/view.profile/id.3236",
+                "content": "Greenleafwith is a representative of the Cherokee Nation with a rich cultural heritage and stunning natural landscapes.",
+                "description": "Greenleaf State Park, located in eastern Oklahoma, offers visitors a variety of outdoor activities including hiking, fishing, and boating. The park features a serene lake surrounded by lush forests, perfect for a relaxing getaway. Visitors can explore the park's many scenic trails that wind through the woods and offer stunning views of the surrounding countryside. For those looking to stay overnight, Greenleaf State Park offers a variety of accommodations including cabins and campsites. Whether you're looking to relax by the water or get out and explore the great outdoors, Greenleaf State Park has something for everyone.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Greenleaf"
+            },
+            {
+                "name": "Keystone",
+                "url": "https://www.travelok.com/listings/view.profile/id.4163",
+                "content": "This Keystone is a representation of Oklahoma's pioneer era, featuring a log cabin, one-room schoolhouse, and historical buildings.",
+                "description": "Keystone State Park is a beautiful outdoor recreation area located in northeastern Oklahoma. Visitors can enjoy swimming, boating, fishing, and hiking in the park's pristine lake and surrounding woodlands. The park offers a variety of camping options, from tent sites to RV hookups, making it a perfect destination for a weekend getaway. Be sure to explore the park's scenic hiking trails, which offer stunning views of the lake and surrounding landscape. With its peaceful setting and abundance of activities, Keystone State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1120,q_auto:eco/v1438048694/ddc63ot5tnrovktxbjlu.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Keystone"
+            },
+            {
+                "name": "Lake Eufaula",
+                "url": "https://www.travelok.com/listings/view.profile/id.4336",
+                "content": "Lake Eufaula is Oklahoma's largest lake and a popular destination for fishing, boating, and water sports.",
+                "description": "Lake Eufaula, also known as Eufaula Lake, is the largest lake in Oklahoma, covering over 100,000 acres and boasting 600 miles of shoreline. Visitors can enjoy a wide range of activities on the lake, including fishing, boating, swimming, and water sports. The lake is surrounded by beautiful State Parks, perfect for hiking, camping, and picnicking. Birdwatchers will also be delighted by the abundance of bird species that call the lake home, making it a prime spot for bird watching. With its stunning scenery and recreational opportunities, Lake Eufaula is a must-visit destination for outdoor enthusiasts and nature lovers alike.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Eufaula"
+            },
+            {
+                "name": "Lake Murray",
+                "url": "https://www.travelok.com/listings/view.profile/id.4358",
+                "content": "Lake Murray is a picturesque reservoir located in southern Oklahoma, offering a wide range of recreational activities including fishing, boating, camping, and hiking.",
+                "description": "Lake Murray is a popular destination for water enthusiasts, offering activities such as swimming, fishing, boating, and paddleboarding. With over 5,700 acres of crystal-clear water, visitors can enjoy stunning views and a tranquil atmosphere. The lake is surrounded by lush forests and wildlife, making it a great spot for birdwatching and hiking. There are also several amenities available, including picnic areas, campgrounds, and a resort with cabins and a golf course. Whether you're looking to relax on the shore or explore the water, Lake Murray has something for everyone to enjoy.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Murray"
+            },
+            {
+                "name": "Lake Texoma",
+                "url": "https://www.travelok.com/listings/view.profile/id.4383",
+                "content": "Lake Texoma is one of the largest reservoirs in the United States, spanning across Oklahoma and Texas and offering a wide range of recreational activities including fishing, boating, and hiking.",
+                "description": "Lake Texoma is a massive reservoir located on the border of Texas and Oklahoma, covering a whopping 89,000 acres. It is known for its crystal-clear waters and sandy beaches, making it a popular destination for swimming, boating, and fishing. Visitors can explore over 1,000 miles of shoreline, perfect for picnicking and camping. The lake is also home to a variety of wildlife, including bald eagles, making it a great spot for birdwatching. Whether you're looking for a relaxing day on the water or an adventurous outdoor experience, Lake Texoma has something for everyone.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Texoma"
+            },
+            {
+                "name": "Lake Thunderbird",
+                "url": "https://www.travelok.com/listings/view.profile/id.4386",
+                "content": "Lake Thunderbird is a 6,000-acre lake and park located near Norman, Oklahoma, offering outdoor recreation activities such as hiking, camping, fishing, and boating.",
+                "description": "Lake Thunderbird is a 6,000-acre oasis located in central Oklahoma, just a short drive from the bustling city of Norman. The lake offers a variety of outdoor activities, including boating, fishing, hiking, and camping, making it a popular destination for visitors looking to escape the city for a day or weekend.\n\nThe lake is surrounded by beautiful natural scenery, with rolling hills and lush forests that are perfect for exploring. There are several well-maintained hiking trails in the area, offering stunning views of the lake and the surrounding landscape.\n\nFishermen will be delighted by the abundance of bass, catfish, and crappie that inhabit the waters of Lake Thunderbird, making it a prime spot for fishing enthusiasts. The lake also offers boat rentals and a marina for those looking to enjoy a day out on the water.\n\nCamping facilities at Lake Thunderbird include both tent and RV sites, as well as several group campsites for larger gatherings. Whether you're looking for a relaxing weekend getaway or an action-packed outdoor adventure, Lake Thunderbird has something for everyone.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Thunderbird"
+            },
+            {
+                "name": "Lake Wister",
+                "url": "https://www.travelok.com/listings/view.profile/id.4390",
+                "content": "Lake Wister State Park is a year-round destination for outdoor enthusiasts, offering activities such as boating, fishing, camping, and hiking.",
+                "description": "Lake Wister is a picturesque reservoir located in southeastern Oklahoma, surrounded by lush forests and rolling hills. It covers over 7,300 acres and is a popular destination for fishing, boating, and camping. The lake is stocked with a variety of fish species, including largemouth bass, crappie, and catfish, making it a prime spot for anglers. Visitors can explore the surrounding area by hiking or biking along the scenic trails or simply relax on the sandy beaches. With its stunning natural beauty and abundance of recreational activities, Lake Wister is a hidden gem for outdoor enthusiasts looking to escape the hustle and bustle of city life.",
+                "image": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1120,q_auto:eco/v1438048694/ddc63ot5tnrovktxbjlu.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Wister"
+            },
+            {
+                "name": "Little Sahara",
+                "url": "https://www.travelok.com/listings/view.profile/id.4581",
+                "content": "Little Sahara State Park in Waynoka offers 1,600 acres of stunning sand dunes perfect for dune buggy, ATV, and off-road enthusiasts.",
+                "description": "Little Sahara State Park in Waynoka, Oklahoma offers visitors the chance to experience thrilling sand dune adventures in the heart of the Great Plains.\n\nVisitors can rent off-road vehicles such as dune buggies, ATVs, and dirt bikes to explore the 1,600 acres of sand dunes, perfect for adrenaline junkies looking for a fun and challenging ride.\n\nFor those seeking a more relaxed experience, the park also offers camping facilities with RV hookups and tent sites, allowing guests to spend the night under the stars after a day of sand dune exploration.\n\nLittle Sahara State Park is a popular destination for sandboarding and sand sledding, offering visitors the opportunity to glide down the steep dunes and experience the exhilaration of surfing on sand.\n\nWith its scenic beauty and range of outdoor activities, Little Sahara State Park is a must-visit destination for nature lovers and adventure seekers looking to experience the unique landscape of Oklahoma.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Sahara"
+            },
+            {
+                "name": "McGee Creek",
+                "url": "https://www.travelok.com/listings/view.profile/id.4972",
+                "content": "McGee Creek State Park offers a 3,350-acre lake, fishing, boating and ATV trails amidst beautiful scenery in southeastern Oklahoma.",
+                "description": "McGee Creek State Park is a beautiful outdoor destination located near Atoka, Oklahoma. Visitors can enjoy a wide range of activities including hiking, fishing, boating, and camping in this picturesque setting. The park is known for its crystal clear waters that are perfect for swimming and paddle boarding. Nature enthusiasts will appreciate the park's diverse plant and animal life, making it a great spot for bird watching and wildlife photography. With over 2,600 acres to explore, McGee Creek State Park offers a tranquil and scenic retreat for visitors looking to immerse themselves in the great outdoors.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=McGee%20Creek"
+            },
+            {
+                "name": "Natural Falls",
+                "url": "https://www.travelok.com/listings/view.profile/id.5293",
+                "content": "Natural Falls State Park offers a stunning 77-foot waterfall and beautiful outdoor experiences in the heart of northeastern Oklahoma.",
+                "description": "Natural Falls State Park is home to one of the most stunning waterfalls in Oklahoma, plunging 77 feet into a serene, moss-covered grotto. Visitors can hike along the scenic Dripping Springs Trail, which offers breathtaking views of the falls and surrounding woodland. The park also features picnic areas, playgrounds, and RV campsites for those looking to extend their stay. Birdwatchers will delight in the diverse avian species that call the park home, including colorful warblers and majestic bald eagles. Natural Falls State Park is a must-see destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Natural%20Falls"
+            },
+            {
+                "name": "Osage Hills",
+                "url": "https://www.travelok.com/listings/view.profile/id.5595",
+                "content": "The Osage Hills State Park representative offers activities such as hiking, fishing, and picnicking in a scenic setting.",
+                "description": "Osage Hills State Park is a beautiful destination located in the lush green Osage Hills of Northeastern Oklahoma. Visitors can explore over 1,100 acres of stunning landscape, including wooded areas, rolling hills, and serene ponds. Outdoor enthusiasts will love the park's extensive trail system, which offers opportunities for hiking, mountain biking, and horseback riding. The park also features a lovely creek for fishing and swimming, as well as picnic areas for a relaxing day out in nature. Whether you're looking for a peaceful retreat or an active adventure, Osage Hills State Park has something for every visitor to enjoy.",
+                "image": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1120,q_auto:eco/v1438048694/ddc63ot5tnrovktxbjlu.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Osage%20Hills"
+            },
+            {
+                "name": "Quartz Mountain",
+                "url": "https://www.travelok.com/listings/view.profile/id.29860",
+                "content": "Quartz Mountain is a stunning natural landmark in southwestern Oklahoma, offering outdoor activities such as hiking, camping, and rock climbing.",
+                "description": "Quartz Mountain is a stunning natural attraction in southwestern Oklahoma, known for its rugged beauty and unique quartz crystal formations. Visitors can explore the mountain on hiking trails that offer breathtaking views of the surrounding landscape. The area is also popular for rock climbing and rappelling, providing adventurous visitors with an adrenaline-pumping experience. For those looking for a more relaxing visit, Quartz Mountain State Park offers a variety of recreational activities, including fishing and boating on Lake Altus-Lugert. Don't forget to bring your camera to capture the picturesque scenery of Quartz Mountain during your visit.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Quartz%20Mountain"
+            },
+            {
+                "name": "Raymond Gary",
+                "url": "https://www.travelok.com/listings/view.profile/id.6230",
+                "content": "Raymond Gary State Park is a scenic outdoor destination in Fort Towson, Oklahoma, offering camping, fishing, hiking, and picnicking opportunities for visitors to enjoy.",
+                "description": "Raymond Gary State Park is a picturesque destination located in Fort Towson, Oklahoma. Visitors can enjoy a variety of outdoor activities, including picnicking, hiking, fishing, and wildlife watching. The park's namesake, Raymond D. Gary, was the governor of Oklahoma from 1955 to 1959 and played a key role in the park's establishment. The park features a beautiful lake perfect for boating and swimming, as well as scenic hiking trails that offer stunning views of the surrounding landscape. Whether you're looking to relax in nature or enjoy some outdoor recreation, Raymond Gary State Park is a must-visit destination in southeastern Oklahoma.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Raymond%20Gary"
+            },
+            {
+                "name": "Robbers Cave",
+                "url": "https://www.travelok.com/listings/view.profile/id.6415",
+                "content": "Robbers Cave State Park in Oklahoma features a historic cave once used as a hideout by outlaws, offering hiking trails, camping, and recreational activities.",
+                "description": "The Robbers Cave is a historic hideout located in the San Bois Mountains of southeast Oklahoma. It gained notoriety in the 19th century as a hideout for outlaws such as Jesse James and Belle Starr. Visitors can explore the rugged terrain surrounding the cave, which offers stunning views of the surrounding landscape. The park also features camping, hiking, rappelling, and swimming opportunities for outdoor enthusiasts. The cave itself is an intriguing destination, with winding passageways and chambers for visitors to explore.",
+                "image": "www.naturallyamazing.com/americasparks/52202174133PM0.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Robbers%20Cave"
+            },
+            {
+                "name": "Roman Nose",
+                "url": "https://www.travelok.com/listings/view.profile/id.6460",
+                "content": "Roman Nose State Park is named after the famous Cheyenne Chief Henry Roman Nose and offers a variety of outdoor activities including hiking, fishing, and camping.",
+                "description": "Roman Nose State Park is named after a Cheyenne chief known for his prominent nose profile. The park is a popular destination for outdoor enthusiasts, offering activities such as hiking, fishing, and golfing. Visitors can explore the stunning Canyon, known for its red rock formations and beautiful scenery. The park also features a lodge and cabins for those looking to stay overnight. Don't miss the opportunity to relax in the natural springs at Roman Nose State Park, perfect for a rejuvenating experience.",
+                "image": "https://hipcamp-res.cloudinary.com/f_auto,c_limit,w_1120,q_auto:eco/v1438048694/ddc63ot5tnrovktxbjlu.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Roman%20Nose"
+            },
+            {
+                "name": "Salt Plains",
+                "url": "https://www.travelok.com/listings/view.profile/id.3204",
+                "content": "The Salt Plains in northwest Oklahoma is one of the only places in the world where visitors can dig for hourglass-shaped selenite crystals.",
+                "description": "The Great Salt Plains State Park in Oklahoma is home to one of the most unique natural wonders in the state - a salt flat that covers over 11,000 acres. Visitors can explore the plains by foot, bike, or even by horseback, taking in the surreal landscape of white salt crystals shimmering in the sun. The park is also known for its abundance of wildlife, including migratory birds, bison, and even the occasional bobcat. For those looking to experience something truly special, the park offers the chance to dig for hourglass-shaped selenite crystals in designated areas, providing a truly unforgettable souvenir of your visit. Whether you come for the natural beauty, the wildlife, or the crystal digging, the Salt Plains are sure to leave a lasting impression on any visitor.",
+                "image": "https://images.squarespace-cdn.com/content/v1/5adf30309772ae7d637e8451/1527711115995-ANSANJXN7TI727XREUHK/Wolf+Run-091.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Salt%20Plains"
+            },
+            {
+                "name": "Sequoyah",
+                "url": "https://www.travelok.com/listings/view.profile/id.13299",
+                "content": "Sequoyah's Cabin is a historic site in Sallisaw where the Cherokee scholar and inventor of the Cherokee syllabary, Sequoyah, lived and worked in the early 1800s.",
+                "description": "Sequoyah State Park is located in northeastern Oklahoma, near the town of Wagoner. Visitors can explore over 19,000 acres of beautiful landscapes, including lush forests, rolling hills, and the picturesque Fort Gibson Lake. The park offers a wide range of outdoor activities, such as hiking, fishing, boating, horseback riding, and golfing at the 18-hole Cherokee Hills Golf Course. History enthusiasts can visit the Three Forks Nature Center to learn about the park's namesake, Sequoyah, who was a Cherokee silversmith and the creator of the Cherokee syllabary. With its stunning natural beauty and abundance of recreational opportunities, Sequoyah State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sequoyah"
+            },
+            {
+                "name": "Sequoyah Bay",
+                "url": "https://www.travelok.com/listings/view.profile/id.6729",
+                "content": "Sequoyah Bay State Park offers stunning views of Fort Gibson Lake and a variety of outdoor activities in a peaceful setting.",
+                "description": "Sequoyah Bay State Park is a beautiful destination located on the shores of Fort Gibson Lake in northeastern Oklahoma. Visitors can enjoy a wide range of outdoor activities, from fishing and boating to hiking and picnicking. The park also offers a swimming beach and a marina for those looking to relax by the water.\n\nNature enthusiasts will appreciate the park's diverse wildlife and scenic views, making it a great spot for birdwatching and photography. Camping options are available for those looking to extend their stay and immerse themselves in the tranquility of the natural surroundings. Whether you're seeking adventure or relaxation, Sequoyah Bay State Park offers something for every type of visitor to enjoy.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sequoyah%20Bay"
+            },
+            {
+                "name": "Talimena",
+                "url": "https://www.travelok.com/listings/view.profile/id.7645",
+                "content": "Talimena State Park is a 26-acre park located in Oklahoma, offering stunning views of the Talimena Scenic Byway and plenty of outdoor recreational opportunities.",
+                "description": "Talimena Scenic Drive in eastern Oklahoma spans 54 miles through the Ouachita Mountains, offering breathtaking views of the surrounding landscapes. Visitors can enjoy scenic overlooks, historic sites, and charming towns along the way. The drive is especially popular in the fall when the foliage transforms into a stunning display of autumn colors. Hiking trails and picnic areas are also available for those looking to stretch their legs and take in the natural beauty of the area. Whether you're a nature enthusiast, history buff, or simply looking for a peaceful drive, Talimena Scenic Drive has something for everyone to enjoy.",
+                "image": "https://trekohio.com/wp-content/uploads/201311_100_2077_10823887636-640x480.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Talimena"
+            },
+            {
+                "name": "Tenkiller",
+                "url": "https://www.travelok.com/listings/view.profile/id.7706",
+                "content": "Tenkillerwith is a new lakefront resort development in eastern Oklahoma offering luxury cabins and amenities for outdoor enthusiasts.",
+                "description": "Lake Tenkiller is a hidden gem in Oklahoma, known for its crystal-clear waters that are perfect for swimming, fishing, and boating. Visitors can explore over 130 miles of shoreline, dotted with picturesque cliffs and caves to discover. The lake is also a popular spot for scuba diving, with several sunken artifacts and structures to explore underwater. In addition to water activities, the surrounding area offers hiking trails, camping facilities, and even a golf course for visitors to enjoy. Whether you're seeking adventure or relaxation, Lake Tenkiller offers something for everyone to enjoy.",
+                "image": "https://www.roverpass.com/system/pictures/images/000/048/278/full/519-1.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tenkiller"
+            }
+        ]
+    }
+}

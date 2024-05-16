@@ -1,0 +1,574 @@
+{
+    "Nebraska State Parks": {
+        "parks": [
+            {
+                "name": "Alexandria",
+                "url": "https://outdoornebraska.gov/location/alexandria/",
+                "content": "The Alexandria State Recreation Area in Nebraska offers a peaceful setting for boating, fishing, and camping.",
+                "description": "Located in Thayer County, Nebraska, Alexandria is a charming small town with a population of just over 170 residents. Visitors to Alexandria can enjoy exploring the town's historic Main Street, which features beautifully preserved buildings dating back to the late 19th century. Alexandria is also home to a picturesque city park with a playground, picnic areas, and a walking trail, making it a perfect spot for a relaxing afternoon outdoors. Outdoor enthusiasts will appreciate the town's proximity to nearby hunting and fishing opportunities, with plenty of wildlife and scenic landscapes to explore. Visitors looking for a peaceful getaway will find Alexandria to be a quaint and welcoming destination with a laid-back atmosphere.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Alexandria"
+            },
+            {
+                "name": "Arbor Lodge",
+                "url": "https://outdoornebraska.gov/location/arbor-lodge/",
+                "content": "Arbor Lodge State Historical Park is the historic estate of J. Sterling Morton, founder of Arbor Day, and features a beautiful mansion and gardens for visitors to explore.",
+                "description": "Arbor Lodge State Historical Park in Nebraska is a stunning estate that was once home to J. Sterling Morton, the founder of Arbor Day. Visitors can explore the beautiful 52-room mansion, which is filled with historical artifacts and original furnishings from the Morton family. The park also features over 260 acres of gardens, including a formal Sunken Garden and a Whispering Bench, where two people can sit at each end and hear each other perfectly. Guests can enjoy walking trails, picnicking areas, and even guided tours of the mansion and gardens. Arbor Lodge is a must-see destination for history buffs, garden enthusiasts, and anyone looking for a peaceful and picturesque retreat.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Arbor%20Lodge"
+            },
+            {
+                "name": "Ash Hollow",
+                "url": "https://outdoornebraska.gov/location/ash-hollow/",
+                "content": "Ash Hollow State Historical Park is home to a stunning canyon carved by the North Platte River amidst unique rock formations and rich historical significance.",
+                "description": "Ash Hollow State Historical Park is located near Lewellen, Nebraska and offers visitors a unique blend of natural beauty and historical significance. The park features towering limestone bluffs, lush forests, and a scenic stretch of the Oregon-California Trail. Visitors can explore Ash Hollow Cave, a sandstone overhang where pioneers once sought shelter on their westward journey. The park also includes a museum showcasing artifacts and exhibits related to the area's history. Whether hiking, picnicking, or simply taking in the breathtaking views, Ash Hollow is a must-visit destination for anyone interested in Nebraska's rich heritage.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ash%20Hollow"
+            },
+            {
+                "name": "Ashfall Fossil Beds",
+                "url": "https://outdoornebraska.gov/location/ashfall-fossil-beds/",
+                "content": "The Ashfall Fossil Beds in Nebraska contain stunningly well-preserved fossils of ancient animals that were buried in volcanic ash nearly 12 million years ago.",
+                "description": "1. The Ashfall Fossil Beds State Historical Park in Nebraska is a unique site where visitors can observe the remains of prehistoric animals frozen in time by a volcanic eruption over 12 million years ago.\n\n2. Visitors can walk along the boardwalks and view the perfectly preserved skeletons of ancient rhinoceroses, camels, and other animals that roamed the area during the Miocene Epoch.\n\n3. The park also features a museum with interactive exhibits and displays that provide insight into the geology and paleontology of the region, making it a great destination for both families and science enthusiasts.\n\n4. The Ashfall Fossil Beds offer a one-of-a-kind opportunity to witness the incredible fossilization process that has allowed researchers to uncover new insights into the history of life on Earth.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ashfall%20Fossil%20Beds"
+            },
+            {
+                "name": "Blue River",
+                "url": "https://outdoornebraska.gov/location/blue-river/",
+                "content": "The Blue River is a scenic waterway in Nebraska known for its clear blue waters and excellent opportunities for fishing and wildlife viewing.",
+                "description": "The Blue River in Nebraska is a popular destination for outdoor enthusiasts due to its scenic beauty and abundant wildlife. Visitors can enjoy a variety of activities such as fishing, kayaking, and birdwatching along its banks. The river is known for its clear blue waters and peaceful surroundings, making it a great spot for relaxation and nature appreciation. With several access points and campgrounds available, the Blue River offers opportunities for both day trips and overnight stays. Whether you're an experienced angler or just looking to unwind in a tranquil setting, the Blue River is a must-visit destination in Nebraska.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blue%20River"
+            },
+            {
+                "name": "Bluestem",
+                "url": "https://outdoornebraska.gov/location/bluestem/",
+                "content": "The Bluestem State Recreation Area is a popular spot for camping, fishing, and other outdoor activities in Nebraska.",
+                "description": "Bluestem State Recreation Area is a popular destination for outdoor enthusiasts in Nebraska, offering a variety of recreational activities such as fishing, boating, hiking, and camping. Visitors can enjoy exploring the 742-acre reservoir and surrounding natural areas, which are home to a diverse range of wildlife including birds, deer, and other small mammals.\n\nFor those interested in fishing, Bluestem offers opportunities to catch a variety of species including largemouth bass, bluegill, and crappie. The reservoir is also a great spot for boating, with a boat ramp and dock available for visitors to use. Hikers can enjoy scenic trails that wind through rolling hills and grasslands, providing beautiful views of the surrounding landscape.\n\nCamping is a popular option at Bluestem, with both primitive and modern campsites available for visitors to enjoy. The campground offers amenities such as showers, restrooms, and electrical hookups, making it a comfortable and convenient place to stay. Whether you're looking to relax by the water, explore the great outdoors, or simply enjoy the peace and quiet of nature, Bluestem State Recreation Area has something to offer for everyone.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bluestem"
+            },
+            {
+                "name": "Bowring Ranch",
+                "url": "https://outdoornebraska.gov/location/bowring-ranch/",
+                "content": "Bowring Ranch is a historic working cattle ranch located in Nebraska's Sandhills region, offering visitors the opportunity to experience an authentic slice of ranch life.",
+                "description": "The Bowring Ranch State Historical Park is a unique destination in Nebraska that offers visitors a glimpse into the state's ranching heritage. The historic site features a beautifully preserved 26-room mansion built in 1902, surrounded by rolling hills and prairies. Visitors can explore the expansive grounds, including the original barns and outbuildings, and learn about the life of early settlers in the area. The ranch also offers hiking and birdwatching opportunities, with a variety of wildlife species to be spotted in the area. This peaceful retreat is perfect for those looking to disconnect from the hustle and bustle of everyday life and immerse themselves in the beauty of the Nebraska landscape.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bowring%20Ranch"
+            },
+            {
+                "name": "Box Butte Reservoir",
+                "url": "https://outdoornebraska.gov/location/box-butte-reservoir/",
+                "content": "Box Butte Reservoir is a popular spot for fishing, boating, and camping in western Nebraska.",
+                "description": "Box Butte Reservoir is a popular destination for visitors seeking to enjoy various outdoor activities such as fishing, boating, and camping. The reservoir covers approximately 1,600 acres and offers stunning views of the surrounding landscape. Anglers can try their luck catching a variety of fish species, including catfish, bass, and walleye. The reservoir also has several picnic areas and campgrounds, making it an ideal spot for a weekend getaway with family or friends. Whether you're looking to relax by the water or engage in some outdoor adventures, Box Butte Reservoir has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Box%20Butte%20Reservoir"
+            },
+            {
+                "name": "Branched Oak",
+                "url": "https://outdoornebraska.gov/location/branched-oak/",
+                "content": "Branched Oak State Recreation Area is a popular destination for outdoor enthusiasts, offering a 1,800-acre lake for fishing, boating, and swimming.",
+                "description": "Branched Oak State Recreation Area offers a variety of outdoor activities for visitors to enjoy, including boating, fishing, hiking, and camping. With over 1,800 acres of water to explore, the lake is perfect for water sports enthusiasts and anglers looking to catch a variety of fish species. The area also features several picnic areas and shelters, making it a great spot for a family outing or gathering with friends. Wildlife enthusiasts will appreciate the diverse ecosystem surrounding Branched Oak, home to various bird species, including bald eagles, and other native wildlife. Whether you're looking for a relaxing day by the water or an adventurous outdoor experience, Branched Oak has something to offer for every visitor.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Branched%20Oak"
+            },
+            {
+                "name": "Bridgeport",
+                "url": "https://outdoornebraska.gov/location/bridgeport/",
+                "content": "Bridgeport is a small town in western Nebraska with a variety of outdoor recreational opportunities including fishing, hunting, and bird-watching.",
+                "description": "Bridgeport is a charming small town located on the western edge of Nebraska, near the Wyoming border. Visitors to Bridgeport can enjoy a variety of outdoor activities, such as fishing, boating, hiking, and birdwatching at nearby Bridgeport State Recreation Area. The area is known for its stunning scenery, including the picturesque North Platte River. History enthusiasts will appreciate the town's historic architecture, including the beautifully preserved 1916 Kincaid Bridge, which is listed on the National Register of Historic Places. Bridgeport is also home to several unique shops, restaurants, and cultural attractions, making it a perfect destination for a weekend getaway.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bridgeport"
+            },
+            {
+                "name": "Buffalo Bill",
+                "url": "https://outdoornebraska.gov/location/buffalo-bill/",
+                "content": "Buffalo Bill State Historical Park in North Platte pays tribute to the life and legacy of famous Wild West showman, Buffalo Bill Cody.",
+                "description": "Buffalo Bill State Recreation Area is located near North Platte, Nebraska, and is named after the famous Wild West showman, Buffalo Bill Cody. Visitors can enjoy a variety of outdoor activities at the park, including fishing, boating, camping, and birdwatching. The park encompasses over 5,000 acres of land, with a large reservoir that is a popular spot for water sports. Buffalo Bill State Recreation Area also offers several hiking and biking trails for visitors to explore the natural beauty of the area. Whether you are looking for a relaxing weekend getaway or an adventurous outdoor experience, Buffalo Bill State Recreation Area has something for everyone.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buffalo%20Bill"
+            },
+            {
+                "name": "Buffalo Bill Ranch",
+                "url": "https://outdoornebraska.gov/location/buffalo-bill-ranch/",
+                "content": "Buffalo Bill Ranch State Historical Park showcases the former home and ranch of Wild West showman Buffalo Bill Cody.",
+                "description": "Visit the historic Buffalo Bill Ranch in North Platte, Nebraska, once owned by the famous Wild West showman Buffalo Bill Cody. Step inside the beautifully preserved mansion, where you can explore the rooms filled with original furnishings and artifacts from the late 1800s. Take a stroll through the surrounding grounds, which feature a barn, bunkhouse, and stunning views of the Platte River Valley. Don't miss the chance to see a live performance at the outdoor amphitheater, where cowboys and cowgirls showcase their skills in roping, shooting, and riding. The ranch offers a fascinating glimpse into the life of one of America's most legendary figures.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buffalo%20Bill%20Ranch"
+            },
+            {
+                "name": "Calamus Reservoir",
+                "url": "https://outdoornebraska.gov/location/calamus-reservoir/",
+                "content": "Calamus Reservoir is one of Nebraska's top fishing spots, known for its clear waters and abundant walleye population.",
+                "description": "Calamus Reservoir is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as fishing, boating, hiking, and camping. The reservoir is located in the scenic Sandhills region of Nebraska, providing visitors with stunning views of the rolling hills and crystal-clear waters. Anglers can try their luck at catching a variety of fish species, including walleye, northern pike, and channel catfish. The area is also home to a diverse array of wildlife, making it a great spot for birdwatching and wildlife photography. Whether you're looking to relax on the water or explore the surrounding wilderness, Calamus Reservoir has something for everyone to enjoy.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Calamus%20Reservoir"
+            },
+            {
+                "name": "Chadron",
+                "url": "https://outdoornebraska.gov/location/chadron/",
+                "content": "The Chadron representative is a welcoming and knowledgeable resource for outdoor activities in Nebraska.",
+                "description": "Chadron State Park is a beautiful destination in the Pine Ridge region of northwest Nebraska. Visitors can explore its rugged terrain and sweeping views by taking a hike on one of the park's many trails, such as the Ridge Line Trail or the Prairie View Trail. The park is also a great spot for camping, with both tent and RV sites available. For those interested in wildlife viewing, Chadron State Park is home to a variety of animals, including deer, turkeys, and even the occasional mountain lion. Whether you're looking for outdoor adventure or simply a peaceful retreat in nature, Chadron State Park offers something for everyone.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chadron"
+            },
+            {
+                "name": "Cheyenne",
+                "url": "https://outdoornebraska.gov/location/cheyenne/",
+                "content": "The Cheyenne State Recreation Area representative is a great resource for information on camping, fishing and outdoor activities at this beautiful Nebraska park.",
+                "description": "Cheyenne State Recreation Area is a popular destination for outdoor enthusiasts in Nebraska, offering a variety of recreational activities for visitors to enjoy. The 2,400-acre reservoir provides excellent opportunities for boating, fishing, and swimming, with a designated swimming area and boat ramp available for easy access. The area is also ideal for picnicking and wildlife viewing, with a diverse range of plant and animal species to observe. Visitors can explore the surrounding trails for hiking and biking, or simply relax and take in the picturesque views of the lake and surrounding countryside. Whether you're looking for a day of adventure or a peaceful retreat in nature, Cheyenne State Recreation Area has something for everyone to enjoy.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cheyenne"
+            },
+            {
+                "name": "Conestoga",
+                "url": "https://outdoornebraska.gov/location/conestoga/",
+                "content": "The Conestoga State Recreation Area offers a peaceful getaway with fishing, boating, and camping opportunities in eastern Nebraska.",
+                "description": "Conestoga Lake State Recreation Area offers visitors a serene retreat with its 230-acre lake surrounded by scenic woodlands. Boating and fishing are popular activities at the lake, with a variety of fish including largemouth bass, bluegill, and channel catfish. The park also features hiking trails, picnic areas, and a swimming beach, making it the perfect spot for a day of outdoor adventure. Wildlife enthusiasts will enjoy the chance to spot deer, wild turkeys, and various bird species in the surrounding natural habitat. Campers can stay overnight at one of the park's RV or tent camping sites, providing a peaceful and immersive experience in the great outdoors.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Conestoga"
+            },
+            {
+                "name": "Cottonwood Lake",
+                "url": "https://outdoornebraska.gov/location/cottonwood-lake/",
+                "content": "Cottonwood Lake is a serene and picturesque 60-acre lake located in the Sandhills region of Nebraska, perfect for fishing and bird watching.",
+                "description": "Cottonwood Lake is a hidden gem nestled in a serene and peaceful environment, surrounded by lush greenery and wildlife. The lake provides a perfect setting for fishing enthusiasts, with an abundance of various fish species including bass, bluegill, and catfish. Visitors can also enjoy canoeing and kayaking on the calm waters, or simply relax and unwind on the sandy beach area. The picturesque scenery and tranquil atmosphere make Cottonwood Lake an ideal destination for nature lovers looking to escape the hustle and bustle of city life. Don't forget to pack a picnic and spend the day soaking in the beauty of this idyllic lake.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cottonwood%20Lake"
+            },
+            {
+                "name": "Danish Alps",
+                "url": "https://outdoornebraska.gov/location/danish-alps/",
+                "content": "The Danish Alps is a tranquil 150-acre park offering hiking trails, fishing ponds, and camping opportunities in northeastern Nebraska.",
+                "description": "The Danish Alps in Nebraska offers a unique landscape with rolling hills and scenic views that resemble the mountains of Denmark.\nVisitors can enjoy a variety of outdoor activities such as hiking, biking, fishing, and bird watching in this serene and picturesque setting.\nThe park also features a beautiful lake where guests can kayak, paddleboard, or swim during the warmer months.\nNature enthusiasts will appreciate the diverse wildlife and vegetation found throughout the park, providing plenty of opportunities for exploration and wildlife spotting.\nWhether you're looking for a peaceful retreat or an active adventure, the Danish Alps is a hidden gem in Nebraska that offers something for every visitor to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Danish%20Alps"
+            },
+            {
+                "name": "Dead Timber",
+                "url": "https://outdoornebraska.gov/location/dead-timber/",
+                "content": "Dead Timber is a 200-acre public hunting area located in Clay County, Nebraska, offering hunting opportunities for deer, turkey, and upland game birds.",
+                "description": "Dead Timber is a picturesque recreation area located in the heart of the Sandhills region of Nebraska. Visitors can enjoy camping, fishing, hiking, and birdwatching in this tranquil setting surrounded by beautiful pine forests and lush meadows. The area is known for its excellent fishing opportunities, with trout and catfish being popular catches in the stocked ponds and nearby Middle Loup River. Wildlife enthusiasts will also be delighted by the abundance of bird species that call Dead Timber home, including bald eagles, sandhill cranes, and a variety of songbirds. Whether you're looking for a relaxing weekend getaway or an outdoor adventure, Dead Timber offers something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dead%20Timber"
+            },
+            {
+                "name": "Enders Reservoir",
+                "url": "https://outdoornebraska.gov/location/enders-reservoir/",
+                "content": "Enders Reservoir State Recreation Area is a popular spot for camping, fishing, boating and picnicking in Southwest Nebraska.",
+                "description": "Enders Reservoir is a popular destination for outdoor enthusiasts, offering a wide range of recreational activities including fishing, boating, camping, and wildlife viewing. Anglers can catch a variety of fish in the reservoir, including walleye, catfish, and bass, making it a great spot for fishing enthusiasts of all skill levels. The reservoir is surrounded by beautiful scenery, with opportunities for hiking and birdwatching along the shoreline. Visitors can also enjoy picnicking and swimming at designated areas within the park. With its peaceful atmosphere and abundance of outdoor activities, Enders Reservoir is a fantastic destination for a weekend getaway or a day trip.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Enders%20Reservoir"
+            },
+            {
+                "name": "Eugene T. Mahoney",
+                "url": "https://outdoornebraska.gov/location/eugene-t-mahoney/",
+                "content": "Eugene T. Mahoney State Park is a popular outdoor recreation destination in Nebraska offering a variety of activities including hiking, fishing, and camping.",
+                "description": "Eugene T. Mahoney State Park, located in Nebraska, offers visitors a wide range of recreational activities and amenities to enjoy. The park features a picturesque 70-foot tall observation tower that provides stunning views of the Platte River valley. Visitors can also explore the park's scenic hiking and biking trails, or relax on the sandy beach by the park's swimming pool and water slides. Additionally, Eugene T. Mahoney State Park features a variety of lodging options, from cabins and RV campsites to a picturesque lodge with modern amenities. With its beautiful natural surroundings and abundance of activities, Eugene T. Mahoney State Park is a popular destination for outdoor enthusiasts and families alike.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eugene%20T.%20Mahoney"
+            },
+            {
+                "name": "Fort Atkinson",
+                "url": "https://outdoornebraska.gov/location/fort-atkinson/",
+                "content": "Fort Atkinson State Historical Park in Nebraska is the site of an 1800s military outpost overlooking the Missouri River, offering visitors a glimpse into frontier life.",
+                "description": "Fort Atkinson State Historical Park, located in Fort Calhoun, Nebraska, offers visitors a glimpse into the life of early 19th-century military personnel. The reconstructed fort features a visitor center with exhibits detailing the history of the fort and the role it played in westward expansion. Visitors can explore the barracks, blockhouses, and other period buildings, as well as interact with reenactors who bring the fort to life. The park also offers hiking and biking trails, picnic areas, and a campground for overnight stays. History enthusiasts and families alike will enjoy stepping back in time at Fort Atkinson State Historical Park.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Atkinson"
+            },
+            {
+                "name": "Fort Hartsuff",
+                "url": "https://outdoornebraska.gov/location/fort-hartsuff/",
+                "content": "Fort Hartsuff is a well-preserved 19th-century military outpost in Nebraska that offers visitors a glimpse into frontier life.",
+                "description": "Fort Hartsuff is a well-preserved historic military outpost in Nebraska that was established in 1874 to protect settlers and travelers along the Loup River. Visitors can explore the original buildings on site, including the officers' quarters, barracks, and stables, giving them a glimpse into life on the frontier during the late 19th century. The fort offers guided tours and living history demonstrations, allowing visitors to learn about the daily routines and activities of the soldiers stationed there. Additionally, the surrounding grounds provide opportunities for picnicking, hiking, and birdwatching, making it a great destination for outdoor enthusiasts. Fort Hartsuff is a must-see attraction for history buffs and anyone interested in experiencing a piece of Nebraska's past.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Hartsuff"
+            },
+            {
+                "name": "Fort Kearny",
+                "url": "https://outdoornebraska.gov/location/fort-kearny-sra/",
+                "content": "Fort Kearny State Recreation Area offers camping, fishing, hiking, and wildlife viewing in a historic setting along the Platte River.",
+                "description": "Fort Kearny State Recreation Area is located along the Platte River, where visitors can enjoy a variety of outdoor activities such as fishing, hiking, and birdwatching. The area was originally established as a stop along the Oregon Trail and later served as a fort during the Indian Wars of the 1860s. Visitors can explore the reconstructed fort buildings, including the stockade and blockhouse, to get a glimpse of what life was like for early settlers and soldiers. The park offers several campsites for those looking to stay overnight and immerse themselves in the natural beauty of the area. Be sure to keep an eye out for wildlife such as deer, turkeys, and bald eagles while visiting Fort Kearny State Recreation Area.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Kearny"
+            },
+            {
+                "name": "Fort Robinson",
+                "url": "https://outdoornebraska.gov/location/fort-robinson/",
+                "content": "Fort Robinson State Park in Nebraska was once a military outpost and now offers visitors historical sites, outdoor activities, and lodging options.",
+                "description": "Fort Robinson State Park in Nebraska was once a US Army fort established in the late 1800s to protect settlers and supply troops during the Indian Wars. Today, visitors can explore the historic buildings, including the officers' quarters, barracks, and stables. The park also offers a wide range of outdoor activities, such as hiking, biking, fishing, and wildlife viewing. One of the most popular attractions is the annual Buffalo Soldiers Weekend, which celebrates the history and contributions of African American soldiers who served at the fort. Don't miss the chance to stay in one of the renovated historic buildings or campgrounds for a truly unique experience.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Robinson"
+            },
+            {
+                "name": "Fremont Lakes",
+                "url": "https://outdoornebraska.gov/location/fremont-lakes/",
+                "content": "The Fremont Lakes State Recreation Area offers a variety of outdoor activities including fishing, boating, camping, and hiking.",
+                "description": "1. Fremont Lakes State Recreation Area is a popular destination for outdoor enthusiasts, offering a series of sandpit lakes perfect for boating, fishing, swimming, and camping.\n\n2. With over 40 picnic areas and shelters, visitors can enjoy a peaceful meal surrounded by the beauty of the lakes while taking in breathtaking views of the surrounding area.\n\n3. Anglers will be pleased to know that Fremont Lakes are stocked with a variety of fish species, including largemouth bass, bluegill, crappie, and catfish, providing ample opportunities for a successful day of fishing.\n\n4. For those seeking a more adventurous experience, the recreation area offers hiking and biking trails, as well as opportunities for bird watching and wildlife viewing in a natural setting.\n\n5. Whether you come to relax by the water, explore the great outdoors, or enjoy water sports activities, Fremont Lakes State Recreation Area offers something for everyone to enjoy and make lasting memories.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fremont%20Lakes"
+            },
+            {
+                "name": "Gallagher Canyon",
+                "url": "https://outdoornebraska.gov/location/gallagher-canyon/",
+                "content": "Gallagher Canyon is a state recreation area located near Eustis, Nebraska, offering camping, boating, fishing, and hiking opportunities along the beautiful 400-acre Gallagher Canyon Lake.",
+                "description": "Gallagher Canyon is a picturesque recreation area located near Lake McConaughy in western Nebraska, offering stunning views and a tranquil atmosphere for visitors to enjoy. The canyon is surrounded by rugged hills and cliffs, making it the perfect spot for hiking, bird-watching, and photography.\n\nVisitors can also take advantage of the campground and picnic areas at Gallagher Canyon, providing a convenient and comfortable place to relax and enjoy the great outdoors. Anglers will appreciate the fishing opportunities in the nearby lake, while water sports enthusiasts can partake in activities like boating and swimming.\n\nThe canyon is home to a variety of wildlife, including deer, turkey, and other small game, making it an ideal destination for nature lovers and wildlife enthusiasts. With its unique combination of natural beauty and recreational opportunities, Gallagher Canyon is a must-visit destination for outdoor enthusiasts in Nebraska.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gallagher%20Canyon"
+            },
+            {
+                "name": "Indian Cave",
+                "url": "https://outdoornebraska.gov/location/indian-cave/",
+                "content": "Indian Cave State Park in Nebraska is a picturesque park known for its abundant wildlife, scenic overlooks, and the historic sandstone cave where various Native American artifacts have been found.",
+                "description": "Indian Cave State Park is a popular destination for outdoor enthusiasts in Nebraska, featuring towering limestone bluffs and scenic overlooks of the Missouri River. The park offers a variety of hiking trails, including the 26-mile wooded Ridge Trail, which winds through dense forests and rock formations. Visitors can explore the park's namesake cave, which contains ancient petroglyphs and pictographs created by Native American tribes. The area is rich in history, with evidence of prehistoric habitation dating back thousands of years. In addition to hiking, visitors can enjoy picnicking, camping, and wildlife watching in this beautiful and peaceful natural setting.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Indian%20Cave"
+            },
+            {
+                "name": "Johnson Lake",
+                "url": "https://outdoornebraska.gov/location/johnson-lake/",
+                "content": "Johnson Lake is a popular reservoir in central Nebraska known for its excellent fishing and recreational opportunities.",
+                "description": "Johnson Lake is a popular destination for water lovers, offering thrilling fishing opportunities for walleye, white bass, and catfish. Visitors can explore the 2,068-acre lake by boat, kayak, or paddleboard, taking in the scenic views of the surrounding sandhill prairies and wooded shores. The lake also boasts multiple sandy beaches perfect for swimming and sunbathing, making it an ideal spot for a relaxing day in the sun. For those looking to stay longer, Johnson Lake State Recreation Area offers camping facilities, picnic areas, and hiking trails for a complete outdoor experience. Whether you're seeking adventure on the water or a peaceful retreat in nature, Johnson Lake has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Johnson%20Lake"
+            },
+            {
+                "name": "Keller Park",
+                "url": "https://outdoornebraska.gov/location/keller-park/",
+                "content": "Keller Park offers a peaceful retreat with a scenic lake for fishing, picnic areas, and hiking trails for outdoor enthusiasts to enjoy.",
+                "description": "Keller Park is a hidden gem located in the heart of the Sandhills in Nebraska, offering visitors a peaceful retreat surrounded by pristine nature. The park features two beautiful lakes where visitors can enjoy fishing, kayaking, and wildlife watching. With over ten miles of hiking trails, guests can explore the diverse flora and fauna that call the park home. The park also boasts excellent camping and picnicking areas, making it the perfect destination for a weekend getaway with family and friends. Whether you're seeking adventure or relaxation, Keller Park offers something for everyone to enjoy in a tranquil and scenic setting.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Keller%20Park"
+            },
+            {
+                "name": "Lake Maloney",
+                "url": "https://outdoornebraska.gov/location/lake-maloney/",
+                "content": "Lake Maloney is a popular destination for outdoor recreation, offering fishing, boating, and camping opportunities in a scenic setting.",
+                "description": "Lake Maloney is a popular recreation area located just south of North Platte, Nebraska. The 1,600-acre lake offers excellent fishing opportunities for anglers, with catches including bass, walleye, and catfish. Visitors can also take advantage of the sandy beaches for swimming and sunbathing, as well as picnic areas and campsites for a day of relaxation.\n\nThe lake is surrounded by beautiful scenery and is a great spot for bird watching, with various species of waterfowl and birds of prey frequenting the area. For those looking to stay active, Lake Maloney has hiking and biking trails that provide stunning views of the water and surrounding landscape. Whether you're a nature enthusiast, a fishing fanatic, or just looking for a peaceful escape, Lake Maloney offers something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Maloney"
+            },
+            {
+                "name": "Lake McConaughy",
+                "url": "https://outdoornebraska.gov/location/lake-mcconaughy/",
+                "content": "Lake McConaughy is Nebraska's largest reservoir and a popular destination for fishing, boating, camping, and water sports.",
+                "description": "Lake McConaughy is Nebraska's largest reservoir, offering 35,700 acres of crystal-clear water surrounded by white sand beaches. The lake is a popular destination for boating, fishing, camping, and swimming, with plenty of opportunities for outdoor recreation. Visitors can also enjoy birdwatching, as the lake is home to a variety of waterfowl and migratory birds. The nearby Lake McConaughy State Recreation Area offers camping and picnicking facilities, as well as hiking and biking trails for visitors to explore. Overall, Lake McConaughy is a beautiful and serene destination for those looking to escape the hustle and bustle of city life.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20McConaughy"
+            },
+            {
+                "name": "Lake Minatare",
+                "url": "https://outdoornebraska.gov/location/lake-minatare/",
+                "content": "Lake Minatare is a beautiful 2,158-acre reservoir located in western Nebraska, offering outdoor activities such as fishing, boating, and swimming.",
+                "description": "Lake Minatare is a hidden gem in western Nebraska, offering visitors a serene escape surrounded by stunning natural beauty. The lake covers 2,158 acres and is a popular spot for fishing, with plenty of opportunities to catch catfish, walleye, and bass. Visitors can also enjoy boating, kayaking, and paddleboarding on the calm waters of the lake. The area is home to a variety of bird species, making it a great spot for birdwatching enthusiasts. With picnic areas, campsites, and hiking trails, Lake Minatare is the perfect destination for outdoor enthusiasts looking to relax and reconnect with nature.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Minatare"
+            },
+            {
+                "name": "Lake Ogallala",
+                "url": "https://outdoornebraska.gov/location/lake-ogallala/",
+                "content": "Lake Ogallala is a 320-acre artificial lake located in Keith County, Nebraska, providing opportunities for boating, fishing, and picnicking.",
+                "description": "Lake Ogallala is a hidden gem located in western Nebraska, boasting crystal-clear waters and stunning panoramic views of the surrounding bluffs. Visitors can enjoy a variety of activities such as kayaking, fishing, hiking, and picnicking along the sandy shores. The lake is a popular spot for birdwatching, with a plethora of species including bald eagles, pelicans, and various waterfowl calling the area home. Travelers can also explore the nearby Lake Ogallala State Recreation Area, which offers camping facilities, hiking trails, and even a public shooting range. Whether you're seeking a peaceful retreat or an adventure-filled getaway, Lake Ogallala has something for every nature enthusiast to enjoy.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Ogallala"
+            },
+            {
+                "name": "Lewis and Clark",
+                "url": "https://outdoornebraska.gov/location/lewis-and-clark/",
+                "content": "The Lewis and Clark State Recreation Area in Nebraska offers a variety of outdoor recreational activities including camping, fishing, and hiking along the Missouri River.",
+                "description": "At Nebraska's Lewis and Clark State Recreation Area, visitors can explore the historic route taken by the famous explorers. The park features interpretive displays and markers that showcase the expedition's journey through the area. Visitors can hike along the Missouri River and imagine what it was like for Lewis and Clark over 200 years ago. In addition to the historical significance, the park offers excellent opportunities for fishing, boating, and camping. Whether you're a history buff or an outdoor enthusiast, Lewis and Clark State Recreation Area has something for everyone to enjoy.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lewis%20and%20Clark"
+            },
+            {
+                "name": "Long Pine",
+                "url": "https://outdoornebraska.gov/location/long-pine/",
+                "content": "Long Pine State Recreation Area is a peaceful and scenic destination perfect for camping, fishing, and other outdoor activities surrounded by towering pine trees.",
+                "description": "Long Pine State Recreation Area is a popular destination for outdoor enthusiasts looking to camp, fish, hike, and enjoy the beautiful pine forests of Nebraska. The area features a picturesque 30-acre lake perfect for boating and fishing for bass, catfish, and bluegill. Visitors can explore the scenic trails that wind through the pine trees, offering stunning views of the surrounding landscape. The campground at Long Pine offers both primitive and electric sites, making it a great spot for a weekend getaway. With its tranquil setting and abundance of recreational activities, Long Pine State Recreation Area is a must-visit destination for nature lovers in Nebraska.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Long%20Pine"
+            },
+            {
+                "name": "Louisville",
+                "url": "https://outdoornebraska.gov/location/louisville/",
+                "content": "This Louisville representative is a vibrant community with plenty of outdoor activities to enjoy in Nebraska.",
+                "description": "Louisville is a charming town located in Cass County, Nebraska, known for its scenic beauty and outdoor recreational opportunities. Visitors can explore the Louisville State Recreation Area, which offers a picturesque setting for hiking, fishing, and birdwatching. The town is also home to a historic downtown area with quaint shops, cafes, and galleries, making it a great spot for leisurely strolls and shopping. Louisville hosts various events and festivals throughout the year, including the popular Louisville Dazzer Days celebration, which features live music, food vendors, and family-friendly activities. Whether you're looking to reconnect with nature or immerse yourself in small-town charm, Louisville offers a delightful escape for visitors of all ages.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Louisville"
+            },
+            {
+                "name": "Medicine Creek",
+                "url": "https://outdoornebraska.gov/location/medicine-creek/",
+                "content": "Medicine Creek State Recreation Area offers a variety of outdoor activities including fishing, boating, camping, and hiking in a scenic setting.",
+                "description": "Medicine Creek Reservoir State Recreation Area is a peaceful getaway located in southwest Nebraska. The reservoir offers visitors the opportunity to fish, boat, and camp in a scenic setting surrounded by rolling hills and prairie grasslands. The area is known for its excellent walleye and crappie fishing, making it a popular spot for anglers of all skill levels. Wildlife enthusiasts can also enjoy bird watching and observing the abundant wildlife that call the area home. With its tranquil atmosphere and stunning natural beauty, Medicine Creek Reservoir State Recreation Area is the perfect destination for a relaxing outdoor adventure.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Medicine%20Creek"
+            },
+            {
+                "name": "Memphis",
+                "url": "https://outdoornebraska.gov/location/memphis/",
+                "content": "The town of Memphis, Nebraska, is a small and charming community located near the Platte River, offering a tranquil and picturesque setting for residents and visitors alike.",
+                "description": "Memphis State Recreation Area in Nebraska offers visitors a peaceful and serene setting for outdoor activities such as fishing, boating, and hiking. The 163-acre lake is stocked with a variety of fish, making it an ideal spot for anglers of all skill levels. The park also features picnic areas, playgrounds, and camping facilities, perfect for families looking to spend a weekend in nature. Birdwatchers will appreciate the diverse wildlife found in the area, including bald eagles and great blue herons. With its beautiful scenery and abundance of recreational opportunities, Memphis State Recreation Area is a must-visit destination for outdoor enthusiasts in Nebraska.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Memphis"
+            },
+            {
+                "name": "Merritt Reservoir",
+                "url": "https://outdoornebraska.gov/location/merritt-reservoir/",
+                "content": "Merritt Reservoir is a large, scenic lake in Nebraska known for its excellent fishing opportunities and beautiful sandy beaches.",
+                "description": "Merritt Reservoir is a popular outdoor destination located in Valentine, Nebraska that offers visitors a variety of recreational activities such as camping, boating, fishing, and hiking. With over 3,000 acres of clear water, anglers flock to Merritt Reservoir in the hopes of catching walleye, northern pike, and largemouth bass. The surrounding pine-covered hills provide a picturesque backdrop for camping and picnicking, making it an ideal spot for nature enthusiasts. Visitors can also explore the numerous hiking and biking trails that wind through the area, offering opportunities to spot local wildlife such as deer, eagles, and wild turkeys. Whether you're looking to relax by the water or embark on an outdoor adventure, Merritt Reservoir has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Merritt%20Reservoir"
+            },
+            {
+                "name": "Mormon Island",
+                "url": "https://outdoornebraska.gov/location/mormon-island/",
+                "content": "Mormon Island State Recreation Area is a popular spot for camping, fishing, boating, and swimming along the Platte River near Grand Island.",
+                "description": "Mormon Island was once a bustling supply post along the Oregon Trail, serving as a vital rest stop for weary travelers heading westward.\nToday, visitors can explore the historic site and learn about the pioneers who passed through this area.\nThe island offers a variety of recreational activities, including hiking trails, fishing, and birdwatching.\nVisitors can also enjoy picnicking and camping on the scenic island, surrounded by the Platte River.\nMormon Island provides a unique glimpse into the past while offering modern amenities for outdoor enthusiasts to enjoy.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mormon%20Island"
+            },
+            {
+                "name": "Niobrara",
+                "url": "https://outdoornebraska.gov/location/niobrara/",
+                "content": "Niobrara State Park in Nebraska is represented by its stunning Niobrara River, offering visitors opportunities for fishing, tubing, and wildlife viewing.",
+                "description": "The Niobrara River, located in northern Nebraska, offers visitors a unique and picturesque outdoor experience. With crystal clear water and stunning rock formations, the river provides the perfect setting for kayaking, canoeing, and tubing adventures. The surrounding Niobrara State Park offers camping and hiking opportunities, allowing visitors to immerse themselves in the beauty of the area. Birdwatchers will also appreciate the abundance of wildlife, including bald eagles, beavers, and various species of songbirds that call the Niobrara home. Whether you're looking for a relaxing float down the river or an active day of exploring, the Niobrara is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Niobrara"
+            },
+            {
+                "name": "North Loup",
+                "url": "https://outdoornebraska.gov/location/north-loup/",
+                "content": "The North Loup representative is dedicated to preserving and promoting outdoor recreation in the North Loup area.",
+                "description": "North Loup is a charming small town in Nebraska known for its scenic beauty and outdoor recreational opportunities. Visitors to North Loup can enjoy exploring the beautiful Loup River, which offers excellent fishing, kayaking, and tubing opportunities. The town also boasts a number of picturesque hiking trails, perfect for taking in the stunning natural surroundings. Be sure to visit the historic downtown area, where you can browse quaint shops and sample delicious local cuisine. With its peaceful atmosphere and stunning views, North Loup is the perfect destination for nature lovers and outdoor enthusiasts looking to escape the hustle and bustle of city life.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Loup"
+            },
+            {
+                "name": "Olive Creek",
+                "url": "https://outdoornebraska.gov/location/olive-creek/",
+                "content": "Olive Creek is a picturesque outdoor recreation area in Nebraska with diverse wildlife, fishing opportunities, and scenic hiking trails.",
+                "description": "Olive Creek State Recreation Area offers visitors a peaceful and scenic escape from the hustle and bustle of city life. The meandering Olive Creek provides opportunities for fishing and wildlife viewing, with the chance to spot birds such as eagles, herons, and ducks. Visitors can also explore the area on foot with hiking trails that wind through the surrounding woodlands and prairies. The serene setting makes Olive Creek a perfect spot for picnicking or camping, with several designated sites available for overnight stays. Whether you're looking to relax by the water or explore the great outdoors, Olive Creek State Recreation Area promises a tranquil and rejuvenating experience for all.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Olive%20Creek"
+            },
+            {
+                "name": "Pawnee",
+                "url": "https://outdoornebraska.gov/location/pawnee/",
+                "content": "Alexa Beatrice is the Pawnee State Recreation Area manager.",
+                "description": "Pawnee State Recreation Area is a hidden gem located on the banks of the Missouri River in Nebraska. Visitors can enjoy a variety of outdoor activities such as fishing, boating, hiking, and camping. The area offers stunning views of the river and surrounding bluffs, making it a tranquil and picturesque destination for nature lovers. History buffs will be fascinated to learn that the park sits on the site of a former Pawnee Indian village, offering a glimpse into the rich cultural heritage of the region. With its peaceful atmosphere and abundant wildlife, Pawnee State Recreation Area is the perfect place to escape the hustle and bustle of city life and immerse yourself in the beauty of the natural world.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pawnee"
+            },
+            {
+                "name": "Pelican Point",
+                "url": "https://outdoornebraska.gov/location/pelican-point/",
+                "content": "Pelican Point is a scenic spot located at Lewis and Clark State Recreation Area, offering beautiful views of the Missouri River and a variety of outdoor activities.",
+                "description": "Pelican Point is a scenic area located within Lake McConaughy State Recreation Area in Nebraska. Visitors can enjoy stunning views of the lake and surrounding sand dunes from this point.\n\nThe area is a popular spot for birdwatching, as pelicans and other waterfowl can often be spotted in the area. Bring your binoculars and camera to capture the diverse array of bird species that call Pelican Point home.\n\nFor those looking to get out on the water, Pelican Point offers a boat ramp for easy access to Lake McConaughy. Cast your line for a chance to reel in walleye, catfish, or even rainbow trout.\n\nHikers will also enjoy exploring the trails that wind through the sand dunes near Pelican Point. Be sure to bring plenty of water and sunscreen as you explore this unique and beautiful landscape.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pelican%20Point"
+            },
+            {
+                "name": "Platte River",
+                "url": "https://outdoornebraska.gov/location/platte-river/",
+                "content": "The Platte River is a natural waterway in Nebraska that provides habitat for birds and wildlife.",
+                "description": "The Platte River is a picturesque and serene river that flows through central Nebraska, offering visitors the perfect opportunity to explore nature and unwind.\n\nVisitors can enjoy a variety of recreational activities along the Platte River, including fishing, kayaking, canoeing, and bird watching. The river is home to a diverse array of wildlife, including bald eagles, sandhill cranes, and deer.\n\nOne of the most popular attractions along the Platte River is the annual sandhill crane migration, where thousands of cranes gather along the riverbanks in the spring and fall. This natural spectacle attracts birdwatchers and nature enthusiasts from around the world.\n\nThe Platte River also offers several campgrounds and hiking trails for visitors to enjoy, making it the perfect destination for outdoor enthusiasts looking to connect with nature.\n\nWhether you're seeking adventure or simply looking to relax and soak in the beauty of the great outdoors, the Platte River is a must-visit destination for anyone traveling through Nebraska.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Platte%20River"
+            },
+            {
+                "name": "Ponca",
+                "url": "https://outdoornebraska.gov/location/ponca/",
+                "content": "The Ponca State Park representative is dedicated to preserving and promoting the natural beauty and outdoor recreational opportunities offered at Ponca State Park.",
+                "description": "Ponca State Park, located in northeastern Nebraska along the picturesque Missouri River, offers visitors a variety of outdoor activities to explore. With over 22 miles of hiking trails winding through scenic forests and bluffs, hikers can enjoy breathtaking views of the river valley and surrounding countryside. Wildlife enthusiasts will be delighted to discover the park's diverse ecosystem, home to a wide array of plants and animals, including white-tailed deer, wild turkeys, and bald eagles.\n\nFor those looking to cool off during the summer months, the park features a swimming pool and an aquatic center with a waterslide, making it the perfect destination for families and water enthusiasts. Additionally, the park offers opportunities for canoeing, kayaking, and fishing along the river, allowing visitors to experience the beauty of the waterway up close. Whether you're seeking adventure or relaxation, Ponca State Park has something for everyone to enjoy in the great outdoors.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ponca"
+            },
+            {
+                "name": "Red Willow Reservoir",
+                "url": "https://outdoornebraska.gov/location/red-willow-reservoir/",
+                "content": "Red Willow Reservoir is a popular destination for fishing, boating, and camping located in southwest Nebraska.",
+                "description": "Red Willow Reservoir is a hidden gem in the Nebraska Southwest region, offering visitors a peaceful and scenic escape surrounded by rolling hills and lush vegetation.\n\nThis popular fishing destination is home to a variety of fish species, including walleye, crappie, and catfish, making it a perfect spot for anglers of all levels to cast their lines and try their luck.\n\nVisitors can explore the reservoir's crystal-clear waters by kayak or canoe, or take a leisurely hike along the many trails that wind through the surrounding forests and grasslands.\n\nFor those looking to extend their stay, Red Willow Reservoir offers camping facilities with both tent and RV sites, as well as modern amenities such as restrooms, showers, and a boat ramp for easy access to the water.\n\nWhether you're seeking a relaxing weekend getaway or an outdoor adventure, Red Willow Reservoir has something for everyone to enjoy in the heart of Nebraska's beautiful countryside.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Red%20Willow%20Reservoir"
+            },
+            {
+                "name": "Riverview Marina",
+                "url": "https://outdoornebraska.gov/location/riverview-marina/",
+                "content": "Riverview Marina offers a peaceful setting on the Missouri River for boating, fishing, and picnicking.",
+                "description": "Riverview Marina is a charming destination nestled along the banks of the Missouri River in Nebraska. Visitors can enjoy stunning views of the river and surrounding nature while exploring the marina's docks and walking paths. Boating enthusiasts will appreciate the convenient boat ramp and dock rentals available for a day out on the water. The marina also offers a cozy campground for those looking to extend their stay and immerse themselves in the peaceful waterfront setting. With abundant fishing opportunities and nearby hiking trails, Riverview Marina is a perfect escape for outdoor enthusiasts seeking a tranquil retreat.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Riverview%20Marina"
+            },
+            {
+                "name": "Rock Creek",
+                "url": "https://outdoornebraska.gov/location/rock-creek/",
+                "content": "Rock Creek State Recreation Area offers fishing, boating, camping, and hiking opportunities in a scenic setting.",
+                "description": "Rock Creek is a beautiful outdoor recreation area located in southeastern Nebraska near the town of Parks. Visitors can enjoy a variety of activities such as fishing, hiking, picnicking, and wildlife viewing. The creek itself offers excellent fishing opportunities for species such as catfish, bluegill, and bass. The area is also known for its scenic hiking trails that wind through the hills and along the creek, providing stunning views of the surrounding landscape. With its peaceful atmosphere and abundance of outdoor activities, Rock Creek is a popular destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rock%20Creek"
+            },
+            {
+                "name": "Rock Creek Station",
+                "url": "https://outdoornebraska.gov/location/rock-creek-station-sra/",
+                "content": "Rock Creek Station State Recreation Area offers camping, fishing, and hiking opportunities in a historic setting on the Oregon Trail in Fairbury, Nebraska.",
+                "description": "1. Rock Creek Station State Recreation Area in Nebraska was once a major Pony Express station and later a frontier town in the 1860s, serving as a popular stop for travelers heading west.\n\n2. Visitors can explore the historic buildings that have been restored to their original 1860s appearance, including a blacksmith shop, post office, and the infamous Rock Creek Stage Station where the infamous James-Younger Gang robbed a bank in 1867.\n\n3. Outdoor enthusiasts will love the various activities available at Rock Creek Station, such as hiking, fishing, picnicking, and camping along the scenic Spring Creek.\n\n4. The area is also home to a diverse range of wildlife, making it a great spot for birdwatching and wildlife viewing, with the chance to spot deer, turkeys, and other native species.\n\n5. History buffs, nature lovers, and outdoor adventurers alike will enjoy a visit to Rock Creek Station State Recreation Area, where the past comes alive and the natural beauty of Nebraska can be fully appreciated.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rock%20Creek%20Station"
+            },
+            {
+                "name": "Rockford Lake",
+                "url": "https://outdoornebraska.gov/location/rockford-lake/",
+                "content": "Rockford Lake is a popular fishing destination in Gage County, Nebraska, known for its scenic views and abundant wildlife.",
+                "description": "Rockford Lake is a popular destination for visitors looking to enjoy a variety of outdoor activities, including fishing, kayaking, and hiking. The lake covers 70 acres and offers great opportunities for anglers to catch a variety of fish, such as largemouth bass, bluegill, and crappie. The surrounding area is home to a diverse range of wildlife, making it a great spot for birdwatching and nature enthusiasts. Visitors can also take advantage of the picnic shelters and camping areas located near the lake for a relaxing stay in the great outdoors. Whether you're looking to cast a line in the water or explore the scenic surroundings, Rockford Lake offers something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rockford%20Lake"
+            },
+            {
+                "name": "Sandy Channel",
+                "url": "https://outdoornebraska.gov/location/sandy-channel/",
+                "content": "Sandy Channel State Recreation Area offers angling and camping opportunities along the Platte River.",
+                "description": "Sandy Channel State Recreation Area is a hidden gem tucked away in the rolling hills of northeastern Nebraska. This peaceful oasis offers visitors a sandy swimming beach and crystal-clear waters, perfect for a relaxing day in the sun. Anglers will enjoy casting their lines in the channel's stocked fishing pond, which is home to a variety of fish species. The area also features picnic shelters, hiking trails, and a playground, making it a great destination for families looking to enjoy the outdoors. With its serene atmosphere and beautiful scenery, Sandy Channel State Recreation Area is a must-visit for nature lovers and outdoor enthusiasts.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sandy%20Channel"
+            },
+            {
+                "name": "Schramm Park",
+                "url": "https://outdoornebraska.gov/location/schramm-park/",
+                "content": "Schramm Park represents a picturesque outdoor escape with hiking trails, fishing opportunities, and a beautiful spring-fed creek.",
+                "description": "Schramm Park is a beautiful outdoor destination located near Gretna, Nebraska, offering visitors a peaceful and serene setting to enjoy nature. The park features a stunning 58-acre lake perfect for fishing, kayaking, and wildlife viewing. Visitors can explore the park's hiking trails that wind through lush woodlands and offer scenic viewpoints of the surrounding area. The park is also home to a nature center with interactive displays and educational programs about the local flora and fauna. Whether you're looking to relax by the lake or go for a hike, Schramm Park provides a wonderful outdoor experience for visitors of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Schramm%20Park"
+            },
+            {
+                "name": "Sherman Reservoir",
+                "url": "https://outdoornebraska.gov/location/sherman-reservoir/",
+                "content": "Sherman Reservoir is a popular fishing and boating destination located near Loup City, Nebraska.",
+                "description": "Sherman Reservoir is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as boating, fishing, camping, and wildlife viewing. The reservoir spans over 2,800 acres and has 56 miles of shoreline, providing ample opportunities for visitors to explore and enjoy the natural beauty of the area. Anglers can look forward to catching a variety of fish species including largemouth bass, walleye, and catfish. The reservoir is also home to a diverse range of bird species, making it a great spot for birdwatching. With amenities such as picnic areas, boat ramps, and a swimming beach, Sherman Reservoir is the perfect place for a fun-filled day outdoors.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sherman%20Reservoir"
+            },
+            {
+                "name": "Smith Falls",
+                "url": "https://outdoornebraska.gov/location/smith-falls/",
+                "content": "The representative from Smith Falls State Park is knowledgeable about the park's natural beauty and recreational opportunities.",
+                "description": "Smith Falls is the tallest waterfall in Nebraska, plunging 70 feet down into a picturesque pool below. Visitors can enjoy hiking trails through the surrounding forest, providing stunning views of the waterfall along the way. The area is teeming with wildlife, making it a great spot for birdwatching and nature photography. For those looking to cool off, swimming is allowed in the pool at the base of the falls. It's the perfect spot for a day trip or weekend getaway to immerse yourself in the beauty of Nebraska's natural landscapes.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Smith%20Falls"
+            },
+            {
+                "name": "Stagecoach",
+                "url": "https://outdoornebraska.gov/location/stagecoach/",
+                "content": "The Stagecoach State Recreation Area in Hickman offers activities such as fishing, boating, hiking, and camping for outdoor enthusiasts to enjoy.",
+                "description": "Stagecoach State Recreation Area is a popular destination for outdoor enthusiasts in Nebraska, offering a variety of activities such as fishing, boating, and hiking. Visitors can enjoy the scenic views of the Platte River and surrounding woodlands while exploring the park's extensive trail system. The park also features a campground with modern amenities, making it a great spot for a weekend getaway or extended stay. Birdwatchers will appreciate the diverse bird species that can be spotted in the area, including bald eagles and sandhill cranes. Whether you're looking to relax by the water or embark on an outdoor adventure, Stagecoach State Recreation Area has something for everyone.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stagecoach"
+            },
+            {
+                "name": "Summit Lake",
+                "url": "https://outdoornebraska.gov/location/summit-lake/",
+                "content": "Summit Lake is a peaceful 190-acre lake in Nebraska that offers fishing, camping, and hiking opportunities in a beautiful natural setting.",
+                "description": "Summit Lake State Recreation Area is a serene 190-acre reservoir located in the heart of Nebraska's rolling hills. Visitors can enjoy fishing for largemouth bass, crappie, and bluegill, as well as boating and kayaking on the crystal-clear waters of Summit Lake.\n\nNature enthusiasts will love exploring the area's scenic hiking and biking trails, which offer stunning views of the surrounding countryside. Birdwatchers can spot a variety of species, including bald eagles, osprey, and great blue herons, making it a perfect destination for wildlife lovers.\n\nFor those looking to extend their stay, Summit Lake offers camping facilities with both electric and non-electric sites, making it a great spot for a weekend getaway or a longer vacation. The park also features picnic shelters, a playground, and a swimming beach, providing plenty of opportunities for outdoor fun for the whole family.\n\nWhether you're seeking a peaceful retreat in nature or an active adventure on the water, Summit Lake State Recreation Area offers something for everyone to enjoy. Plan your visit today and experience the beauty of this hidden gem in the Nebraska countryside.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Summit%20Lake"
+            },
+            {
+                "name": "Sutherland Reservoir",
+                "url": "https://outdoornebraska.gov/location/sutherland-reservoir/",
+                "content": "Sutherland Reservoir is a popular destination for boating, fishing, camping, and wildlife viewing in western Nebraska.",
+                "description": "Sutherland Reservoir is a 3,017-acre lake located in southwestern Nebraska, offering visitors a variety of outdoor recreational activities. The lake is a popular spot for fishing, with anglers having the chance to catch a variety of fish species such as walleye, largemouth bass, and catfish. Boating is also a popular activity at Sutherland Reservoir, with a boat ramp available for launching watercrafts. The surrounding area offers camping facilities, making it easy for visitors to spend a few days enjoying the natural beauty of the reservoir. Wildlife enthusiasts will also enjoy the opportunity to spot a variety of birds and other animals in the area.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sutherland%20Reservoir"
+            },
+            {
+                "name": "Swanson Reservoir",
+                "url": "https://outdoornebraska.gov/location/swanson-reservoir/",
+                "content": "Swanson Reservoir is a popular destination for outdoor enthusiasts offering opportunities for camping, fishing, boating, and wildlife viewing in western Nebraska.",
+                "description": "Swanson Reservoir is a popular destination for outdoor enthusiasts, offering excellent opportunities for fishing, boating, and wildlife viewing. The reservoir covers over 3,000 acres and is surrounded by beautiful scenery, including sandy beaches and rolling hills. Visitors can enjoy camping at one of the well-maintained campgrounds located along the shoreline, with amenities such as picnic tables, fire rings, and restrooms. The reservoir is stocked with a variety of fish species, making it a great spot for anglers of all skill levels to try their luck. Birdwatchers will also find plenty to see, with a diverse range of bird species making their home in the area.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Swanson%20Reservoir"
+            },
+            {
+                "name": "Two Rivers",
+                "url": "https://outdoornebraska.gov/location/two-rivers/",
+                "content": "The Two Rivers State Recreation Area offers a peaceful escape for outdoor enthusiasts with fishing, boating, camping, and hiking opportunities along the Platte and Elkhorn Rivers.",
+                "description": "Two Rivers State Recreation Area is a beautiful and serene destination located along the Elkhorn River in Nebraska. Visitors can enjoy a variety of outdoor activities such as fishing, hiking, and wildlife viewing within the park's 297 acres of natural landscape. The park is a popular spot for birdwatching, with over 150 different species of birds that call Two Rivers home. The park also offers camping facilities, making it a great place for a weekend getaway or a relaxing nature retreat. Whether you're looking to fish, hike, or simply enjoy the scenic beauty of the river, Two Rivers State Recreation Area has something for everyone to enjoy.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Two%20Rivers"
+            },
+            {
+                "name": "Union Pacific",
+                "url": "https://outdoornebraska.gov/location/union-pacific/",
+                "content": "The Union Pacific Recreation Area is a popular outdoor destination located near North Platte, Nebraska.",
+                "description": "The Union Pacific Recreation Area, located in North Platte, Nebraska, offers visitors a variety of outdoor recreational opportunities. This area is situated along the beautiful shores of Lake Maloney, providing stunning views and serene surroundings for visitors to enjoy. With activities such as fishing, boating, hiking, and camping available, there is something for everyone to enjoy at Union Pacific. Additionally, the area features picnic shelters and playgrounds, making it a great destination for families looking to spend a day outdoors. Whether you're looking to relax by the water or explore the scenic trails, Union Pacific offers a picturesque setting for outdoor enthusiasts to explore and enjoy.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Union%20Pacific"
+            },
+            {
+                "name": "Verdon",
+                "url": "https://outdoornebraska.gov/location/verdon/",
+                "content": "The representative from Verdon is dedicated to promoting outdoor activities and preserving the natural beauty of the area.",
+                "description": "1. Verdon is a quaint village located in southeastern Nebraska, known for its beautiful scenery and outdoor recreational opportunities. Visitors can explore the surrounding countryside or take a leisurely stroll through the charming streets lined with historic buildings.\n\n2. Nature enthusiasts will love the nearby Verdon State Recreation Area, which offers a variety of activities such as hiking, fishing, and birdwatching. The park is a great place to unwind and reconnect with nature.\n\n3. History buffs can visit the Verdon Historical Society Museum, which showcases the rich heritage and cultural history of the area. The museum features exhibits on early settlers, agricultural practices, and local traditions.\n\n4. For those looking for a unique experience, Verdon hosts a variety of community events and festivals throughout the year, including farmers markets, craft fairs, and holiday celebrations. These events are a great way to immerse yourself in the local culture and meet friendly residents.\n\n5. Whether you're seeking outdoor adventure, historical exploration, or simply a relaxing getaway, Verdon has something for everyone. Come visit this hidden gem in Nebraska and discover all that this charming village has to offer.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Verdon"
+            },
+            {
+                "name": "Victoria Springs",
+                "url": "https://outdoornebraska.gov/location/victoria-springs/",
+                "content": "Victoria Springs State Recreation Area encompasses 432 acres of lush forest and natural springs near Anselmo, Nebraska.",
+                "description": "1. Victoria Springs is a hidden gem located in the Sandhills region of Nebraska, offering visitors a tranquil and picturesque setting to unwind and connect with nature.\n\n2. The springs have a fascinating history, with the area once serving as a popular stopover for pioneers traveling the Oregon Trail in the 1800s, making it a great destination for history buffs.\n\n3. Visitors can enjoy hiking, birdwatching, and picnicking in the surrounding grasslands, and may even catch a glimpse of the diverse wildlife that call Victoria Springs home, including pronghorn antelope and bald eagles.\n\n4. The area is perfect for a day trip or a weekend getaway, with campsites available for those looking to extend their stay and truly immerse themselves in the beauty of the Sandhills.\n\n5. Whether you're seeking a peaceful retreat, outdoor adventure, or a chance to explore Nebraska's rich history, Victoria Springs offers a unique and memorable experience for visitors of all ages.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Victoria%20Springs"
+            },
+            {
+                "name": "Wagon Train",
+                "url": "https://outdoornebraska.gov/location/wagon-train/",
+                "content": "Wagon Train State Recreation Area offers a variety of outdoor activities including camping, fishing, and hiking along a 315-acre lake.",
+                "description": "Wagon Train State Recreation Area is a popular destination for outdoor enthusiasts in Nebraska, offering a variety of activities such as hiking, fishing, and camping. Visitors can explore over 315 acres of land surrounded by beautiful scenery and wildlife.\n\nOne of the main attractions at Wagon Train is the 315-acre reservoir, perfect for boating, kayaking, and fishing. The reservoir is stocked with largemouth bass, bluegill, channel catfish, and walleye, making it a great spot for anglers of all skill levels.\n\nFor those looking to spend the night, the recreation area features campsites with electrical hookups, picnic shelters, and modern restrooms. It's the perfect place to relax and unwind in the great outdoors.\n\nNature lovers will enjoy the variety of wildlife that call Wagon Train home, including deer, turkey, and a wide range of bird species. Birdwatchers can spot everything from bald eagles to great blue herons while exploring the area.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wagon%20Train"
+            },
+            {
+                "name": "Walgren Lake",
+                "url": "https://outdoornebraska.gov/location/walgren-lake/",
+                "content": "Walgren Lake State Recreation Area is a beautiful spot for fishing and camping in the Nebraska Panhandle.",
+                "description": "Walgren Lake is a serene 41-acre lake located in the small town of Hay Springs, Nebraska, perfect for visitors seeking a peaceful outdoor retreat. The lake offers fishing opportunities for bluegill, largemouth bass, and rainbow trout, making it a popular spot for anglers of all skill levels. Visitors can also enjoy picnicking, birdwatching, and hiking along the scenic trails that surround the lake. The park features a playground and shelters for gatherings, making it a great place for families and groups to spend the day. With its tranquil setting and diverse recreational activities, Walgren Lake is a hidden gem in the heart of the Nebraska countryside.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Walgren%20Lake"
+            },
+            {
+                "name": "War Axe",
+                "url": "https://outdoornebraska.gov/location/war-axe/",
+                "content": "The War Axe is a unique public hunting area located in Holt County, Nebraska with over 1,600 acres of diverse landscape for outdoor enthusiasts to explore.",
+                "description": "The War Axe is a unique outdoor shooting range located at the Pressey Wildlife Management Area in central Nebraska. This range features a variety of target distances, from 10 to 100 yards, making it perfect for both beginner and experienced shooters. Visitors can also enjoy shooting at steel targets and honing their skills in a safe and controlled environment. The War Axe is open to the public and is a popular destination for shooting enthusiasts looking to practice and improve their marksmanship. Additionally, the range offers a scenic and peaceful setting, surrounded by the natural beauty of the Pressey Wildlife Management Area.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=War%20Axe"
+            },
+            {
+                "name": "Wildcat Hills",
+                "url": "https://outdoornebraska.gov/location/wildcat-hills/",
+                "content": "The Wildcat Hills represent native Nebraska landscapes with rugged terrain and unique flora and fauna.",
+                "description": "Wildcat Hills State Recreation Area is a breathtaking 400-acre park situated in the scenic Wildcat Hills region of Nebraska. Visitors can enjoy hiking, biking, birdwatching, and camping in this unique area that showcases striking rock formations and beautiful prairie landscapes. The park features several trails, including the challenging Wildcat Hills Loop Trail which offers stunning panoramic views of the surrounding area. Wildlife enthusiasts will also appreciate the diverse flora and fauna that call the Wildcat Hills home, including bighorn sheep, mule deer, and a variety of bird species. With its stunning natural beauty and wide range of outdoor activities, Wildcat Hills State Recreation Area is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wildcat%20Hills"
+            },
+            {
+                "name": "Willow Creek",
+                "url": "https://outdoornebraska.gov/location/willow-creek/",
+                "content": "Willow Creek State Recreation Area offers scenic lakeside camping, fishing, and hiking opportunities for outdoor enthusiasts in northeastern Nebraska.",
+                "description": "Willow Creek is a beautiful and tranquil destination for fishing enthusiasts located in Nebraska. Anglers can expect to catch a variety of fish species such as bluegill, largemouth bass, and catfish in the clear waters of the creek. The scenic surroundings and abundant wildlife provide a peaceful and relaxing atmosphere for visitors to enjoy nature. Visitors can also explore the surrounding hiking trails and picnic areas for a fun day outdoors. Whether you're an experienced angler or just looking to unwind in nature, Willow Creek offers a perfect escape for outdoor recreation.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Willow%20Creek"
+            },
+            {
+                "name": "Windmill",
+                "url": "https://outdoornebraska.gov/location/windmill/",
+                "content": "The windmill at Windmill State Recreation Area in Gibbon, Nebraska is a symbol of the area's agricultural heritage and provides a picturesque backdrop for outdoor activities.",
+                "description": "The Windmill State Recreation Area is home to a historic windmill that was built in the early 1900s, offering visitors a glimpse into Nebraska's agricultural history. This well-preserved windmill stands as a reminder of the state's rich farming heritage and the importance of wind power in the region. Visitors can explore the surrounding area and enjoy picnicking, hiking, and fishing in the nearby lake. The windmill provides a picturesque backdrop for outdoor activities and serves as a popular spot for photography enthusiasts. Whether you're interested in history, nature, or simply enjoying the peaceful surroundings, the Windmill State Recreation Area is a must-see destination in Nebraska.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Windmill"
+            }
+        ]
+    }
+}

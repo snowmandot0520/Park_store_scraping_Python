@@ -1,0 +1,710 @@
+{
+    "Maine State Parks": {
+        "parks": [
+            {
+                "name": "Allagash Wilderness Waterway",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=2",
+                "content": "The Allagash Wilderness Waterway is a 92-mile-long protected area in northern Maine known for its remote beauty and excellent opportunities for canoeing and camping.",
+                "description": "The Allagash Wilderness Waterway is a 92-mile-long protected area located in northern Maine, offering visitors the opportunity to experience pristine wilderness in its truest form. The waterway is ideal for canoeing and kayaking, with numerous campsites along the route for overnight stays. Fishing enthusiasts will also enjoy the clear waters teeming with brook trout, salmon, and bass.\n\nVisitors can immerse themselves in the beauty of the Allagash Wilderness Waterway, which is home to a diverse array of wildlife including moose, deer, black bear, and bald eagles. The waterway is a designated \"Wild and Scenic River,\" ensuring that its natural beauty remains unspoiled for generations to come. Whether you're seeking a peaceful retreat or an adventure-filled journey, the Allagash Wilderness Waterway is sure to provide an unforgettable experience for outdoor enthusiasts.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Allagash%20Wilderness%20Waterway"
+            },
+            {
+                "name": "Androscoggin Riverlands",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=98",
+                "content": "The Androscoggin Riverlands State Park offers scenic views, hiking trails, and opportunities for fishing and wildlife observation along the Androscoggin River in Turner, Maine.",
+                "description": "The Androscoggin Riverlands State Park in Turner, Maine offers visitors a serene and picturesque setting for outdoor activities such as hiking, bird-watching, and fishing along the scenic Androscoggin River. The park boasts over 2,675 acres of diverse terrain, including woodlands, meadows, and wetlands, making it a haven for wildlife enthusiasts. Visitors can explore the park's network of trails, which range from easy walks to more challenging hikes, providing opportunities to spot native plants and animals. The park also features a picnic area with stunning river views, making it an ideal spot for a relaxing outdoor lunch or family gathering. Whether you're looking to reconnect with nature, take in the stunning scenery, or simply enjoy a leisurely stroll along the river, the Androscoggin Riverlands State Park offers a tranquil escape from the hustle and bustle of everyday life.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Androscoggin%20Riverlands"
+            },
+            {
+                "name": "Aroostook State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=7",
+                "content": "Aroostook State Park is Maine's first state park, offering campgrounds, hiking trails, and a swimming beach surrounded by beautiful woodlands and streams.",
+                "description": "Aroostook State Park is Maine's first state park, established in 1938, offering visitors a chance to enjoy the beauty of nature in a peaceful setting. The park features a sandy beach along Echo Lake, where visitors can swim, boat, and fish for trout. Hiking trails wind through the forested landscape, providing opportunities for birdwatching and wildlife viewing. Picnic areas with grills and tables are available for visitors to enjoy a meal outdoors. The park also has a campground with RV and tent sites for those looking to stay overnight and immerse themselves in the natural surroundings.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Aroostook%20State%20Park"
+            },
+            {
+                "name": "Aroostook Valley Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=77",
+                "content": "The Aroostook Valley Trail is a multi-use recreational trail that follows the former Bangor and Aroostook Railroad corridor for over 28 miles through northern Maine.",
+                "description": "The Aroostook Valley Trail is a scenic multi-use trail that spans 28 miles through northern Maine, offering visitors a unique way to explore the beautiful countryside. The trail winds along the Aroostook River, providing stunning views of the surrounding forests and meadows.\n\nVisitors can enjoy a variety of outdoor activities on the trail, including hiking, biking, horseback riding, and bird-watching. The trail is also popular for snowmobiling in the winter months, with groomed trails and stunning snowy landscapes.\n\nThe Aroostook Valley Trail passes through several small towns and communities, allowing visitors to experience the local culture and hospitality of the region. A highlight of the trail is the historic covered bridges that can be found along the route, providing a glimpse into the area's past.\n\nWhether you're looking for a leisurely walk in nature or an adrenaline-pumping bike ride, the Aroostook Valley Trail offers something for every outdoor enthusiast. Don't forget to pack a picnic and take advantage of the peaceful spots along the trail to relax and enjoy the natural beauty of Maine.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Aroostook%20Valley%20Trail"
+            },
+            {
+                "name": "Bald Mountain Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=41",
+                "content": "Bald Mountain Public Land offers scenic hiking trails and stunning views of Rangeley Lake in Maine.",
+                "description": "Bald Mountain Public Land is located in the western foothills of Maine, offering a variety of recreational activities for visitors to enjoy. The highlight of the park is the scenic hike to the summit of Bald Mountain, where hikers are rewarded with stunning views of the surrounding lakes and mountains. The park also features several well-maintained trails for hiking, mountain biking, and snowshoeing in the winter months.\n\nOne of the unique features of Bald Mountain Public Land is the opportunity for visitors to try their hand at geocaching, with hidden treasures waiting to be discovered throughout the park. For those looking to cool off during the hot summer months, the park offers access to several pristine lakes and ponds for swimming, boating, and fishing. With its diverse range of activities and beautiful natural scenery, Bald Mountain Public Land is a must-visit destination for outdoor enthusiasts in Maine.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bald%20Mountain%20Public%20Land"
+            },
+            {
+                "name": "Bangor & Aroostook Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=96",
+                "content": "The Bangor & Aroostook Trail is a multi-use recreational trail in Aroostook County, Maine, offering opportunities for hiking, biking, and snowmobiling.",
+                "description": "The Bangor & Aroostook Trail is a scenic recreational trail located in Aroostook County, Maine. This former railroad bed has been converted into a multi-use trail that is popular for hiking, biking, and ATV riding. The trail winds through picturesque forests and fields, offering visitors the chance to explore the natural beauty of northern Maine.\n\nWith a length of 61 miles, the Bangor & Aroostook Trail passes through several charming small towns, allowing visitors to experience the local culture and hospitality. Along the way, you may encounter wildlife such as deer, moose, and a variety of bird species. The trail is well-maintained and offers plenty of opportunities for rest and relaxation at scenic overlooks and picnic areas.\n\nWhether you're looking for a leisurely stroll through nature or an adrenaline-pumping ATV ride, the Bangor & Aroostook Trail has something to offer every outdoor enthusiast. Don't forget to bring your camera to capture the stunning vistas and unique sights along the way. So pack your hiking boots or hop on your bike and hit the trail to experience the beauty of the Maine wilderness on the Bangor & Aroostook Trail.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bangor%20%26%20Aroostook%20Trail"
+            },
+            {
+                "name": "Bible Point State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=81",
+                "content": "The Bible Point State Historic Site in Maine offers beautiful views of the Penobscot Bay and features a historic marker reminding visitors of the region's early settlers.",
+                "description": "Bible Point State Historic Site is a small state park located in beautiful Southport, Maine, near the Atlantic Ocean. Visitors can explore the remnants of a historic summer house built in the late 1800s by John G. Williams, a wealthy businessman. This site offers stunning views of the Sheepscot River and is a popular spot for picnicking and birdwatching. The park also has a short hiking trail that leads to a secluded pebble beach, perfect for relaxing and enjoying the peaceful surroundings. History buffs will appreciate learning about the site's past and the role it played in the development of the area.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bible%20Point%20State%20Historic%20Site"
+            },
+            {
+                "name": "Bigelow Preserve Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=42",
+                "content": "Bigelow Preserve Public Land is a 36,000-acre state-owned public land in western Maine that is home to the Bigelow Mountain range and offers hiking, camping, fishing, and wildlife viewing opportunities.",
+                "description": "The Bigelow Preserve Public Land is a rugged and remote wilderness area located in western Maine. Visitors can explore over 36,000 acres of pristine forests, mountains, and streams. The preserve is home to the Bigelow Range, which offers incredible hiking opportunities with stunning views of the surrounding landscape. Camping is available within the preserve, allowing visitors to experience the tranquility of the Maine wilderness firsthand. Wildlife enthusiasts may spot moose, deer, bear, and a variety of bird species while exploring the preserve's diverse ecosystem.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bigelow%20Preserve%20Public%20Land"
+            },
+            {
+                "name": "Birch Point State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=72",
+                "content": "Birch Point State Park is a small coastal park in Owls Head, Maine offering beautiful views of Penobscot Bay.",
+                "description": "Birch Point State Park is a serene coastal park located in Owl's Head, Maine, offering stunning views of Penobscot Bay and surrounding islands. Visitors can enjoy picnicking on the grassy lawn overlooking the water, or exploring the rugged shoreline and sandy beach. The park is a popular spot for birdwatching, with opportunities to see a variety of seabirds and shorebirds. During low tide, visitors can explore tide pools and search for marine life. Hiking trails lead through the coastal forest, providing a peaceful escape into nature. Overall, Birch Point State Park offers a peaceful and scenic retreat for outdoor enthusiasts to enjoy Maine's beautiful coastline.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Birch%20Point%20State%20Park"
+            },
+            {
+                "name": "Bradbury Mountain State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=12",
+                "content": "Bradbury Mountain State Park offers scenic views, hiking trails, and picnic areas in Pownal, Maine.",
+                "description": "Bradbury Mountain State Park is located in Pownal, Maine and offers visitors stunning views of the surrounding countryside from its rocky summit. The park features several hiking trails of varying difficulties, making it a popular spot for outdoor enthusiasts of all skill levels. One of the highlights of the park is the Bradbury Mountain itself, which is a glacial erratic that stands at 485 feet tall and is a great spot for a picnic or a photo opportunity. Visitors can also enjoy birdwatching, camping, and wildlife viewing in the park, making it a great destination for a day trip or weekend getaway. Whether you're looking for a challenging hike or a peaceful nature escape, Bradbury Mountain State Park has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bradbury%20Mountain%20State%20Park"
+            },
+            {
+                "name": "Chain of Ponds Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=82",
+                "content": "Chain of Ponds Public Land is a remote and picturesque outdoor recreation area in Western Maine with a pristine pond for fishing and camping opportunities.",
+                "description": "Chain of Ponds Public Lands is a 900-acre recreational area located in western Maine, offering a variety of outdoor activities for visitors to enjoy. This picturesque destination features pristine ponds and dense forests, making it a haven for birdwatching, fishing, hiking, and camping. The park is home to several species of wildlife, including moose, deer, and bald eagles, providing plenty of opportunities for nature enthusiasts to observe and photograph these majestic creatures in their natural habitat. With miles of scenic trails winding through the woods, visitors can explore the park on foot, bike, or horseback, taking in the breathtaking views of the surrounding mountains and valleys. Whether you're looking for a peaceful escape in nature or an adventure-filled weekend getaway, Chain of Ponds Public Lands offers something for everyone to enjoy in the great outdoors.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chain%20of%20Ponds%20Public%20Land"
+            },
+            {
+                "name": "Chamberlain Lake Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=43",
+                "content": "Chamberlain Lake Public Land offers scenic views, diverse wildlife, and recreational opportunities for outdoor enthusiasts in Maine.",
+                "description": "Chamberlain Lake Public Land is a beautiful outdoor destination located in Northwestern Aroostook County, Maine. This area offers stunning views of the surrounding forested landscapes, making it a great spot for nature lovers and outdoor enthusiasts. Visitors can enjoy a variety of recreational activities, including fishing, hiking, and birdwatching. The lake itself is known for its pristine waters, perfect for kayaking and canoeing. If you're looking for a peaceful retreat in the heart of nature, Chamberlain Lake Public Land is the perfect destination for your next outdoor adventure.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chamberlain%20Lake%20Public%20Land"
+            },
+            {
+                "name": "Cobscook Bay State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=15",
+                "content": "Cobscook Bay State Park is a scenic waterfront park in Maine offering camping, hiking, and birdwatching opportunities.",
+                "description": "Cobscook Bay State Park is a beautiful coastal park located on a peninsula in eastern Maine. Visitors can enjoy stunning views of the rugged coastline, sandy beaches, and diverse wildlife in the area. The park offers a variety of outdoor activities, such as hiking, picnicking, birdwatching, and kayaking. Campers can stay overnight in one of the park's secluded campsites, nestled among the trees and overlooking the bay. Don't miss the chance to explore the unique tidal pools and salt marshes that make this park a must-visit destination for nature lovers.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cobscook%20Bay%20State%20Park"
+            },
+            {
+                "name": "Colburn House State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=85",
+                "content": "The Colburn House State Historic Site is a 19th-century farmhouse that offers a glimpse into the simple rural life of the time.",
+                "description": "1. Situated in Pittston, Maine, the Colburn House State Historic Site is a well-preserved example of early 19th-century Federal-style architecture. Visitors can explore the historic home and grounds to get a glimpse of life in rural Maine during the early 1800s.\n2. The Colburn House was built in 1817 by Asa Colburn, a successful farmer and businessman in the area. The house features period furnishings and artifacts that offer insight into the daily lives of the Colburn family and their community.\n3. In addition to touring the house, visitors can also enjoy the scenic surroundings of the site, which includes a charming barn, gardens, and walking trails. The site is a peaceful place to spend a few hours exploring Maine's rich history.\n4. The Colburn House State Historic Site is open seasonally from July through September, so be sure to check the website for specific hours and admission information before planning your visit. Don't miss the opportunity to step back in time and experience this unique piece of Maine's history.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Colburn%20House%20State%20Historic%20Site"
+            },
+            {
+                "name": "Colonial Pemaquid State Historic Site (Ft. William Henry)",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=39",
+                "content": "Fort William Henry, also known as Colonial Pemaquid State Historic Site, was a colonial fort located in Maine and now serves as a historic site preserving the area's colonial history.",
+                "description": "Colonial Pemaquid State Historic Site, also known as Fort William Henry, is located in Bristol, Maine. This historic site dates back to the 17th century and was one of the earliest English settlements in New England. Visitors can explore the remains of the fort, including stone walls and a reconstructed watchtower, while learning about the site's rich history through interpretive panels and exhibits. The site offers stunning views of the Atlantic Ocean and nearby islands, making it a picturesque destination for history buffs and nature lovers alike. Don't miss the opportunity to visit the museum on site, which features artifacts from the colonial era and provides further insight into the area's significance.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Colonial%20Pemaquid%20State%20Historic%20Site%20%28Ft.%20William%20Henry%29"
+            },
+            {
+                "name": "Cutler Coast Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=44",
+                "content": "Cutler Coast Public Reserved Land offers five miles of remote shoreline hiking and stunning ocean views in Downeast Maine.",
+                "description": "Cutler Coast Public Lands offer visitors a unique and rugged coastal hiking experience in Maine. The park features a 10-mile trail system that winds through forests, fields, and along the dramatic cliffs of the Atlantic Ocean. With stunning views of the ocean and surrounding islands, hikers can enjoy picnicking, bird watching, and whale watching along the way. The area is known for its diverse wildlife, including rare seabirds and seals that can often be spotted from the cliffs. Visitors should come prepared with sturdy footwear and plenty of water, as the trails can be challenging and remote.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cutler%20Coast%20Public%20Land"
+            },
+            {
+                "name": "Damariscotta Lake State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=5",
+                "content": "Damariscotta Lake State Park is a scenic park located on the shores of Damariscotta Lake, offering opportunities for swimming, boating, and picnicking.",
+                "description": "Damariscotta Lake State Park is a charming park located in Midcoast Maine, offering visitors a picturesque setting for various outdoor activities. The park features a sandy beach along the shores of Damariscotta Lake, perfect for swimming and sunbathing on a hot summer day. Visitors can also enjoy boating, kayaking, and fishing on the crystal-clear waters of the lake, which is known for its abundant population of fish. The park boasts well-maintained picnic areas with grills, making it an ideal spot for a family picnic or a barbecue with friends. Additionally, nature lovers will appreciate the park's lush forests and hiking trails, providing opportunities for peaceful walks and wildlife viewing.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Damariscotta%20Lake%20State%20Park"
+            },
+            {
+                "name": "Dead River Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=45",
+                "content": "Dead River Public Land is a remote, 100-acre property featuring scenic views, a picnic area, and opportunities for fishing and hunting.",
+                "description": "Dead River Public Land is a stunning 7,400-acre property located in Somerset County, Maine. Visitors can enjoy a variety of recreational activities including hunting, fishing, hiking, and wildlife viewing. The area is known for its diverse wildlife, including moose, deer, black bear, and various bird species. The Dead River runs through the land, providing opportunities for canoeing and kayaking. With its beautiful scenery and abundance of outdoor activities, Dead River Public Land is a must-visit destination for nature enthusiasts.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dead%20River%20Public%20Land"
+            },
+            {
+                "name": "Deboullie Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=46",
+                "content": "Deboullie Public Land is a remote natural area in Aroostook County, Maine, known for its pristine lakes and opportunities for outdoor recreation.",
+                "description": "Deboullie Public Land is nestled in the remote wilderness of northern Maine, offering visitors a chance to experience untouched natural beauty. The park is known for its rugged terrain, including towering cliffs and pristine lakes, creating a paradise for outdoor enthusiasts. Hiking trails wind through the forest, leading to stunning viewpoints and opportunities for wildlife viewing. Visitors can also enjoy fishing, camping, and canoeing in this peaceful and secluded setting. With limited cell service and no facilities, Deboullie Public Land provides a true escape from the hustle and bustle of everyday life.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Deboullie%20Public%20Land"
+            },
+            {
+                "name": "Dodge Point Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=47",
+                "content": "Dodge Point Public Land is a 504-acre coastal forest preserve in Newcastle, Maine offering hiking, picnicking, and wildlife viewing opportunities.",
+                "description": "Dodge Point Public Land is a scenic coastal preserve located in Newcastle, Maine, overlooking the Damariscotta River. Visitors can enjoy hiking along the well-maintained trails that wind through the forest and offer stunning views of the river and surrounding landscape. The park is also popular for birdwatching, with opportunities to spot bald eagles, osprey, and a variety of songbirds. History buffs will appreciate the remnants of old stone walls and cellar holes that provide a glimpse into the area's past as a working farm. Pack a picnic and spend a relaxing day exploring the natural beauty of Dodge Point Public Land.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dodge%20Point%20Public%20Land"
+            },
+            {
+                "name": "Donnell Pond Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=48",
+                "content": "Donnell Pond Public Land offers stunning views, hiking trails, and water activities in a peaceful natural setting.",
+                "description": "1. Donnell Pond Public Land is a hidden gem located in the beautiful state of Maine, offering visitors a peaceful escape into nature with its serene lakes, lush forests, and stunning mountain views.\n\n2. Outdoor enthusiasts will find a variety of recreational opportunities at Donnell Pond, including hiking, fishing, boating, and wildlife watching. The pristine waters of Donnell Pond and Tunk Lake are perfect for swimming and paddling.\n\n3. The park features a network of well-maintained hiking trails that lead to scenic overlooks and secluded picnic spots, making it ideal for a day trip or a weekend adventure in the great outdoors.\n\n4. Birdwatchers will delight in the chance to spot a variety of bird species, including bald eagles, osprey, and loons, while nature lovers can explore the unique flora and fauna that call Donnell Pond Public Land home.\n\n5. Whether you're looking to relax by the water, explore the wilderness, or simply enjoy the beauty of the natural world, Donnell Pond Public Land is a must-visit destination for anyone seeking a peaceful retreat in Maine.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Donnell%20Pond%20Public%20Land"
+            },
+            {
+                "name": "Down East Sunrise Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=94",
+                "content": "The Down East Sunrise Trail is a 85-mile multi-use trail that runs along the coast of eastern Maine, offering scenic views of Acadia National Park and local wildlife.",
+                "description": "The Down East Sunrise Trail is a 87-mile multi-use trail that stretches from Ellsworth to Ayers Junction in Eastern Maine. It follows the former Calais Branch rail corridor, offering visitors a scenic route through forests, wetlands, and farmland.\n\nThe trail is popular among hikers, bikers, horseback riders, and snowmobilers, providing a year-round recreational experience for outdoor enthusiasts of all skill levels. Along the trail, visitors can enjoy stunning coastal views, peaceful meadows, and quaint villages.\n\nSeveral access points and parking areas make it easy for visitors to explore different sections of the trail and customize their outdoor adventure. The trail is well-maintained and features interpretive signs and rest areas, making it a comfortable and enjoyable experience for all.\n\nWildlife sightings are common along the trail, with opportunities to see deer, moose, birds, and other native species in their natural habitat. Whether you're looking for a leisurely stroll or a challenging bike ride, the Down East Sunrise Trail offers a unique and immersive way to experience the beauty of Maine's rugged landscape.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Down%20East%20Sunrise%20Trail"
+            },
+            {
+                "name": "Duck Lake Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=49",
+                "content": "Duck Lake Public Land is a 3,600 acre property in Washington County, Maine offering outdoor activities such as hunting, fishing, and wildlife observation.",
+                "description": "Duck Lake Public Land is a hidden gem offering a peaceful escape for outdoor enthusiasts. Visitors can enjoy hiking trails that lead to scenic viewpoints overlooking the pristine lake. Birdwatchers will delight in spotting a variety of waterfowl and songbirds in their natural habitat. Anglers can try their luck at catching bass, trout, and perch in the crystal-clear waters of the lake. Whether you're looking for a relaxing day of picnicking or an adventurous hike, Duck Lake Public Land has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Duck%20Lake%20Public%20Land"
+            },
+            {
+                "name": "Eagle Island State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=6",
+                "content": "Eagle Island State Historic Site is a picturesque island off the coast of Maine, once the summer home of Arctic explorer Admiral Robert Peary and now a popular destination for visitors to explore its rich history and natural beauty.",
+                "description": "Eagle Island State Historic Site is located in Casco Bay and can be accessed by boat from the mainland. Visitors can explore the summer home of Admiral Robert E. Peary, who was the first person to reach the North Pole. The island features a museum showcasing Peary's expeditions and personal belongings, as well as beautiful hiking trails with stunning ocean views. Guests can also picnic on the grounds and enjoy the peaceful surroundings of this historic site. Additionally, there are guided tours available for those interested in learning more about the island's history and significance.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eagle%20Island%20State%20Historic%20Site"
+            },
+            {
+                "name": "Eagle Lake Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=50",
+                "content": "Eagle Lake Public Land in Maine offers scenic hiking trails and fishing opportunities in a tranquil natural setting.",
+                "description": "Eagle Lake Public Land is located in the northwestern part of Maine and offers visitors a beautiful natural setting for outdoor recreation.\n\nThe park features a pristine lake with opportunities for fishing, boating, and swimming, making it a popular destination for water enthusiasts.\n\nHikers can explore the scenic trails that wind through the surrounding forest, providing stunning views of the lake and wildlife along the way.\n\nCamping is also available at Eagle Lake Public Land, allowing visitors to immerse themselves in the peaceful surroundings and enjoy a night under the stars.\n\nOverall, Eagle Lake Public Land is a tranquil and picturesque spot for those looking to escape the hustle and bustle of everyday life and connect with nature.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eagle%20Lake%20Public%20Land"
+            },
+            {
+                "name": "Ferry Beach State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=8",
+                "content": "Ferry Beach State Park is a picturesque seaside park in Saco, Maine with sandy beaches, grassy dunes, and scenic ocean views.",
+                "description": "Ferry Beach State Park is a beautiful coastal park located in Saco, Maine, offering stunning views of the Atlantic Ocean. Visitors can enjoy picnicking on the sandy beach, exploring the scenic walking trails, or birdwatching in the peaceful marsh area. The park is also home to the historic Saco Bay Cottage, a charming beach house built in the early 1900s. Ferry Beach State Park is a popular spot for swimming, sunbathing, and taking in the natural beauty of the Maine coast. With its sandy shores and tranquil atmosphere, this park is a must-visit for nature lovers and beach enthusiasts alike.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ferry%20Beach%20State%20Park"
+            },
+            {
+                "name": "Fort Baldwin State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=86",
+                "content": "Fort Baldwin State Historic Site is a coastal defense site in Phippsburg, Maine, that was active during both World War I and World War II.",
+                "description": "Fort Baldwin State Historic Site is located in Phippsburg, Maine and offers visitors a glimpse into the state's military history. The fort was built in the early 1900s and played a crucial role in defending the strategic waters of the Kennebec River during both World Wars. The site features well-preserved military buildings, including gun batteries and observation towers, which provide a fascinating look into the past. Visitors can explore the grounds and enjoy stunning views of the surrounding area, including the nearby Fort Popham State Historic Site. The site is also a popular spot for picnicking and birdwatching, making it a great destination for history buffs and nature lovers alike.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Baldwin%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort Edgecomb State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=32",
+                "content": "Fort Edgecomb State Historic Site is a well-preserved coastal defense fort dating back to the early 19th century, located in Edgecomb, Maine.",
+                "description": "Fort Edgecomb State Historic Site is a well-preserved military fort located on Davis Island in the town of Edgecomb, Maine. The fort was originally built in 1808 to protect against potential British attacks during the War of 1812. Visitors can explore the fort's granite walls, underground passages, and gun emplacements while learning about its history through informative displays. The site offers beautiful views of the Sheepscot River and is a great spot for a picnic or fishing. Guided tours are available during the summer months, providing visitors with a deeper insight into the fort's significance in Maine's history.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Edgecomb%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort Halifax State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=53",
+                "content": "Fort Halifax State Historic Site is a restored colonial-era fort located along the Kennebec River in Winslow, Maine, originally built in 1754 to protect English settlements from French and Native American threats.",
+                "description": "Fort Halifax State Historic Site is located in Winslow, Maine, along the Kennebec River. The fort was built in 1754 during the French and Indian War to help protect colonial settlements from Native American attacks. Visitors can explore the reconstructed fort, which includes a blockhouse, palisade walls, and a storehouse. Interpretive panels provide historical information about the fort and its significance in early American history. The site also offers picnic areas and beautiful views of the Kennebec River, making it a great spot for a leisurely afternoon visit.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Halifax%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort Knox State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=37",
+                "content": "Fort Knox State Historic Site in Prospect, Maine, is a well-preserved military fort built in the mid-1800s to protect the Penobscot River valley during conflicts.",
+                "description": "Fort Knox State Historic Site, located in Prospect, Maine, is an impressive granite fortification that was built in the mid-19th century to protect the Penobscot River region during the Civil War. Visitors can explore the fort's various bastions, tunnels, and parapets, giving them a glimpse into the military history of the area.\n\nOne of the highlights of Fort Knox is its stunning views of the Penobscot Narrows Bridge, which spans the river and offers a modern contrast to the historic fort. The fort also features a museum with exhibits on the history of the region, as well as guided tours led by knowledgeable staff who can provide insight into the daily life of soldiers stationed at Fort Knox.\n\nFor those looking for a bit of adventure, Fort Knox State Historic Site also offers ghost tours in the evenings, where visitors can learn about the reported hauntings and paranormal activity that have been experienced at the fort. Whether you're interested in history, architecture, or the supernatural, Fort Knox is a fascinating destination for visitors of all ages.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Knox%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort McClary State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=38",
+                "content": "Fort McClary State Historic Site in Kittery, Maine, was built in 1808 to protect Portsmouth Harbor, and now offers visitors a look into the region's military history.",
+                "description": "Fort McClary State Historic Site is a well-preserved fort located on the southern border of Maine, overlooking the Piscataqua River. The fort was originally built in 1689 and underwent several expansions and modifications throughout its history. Visitors can explore the fort's earthwork defenses, barracks, and gun battery, and learn about its role in protecting the region during various conflicts. The site also offers scenic views of the river and nearby islands, making it a popular spot for picnicking and photography. Additionally, the fort hosts special events and reenactments that bring its history to life for visitors of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20McClary%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort O'Brien State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=61",
+                "content": "Fort O'Brien State Historic Site is an American Revolutionary War fort in Machiasport, Maine, with remains of military structures that played a crucial role against British naval forces in 1775.",
+                "description": "Fort O'Brien State Historic Site is a must-visit destination for history buffs and outdoor enthusiasts alike. This site is home to a Civil War-era fort that played a vital role in protecting the coast of Maine from Confederate raiders. Visitors can explore the well-preserved earthworks and gun emplacements, providing a glimpse into the past. The site also offers stunning views of the Atlantic Ocean, making it a perfect spot for picnicking and enjoying the coastal scenery. Be sure to check out the interpretive panels that provide information on the fort's history and significance.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20O%27Brien%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort Point State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=33",
+                "content": "Fort Point State Park is located on the Penobscot River with a historic lighthouse and picturesque views of the river and bridge.",
+                "description": "Fort Point State Park is located on a peninsula with stunning views of Penobscot Bay and the Penobscot Narrows Bridge. Visitors can explore the historic Fort Point Lighthouse, which has guided ships since 1836. The park offers picnic areas, hiking trails, and a sandy beach for swimming and relaxing. Don't miss the opportunity to climb to the top of the Penobscot Narrows Observatory for a bird's eye view of the surrounding area. Fort Point State Park is a perfect place for history buffs, outdoor enthusiasts, and families looking for a peaceful seaside getaway.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Point%20State%20Park"
+            },
+            {
+                "name": "Fort Popham State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=40",
+                "content": "Fort Popham State Historic Site is a semi-restored Civil War-era fort located on the Kennebec River that offers visitors the chance to explore the history of the Maine coast.",
+                "description": "Fort Popham State Historic Site is located in Phippsburg, Maine, and offers visitors the chance to explore a well-preserved coastal defense fort dating back to the mid-1800s.\n\nVisitors can stroll along the sandy beach, take a dip in the ocean, or enjoy a picnic with scenic views of the Kennebec River and Fort Baldwin across the water.\n\nThe fort itself features a series of granite block structures, including a battery, magazine, and barracks, providing a glimpse into Maine's military history during the Civil War era.\n\nGuided tours are available seasonally, allowing visitors to learn more about the fort's construction, purpose, and significance in protecting Maine's coast from enemy ships.\n\nFort Popham State Historic Site is a must-visit destination for history buffs, outdoor enthusiasts, and anyone looking to experience the beauty and history of Maine's coastline.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Popham%20State%20Historic%20Site"
+            },
+            {
+                "name": "Four Ponds Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=51",
+                "content": "Four Ponds Public Land is a serene natural area in Oxford County, Maine, featuring four beautiful ponds for recreational activities like fishing, boating, and wildlife viewing.",
+                "description": "Four Ponds Public Land in Maine is a stunning recreation area with four pristine ponds perfect for fishing, swimming, and kayaking. Visitors can also enjoy hiking along the network of scenic trails that wind through the lush forested landscape. Birdwatchers will love the opportunity to spot a variety of species in this diverse habitat, including loons and osprey. With picnic areas and campsites available, Four Ponds Public Land is the ideal spot for a peaceful outdoor getaway in the heart of nature. Don't forget to bring your camera to capture the breathtaking views of the ponds and surrounding wilderness.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Four%20Ponds%20Public%20Land"
+            },
+            {
+                "name": "Four Seasons Adventure Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=95",
+                "content": "The Four Seasons Adventure Trail offers a unique mix of outdoor activities, including off-road biking, hiking, snowmobiling, and cross-country skiing in the heart of Maine's scenic wilderness.",
+                "description": "The Four Seasons Adventure Trail in Madawaska, Maine offers visitors a unique outdoor experience all year round. In the summer, the trail is perfect for hiking and mountain biking, with stunning views of the surrounding forests and wildlife. In the fall, the trail comes alive with vibrant autumn colors, making it an ideal spot for leaf-peeping and photography. In the winter, the trail transforms into a winter wonderland, offering opportunities for snowshoeing and cross-country skiing. And in the spring, visitors can enjoy the blooming wildflowers and budding trees along the trail. With its ever-changing scenery and activities for every season, the Four Seasons Adventure Trail is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Four%20Seasons%20Adventure%20Trail"
+            },
+            {
+                "name": "Gero Island Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=52",
+                "content": "Gero Island Public Land is a small island accessible by boat only, located in Casco Bay and managed by the Maine Department of Inland Fisheries and Wildlife for habitat preservation and recreational use.",
+                "description": "Gero Island Public Land is a picturesque island located off the coast of Maine, accessible only by boat. Visitors can enjoy stunning views of the surrounding waters and rocky coastline, making it a perfect spot for photography and birdwatching. The island is also a popular spot for kayaking and paddleboarding, with calm waters and plenty of coves to explore. Hiking trails crisscross the island, leading visitors through forests of pine and birch trees, with the chance to spot deer, foxes, and other wildlife along the way. Pack a picnic and spend the day on this peaceful island, surrounded by the beauty of nature.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gero%20Island%20Public%20Land"
+            },
+            {
+                "name": "Great Heath Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=54",
+                "content": "Great Heath Public Land is a 3,870-acre conservation property featuring diverse ecosystems such as open heathland, cedar swamps, and pitcher plant bogs in Down East Maine.",
+                "description": "Great Heath Public Land is a vast 2,900-acre protected area located in Washington County, Maine. Visitors can explore the area's diverse ecosystem, which includes a combination of wetlands, forests, and heathlands. The land is home to a wide variety of wildlife, making it a popular spot for birdwatching and nature photography. Hikers can enjoy a network of trails that wind through the unique landscape, offering stunning views of the surrounding area. Additionally, the Great Heath is a great spot for picnicking and peaceful relaxation in a serene natural setting.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Great%20Heath%20Public%20Land"
+            },
+            {
+                "name": "Holbrook Island Sanctuary",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=9",
+                "content": "Holbrook Island Sanctuary is a peaceful nature preserve in Brooksville, Maine, featuring hiking trails, a beach, and diverse ecosystems.",
+                "description": "Holbrook Island Sanctuary is a hidden gem located in Brooksville, Maine, offering visitors a peaceful and scenic escape from the hustle and bustle of everyday life. The sanctuary features miles of hiking trails that wind through lush forests, along rocky shorelines, and past serene ponds. Birdwatchers will be delighted by the diverse array of species that call the sanctuary home, including osprey, bald eagles, and warblers. Those interested in botany will appreciate the variety of plant life that thrives in this unique coastal environment. With breathtaking views of Penobscot Bay and opportunities for picnicking and wildlife viewing, Holbrook Island Sanctuary is a must-visit destination for nature lovers in Maine.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Holbrook%20Island%20Sanctuary"
+            },
+            {
+                "name": "Holeb Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=55",
+                "content": "Holeb Public Land is a 20,191-acre public recreational area offering opportunities for hiking, fishing, hunting, and wildlife observation in the western mountains of Maine.",
+                "description": "Holeb Public Reserved Land in Upper Enchanted Township offers visitors a unique and peaceful outdoor experience in the remote wilderness of northern Maine. The park features over 20 miles of trails for hiking, mountain biking, and wildlife viewing. Visitors can also enjoy fishing and canoeing on the pristine waters of Holeb Pond. Be sure to keep an eye out for moose, deer, and other wildlife as you explore the park's beautiful forests and wetlands. For a truly off-the-grid adventure, consider camping at one of the park's remote campsites and immersing yourself in the tranquil beauty of Holeb Public Reserved Land.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Holeb%20Public%20Land"
+            },
+            {
+                "name": "Katahdin Iron Works",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=36",
+                "content": "Katahdin Iron Works State Historic Site features the remains of an early iron-making complex in the Maine wilderness.",
+                "description": "Katahdin Iron Works is a historic site located in the remote woods of Maine, offering visitors a glimpse into the state's industrial past. The site features a preserved charcoal kiln, blast furnace, and historic buildings that date back to the 19th century, providing a unique opportunity to explore Maine's iron industry history. Visitors can take a self-guided tour of the site, learning about the process of iron production and the importance of this industry in shaping the region's economy. The site also offers hiking trails, picnic areas, and opportunities for wildlife viewing, making it a great destination for outdoor enthusiasts looking to experience Maine's natural beauty and rich history. Whether you're interested in history, hiking, or just enjoying the tranquility of the great outdoors, Katahdin Iron Works offers something for everyone.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Katahdin%20Iron%20Works"
+            },
+            {
+                "name": "Kennebec Valley Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=74",
+                "content": "The Kennebec Valley Trail is a 4-mile multi-use trail that follows the east bank of the Kennebec River from Augusta to Gardiner, Maine.",
+                "description": "The Kennebec Valley Trail is a popular hiking path located in Witham Park, Winthrop, Maine. This scenic trail stretches for 0.7 miles along the Kennebec River and offers stunning views of the surrounding landscape. Visitors can enjoy a leisurely stroll or a more challenging hike along the well-maintained path. The trail is also perfect for birdwatching and wildlife viewing, with opportunities to spot a variety of birds and other animals. Whether you're a beginner or experienced hiker, the Kennebec Valley Trail is a must-visit destination for nature lovers in Maine.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kennebec%20Valley%20Trail"
+            },
+            {
+                "name": "Lagrange to Medford Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=79",
+                "content": "The Lagrange to Medford Trail is a 9.5 mile multi-use trail that runs through forested landscape and connects the small towns of Lagrange and Medford in rural Maine.",
+                "description": "The Lagrange to Medford Trail is a beautiful 16-mile multi-use trail located in central Maine. Visitors can enjoy hiking, biking, horseback riding, and snowmobiling along the scenic route. The trail winds through forests, fields, and wetlands, providing a diverse and picturesque landscape to explore. Along the way, visitors may spot wildlife such as deer, moose, and a variety of bird species. Whether you're looking for a leisurely stroll or a more challenging adventure, the Lagrange to Medford Trail offers something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lagrange%20to%20Medford%20Trail"
+            },
+            {
+                "name": "Lake St. George State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=27",
+                "content": "Lake St. George State Park is a charming park offering swimming, fishing, and picnicking opportunities in Liberty, Maine.",
+                "description": "Lake St. George State Park is a beautiful natural area located in Liberty, Maine that offers a variety of outdoor activities for visitors to enjoy. The park features a sandy beach where you can relax and swim in the crystal-clear waters of Lake St. George. The park also has a network of hiking trails that wind through the surrounding forest, offering stunning views of the lake and the surrounding landscape. Anglers will also appreciate the opportunity to fish for bass, trout, and perch in the picturesque lake. Additionally, the park has picnic areas, a playground, and a boat launch, making it the perfect destination for a day of family fun in the great outdoors.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20St.%20George%20State%20Park"
+            },
+            {
+                "name": "Lamoine State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=16",
+                "content": "Lamoine State Park in Maine offers wooded campsites, panoramic views of Frenchman Bay, and opportunities for swimming, kayaking, and hiking along the picturesque coastline.",
+                "description": "Lamoine State Park is a beautiful coastal park located in the picturesque town of Lamoine, Maine. Visitors can expect stunning views of Frenchman Bay and Mount Desert Island from the park's rugged shoreline.\n\nThe park offers a variety of recreational activities, including picnicking, fishing, and hiking along its scenic trails. Birdwatchers will also enjoy spotting a variety of species, including ospreys and bald eagles, in the park's diverse habitats.\n\nFor those looking to spend the night, Lamoine State Park has campsites available for both tents and RVs. Campers can take advantage of amenities such as hot showers, fire rings, and a playground for kids.\n\nNature enthusiasts will appreciate the park's rich biodiversity, with opportunities to observe a variety of plant and animal life. Whether you're looking to relax by the water, explore the trails, or simply enjoy the natural beauty of Maine's coast, Lamoine State Park offers something for every visitor to enjoy.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lamoine%20State%20Park"
+            },
+            {
+                "name": "Lily Bay State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=17",
+                "content": "Lily Bay State Park offers a peaceful retreat with a sandy beach, picnic areas, and scenic views of Moosehead Lake.",
+                "description": "Lily Bay State Park is located on the eastern shore of Moosehead Lake, offering visitors stunning views of Maine's largest lake and the surrounding mountains.\nThe park features a sandy swimming beach, picnic areas, and a boat launch, making it a perfect spot for a day of water activities and relaxation.\nNature enthusiasts will enjoy exploring the park's extensive network of hiking trails, which wind through the dense forests and offer opportunities for wildlife viewing.\nCamping is also available at Lily Bay State Park, with both tent and RV sites equipped with picnic tables, fire rings, and easy access to restrooms and showers.\nWhether you're looking to unwind on the beach, hike through the wilderness, or simply enjoy a scenic picnic, Lily Bay State Park has something for everyone to enjoy in the heart of Maine's outdoor paradise.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lily%20Bay%20State%20Park"
+            },
+            {
+                "name": "Little Moose Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=70",
+                "content": "Little Moose Public Land is a 15,000-acre remote and rugged outdoor recreation area that offers hiking, fishing, and camping opportunities in Maine.",
+                "description": "Little Moose Public Land is a vast forested area in west-central Maine, boasting nearly 15,000 acres of pristine wilderness. Visitors can enjoy a wide range of outdoor activities, including hiking, fishing, hunting, and wildlife viewing. The area is dotted with beautiful ponds and streams, perfect for those looking to relax and unwind in nature. The rugged terrain and expansive forests provide a tranquil escape for outdoor enthusiasts looking to explore off the beaten path. With its diverse ecosystems and abundant wildlife, Little Moose Public Land offers a unique and unforgettable outdoor experience for visitors of all ages.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Moose%20Public%20Land"
+            },
+            {
+                "name": "Machias River Corridor",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=90",
+                "content": "The Machias River Corridor is a scenic stretch of waterway in eastern Maine, popular for fishing, canoeing, and wildlife viewing.",
+                "description": "The Machias River Corridor in Maine offers visitors a peaceful escape into nature with stunning views of the river and surrounding forests. Hiking trails wind through the area, providing a great opportunity for birdwatching and wildlife spotting. The river is perfect for a leisurely kayak or canoe trip, with calm waters and plenty of wildlife along the banks. Camping is also available in the area, allowing visitors to truly immerse themselves in the natural beauty of the region. Whether you're looking for a relaxing day trip or a weekend getaway, the Machias River Corridor offers a serene and beautiful retreat.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Machias%20River%20Corridor"
+            },
+            {
+                "name": "Mackworth Island",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=57",
+                "content": "Mackworth Island is a small, scenic island park located off the coast of Falmouth, Maine, with sweeping views of Casco Bay and a network of walking trails.",
+                "description": "Mackworth Island is a picturesque 100-acre island located in Casco Bay near Portland, Maine. The island is home to a stunning scenic trail that offers breathtaking views of the ocean and surrounding coastline. Visitors can enjoy a peaceful walk through the island's forested paths or relax in one of its scenic picnic areas.\n\nOne of the highlights of Mackworth Island is the Governor Baxter School for the Deaf, which provides education and resources for deaf and hard of hearing students. The school's beautiful campus and historic buildings add to the island's unique charm. \n\nMackworth Island is also known for its abundant wildlife, including numerous species of birds, deer, and other native animals. Birdwatchers will especially enjoy the opportunity to spot rare and migratory birds along the island's trails and coastline.\n\nVisitors to Mackworth Island can also explore its historic structures, including a coastal battery that dates back to the Civil War era. The island's rich history and natural beauty make it a must-visit destination for nature lovers and history buffs alike.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mackworth%20Island"
+            },
+            {
+                "name": "Mahoosuc Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=58",
+                "content": "Mahoosuc Public Lands offer over 31,000 acres of pristine wilderness for outdoor recreational activities including hiking, fishing, hunting, and camping.",
+                "description": "Located in the western mountains of Maine, Mahoosuc Public Land is a stunning area that offers visitors a chance to immerse themselves in nature and enjoy a variety of outdoor activities. The park is known for its rugged terrain, which includes mountain peaks, dense forests, and clear streams, making it a popular destination for hikers and backpackers. Visitors can explore over 30 miles of hiking trails that wind through the park, offering breathtaking views and opportunities to spot wildlife such as moose and black bears. In addition to hiking, visitors can also enjoy camping, fishing, and picnicking in this beautiful and secluded wilderness area. Whether you're looking for a challenging hike or a peaceful retreat into nature, Mahoosuc Public Land has something to offer for everyone.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mahoosuc%20Public%20Land"
+            },
+            {
+                "name": "Moose Point State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=19",
+                "content": "Moose Point State Park is a picturesque coastal park located in Searsport, Maine, offering scenic ocean views and hiking trails along the Penobscot Bay.",
+                "description": "Moose Point State Park is a beautiful coastal park located in Searsport, Maine, offering stunning views of Penobscot Bay. Visitors can enjoy picnicking, hiking, and birdwatching in this peaceful natural setting. The park features a network of well-maintained trails that wind through a forest of pine and spruce trees, perfect for exploration. For those interested in history, the park also has remnants of an old homestead and a granite quarry, providing a glimpse into the area's past. Be sure to keep an eye out for wildlife such as deer, porcupines, and various bird species while visiting Moose Point State Park.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Moose%20Point%20State%20Park"
+            },
+            {
+                "name": "Moosehead Lake Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=59",
+                "content": "Moosehead Lake Public Land offers a variety of outdoor recreational activities, including fishing, boating, camping, and hiking in a stunning natural setting surrounding Maine's largest lake.",
+                "description": "Moosehead Lake Public Land is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as hiking, fishing, hunting, and camping. The park features over 40,000 acres of pristine wilderness surrounding the picturesque Moosehead Lake, making it the perfect spot for nature lovers to explore.\n\nVisitors can hike along miles of scenic trails, with opportunities to spot wildlife such as moose, deer, and bald eagles. The lake itself is a haven for anglers, with a variety of fish species including salmon, trout, and bass. Camping is also available in designated areas, allowing visitors to truly immerse themselves in the beauty of the park.\n\nIn addition to outdoor activities, Moosehead Lake Public Land is a great spot for birdwatching, with a diverse range of bird species inhabiting the area. The park is also home to a number of historical sites, including logging camps and Native American artifacts, offering visitors a glimpse into the region's rich cultural heritage. Whether you're seeking adventure or simply looking to relax in nature, Moosehead Lake Public Land has something for everyone.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Moosehead%20Lake%20Public%20Land"
+            },
+            {
+                "name": "Mount Kineo State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=99",
+                "content": "Mount Kineo State Park is home to a prominent 763-foot cliff on Moosehead Lake, offering breathtaking views and opportunities for hiking and camping.",
+                "description": "Mount Kineo State Park is located on a majestic peninsula on Moosehead Lake, offering stunning views of its surrounding natural beauty. The park is home to the towering 700-foot cliffs of Mount Kineo, a popular destination for hikers and rock climbers. Visitors can explore the park's network of hiking trails, which range from easy strolls to challenging treks leading to breathtaking overlooks. For those looking to relax, the park also features a sandy beach and picnic area, perfect for enjoying a leisurely day by the water. Additionally, the park offers boat rentals for visitors to explore the lake and access the park's remote island campground.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mount%20Kineo%20State%20Park"
+            },
+            {
+                "name": "Nahmakanta Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=60",
+                "content": "Nahmakanta Public Lands offer over 43,000 acres of wilderness for hiking, camping, and wildlife viewing in northern Maine.",
+                "description": "Nahmakanta Public Land is a popular destination for outdoor enthusiasts in Maine, offering over 43,000 acres of pristine wilderness to explore. Visitors can enjoy hiking, camping, fishing, and wildlife viewing in this beautiful natural setting. The land is home to a variety of wildlife, including moose, deer, and bald eagles, making it a great spot for nature lovers. The area also features numerous remote ponds and lakes, perfect for canoeing and kayaking. With stunning views, diverse ecosystems, and endless recreational opportunities, Nahmakanta Public Land is a must-visit destination for anyone looking to experience the beauty of Maine's wilderness.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nahmakanta%20Public%20Land"
+            },
+            {
+                "name": "Owls Head State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=92",
+                "content": "Owls Head State Park is a scenic coastal park in Maine offering sweeping views of Penobscot Bay and rocky beach access.",
+                "description": "Owls Head State Park in Maine offers stunning views of Penobscot Bay and the surrounding islands, making it a perfect spot for picnicking and photography. Visitors can explore the park's rocky shorelines, tidal pools, and unique rock formations, which are home to a variety of seabirds and marine life. The park also features a historic lighthouse that dates back to the mid-1800s, providing a glimpse into the area's maritime history. Hiking trails meander through the park, giving visitors the opportunity to immerse themselves in the natural beauty of the region. Overall, Owls Head State Park offers a peaceful and picturesque setting for outdoor enthusiasts and nature lovers to enjoy.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Owls%20Head%20State%20Park"
+            },
+            {
+                "name": "Peaks-Kenny State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=20",
+                "content": "Peaks-Kenny State Park is a unique park that offers a beautiful natural setting on the shores of Sebec Lake in Maine.",
+                "description": "Peaks-Kenny State Park is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as swimming, boating, fishing, and hiking. Visitors can enjoy picnicking by the pristine waters of Sebec Lake or exploring the park's network of scenic trails.\nThe park features a beautiful sandy beach with designated swimming areas, perfect for families looking to cool off on a hot summer day. Additionally, Peaks-Kenny State Park offers boat rentals, making it easy for visitors to explore the lake by kayak, canoe, or paddleboard.\nNature lovers will appreciate the park's diverse wildlife and lush forests, providing a peaceful retreat for bird watching and photography. With well-maintained campsites and cabins available for overnight stays, Peaks-Kenny State Park is an ideal destination for a weekend getaway or extended vacation in the great outdoors. Whether you're looking for relaxation or adventure, this park has something to offer for everyone.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Peaks-Kenny%20State%20Park"
+            },
+            {
+                "name": "Penobscot Narrows Observatory",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=89",
+                "content": "The Penobscot Narrows Observatory in Prospect, Maine offers stunning 360-degree views of the Penobscot River and surrounding area from its 420-foot-high observation deck.",
+                "description": "As Maine's first bridge observation tower, the Penobscot Narrows Observatory offers stunning panoramic views of the Penobscot River and surrounding landscapes from a height of over 400 feet. Visitors can take a glass elevator to the top of the tower, where they can enjoy views of the historic Fort Knox State Park and the Penobscot Narrows Bridge. The Observatory's design includes interpretive panels that provide information on the history and engineering of the bridge, making it a great educational experience for all ages. The observation deck offers a unique vantage point to watch ships passing through the river and to appreciate the natural beauty of the area. With its combination of awe-inspiring views and educational opportunities, the Penobscot Narrows Observatory is a must-visit destination for anyone traveling in the area.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Penobscot%20Narrows%20Observatory"
+            },
+            {
+                "name": "Penobscot River Corridor",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=84",
+                "content": "The Penobscot River Corridor in Maine offers scenic views and recreational opportunities along the river for outdoor enthusiasts.",
+                "description": "The Penobscot River Corridor is a picturesque area in Maine that stretches for over 60 miles along the Penobscot River. Visitors can enjoy a variety of outdoor activities such as fishing, boating, hiking, and wildlife viewing. The river is known for its abundant population of Atlantic salmon, making it a popular spot for fishing enthusiasts. The surrounding forests provide a beautiful backdrop for exploring the area and spotting wildlife such as moose, deer, and eagles. With its stunning scenery and diverse recreational opportunities, the Penobscot River Corridor is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Penobscot%20River%20Corridor"
+            },
+            {
+                "name": "Pineland Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=62",
+                "content": "Pineland Public Land is a 320-acre recreational area featuring hiking trails, a disc golf course, and picnic areas in New Gloucester, Maine.",
+                "description": "Pineland Public Land is a beautiful 1,400-acre natural area located in New Gloucester, Maine, offering visitors a variety of outdoor recreational activities. Visitors can explore over 30 miles of multi-use trails for hiking, mountain biking, and cross-country skiing, providing stunning views of the surrounding woodlands and fields. The park is also home to diverse wildlife, including deer, foxes, and a variety of bird species, making it a great spot for birdwatching and nature photography. Additionally, visitors can enjoy picnicking at designated areas, as well as fishing and paddling on the Royal River, which runs through the park. Whether you're looking for a relaxing day in nature or an adventurous outdoor experience, Pineland Public Land has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pineland%20Public%20Land"
+            },
+            {
+                "name": "Popham Beach State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=22",
+                "content": "Popham Beach State Park is a picturesque coastal park in Maine featuring a long stretch of sandy beach, hiking trails, and breathtaking views of the ocean.",
+                "description": "Popham Beach State Park is a popular destination for visitors seeking a picturesque, sandy beach along the coast of Maine. With its beautiful dunes and gentle waves, it is perfect for swimming, sunbathing, and beachcombing. The park also offers opportunities for birdwatching, picnicking, and hiking along the scenic trails that wind through the surrounding natural areas. Visitors can explore the historic Fort Popham nearby, which dates back to the Civil War era and provides a fascinating glimpse into Maine's past. Whether you are looking to relax on the beach or learn about local history, Popham Beach State Park has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Popham%20Beach%20State%20Park"
+            },
+            {
+                "name": "Quoddy Head State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=10",
+                "content": "Quoddy Head State Park is located in Lubec, Maine and is known for its beautiful coastal scenery, including cliffs, beaches, and hiking trails.",
+                "description": "Quoddy Head State Park in Maine is a stunning coastal park known for its rugged cliffs, picturesque beaches, and diverse wildlife. Visitors can enjoy hiking along scenic trails like the Coastal Trail, which offers breathtaking views of the Atlantic Ocean and nearby islands. The park is also home to the historic Quoddy Head Light, one of the oldest lighthouses in the state, which offers guided tours and a fascinating look at maritime history. Birdwatchers will appreciate the park's rich bird population, including rare species like the razorbill and Arctic tern. With its stunning natural beauty and fascinating history, Quoddy Head State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Quoddy%20Head%20State%20Park"
+            },
+            {
+                "name": "Range Pond State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=11",
+                "content": "Range Pond State Park is a popular spot for swimming, fishing, and picnicking, with a sandy beach and a campground available for visitors to enjoy.",
+                "description": "Range Pond State Park is a beautiful 25-acre park located in Poland, Maine, known for its clear waters and sandy beaches. Visitors can enjoy swimming, boating, fishing, and picnicking in the park. The park also features a playground, volleyball court, and hiking trails for visitors to explore. With its picturesque views and peaceful atmosphere, Range Pond State Park is the perfect destination for a relaxing day by the water. Don't forget to pack a picnic and enjoy a meal with family and friends at one of the park's designated picnic areas.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Range%20Pond%20State%20Park"
+            },
+            {
+                "name": "Rangeley Lake State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=25",
+                "content": "Rangeley Lake State Park is a popular outdoor destination in Maine offering a sandy beach, opportunities for fishing, camping, and boating on the pristine waters of Rangeley Lake.",
+                "description": "Rangeley Lake State Park is a popular destination for outdoor enthusiasts, offering activities such as swimming, boating, fishing, and hiking. The park is located on the shores of Rangeley Lake, which is known for its crystal-clear waters and beautiful mountain views. Visitors can rent canoes, kayaks, paddleboards, and fishing boats from the park's boat rental facility. There are also several picnic areas with scenic views of the lake, making it a great spot for a family outing or a relaxing afternoon. Additionally, the park has a campground with sites for tents and RVs, making it a great place to stay while exploring the Rangeley Lake region.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rangeley%20Lake%20State%20Park"
+            },
+            {
+                "name": "Reid State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=13",
+                "content": "Reid State Park is a pristine coastal park in Maine offering picturesque sandy beaches and dramatic rock formations.",
+                "description": "Reid State Park is located in Georgetown, Maine and boasts gorgeous sandy beaches that are perfect for swimming and relaxing in the sun. Visitors can explore the park's unique rock formations and tidal pools, which are great for discovering marine life. The park also offers various hiking trails with stunning views of the coastline and surrounding scenery. Wildlife enthusiasts may catch a glimpse of deer, foxes, and a variety of bird species while exploring the park. With its peaceful atmosphere and natural beauty, Reid State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Reid%20State%20Park"
+            },
+            {
+                "name": "Richardson Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=63",
+                "content": "The Richardson Public Land is a scenic natural area in Maine with hiking trails, picnic areas, and great spots for fishing and birdwatching.",
+                "description": "Richardson Public Land is a beautiful and serene destination for outdoor enthusiasts, offering a variety of recreational activities such as hiking, fishing, and bird-watching. The park features well-maintained trails that wind through lush forests and offer stunning views of the surrounding landscape. Visitors can also enjoy picnicking by the tranquil pond, where they may spot a variety of wildlife such as deer, foxes, and birds. The park is perfect for a family day trip or a peaceful solo getaway, providing a peaceful escape from the hustle and bustle of everyday life. Be sure to pack a camera to capture the natural beauty of Richardson Public Land.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Richardson%20Public%20Land"
+            },
+            {
+                "name": "Rocky Lake Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=64",
+                "content": "Rocky Lake Public Land is a 1,238-acre outdoor recreational area in T29MD and T30MD, making it ideal for hiking, fishing, hunting, and wildlife viewing.",
+                "description": "Rocky Lake Public Land is a peaceful destination for outdoor enthusiasts, offering a variety of recreational activities such as fishing, boating, hiking, and wildlife viewing. Visitors can explore the 2,000-acre property, which includes a scenic lake surrounded by dense forest and marshlands. The clear waters of Rocky Lake are perfect for swimming and paddling, with a designated swimming area and boat launch available for use. Nature lovers will appreciate the diverse plant and animal species that call this public land home, making it a great spot for birdwatching and photography. Camping is also allowed on a first-come, first-served basis, providing a unique opportunity to spend the night under the stars in this serene outdoor oasis.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rocky%20Lake%20Public%20Land"
+            },
+            {
+                "name": "Roque Bluffs State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=23",
+                "content": "Roque Bluffs State Park is a popular coastal park in Maine offering stunning views of the ocean, picnicking areas, hiking trails, and a freshwater pond for swimming and fishing.",
+                "description": "Roque Bluffs State Park is a peaceful and picturesque destination located on the coast of Maine. Visitors can enjoy stunning views of the rocky coastline, sandy beaches, and lush forests. The park offers a variety of activities including hiking, fishing, picnicking, and wildlife watching. One of the highlights of the park is Simpson Pond, a freshwater pond perfect for swimming and kayaking. With its serene atmosphere and natural beauty, Roque Bluffs State Park is a must-visit for nature lovers and outdoor enthusiasts.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Roque%20Bluffs%20State%20Park"
+            },
+            {
+                "name": "Round Pond Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=65",
+                "content": "Round Pond Public Land is a 410-acre property located in Bristol, Maine, offering opportunities for hiking, picnicking, and wildlife viewing.",
+                "description": "Round Pond Public Land is a hidden gem located in the heart of Midcoast Maine. Visitors can enjoy hiking, picnicking, and birdwatching in the peaceful atmosphere of this 56-acre park. The park's namesake, Round Pond, offers beautiful views and a serene setting for relaxation. The surrounding forest provides ample opportunities for wildlife spotting and nature photography. With its easy access and varied activities, Round Pond Public Land is the perfect destination for a day trip or outdoor adventure.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Round%20Pond%20Public%20Land"
+            },
+            {
+                "name": "Scarborough Beach State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=87",
+                "content": "Scarborough Beach State Park is a popular beach destination in Maine with expansive sandy shores and scenic coastal views.",
+                "description": "Scarborough Beach State Park is a picturesque sandy beach located on the coast of Maine that offers stunning views of the Atlantic Ocean. Visitors can enjoy swimming, sunbathing, and picnicking on the beach, or explore the nearby walking trails and salt marsh. The park also features a snack bar and bathhouses for added convenience. Birdwatchers will appreciate the variety of shorebirds that can be spotted along the shoreline. Additionally, the park is a popular spot for surfing and bodyboarding, making it a great destination for outdoor enthusiasts.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Scarborough%20Beach%20State%20Park"
+            },
+            {
+                "name": "Scopan Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=69",
+                "content": "Scopan Public Land is a 396-acre property in Western Maine managed by the Maine Department of Agriculture, Conservation, and Forestry.",
+                "description": "Scopan Public Land in Bridgewater, Maine offers visitors 190 acres of pristine wilderness to explore and enjoy. The park features a network of hiking trails that wind through dense forests, offering opportunities for bird watching and wildlife viewing. Visitors can also fish in the Scopan Lake, known for its bass and trout populations. The park provides picnic areas and a sandy beach for relaxing and taking in the scenic views of the lake and surrounding mountains. With its peaceful atmosphere and diverse recreational opportunities, Scopan Public Land is the perfect destination for outdoor enthusiasts looking to connect with nature.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Scopan%20Public%20Land"
+            },
+            {
+                "name": "Scraggly Lake Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=66",
+                "content": "Scraggly Lake Public Land is a 11,240-acre area in Maine with remote camping, fishing, and boating opportunities.",
+                "description": "Scraggly Lake Public Land is a hidden gem located in the town of Township 8 Range 7, Aroostook County, Maine. This 7,300-acre parcel of land offers beautiful scenery and ample opportunities for outdoor recreation. Visitors can enjoy fishing, canoeing, kayaking, and paddleboarding on the pristine waters of Scraggly Lake. Hikers will love exploring the network of trails that wind through the dense forest, offering views of the surrounding mountains. Birdwatchers will also appreciate the diverse avian population that calls this public land home. Whether you're looking for a serene spot for relaxation or a place to embark on outdoor adventures, Scraggly Lake Public Land has something for everyone.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Scraggly%20Lake%20Public%20Land"
+            },
+            {
+                "name": "Sebago Lake State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=26",
+                "content": "Sebago Lake State Park offers a sandy beach, swimming, camping, and boating on Maine's second largest lake.",
+                "description": "Sebago Lake State Park is a popular destination in Maine for outdoor enthusiasts. The park offers a beautiful sandy beach, perfect for swimming and sunbathing during the warmer months. Visitors can also enjoy picnicking, hiking, and fishing in the park's scenic surroundings. With over 1,400 acres of land to explore, there are plenty of opportunities for wildlife watching and bird spotting. Additionally, the park has a campground with modern amenities for those looking to spend a night under the stars.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sebago%20Lake%20State%20Park"
+            },
+            {
+                "name": "Seboeis Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=67",
+                "content": "Seboeis Public Land is a 24,000-acre recreation area in Penobscot County, Maine, offering opportunities for camping, fishing, hiking, and wildlife viewing.",
+                "description": "Seboeis Public Land is located in northern Maine, offering visitors a remote and secluded outdoor experience. The public land covers over 13,000 acres, perfect for hiking, fishing, and wildlife viewing. Visitors can explore the lush forests, pristine lakes, and peaceful streams that make up this beautiful area. The park is also a great spot for camping, with designated campsites available for overnight stays. Overall, Seboeis Public Land provides a tranquil escape for nature lovers looking to immerse themselves in the Maine wilderness.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seboeis%20Public%20Land"
+            },
+            {
+                "name": "Shackford Head State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=68",
+                "content": "Shackford Head State Park in Eastport, Maine offers breathtaking views of the Bay of Fundy, hiking trails, and a variety of bird species for visitors to enjoy.",
+                "description": "Shackford Head State Park is a beautiful coastal park located in Eastport, Maine, offering stunning views of Passamaquoddy Bay and Campobello Island. Visitors can explore the park's rugged cliffs, rocky beaches, and scenic hiking trails, making it an ideal spot for nature lovers and outdoor enthusiasts. The park is also home to a variety of wildlife, including seabirds, seals, and even the occasional whale sighting. Additionally, Shackford Head State Park features picnic areas, a boat launch, and a historic lighthouse, providing plenty of activities for visitors to enjoy during their visit. Whether you're looking to relax by the water or embark on a coastal adventure, Shackford Head State Park offers a unique and unforgettable experience for all who visit.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Shackford%20Head%20State%20Park"
+            },
+            {
+                "name": "Sherman to Patten Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=97",
+                "content": "The Sherman to Patten Trail is a 22-mile multi-use trail located in central Maine that offers scenic views of forests and waterways.",
+                "description": "The Sherman to Patten Trail is a scenic hiking trail located in the northern part of Maine. This trail offers visitors the opportunity to explore the rugged beauty of the Maine wilderness, with stunning views of forests, streams, and mountains along the way. The trail is known for its varying terrain, including rocky sections, steep inclines, and picturesque meadows. Hikers can expect to encounter a wide variety of wildlife, including moose, deer, and a variety of bird species. With its remote location and peaceful atmosphere, the Sherman to Patten Trail is the perfect destination for nature lovers looking to escape the hustle and bustle of everyday life.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sherman%20to%20Patten%20Trail"
+            },
+            {
+                "name": "Southern Bangor & Aroostook Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=75",
+                "content": "The Southern Bangor & Aroostook Trail is a 2.8-mile multi-use trail that winds through beautiful forests and wetlands in southern Maine.",
+                "description": "The Southern Bangor & Aroostook Trail is a scenic rail trail that stretches for 30 miles through beautiful central Maine countryside. Visitors can hike, bike, or horseback ride along this former railroad line, enjoying stunning views of rolling hills and forests. The trail is perfect for outdoor enthusiasts looking to experience the peaceful beauty of the Maine wilderness.\n\nAlong the way, visitors can explore charming small towns and villages, stopping for a meal or a rest at local cafes and shops. The trail is also popular for birdwatching, with sightings of various species of birds including hawks, eagles, and owls. Whether you're looking for a leisurely stroll or an adventurous biking excursion, the Southern Bangor & Aroostook Trail offers something for everyone to enjoy.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Southern%20Bangor%20%26%20Aroostook%20Trail"
+            },
+            {
+                "name": "St. John Valley Heritage Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=78",
+                "content": "The St. John Valley Heritage Trail in Aroostook County, Maine, is a linear park that follows the Fish River through several rural communities, offering opportunities for hiking, biking, and picnicking along the way.",
+                "description": "The St. John Valley Heritage Trail is a 16-mile scenic trail located in Aroostook County, Maine. This trail follows the former Bangor and Aroostook Railroad bed, offering a unique opportunity to explore the region's rich history and stunning natural beauty. Visitors can hike, bike, or snowmobile along the trail, which passes through quaint towns and picturesque countryside.\n\nAlong the way, visitors can admire the rolling hills, forests, and rivers that define this remote and rugged region of Maine. The trail also features interpretive signs and exhibits that highlight the area's French Acadian heritage, logging history, and wildlife. Whether you're a history buff, outdoor enthusiast, or simply looking for a peaceful escape, the St. John Valley Heritage Trail offers something for everyone.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=St.%20John%20Valley%20Heritage%20Trail"
+            },
+            {
+                "name": "Storer Garrison State Historic Site",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=91",
+                "content": "Storer Garrison State Historic Site showcases the remains of a mid-17th century English settlement and Native American fort in Wells, Maine.",
+                "description": "Storer Garrison State Historic Site is a small but significant historic site located in Wells, Maine. Visitors can explore the remains of a garrison house built in the late 1600s by settler William Storer as protection against Native American attacks. The site offers a glimpse into the early days of European settlement in the region and the challenges faced by the colonists.\n\nVisitors can view the stone foundations of the garrison house, as well as interpretive signs that provide information about its history and significance. The site is nestled in a peaceful woodland setting, making it a tranquil place to learn about Maine's colonial past. Storer Garrison State Historic Site is open to the public year-round and is a great stop for history enthusiasts or those looking to connect with Maine's early heritage.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Storer%20Garrison%20State%20Historic%20Site"
+            },
+            {
+                "name": "Swan Lake State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=24",
+                "content": "Swan Lake State Park is a picturesque camping destination nestled along the shores of Swan Lake, offering scenic views, fishing, swimming, and hiking opportunities.",
+                "description": "Swan Lake State Park, located in Swanville, Maine, is a popular destination for outdoor enthusiasts looking to enjoy the beauty of nature. The park features a pristine lake perfect for swimming, fishing, and kayaking, with a sandy beach area for sunbathing and picnicking. Visitors can explore the park's scenic trails for hiking and wildlife viewing, or set up camp at one of the secluded and wooded campsites available for overnight stays. Birdwatchers will appreciate the diverse bird species that inhabit the park, including swans, herons, and ospreys. With its tranquil surroundings and recreational activities, Swan Lake State Park offers a peaceful escape for families and nature lovers alike.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Swan%20Lake%20State%20Park"
+            },
+            {
+                "name": "Swans Falls Campground",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=88",
+                "content": "Swans Falls Campground offers spacious campsites along the Saco River with picnic tables, fire rings, and access to fishing and hiking trails.",
+                "description": "Swans Falls Campground is located in Fryeburg, Maine, offering visitors a picturesque setting along the Saco River. With a mix of tent and RV sites, visitors can choose to camp right along the riverbank or in a more wooded area. The campground is a great spot for fishing and tubing, with easy access to the river for water activities. Hiking trails nearby offer opportunities for exploring the surrounding forests and enjoying the natural beauty of the area. Campers can also take advantage of the nearby town of Fryeburg, which offers dining, shopping, and other amenities.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Swans%20Falls%20Campground"
+            },
+            {
+                "name": "Telos Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=71",
+                "content": "The Telos Public Land is a remote and peaceful outdoor recreation area in northern Maine, managed by the Maine Department of Agriculture, Conservation and Forestry.",
+                "description": "Telos Public Land in Maine offers visitors a chance to immerse themselves in the beauty of the North Maine Woods. This remote and pristine wilderness area is perfect for those looking to escape the hustle and bustle of everyday life. With over 25,000 acres of land to explore, visitors can enjoy hiking, fishing, wildlife watching, and more.\n\nThe Telos Public Land is home to numerous pristine lakes and ponds, making it an ideal destination for water activities such as kayaking, canoeing, and fishing. Anglers can try their luck at catching brook trout and landlocked salmon in the crystal clear waters of Telos Lake.\n\nVisitors to Telos Public Land can also explore the rugged forested terrain on miles of hiking trails, including the Telos Tote Road Trail and the Moose River Trail. The area is rich in wildlife, so keep an eye out for moose, black bear, and a variety of bird species during your hike.\n\nFor those looking to extend their stay, Telos Public Land offers a campground with primitive campsites, providing a true wilderness camping experience. Whether you're seeking adventure or simply a peaceful retreat in nature, Telos Public Land has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Telos%20Public%20Land"
+            },
+            {
+                "name": "Two Lights State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=28",
+                "content": "Two Lights State Park features breathtaking views of the Atlantic Ocean and two historic lighthouses.",
+                "description": "Two Lights State Park is located in Cape Elizabeth, Maine, overlooking the Atlantic Ocean. The park is named after the two historic lighthouses that sit perched on the rocky cliffs. Visitors can enjoy picnicking, hiking, and taking in the breathtaking views of the coastline. The park offers a great spot for whale watching during the migration season, as well as bird watching and photography opportunities. The rocky shores and crashing waves make for a serene and picturesque setting for visitors looking to relax and unwind by the sea.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Two%20Lights%20State%20Park"
+            },
+            {
+                "name": "Vaughan Woods Memorial State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=29",
+                "content": "Vaughan Woods Memorial State Park is a peaceful retreat in South Berwick featuring miles of scenic hiking trails along the Salmon Falls River.",
+                "description": "Vaughan Woods Memorial State Park, also known as Hobbs Farm, is a historic park located in South Berwick, Maine. It boasts over 250 acres of beautiful woodlands, fields, and shorelines along the Salmon Falls River.\n\nVisitors to the park can enjoy a variety of outdoor activities, including hiking, picnicking, birdwatching, and fishing. The park features several miles of well-maintained trails that offer stunning views of the river and surrounding landscape.\n\nOne of the highlights of Vaughan Woods Memorial State Park is the tranquil setting of Hamilton House, a historic mansion built in 1785 that is now open for tours during the summer months. The park also hosts various events and programs throughout the year, making it a popular destination for both locals and tourists.\n\nOverall, Vaughan Woods Memorial State Park is a peaceful and picturesque destination that offers a perfect escape from the hustle and bustle of everyday life. Whether you're looking for a leisurely stroll through nature or a relaxing day by the water, this park has something for everyone to enjoy.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Vaughan%20Woods%20Memorial%20State%20Park"
+            },
+            {
+                "name": "Warren Island State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=30",
+                "content": "Warren Island State Park is a small island park located in Penobscot Bay, offering camping, picnicking, and hiking opportunities in a beautiful coastal setting.",
+                "description": "Warren Island State Park is a picturesque island located off the coast of Lincolnville in Penobscot Bay. Visitors can access the island by private boat or kayak, as there are no ferries or public transportation options available. The park offers primitive camping sites with stunning views of the bay, as well as picnic areas and hiking trails for visitors to enjoy. Birdwatchers will appreciate the diverse array of bird species that call the island home, including bald eagles and various seabirds. The park is a hidden gem for those looking to experience the natural beauty and tranquility of the Maine coast.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Warren%20Island%20State%20Park"
+            },
+            {
+                "name": "Wassataquoik Public Land",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=35",
+                "content": "Wassataquoik Public Land is a remote wilderness area in northern Maine known for its rugged terrain, pristine waterways, and abundant wildlife.",
+                "description": "Wassataquoik Public Land is a remote wilderness area located in northern Maine, encompassing over 47,000 acres of pristine forests, remote rivers, and rugged mountain terrain. Visitors can enjoy activities such as hiking, fishing, camping, and wildlife watching in this untouched natural environment. The land is home to a variety of wildlife, including moose, black bears, and bald eagles, making it a popular destination for nature enthusiasts and wildlife photographers. The Wassataquoik River flows through the area, providing opportunities for canoeing and kayaking along its scenic waters. Due to its remote location and lack of amenities, visitors should come prepared with proper gear, supplies, and a sense of adventure when exploring Wassataquoik Public Land.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wassataquoik%20Public%20Land"
+            },
+            {
+                "name": "Whaleback Shell Midden",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=80",
+                "content": "The Whaleback Shell Midden is a prehistoric archaeological site in Maine featuring a large accumulation of clamshell remains deposited by Native American tribes over thousands of years.",
+                "description": "1. The Whaleback Shell Midden is a large prehistoric archaeological site located in Maine, believed to be created by Native Americans over 2,000 years ago.\n\n2. This massive shell midden is composed of discarded oyster and clam shells, measuring up to 30 feet high and covering an area of 12 acres, offering a glimpse into the ancient food practices of the indigenous people in the region.\n\n3. Visitors can explore the site and witness the layers of shells that have accumulated over centuries, providing a unique opportunity to learn about the history and cultural practices of the Native American tribes that once inhabited the area.\n\n4. The Whaleback Shell Midden is designated as a National Historic Landmark and is protected for its historical significance, making it a valuable destination for those interested in archaeology, anthropology, and Native American history.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Whaleback%20Shell%20Midden"
+            },
+            {
+                "name": "Whistle Stop Trail",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=76",
+                "content": "The Whistle Stop Trail is a 5.5 mile multi-use rail trail in Farmington, Maine, that offers scenic views of the Sandy River and is popular for walking, biking, and horseback riding.",
+                "description": "Whistle Stop Trail is a popular hiking destination in Maine that offers visitors a scenic and immersive outdoor experience. The trail is 11 miles long and follows the path of an abandoned railroad, making it a unique and historical journey for hikers. Along the way, visitors can enjoy stunning views of the surrounding forests and wildlife, making it a great spot for birdwatching and photography. The trail is well-maintained and relatively flat, making it accessible for hikers of all skill levels. Visitors can also explore nearby attractions such as the quaint town of Farmington and the Sandy River and Rangeley Lakes Railroad.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Whistle%20Stop%20Trail"
+            },
+            {
+                "name": "Wolfe's Neck Woods State Park",
+                "url": "https://apps.web.maine.gov/cgi-bin/online/doc/parksearch/details.pl?park_id=31",
+                "content": "Wolfe's Neck Woods State Park is a peaceful coastal park in Freeport, Maine with scenic ocean views and miles of hiking trails.",
+                "description": "Wolfe's Neck Woods State Park is a breathtaking coastal preserve located in Freeport, Maine. The park offers over 200 acres of pristine forest, rolling fields, and stunning ocean views, making it a perfect destination for nature lovers and hikers. Visitors can explore miles of scenic trails that wind through ancient hemlock groves and along the rugged coastline, offering glimpses of wildlife such as deer, foxes, and osprey. The park also features a picnic area with stunning views of Casco Bay, as well as a rocky beach where visitors can relax and enjoy the tranquility of the ocean. With its diverse ecosystems and stunning natural beauty, Wolfe's Neck Woods State Park is a must-visit destination for anyone looking to experience the best of Maine's coastal wilderness.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wolfe%27s%20Neck%20Woods%20State%20Park"
+            }
+        ]
+    }
+}

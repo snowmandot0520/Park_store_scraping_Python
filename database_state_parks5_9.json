@@ -1,0 +1,286 @@
+{
+    "New Mexico State Parks": {
+        "parks": [
+            {
+                "name": "Bluewater Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/bluewater-lake-state-park/",
+                "content": "Bluewater Lake State Park is a tranquil getaway with a 3,000-acre lake perfect for boating, fishing, and camping.",
+                "description": "Bluewater Lake is a tranquil state park located in western New Mexico, perfect for visitors seeking a peaceful escape from the hustle and bustle of city life. The lake offers excellent opportunities for boating, fishing, and wildlife watching, with a variety of fish species such as trout and catfish. Visitors can also enjoy hiking along the scenic trails surrounding the lake, or simply relax and take in the stunning views of the surrounding mountains and forests. The clear blue waters of the lake make it a popular spot for swimming and picnicking during the warmer months, making it an ideal destination for families and outdoor enthusiasts alike. Additionally, the park offers camping facilities for those looking to extend their stay and fully immerse themselves in the natural beauty of this hidden gem.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bluewater%20Lake"
+            },
+            {
+                "name": "Bottomless Lakes",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/bottomless-lakes-state-park/",
+                "content": "Bottomless Lakes State Park in New Mexico offers stunning and unique lakes with limestone sinkholes that give the appearance of being bottomless.",
+                "description": "Bottomless Lakes State Park in New Mexico offers visitors a unique experience with its series of deep, limestone sinkholes filled with crystal-clear water. The park is perfect for swimming, scuba diving, and paddleboarding, with opportunities to explore underwater caves and marine life. Guests can also enjoy hiking trails, picnicking areas, and birdwatching in this stunning desert oasis. The park's striking blue waters are a popular spot for photography and relaxation, making it a must-see destination for nature lovers and outdoor enthusiasts. Visitors can also learn about the park's geology and history through interpretive displays and ranger-led programs.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bottomless%20Lakes"
+            },
+            {
+                "name": "Brantley Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/brantley-lake-state-park/",
+                "content": "The representatives at Brantley Lake State Park are knowledgeable, friendly, and dedicated to ensuring visitors have a memorable outdoor experience.",
+                "description": "Brantley Lake State Park is a beautiful oasis in the Chihuahuan Desert, offering visitors a chance to relax and enjoy the water in a picturesque setting. The park features a large reservoir perfect for boating, fishing, and swimming, with stunning views of the surrounding cliffs and mesas. Hiking and birdwatching are popular activities on the park's trails, where visitors can spot a variety of wildlife and unique desert plants. The park also offers camping facilities for those looking to spend the night under the stars, making it a great destination for both day-trippers and those seeking a longer stay. Whether you're looking for outdoor adventure or a peaceful retreat, Brantley Lake State Park has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brantley%20Lake"
+            },
+            {
+                "name": "Caballo Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/caballo-lake-state-park/",
+                "content": "Caballo Lake State Park offers a serene setting for fishing, boating, and camping in southern New Mexico.",
+                "description": "Caballo Lake is a stunning reservoir located in southern New Mexico, offering visitors a picturesque escape surrounded by the desert landscape. The lake is perfect for fishing enthusiasts, with an abundance of walleye, bass, catfish, and crappie. Visitors can also enjoy water sports like boating, water skiing, and kayaking on the expansive 11,500-acre lake. The park features shaded picnic areas, barbecue grills, and a playground for families to enjoy a day of fun in the sun. With breathtaking sunsets over the water and starry nights perfect for stargazing, Caballo Lake State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Caballo%20Lake"
+            },
+            {
+                "name": "Cerrillos Hills",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/cerrillos-hills-state-park/",
+                "content": "The Cerrillos Hills State Park is a historic mining area offering hiking, biking, and horseback riding trails with panoramic views of the surrounding landscape.",
+                "description": "Cerrillos Hills State Park is located in Santa Fe County, New Mexico and is known for its stunning views of the surrounding landscapes and unique geological formations. Visitors can explore over 1,100 acres of hiking and biking trails, perfect for outdoor enthusiasts looking to immerse themselves in nature.\n\nThe park is rich in history, with evidence of ancient mining activities dating back thousands of years. Visitors can learn about the area's mining heritage through interpretive displays and guided tours, offering a glimpse into the region's past.\n\nWildlife enthusiasts will delight in the diverse array of flora and fauna that call Cerrillos Hills State Park home. Birdwatchers can spot a variety of bird species, while hikers may encounter rabbits, lizards, and other wildlife along the trails.\n\nFor those interested in stargazing, Cerrillos Hills State Park is designated as an International Dark Sky Park, providing excellent opportunities for viewing the night sky free from light pollution. Visitors can bring their telescopes or join one of the park's astronomy programs to learn more about the stars above.\n\nWhether you're seeking outdoor adventure, cultural exploration, or simply a serene escape from the hustle and bustle of everyday life, Cerrillos Hills State Park offers something for every visitor to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cerrillos%20Hills"
+            },
+            {
+                "name": "Cimarron Canyon",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/cimarron-canyon-state-park/",
+                "content": "Cimarron Canyon State Park is a scenic park in New Mexico featuring a picturesque canyon with an abundance of wildlife and outdoor recreation opportunities.",
+                "description": "Cimarron Canyon State Park is a breathtaking destination nestled in the Sangre de Cristo Mountains of northern New Mexico. Visitors to the park can explore over 30 miles of trails that wind through majestic forests and along the scenic Cimarron River. This area is ideal for hiking, fishing, and wildlife viewing, with opportunities to spot deer, elk, and a variety of bird species.\n\nOne of the highlights of Cimarron Canyon State Park is the stunning Cimarron Canyon itself, where sheer rock walls tower above the rushing river below. The canyon is a popular spot for photographers looking to capture the area's natural beauty. Camping is also available in the park, with both developed and primitive campsites offering visitors a chance to truly immerse themselves in the peaceful surroundings of the mountains. Whether you're seeking a tranquil escape in nature or an outdoor adventure, Cimarron Canyon State Park is a must-visit destination in New Mexico.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cimarron%20Canyon"
+            },
+            {
+                "name": "City of Rocks",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/city-of-rocks-state-park/",
+                "content": "The City of Rocks State Park is a unique geological marvel in southwestern New Mexico known for its large sculptured rock formations and excellent rock climbing opportunities.",
+                "description": "The City of Rocks State Park in New Mexico is a unique geological formation consisting of volcanic rock formations that resemble a city skyline, providing a stunning backdrop for outdoor activities such as hiking, camping, and rock climbing. Visitors can explore the park's many hiking trails, including the Catwalk Trail and the Table Top Trail, which offer breathtaking views of the surrounding landscape. The park also features a campground with spacious sites, picnic areas, and a visitor center with exhibits on the area's geology and history. Birdwatchers will enjoy spotting a variety of bird species, including roadrunners, rock wrens, and canyon towhees, that call the park home. Whether you're an outdoor enthusiast, a nature lover, or a geology buff, the City of Rocks State Park offers a unique and unforgettable experience for visitors of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=City%20of%20Rocks"
+            },
+            {
+                "name": "Clayton Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/clayton-lake-state-park-and-dinosaur-trackways/",
+                "content": "Clayton Lake State Park is a popular outdoor destination known for its scenic lake, dinosaur trackways, and a variety of recreational activities including camping, fishing, and hiking.",
+                "description": "Clayton Lake State Park is a hidden gem for outdoor enthusiasts and dinosaur lovers alike. The park features a stunning lake perfect for fishing, boating, and picnicking, surrounded by picturesque New Mexico landscapes. Visitors can also explore the fascinating dinosaur trackways that were discovered in the area, offering a glimpse into the prehistoric past. With hiking trails, camping sites, and bird-watching opportunities, Clayton Lake State Park is a must-visit destination for nature lovers of all ages. Whether you're seeking relaxation or adventure, this park has something for everyone to enjoy.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Clayton%20Lake"
+            },
+            {
+                "name": "Conchas Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/conchas-lake-state-park/",
+                "content": "Conchas Lake State Park is a popular recreational destination known for its scenic beauty, water-based activities, and excellent fishing opportunities.",
+                "description": "Conchas Lake is a stunning reservoir located in northeastern New Mexico, offering visitors a perfect destination for outdoor enthusiasts. The park features a variety of recreational activities such as boating, fishing, camping, and hiking. Visitors can explore the beautiful desert landscape surrounding the lake or relax on its sandy beaches. The lake is also known for its excellent fishing opportunities, with a wide variety of fish including walleye, bass, and catfish. With its crystal-clear waters and breathtaking scenery, Conchas Lake State Park is a must-visit destination for nature lovers and adventure seekers alike.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Conchas%20Lake"
+            },
+            {
+                "name": "Coyote Creek",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/coyote-creek-state-park/",
+                "content": "Coyote Creek State Park is a peaceful retreat in New Mexico with a meandering stream, lush forested hills, and scenic views.",
+                "description": "Coyote Creek State Park is located in the Sangre de Cristo Mountains of northern New Mexico, offering visitors a peaceful and serene escape from the hustle and bustle of everyday life. The park is known for its picturesque scenery, with dense forests, meadows filled with wildflowers, and a tranquil creek running through the grounds.\n\nVisitors can enjoy a variety of outdoor activities at Coyote Creek State Park, including hiking, fishing, wildlife viewing, and picnicking. The park is home to a diverse array of wildlife, including deer, elk, bear, and a variety of bird species, making it a popular spot for nature enthusiasts and photographers.\n\nCoyote Creek is a popular spot for fly fishing, with its clear waters teeming with trout. Anglers can try their luck at catching rainbow, brown, and brook trout, making it a must-visit destination for fishing enthusiasts.\n\nFor those looking to extend their stay, Coyote Creek State Park offers camping facilities with RV hookups and tent sites, as well as picnic areas and shelters for day use. Whether you're looking for a peaceful retreat in nature or an outdoor adventure, Coyote Creek State Park has something to offer for everyone.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Coyote%20Creek"
+            },
+            {
+                "name": "Eagle Nest Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/eagle-nest-lake-state-park/",
+                "content": "Eagle Nest Lake is a popular spot for fishing and boating in the mountains of northern New Mexico.",
+                "description": "Eagle Nest Lake is a pristine alpine lake nestled in the Sangre de Cristo Mountains of northern New Mexico, offering stunning views and a peaceful escape for visitors. The lake is popular for fishing, with rainbow and German brown trout stocked regularly, providing anglers with excellent opportunities to reel in a big catch. Surrounding the lake are hiking trails that lead to breathtaking overlooks, perfect for hikers and nature enthusiasts looking to explore the beauty of the surrounding area. Visitors can also enjoy camping and picnicking facilities, making it a great spot for a relaxing weekend getaway with family and friends. Whether you're looking to fish, hike, or simply relax in the serene mountain setting, Eagle Nest Lake has something for everyone to enjoy.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eagle%20Nest%20Lake"
+            },
+            {
+                "name": "Elephant Butte Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/elephant-butte-lake-state-park/",
+                "content": "Elephant Butte Lake is the largest and most popular state park in New Mexico, known for its opportunities for boating, camping, and fishing.",
+                "description": "1. Elephant Butte Lake is the largest and most popular lake in New Mexico, attracting visitors from all over the state and beyond.\n\n2. The lake offers a wide range of recreational activities, including boating, fishing, swimming, camping, and hiking along the picturesque shoreline.\n\n3. Visitors can rent boats, jet skis, and kayaks at the marinas around the lake, or simply relax on the sandy beaches and enjoy the stunning desert landscape.\n\n4. The lake is also known for its excellent fishing opportunities, with a variety of species such as bass, walleye, crappie, and catfish available for anglers to catch.\n\n5. Whether you're looking for a fun-filled day on the water or a peaceful escape into nature, Elephant Butte Lake is the perfect destination for outdoor enthusiasts of all ages.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Elephant%20Butte%20Lake"
+            },
+            {
+                "name": "El Vado Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/el-vado-lake-state-park/",
+                "content": "El Vado Lake is a beautiful state park in New Mexico known for its scenic beauty, excellent fishing opportunities, and water-based recreational activities.",
+                "description": "El Vado Lake is a beautiful destination for visitors looking to enjoy water activities in a serene natural setting. The lake is known for its excellent fishing opportunities, with a variety of fish including rainbow trout, kokanee salmon, and smallmouth bass.\n\nVisitors can also enjoy boating, swimming, and picnicking along the sandy beaches of the lake. The surrounding rocky cliffs and pine forests provide a picturesque backdrop for outdoor adventures.\n\nFor those looking to extend their stay, El Vado Lake State Park offers camping facilities with both developed and primitive campsites available. The park is also a popular spot for birdwatching, with sightings of bald eagles, osprey, and a variety of waterfowl.\n\nWhether you're seeking relaxation or exciting outdoor activities, El Vado Lake has something to offer for every visitor looking to connect with nature and enjoy the beauty of New Mexico.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=El%20Vado%20Lake"
+            },
+            {
+                "name": "Fenton Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/fenton-lake-state-park/",
+                "content": "Fenton Lake State Park offers a peaceful mountain getaway with opportunities for fishing, hiking, and picnicking in a serene alpine setting.",
+                "description": "Fenton Lake State Park is a serene destination nestled in the Jemez Mountains of New Mexico, offering visitors a peaceful escape surrounded by pine trees and stunning mountain views. The highlight of the park is the beautiful Fenton Lake, which is stocked with rainbow trout for fishing enthusiasts to enjoy. Visitors can explore the area on several hiking trails, including the popular 1.5-mile loop trail around the lake.  In the winter, the park transforms into a winter wonderland, perfect for cross-country skiing and snowshoeing. The park also offers picnic areas, a campground, and opportunities for wildlife viewing, making it a great destination for nature lovers of all ages.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fenton%20Lake"
+            },
+            {
+                "name": "Heron Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/heron-lake-state-park/",
+                "content": "Heron Lake State Park features a tranquil reservoir surrounded by pi\u00f1on and juniper-covered hills, providing a peaceful escape for fishing, boating, and camping.",
+                "description": "1. Heron Lake is a serene and picturesque reservoir located in northern New Mexico, surrounded by stunning mesas and forests, making it an ideal destination for nature lovers and outdoor enthusiasts.\n2. Visitors can enjoy a variety of recreational activities at the park, including fishing for rainbow trout, kokanee salmon, and smallmouth bass, as well as boating, camping, and bird watching.\n3. The park offers several hiking trails, including the scenic Ridgeline Trail, which provides breathtaking views of the lake and surrounding landscape, perfect for those looking to explore the area on foot.\n4. With over 5,800 acres of water to explore, Heron Lake is a popular destination for water sports such as kayaking, paddleboarding, and sailing, providing endless opportunities for adventure on the water.\n5. Whether you're seeking a relaxing weekend getaway or an action-packed outdoor adventure, Heron Lake State Park offers something for everyone, making it a must-visit destination in New Mexico's beautiful countryside.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Heron%20Lake"
+            },
+            {
+                "name": "Hyde Memorial",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/hyde-memorial-state-park/",
+                "content": "Hyde Memorial State Park is a peaceful mountain retreat located in Santa Fe, New Mexico, offering hiking trails and opportunities for picnicking and camping.",
+                "description": "Hyde Memorial State Park, located in the scenic Sangre de Cristo Mountains near Santa Fe, New Mexico, offers visitors a peaceful retreat in the heart of nature. The park features miles of hiking trails for all skill levels, including the popular Hyde Park Circle Trail that provides stunning views of the surrounding mountains. Picnic areas and campsites are available for those looking to enjoy a meal or stay overnight in this beautiful park. Visitors can also explore the historic T.M. Phillips Memorial, dedicated to the founder of the park, and learn about the rich history of the area. Wildlife enthusiasts will delight in the chance to spot native animals such as deer, elk, and various bird species in their natural habitat at Hyde Memorial State Park.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hyde%20Memorial"
+            },
+            {
+                "name": "Leasburg Dam",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/leasburg-dam-state-park/",
+                "content": "Leasburg Dam State Park is a peaceful and scenic park located along the Rio Grande River in New Mexico, offering fishing, picnicking, and hiking opportunities for visitors.",
+                "description": "Leasburg Dam State Park is a tranquil oasis located in the Chihuahuan Desert of southern New Mexico, offering a peaceful retreat for visitors seeking a break from the hustle and bustle of city life. The park features a picturesque reservoir formed by the Leasburg Dam, providing opportunities for fishing, boating, and swimming in the clear waters.\n\nNature lovers will appreciate the diverse wildlife and birdwatching opportunities found throughout the park, including sightings of bald eagles, herons, and migratory waterfowl. Hiking trails wind through the surrounding desert landscape, offering stunning views of the Organ Mountains and the Rio Grande Valley.\n\nVisitors can relax and unwind at the park's picnic areas, campsites, and RV facilities, perfect for a weekend getaway with family and friends. Whether you're looking to reconnect with nature or simply enjoy a peaceful day by the water, Leasburg Dam State Park offers a serene and scenic escape for all.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Leasburg%20Dam"
+            },
+            {
+                "name": "Living Desert Zoo & Gardens",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/living-desert-zoo-and-gardens-state-park/",
+                "content": "The Living Desert Zoo & Gardens State Park in Carlsbad, New Mexico is dedicated to the preservation and interpretation of the Chihuahuan Desert.",
+                "description": "The Living Desert Zoo & Gardens State Park in Carlsbad, New Mexico is a unique combination of a zoo and botanical garden that showcases the plants and animals native to the Chihuahuan Desert.\n\nVisitors can explore the park's three main sections: the Botanical Garden, the Desert Life Exhibit, and the Animal Encounters exhibit, which provide a comprehensive look at the desert ecosystem.\n\nThe Botanical Garden features over 40 acres of native plants from the region, while the Desert Life Exhibit showcases various desert animals such as snakes, lizards, and birds of prey.\n\nThe park also offers educational programs, guided tours, and special events throughout the year, making it a great destination for families, nature enthusiasts, and wildlife lovers alike. Whether you're interested in learning about desert wildlife or simply enjoying the beauty of the desert landscape, the Living Desert Zoo & Gardens State Park has something for everyone.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Living%20Desert%20Zoo%20%26%20Gardens"
+            },
+            {
+                "name": "Manzano Mountains",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/manzano-mountains-state-park/",
+                "content": "The Manzano Mountains in New Mexico offer peaceful hiking trails, beautiful scenery, and a campground for visitors to enjoy the great outdoors.",
+                "description": "The Manzano Mountains State Park in New Mexico offers visitors a diverse range of activities, including hiking, camping, and mountain biking. The park is home to a variety of wildlife, such as elk, deer, and bald eagles, making it a popular destination for nature lovers. Visitors can explore over 20 miles of hiking trails that wind through the forests and meadows of the park, offering stunning views of the surrounding landscapes. The park also features picnic areas and a visitor center where guests can learn more about the history and geology of the area. With its peaceful atmosphere and beautiful scenery, the Manzano Mountains State Park is a perfect escape for those looking to reconnect with nature.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Manzano%20Mountains"
+            },
+            {
+                "name": "Mesilla Valley Bosque",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/mesilla-valley-bosque-state-park/",
+                "content": "Mesilla Valley Bosque State Park is a peaceful and scenic nature preserve along the Rio Grande that offers opportunities for birdwatching, hiking, and picnicking.",
+                "description": "1. Mesilla Valley Bosque State Park is a hidden gem nestled along the banks of the Rio Grande in southern New Mexico, providing a lush and peaceful retreat for nature lovers and outdoor enthusiasts.\n\n2. Visitors can explore over 300 acres of cottonwood forest and wetlands, home to a variety of bird species including egrets, herons, and migratory waterfowl, making it a premier destination for birdwatching.\n\n3. The park offers hiking and biking trails, as well as picnic areas and wildlife viewing blinds, allowing visitors to immerse themselves in the natural beauty of the Bosque and observe the diverse plant and animal life that call this area home.\n\n4. During the summer months, visitors can take advantage of guided kayak tours on the Rio Grande, offering a unique perspective of the Bosque and the opportunity to spot wildlife from the water.\n\n5. Whether you're seeking a peaceful retreat in nature, a birdwatching paradise, or an outdoor adventure on the river, Mesilla Valley Bosque State Park has something for everyone to enjoy in this tranquil and scenic setting.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mesilla%20Valley%20Bosque"
+            },
+            {
+                "name": "Morphy Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/morphy-lake-state-park/",
+                "content": "Morphy Lake State Park is a picturesque mountain lake surrounded by pine forests and offers camping, fishing, and hiking opportunities in New Mexico.",
+                "description": "Morphy Lake State Park is a hidden gem nestled in the Sangre de Cristo Mountains of northern New Mexico. \n\nSurrounded by towering pine trees and stunning mountain views, the park offers a tranquil and picturesque setting for visitors looking to escape the hustle and bustle of everyday life. \n\nThe crystal-clear waters of Morphy Lake are perfect for fishing, boating, and kayaking, making it a popular spot for outdoor enthusiasts. \n\nCampers will find plenty of shaded spots to set up their tents or RVs, with picnic areas and hiking trails nearby for added convenience. \n\nWith its serene atmosphere and natural beauty, Morphy Lake State Park is a peaceful destination for visitors seeking a quiet retreat in the heart of the mountains.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Morphy%20Lake"
+            },
+            {
+                "name": "Navajo Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/navajo-lake-state-park/",
+                "content": "Navajo Lake is a scenic reservoir in New Mexico known for its clear blue waters and excellent opportunities for boating, fishing, and wildlife watching.",
+                "description": "Navajo Lake is a stunning reservoir located in northern New Mexico, surrounded by towering sandstone cliffs and lush forests, making it a popular destination for outdoor enthusiasts. The lake offers excellent fishing opportunities for rainbow trout, brown trout, and kokanee salmon, as well as water sports such as boating, water skiing, and kayaking.\n\nVisitors can explore the vast expanse of Navajo Lake State Park by hiking or mountain biking on the numerous trails that wind through the surrounding wilderness, offering breathtaking views of the lake and surrounding landscapes. The park also offers a range of camping options, from tent sites to RV hookups, providing a chance to immerse yourself in nature and enjoy the tranquility of the lake.\n\nFor those interested in wildlife viewing, Navajo Lake is home to a variety of bird species, including bald eagles, ospreys, and waterfowl, making it a birdwatcher's paradise. The area is also rich in archaeological sites, with ancient ruins and petroglyphs scattered throughout the park, offering a glimpse into the history of the region's Native American inhabitants.\n\nWhether you're looking to relax on the sandy beaches, reel in a trophy fish, or explore the rugged beauty of the New Mexico wilderness, Navajo Lake State Park has something for everyone to enjoy in a truly picturesque setting.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Navajo%20Lake"
+            },
+            {
+                "name": "Oasis",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/oasis-state-park/",
+                "content": "An Oasis State Park representative is committed to preserving the natural beauty and recreational opportunities offered at the park in New Mexico.",
+                "description": "Oasis State Park is located in New Mexico and offers visitors a serene natural oasis in the middle of the desert. The park features a spring-fed pond that attracts a variety of bird species, making it a popular spot for birdwatching enthusiasts. Visitors can also enjoy picnicking, fishing, and hiking along the park's scenic trails.\n\nFor those looking to cool off, the park offers a swimming area where guests can take a refreshing dip in the crystal-clear waters. Camping is also available at Oasis State Park, allowing visitors to spend the night under the stars and experience the tranquility of the desert landscape.\n\nThe park is a perfect destination for families, nature lovers, and outdoor enthusiasts looking to escape the hustle and bustle of city life. With its unique combination of water, wildlife, and peaceful surroundings, Oasis State Park offers a truly unforgettable experience for all who visit.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Oasis"
+            },
+            {
+                "name": "Oliver Lee Memorial",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/oliver-lee-memorial-state-park/",
+                "content": "The Oliver Lee Memorial State Park is a peaceful desert oasis nestled at the base of the Sacramento Mountains in New Mexico.",
+                "description": "Oliver Lee Memorial State Park is a serene and picturesque park located in southern New Mexico, offering stunning views of the surrounding Sacramento Mountains. The park is named after Oliver Milton Lee, a prominent rancher and pioneer of the region, whose former homestead is preserved within the park. Visitors can explore the historic Lee House, built in the late 19th century, as well as the nearby Dog Canyon Trail, which offers a challenging but rewarding hike through rugged desert terrain. Bird watchers will also enjoy the diverse array of bird species that call the park home, including golden eagles and various species of hummingbirds. Whether you're looking for history, hiking, or just a peaceful retreat in nature, Oliver Lee Memorial State Park has something for everyone to enjoy.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Oliver%20Lee%20Memorial"
+            },
+            {
+                "name": "Pancho Villa",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/pancho-villa-state-park/",
+                "content": "Pancho Villa State Park in New Mexico is dedicated to preserving the historic site where Mexican revolutionary Pancho Villa and his men raided the town of Columbus in 1916.",
+                "description": "Pancho Villa State Park in Columbus, New Mexico, is located on the site of the historic raid conducted by Mexican revolutionary Pancho Villa in 1916. Visitors can explore the original buildings and barracks that were used by both Villa's men and the U.S. Army during this period of border conflict.\n\nThe park features a museum that showcases artifacts, photographs, and exhibits detailing the events of the raid and its impact on the region. There is also a beautiful picnic area and walking trails where visitors can enjoy the natural beauty of the surrounding desert landscape.\n\nIn addition to its historical significance, Pancho Villa State Park also offers camping facilities for those looking to spend the night in this historic location. The park hosts interpretive programs and special events throughout the year, providing visitors with a deeper understanding of the history and culture of the area.\n\nVisitors to Pancho Villa State Park can immerse themselves in the rich history and heritage of the region while enjoying the peaceful surroundings and outdoor recreational opportunities available at this unique and historic site.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pancho%20Villa"
+            },
+            {
+                "name": "Pecos Canyon",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/pecos-canyon-state-park/",
+                "content": "Pecos Canyon State Park offers stunning views of towering cliffs and the winding Pecos River for outdoor enthusiasts to enjoy hiking, camping, and fishing.",
+                "description": "Pecos Canyon State Park is a picturesque destination located in northern New Mexico, known for its stunning canyons and vibrant wildlife. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, and picnicking along the Pecos River. The park is also home to a diverse range of flora and fauna, making it a great spot for birdwatching and nature enthusiasts. History buffs will appreciate the park's rich cultural heritage, including the ruins of a historic Civilian Conservation Corps camp. With its rugged beauty and peaceful atmosphere, Pecos Canyon State Park offers a unique and unforgettable experience for visitors looking to explore the natural wonders of New Mexico.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2015/08/Little-Moose-Public-Reserved-Land-Big-Moose-Pond-500x300.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pecos%20Canyon"
+            },
+            {
+                "name": "Percha Dam",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/percha-dam-state-park/",
+                "content": "Percha Dam State Park is a tranquil spot for fishing, boating, and picnicking along the beautiful Percha Reservoir in New Mexico.",
+                "description": "Percha Dam State Park, located in New Mexico, is a hidden gem for outdoor enthusiasts looking to escape the hustle and bustle of city life. The park offers a tranquil setting for camping, picnicking, and fishing along the beautiful Rio Grande River.\n\nVisitors can explore the dam and learn about its history, which dates back to the early 20th century when it was originally built for irrigation purposes. The park also has hiking trails that wind through the surrounding desert landscape, offering stunning views of the river and nearby mountains.\n\nBirdwatchers will be delighted to know that Percha Dam State Park is a prime spot for spotting a variety of avian species, including bald eagles, osprey, and great blue herons. The park's peaceful atmosphere and diverse wildlife make it a perfect destination for nature lovers looking to relax and recharge in a pristine natural setting.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Percha%20Dam"
+            },
+            {
+                "name": "Rio Grande Nature Center",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/rio-grande-nature-center-state-park/",
+                "content": "The Rio Grande Nature Center State Park offers a peaceful escape with easy trails for birdwatching and wildlife viewing in Albuquerque.",
+                "description": "The Rio Grande Nature Center is a 38-acre nature preserve located in Albuquerque, New Mexico, known for its diverse wildlife and scenic trails. Visitors can observe a variety of bird species, including sandhill cranes, herons, and ducks, making it a popular spot for birdwatching enthusiasts.\n\nThe park features a visitor center with interactive exhibits, educational programs, and a gift shop selling local artwork and nature-inspired souvenirs. The Rio Grande Nature Center is also home to the Pueblo Gardens, a collection of native plants and trees that showcase the region's natural beauty.\n\nThe park offers several walking trails that wind through cottonwood forests, wetlands, and along the Rio Grande river, providing opportunities for hiking, photography, and peaceful reflection. The park's location along the Central Flyway also makes it a prime spot for spotting migratory birds during the fall and spring seasons.",
+                "image": "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rio%20Grande%20Nature%20Center"
+            },
+            {
+                "name": "Rockhound",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/rockhound-state-park/",
+                "content": "A Rockhound with representitive simple one sentence.",
+                "description": "Rockhound State Park in New Mexico is a paradise for rock enthusiasts, offering a variety of unique stones ready for collecting. The park's famous Thunder Egg Trail is a must-visit for those looking to find colorful geodes filled with crystals inside. Visitors can also enjoy stunning views of the rugged Florida Mountains while hiking or picnicking in the park. Make sure to bring a backpack and sturdy shoes for exploring the rocky terrain and searching for treasures. Don't forget to stop by the visitor center to learn more about the geology and history of the area before heading out on your rockhounding adventure.",
+                "image": "https://www.sierraclub.org/sites/default/files/styles/sierra_full_page_width/public/sierra/articles/big/SIERRA%20Mount%20Katahdin%20WB.jpg.webp?itok=uowIzbRy",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rockhound"
+            },
+            {
+                "name": "Santa Rosa Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/santa-rosa-lake-state-park/",
+                "content": "Santa Rosa Lake is a peaceful reservoir known for its excellent fishing and serene waters perfect for boating and swimming.",
+                "description": "Santa Rosa Lake is a beautiful reservoir located in the high plains of eastern New Mexico, surrounded by picturesque mesas and rugged terrain. The lake offers a variety of recreational opportunities including boating, fishing, camping, and hiking. Visitors can explore the serene waters by boat or kayak and try their luck at catching walleye, bass, or catfish. The park also features campgrounds with stunning views of the lake, perfect for a relaxing weekend getaway. Whether you are an outdoor enthusiast or simply looking for a peaceful retreat, Santa Rosa Lake State Park is a must-visit destination in the Land of Enchantment.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Santa%20Rosa%20Lake"
+            },
+            {
+                "name": "Storrie Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/storrie-lake-state-park/",
+                "content": "Storrie Lake State Park is a small and peaceful lake surrounded by juniper and pinon trees, offering camping, fishing, and boating opportunities in New Mexico.",
+                "description": "Storrie Lake State Park is a beautiful oasis located in northern New Mexico, just minutes from the historic town of Las Vegas. This picturesque lake, surrounded by rolling hills and majestic mountains, offers fantastic opportunities for boating, fishing, and picnicking. Visitors can enjoy peaceful walks along the shore or challenge themselves with a hike up nearby Hermit's Peak. The park is also a popular spot for birdwatching, with a variety of bird species calling the area home. Whether you're looking for a relaxing day on the water or an adventurous outdoor experience, Storrie Lake State Park has something for everyone.",
+                "image": "https://www.nrcm.org/wp-content/uploads/2020/06/Debouille-David-Preston-600x400.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Storrie%20Lake"
+            },
+            {
+                "name": "Sugarite Canyon",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/sugarite-canyon-state-park/",
+                "content": "Sugarite Canyon State Park is a picturesque retreat for outdoor enthusiasts, offering scenic hiking trails, fishing in Lake Maloya, and opportunities for wildlife viewing in northeastern New Mexico.",
+                "description": "Sugarite Canyon State Park is a hidden gem in northern New Mexico, offering visitors a chance to explore stunning canyons, meandering streams, and dense forests. The park is named after the abundance of sugar maple trees that once grew in the area, providing a colorful display of foliage in the fall. Outdoor enthusiasts can hike along the park's network of trails, fish in the pristine waters of Lake Maloya, or camp under the star-filled sky. Birdwatchers will delight in the park's diverse avian population, with over 130 species of birds calling Sugarite Canyon home. Don't forget to pack a picnic and enjoy a relaxing meal amidst the park's natural beauty.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/a246618e-3b9b-47e8-bea0-8a150f31d15f-vtm75b77f0fadecac71c.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sugarite%20Canyon"
+            },
+            {
+                "name": "Sumner Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/sumner-lake-state-park/",
+                "content": "Sumner Lake State Park in New Mexico offers fishing, boating, camping and hiking opportunities for outdoor enthusiasts.",
+                "description": "Sumner Lake State Park is a hidden gem located in northeastern New Mexico, just outside of the town of Fort Sumner. The park is centered around a beautiful, 4,500-acre reservoir that offers excellent opportunities for boating, fishing, and water sports. Visitors can enjoy camping at one of the park's 60 campsites or rent a cozy cabin overlooking the lake. The park also features miles of hiking and biking trails, as well as abundant birdwatching opportunities for nature enthusiasts. With stunning sunsets and tranquil surroundings, Sumner Lake State Park is the perfect destination for a peaceful retreat in the heart of the New Mexico desert.",
+                "image": "https://cdn.branchcms.com/l4gOa2eDBE-756/images/trails/trail-system/IMG_6938-1.1686744195.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sumner%20Lake"
+            },
+            {
+                "name": "Ute Lake",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/ute-lake-state-park/",
+                "content": "Ute Lake State Park is a popular destination for fishing, boating, and camping in New Mexico's eastern plains.",
+                "description": "Ute Lake State Park is a hidden gem nestled in the high plains of New Mexico, offering visitors a serene and picturesque escape from the hustle and bustle of everyday life. The lake, which spans over 8,200 acres, is a haven for water sports enthusiasts, with opportunities for boating, fishing, and swimming. The park also boasts a variety of hiking trails that wind through the surrounding canyons and mesas, providing stunning views of the rugged landscape. Visitors can choose from a range of camping options, including RV sites and cozy cabins, allowing them to fully immerse themselves in the beauty of the park. Whether you're seeking adventure or relaxation, Ute Lake State Park has something for everyone to enjoy.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ute%20Lake"
+            },
+            {
+                "name": "Villanueva",
+                "url": "https://www.emnrd.nm.gov/spd/find-a-park/villanueva-state-park/",
+                "content": "Villanueva State Park is a peaceful and secluded park located along the Pecos River in New Mexico.",
+                "description": "Villanueva State Park is located in the beautiful Pecos River Valley, offering visitors stunning views of the surrounding landscape. The park is a popular destination for hiking, fishing, and picnicking, with a variety of trails and picnic areas to explore. Visitors can also enjoy birdwatching and wildlife viewing in the park, as it is home to a diverse array of plant and animal species. The historic Villanueva Bridge, which was built in 1939, is a must-see attraction for history buffs and architecture enthusiasts alike. Camping is also available in the park, allowing visitors to stay overnight and immerse themselves in the peaceful natural surroundings.",
+                "image": "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/553f9268-d09c-4677-a95a-6f33b58ebc34-vtm9bf61be5cb221cc06.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Villanueva"
+            }
+        ]
+    }
+}

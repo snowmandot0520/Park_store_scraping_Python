@@ -1,0 +1,14 @@
+{
+    "Louisiana State Parks": {
+        "parks": [
+            {
+                "name": "Park Information",
+                "url": "https://www.lastateparks.com/historic-sites/winter-quarters-state-historic-site",
+                "content": "Winter Quarters State Historic Site offers a glimpse into the rich history of Louisiana with exhibits and guided tours showcasing the former plantation grounds.",
+                "description": "Winter Quarters State Historic Site in Lake Providence, Louisiana, preserves the remains of a 19th-century plantation that once served as the winter home for wealthy cotton planters. Visitors can explore the preserved slave quarters, the main house, and other outbuildings to gain insight into the lives of those who lived and worked on the plantation. The site also offers interpretive exhibits and guided tours that share the history of the site and the impact of slavery in Louisiana. Nature lovers will appreciate the scenic grounds with tall oak trees draped in Spanish moss and views of the Mississippi River. It is a somber but important reminder of the region's complex past.",
+                "image": "data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%201080%20612'%2F%3E",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Park%20Information"
+            }
+        ]
+    }
+}

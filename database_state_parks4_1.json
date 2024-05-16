@@ -1,0 +1,382 @@
+{
+    "Kentucky State Parks": {
+        "parks": [
+            {
+                "name": "Barren River Lake State Resort Park",
+                "url": "https://parks.ky.gov//explore/barren-river-lake-state-resort-park-7781",
+                "content": "Barren River Lake State Resort Park features a 51-room lodge overlooking the beautiful 10,000 acre Barren River Lake in south central Kentucky.",
+                "description": "Barren River Lake State Resort Park offers visitors a picturesque getaway in south-central Kentucky. With over 10,000 acres of land and water, this park is perfect for outdoor enthusiasts looking to fish, boat, hike, or simply relax. The park's lodge and cabins provide comfortable accommodations with stunning views of the lake. Guests can enjoy a round of golf at the park's 18-hole course or take a refreshing dip in the swimming pool during the summer months. Nature lovers will appreciate the park's diverse wildlife and beautiful trails for exploring the surrounding landscape.",
+                "image": "https://www.explorescottcountyva.org/wp-content/uploads/Breaks-Interstate-Park.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Barren%20River%20Lake%20State%20Resort%20Park"
+            },
+            {
+                "name": "Big Bone Lick State Historic Site",
+                "url": "https://parks.ky.gov//explore/big-bone-lick-state-historic-site-7807",
+                "content": "Big Bone Lick State Historic site is home to ancient salt springs that attracted prehistoric animals and has a museum showcasing mastodon and other fossils found on the site.",
+                "description": "Big Bone Lick State Historic Site in Kentucky is known for its fascinating history as a prehistoric salt lick where ancient animals once roamed. Visitors can explore the museum, which features exhibits on the Ice Age, fossils, and the mastodon. There are several hiking trails throughout the park that offer stunning views of the surrounding landscape. In addition to learning about the area's natural history, visitors can also enjoy camping, picnicking, and fishing in the park. Don't forget to stop by the gift shop to pick up a souvenir to remember your trip to Big Bone Lick State Historic Site.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Bone%20Lick%20State%20Historic%20Site"
+            },
+            {
+                "name": "Blue Licks Battlefield State Resort Park",
+                "url": "https://parks.ky.gov//explore/blue-licks-battlefield-state-resort-park-7782",
+                "content": "Blue Licks Battlefield State Resort Park is a historic site in Kentucky where one of the last Revolutionary War battles was fought.",
+                "description": "Blue Licks Battlefield State Resort Park is located in Robertson County, Kentucky and has a rich history dating back to the American Revolutionary War. Visitors to the park can explore the site of the Battle of Blue Licks, which took place in 1782 and was one of the last battles of the war. The park offers hiking trails, a museum, a mini-golf course, and a swimming pool for guests to enjoy. Additionally, the park features a full-service conference center, making it an ideal location for meetings, retreats, and special events. With its historical significance and modern amenities, Blue Licks Battlefield State Resort Park is a unique destination for visitors looking to explore Kentucky's past while enjoying the beauty of the present.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blue%20Licks%20Battlefield%20State%20Resort%20Park"
+            },
+            {
+                "name": "Breaks Interstate Park",
+                "url": "https://parks.ky.gov//explore/breaks-interstate-park-7829",
+                "content": "Breaks Interstate Park is a bi-state park located in Kentucky and Virginia, featuring stunning scenery of the Breaks Canyon and offers a variety of outdoor activities for visitors to enjoy.",
+                "description": "Breaks Interstate Park is a unique park located on the border of Virginia and Kentucky, known as the \"Grand Canyon of the South.\" With stunning cliffs that drop over 1,600 feet to the canyon floor, it offers breathtaking views that are sure to impress visitors. The park features a variety of outdoor activities including hiking, biking, fishing, and even whitewater rafting on the Russell Fork River. Visitors can explore over 25 miles of trails that wind through the rugged terrain, providing opportunities to see wildlife and beautiful scenery. Additionally, the park offers camping and cabin rentals for those looking to extend their stay and immerse themselves in the natural beauty of the area.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Breaks%20Interstate%20Park"
+            },
+            {
+                "name": "Buckhorn Lake State Resort Park",
+                "url": "https://parks.ky.gov//explore/buckhorn-lake-state-resort-park-7784",
+                "content": "Buckhorn Lake State Resort Park is a peaceful getaway in eastern Kentucky offering a variety of outdoor activities including camping, boating, and fishing.",
+                "description": "Buckhorn Lake State Resort Park is a beautiful destination nestled in the rolling hills of eastern Kentucky. The park offers a wide range of outdoor activities, including fishing, boating, hiking, and golfing. Visitors can explore the scenic trails that wind through the park's lush forests and along the shore of Buckhorn Lake. The park also features a lodge with comfortable accommodations, a restaurant serving delicious meals, and a swimming pool perfect for cooling off on a hot day. With its stunning natural beauty and abundant recreational opportunities, Buckhorn Lake State Resort Park is a great place for a relaxing getaway in the heart of the Bluegrass State.",
+                "image": "https://www.nps.gov/common/uploads/cropped_image/primary/B184712C-E831-3CA5-A6AB6A217EE005BF.jpeg?width=1600&quality=90&mode=crop",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buckhorn%20Lake%20State%20Resort%20Park"
+            },
+            {
+                "name": "Carr Creek State Park",
+                "url": "https://parks.ky.gov//explore/carr-creek-state-park-7808",
+                "content": "Carr Creek State Park is a peaceful destination featuring picturesque scenery, camping facilities, and opportunities for fishing and boating.",
+                "description": "Carr Creek State Park in Kentucky offers visitors a serene setting with lush green forests and a sparkling lake, perfect for outdoor activities such as fishing and boating. The park features a picturesque campground with spacious RV and tent sites, as well as cozy cabins for those looking for a more comfortable stay. Hiking enthusiasts will enjoy exploring the park's scenic trails, which wind through forests and offer stunning views of the surrounding landscape. Carr Creek State Park is also a great spot for wildlife watching, with opportunities to see various bird species, deer, and other animals in their natural habitat. Whether you're looking for a peaceful getaway or an adventure in nature, Carr Creek State Park has something for everyone to enjoy.",
+                "image": "https://photos.smugmug.com/History/Early-19th-Century/Old-Fort-Harrod-State-Park-KY/i-wjcBP2v/0/D4T3Qfbh7Z8vLN2FnkJtzc6jHQ8LxHTBFZfCzV5VG/XL/IMG_2727-XL.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Carr%20Creek%20State%20Park"
+            },
+            {
+                "name": "Carter Caves State Resort Park",
+                "url": "https://parks.ky.gov//explore/carter-caves-state-resort-park-7785",
+                "content": "Carter Caves State Resort Park offers a variety of outdoor activities such as hiking, biking, and cave tours in a beautiful forested setting in Kentucky.",
+                "description": "Carter Caves State Resort Park is a beautiful getaway in eastern Kentucky, offering a unique underground experience with over 20 caverns to explore. Visitors can take guided tours through the intricate passageways of the caves, including Cascade Cave and X Cave, to learn about the geological formations and history of the area. The park also features hiking trails, horseback riding, mini-golf, and a 9-hole golf course for outdoor enthusiasts to enjoy. For those looking to spend the night, there are cozy cottages, campsites, and a lodge with breathtaking views of the surrounding forest. With its picturesque landscapes and exciting activities, Carter Caves State Resort Park is a must-visit destination for nature lovers and adventure seekers.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Carter%20Caves%20State%20Resort%20Park"
+            },
+            {
+                "name": "Columbus-Belmont State Park",
+                "url": "https://parks.ky.gov//explore/columbus-belmont-state-park-7809",
+                "content": "Columbus-Belmont State Park is a historic site that offers picnicking, camping, hiking, and Civil War history in a scenic riverfront setting.",
+                "description": "Columbus-Belmont State Park in Kentucky offers visitors the chance to explore a Civil War site that was once a strategic location for both the Union and Confederate armies. The park features a reconstructed Confederate fort, historic buildings, and an interpretive center where guests can learn about the area's role in the war.\n\nVisitors can also enjoy outdoor activities such as hiking, picnicking, and camping in the park's beautiful wooded surroundings along the Mississippi River. The park features a scenic overlook where guests can take in stunning views of the river and surrounding countryside.\n\nHistory enthusiasts will appreciate the numerous historical exhibits and markers throughout the park that tell the story of the Battle of Belmont, which took place in 1861. The park offers guided tours and special events throughout the year that provide a deeper insight into the site's rich history.\n\nIn addition to its historical significance, Columbus-Belmont State Park also offers modern amenities such as a campground, picnic shelters, and playgrounds, making it a great destination for families and outdoor enthusiasts alike. Whether you're interested in history, nature, or simply looking for a peaceful retreat, Columbus-Belmont State Park has something to offer every visitor.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Columbus-Belmont%20State%20Park"
+            },
+            {
+                "name": "Cumberland Falls State Resort Park",
+                "url": "https://parks.ky.gov//explore/cumberland-falls-state-resort-park-7786",
+                "content": "Cumberland Falls State Resort Park is a scenic destination in Kentucky known for its stunning waterfall and outdoor recreational activities.",
+                "description": "Cumberland Falls State Resort Park is known as the \"Niagara of the South\" due to its impressive 125-foot wide curtain of water. Visitors can enjoy breathtaking views of the falls from various overlooks along the river. The park offers a range of outdoor activities, including hiking, fishing, bird watching, and horseback riding. One of the park's unique attractions is the rare moonbow, a rainbow produced by the light of a full moon. Guests can also stay overnight in the park's lodge, cabins, or camping areas for a complete nature experience.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cumberland%20Falls%20State%20Resort%20Park"
+            },
+            {
+                "name": "Dale Hollow Lake State Resort Park",
+                "url": "https://parks.ky.gov//explore/dale-hollow-lake-state-resort-park-7787",
+                "content": "Dale Hollow Lake State Resort Park offers stunning views of the lake, a variety of outdoor activities, and comfortable accommodations, making it the perfect destination for a relaxing getaway in Kentucky.",
+                "description": "Dale Hollow Lake State Resort Park is located in Burkesville, Kentucky, offering visitors a breathtaking natural setting for outdoor activities such as boating, fishing, and hiking. The park features a beautiful lodge with lakeview rooms, a cozy restaurant, and an 18-hole golf course for guests to enjoy. For those looking to relax, there is a swimming pool, tennis courts, and picnic areas scattered throughout the park. The park also offers boat rentals, guided fishing trips, and a marina for easy access to Dale Hollow Lake, known for its crystal clear waters and abundance of fish. Whether you're looking for adventure or a peaceful retreat, Dale Hollow Lake State Resort Park has something for everyone.",
+                "image": "https://s7d1.scene7.com/is/image/isp/fortdefiance-2301-e-360600?ts=1674260036367&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dale%20Hollow%20Lake%20State%20Resort%20Park"
+            },
+            {
+                "name": "Dawkins Line Rail Trail",
+                "url": "https://parks.ky.gov//explore/dawkins-line-rail-trail-7831",
+                "content": "The Dawkins Line Rail Trail is a 36-mile long trail in eastern Kentucky that follows the former Dawkins Line railroad route.",
+                "description": "The Dawkins Line Rail Trail is located in eastern Kentucky and offers visitors a unique outdoor experience. This 18-mile trail follows the abandoned Dawkins Line railroad bed, offering scenic views of the surrounding woodlands and wildlife.\n\nVisitors can enjoy hiking, biking, or horseback riding along the trail, which features a crushed limestone surface that is easy to traverse. The trail is also wheelchair accessible, making it suitable for visitors of all abilities.\n\nAlong the trail, visitors can see historic railroad trestles, tunnels, and other remnants of the area's industrial past. Interpretive signs provide information about the history and natural features of the trail, adding to the educational experience.\n\nThe trail passes through the picturesque Paintsville Lake State Park, where visitors can enjoy fishing, boating, and picnicking. The park also offers camping facilities for those who want to spend more time exploring the area.\n\nOverall, the Dawkins Line Rail Trail is a great destination for outdoor enthusiasts looking to experience the beauty and history of Kentucky's Appalachian region. Whether you're looking for a leisurely stroll or a more challenging adventure, this trail has something to offer for everyone.",
+                "image": "https://www.explorescottcountyva.org/wp-content/uploads/Breaks-Interstate-Park.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dawkins%20Line%20Rail%20Trail"
+            },
+            {
+                "name": "Dr. Thomas Walker State Historic Site",
+                "url": "https://parks.ky.gov//explore/dr-thomas-walker-state-historic-site-7801",
+                "content": "Dr. Thomas Walker State Historic Site in Kentucky preserves the home and gravesite of the famous explorer and physician Dr. Thomas Walker, providing insight into his significant role in the early history of the region.",
+                "description": "Dr. Thomas Walker State Historic Site in Barbourville, Kentucky, commemorates the life and legacy of Dr. Thomas Walker, a prominent explorer and one of the first non-Native Americans to explore Kentucky.\nVisitors can explore the replica of Dr. Walker's cabin, which is furnished with period-appropriate items to give a glimpse into life in the 18th century.\nThe site also features the original springhouse built by Dr. Walker, as well as a museum that showcases artifacts and exhibits related to his expeditions and accomplishments.\nOutdoor enthusiasts can enjoy hiking trails that wind through the site's beautiful grounds, offering opportunities for nature walks and birdwatching.\nOverall, Dr. Thomas Walker State Historic Site offers a fascinating look into the history and pioneering spirit of one of Kentucky's early explorers.",
+                "image": "https://s7d1.scene7.com/is/image/isp/fortdefiance-2301-e-360600?ts=1674260036367&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dr.%20Thomas%20Walker%20State%20Historic%20Site"
+            },
+            {
+                "name": "E.P. Tom Sawyer State Park",
+                "url": "https://parks.ky.gov//explore/e-p--7810",
+                "content": "The Tom Sawyer State Park E.P. offers a scenic retreat for outdoor enthusiasts with opportunities for hiking, biking, and birdwatching.",
+                "description": "1. Tom Sawyer State Park is a beautifully maintained outdoor oasis located just outside of Louisville, Kentucky. With over 500 acres of lush greenery, picnic areas, and trails, it's the perfect spot for a fun-filled day of hiking, biking, or simply enjoying the scenery.\n\n2. One of the highlights of the park is its 14-acre lake, which offers opportunities for fishing, paddle boating, and wildlife spotting. Visitors can also take advantage of the park's well-maintained playgrounds, sports fields, and even a dog park for furry friends to enjoy.\n\n3. For those looking to explore the park in a more unique way, Tom Sawyer State Park also offers geocaching opportunities, where participants use GPS devices to locate hidden treasures throughout the park. It's a fun and interactive way to discover all that the park has to offer.\n\n4. Visitors can also join in on one of the park's organized programs or events, such as guided nature hikes, educational workshops, or special holiday celebrations. These activities provide a great way to learn more about the park's natural surroundings and history while meeting fellow outdoor enthusiasts.\n\n5. Whether you're looking for a peaceful spot to relax and unwind or an action-packed day of outdoor adventures, Tom Sawyer State Park has something for everyone. So pack a picnic, lace up your hiking boots, and head to this picturesque park for a day of fun in the great outdoors.",
+                "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304660489.jpg?k=efabdca0f9e129a6a57d9d7287206c146367a35be2d5d35aec8d6267fe85ea6b&o=&hp=1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=E.P.%20Tom%20Sawyer%20State%20Park"
+            },
+            {
+                "name": "Fort Boonesborough State Park",
+                "url": "https://parks.ky.gov//explore/fort-boonesborough-state-park-7811",
+                "content": "Fort Boonesborough State Park is a historic site where visitors can experience life as it was in a frontier fort during the late 18th century.",
+                "description": "Fort Boonesborough State Park is a fascinating destination for history buffs, as it is the site of a reconstructed fort that was originally built by Daniel Boone in the late 1700s. Visitors can explore the fort and learn about what life was like for early settlers on the Kentucky frontier. The park also offers a variety of outdoor activities, including hiking, fishing, and camping, making it a great destination for nature lovers as well. Additionally, the park hosts special events and reenactments throughout the year, providing a fun and educational experience for visitors of all ages. Whether you're interested in history, outdoor recreation, or both, Fort Boonesborough State Park has something to offer for everyone.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Boonesborough%20State%20Park"
+            },
+            {
+                "name": "General Burnside Island State Park",
+                "url": "https://parks.ky.gov//explore/general-burnside-island-state-park-7812",
+                "content": "General Burnside Island State Park is a peaceful lakeside retreat offering a variety of outdoor activities including camping, fishing, and boating.",
+                "description": "General Burnside Island State Park is located on an island surrounded by Lake Cumberland in Kentucky. Visitors can enjoy camping, fishing, boating, and hiking in this beautiful park. The park has a golf course, picnic areas, and a marina for visitors to enjoy. With over 400 acres of natural beauty, General Burnside Island State Park is a great destination for outdoor enthusiasts. The park also offers a variety of accommodations including cabins, campsites, and RV hookups for overnight stays.",
+                "image": "https://www.nps.gov/common/uploads/cropped_image/primary/B184712C-E831-3CA5-A6AB6A217EE005BF.jpeg?width=1600&quality=90&mode=crop",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=General%20Burnside%20Island%20State%20Park"
+            },
+            {
+                "name": "General Butler State Resort Park",
+                "url": "https://parks.ky.gov//explore/general-butler-state-resort-park-7789",
+                "content": "General Butler State Resort Park is a state park in Kentucky offering recreational activities such as golf, hiking, camping, and fishing.",
+                "description": "General Butler State Resort Park is located in Carrollton, Kentucky and offers a wide range of outdoor activities for visitors to enjoy. The park features a beautiful 30-acre lake that is perfect for fishing, boating, and swimming during the warmer months. For those looking to explore the park on foot, there are several hiking trails that wind through the picturesque wooded areas surrounding the park.\n\nVisitors can also take advantage of the park's golf course, which offers 18-holes of challenging play for golf enthusiasts of all skill levels. In addition to outdoor activities, General Butler State Resort Park also has a lodge with comfortable accommodations, as well as a restaurant that serves delicious meals made with locally sourced ingredients.\n\nFor those looking to relax and unwind, the park offers a range of recreational amenities, including a swimming pool, tennis courts, and a playground for children. Whether you're looking for adventure or just a peaceful retreat in nature, General Butler State Resort Park has something for everyone to enjoy.",
+                "image": "https://photos.smugmug.com/History/Early-19th-Century/Old-Fort-Harrod-State-Park-KY/i-wjcBP2v/0/D4T3Qfbh7Z8vLN2FnkJtzc6jHQ8LxHTBFZfCzV5VG/XL/IMG_2727-XL.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=General%20Butler%20State%20Resort%20Park"
+            },
+            {
+                "name": "Grayson Lake State Park",
+                "url": "https://parks.ky.gov//explore/grayson-lake-state-park-7813",
+                "content": "Grayson Lake State Park is a scenic outdoor destination in Kentucky, offering activities such as fishing, boating, camping, and hiking.",
+                "description": "Grayson Lake State Park in Kentucky offers a variety of outdoor activities for visitors to enjoy, such as hiking, fishing, and boating. The park features over 12 miles of hiking trails, providing stunning views of the lake and surrounding forests. Visitors can also rent boats and paddleboards to explore the 1,512-acre lake, known for its excellent fishing opportunities. The park offers a campground with both primitive and RV sites, as well as cozy cabins for those looking to stay overnight. With its scenic beauty and recreational opportunities, Grayson Lake State Park is a perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grayson%20Lake%20State%20Park"
+            },
+            {
+                "name": "Green River Lake State Park",
+                "url": "https://parks.ky.gov//explore/green-river-lake-state-park-7814",
+                "content": "Green River Lake State Park is a beautiful 1,331-acre park in Campbellsville, Kentucky, featuring a 8,200-acre lake and a variety of outdoor activities such as boating, fishing, camping, and hiking.",
+                "description": "Green River Lake State Park is a beautiful destination for outdoor enthusiasts, offering a variety of activities such as fishing, boating, hiking, and camping. Visitors can explore over 1,300 acres of lush forested land surrounding the tranquil Green River Lake. The park also features a beach area for swimming and picnicking, as well as a marina where visitors can rent boats and other watercraft to enjoy the lake. Nature lovers will appreciate the abundance of wildlife and bird watching opportunities found throughout the park. With its stunning natural scenery and recreational opportunities, Green River Lake State Park is the perfect place to escape and unwind in the great outdoors.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Green%20River%20Lake%20State%20Park"
+            },
+            {
+                "name": "Greenbo Lake State Resort Park",
+                "url": "https://parks.ky.gov//explore/greenbo-lake-state-resort-park-7790",
+                "content": "Greenbo Lake State Resort Park is a beautiful recreational area in Kentucky with a lake for boating and fishing, hiking trails, and a lodge for overnight stays.",
+                "description": "Greenbo Lake State Resort Park is a tranquil getaway in Kentucky that offers a variety of outdoor activities for visitors to enjoy. The park features a beautiful 300-acre lake where guests can go fishing, boating, or swimming. There are also miles of hiking and biking trails, as well as a challenging 18-hole golf course for those looking to stay active. Visitors can relax and unwind at the park's lodge, where they can enjoy lake views, delicious meals at the on-site restaurant, and cozy accommodations. With its picturesque setting and abundance of recreational opportunities, Greenbo Lake State Resort Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://www.explorescottcountyva.org/wp-content/uploads/Breaks-Interstate-Park.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Greenbo%20Lake%20State%20Resort%20Park"
+            },
+            {
+                "name": "Isaac Shelby Cemetery State Historic Site",
+                "url": "https://parks.ky.gov//explore/isaac-shelby-cemetery-state-historic-site-7830",
+                "content": "The Isaac Shelby Cemetery State Historic Site is the final resting place of Kentucky's first governor, Isaac Shelby.",
+                "description": "The Isaac Shelby Cemetery State Historic Site is the resting place of Isaac Shelby, the first governor of Kentucky and a Revolutionary War hero. Visitors can explore the cemetery and learn about Shelby's legacy through historical markers and interpretive panels. The site also features a monument erected in Shelby's honor in 1962. The peaceful and well-maintained grounds offer a glimpse into Kentucky's early history and are a meaningful stop for history enthusiasts. Plan your visit to pay homage to one of Kentucky's most influential figures and immerse yourself in the state's rich past.",
+                "image": "https://www.nps.gov/common/uploads/cropped_image/primary/B184712C-E831-3CA5-A6AB6A217EE005BF.jpeg?width=1600&quality=90&mode=crop",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Isaac%20Shelby%20Cemetery%20State%20Historic%20Site"
+            },
+            {
+                "name": "Jefferson Davis State Historic Site",
+                "url": "https://parks.ky.gov//explore/jefferson-davis-state-historic-site-7802",
+                "content": "The Jefferson Davis State Historic Site in Kentucky honors the Confederate president and features a 351-foot tall monument that offers panoramic views of the surrounding countryside.",
+                "description": "The Jefferson Davis State Historic Site in Fairview, Kentucky, is home to the towering Jefferson Davis Monument, which stands at 351 feet tall and offers stunning views of the surrounding countryside.\n\nVisitors can learn about the life and legacy of Jefferson Davis, the President of the Confederate States of America during the Civil War, through exhibits and displays in the museum located at the base of the monument.\n\nThe site also features hiking trails with interpretive signs that highlight the history of the area and provide insight into Kentucky's role in the Civil War.\n\nIn addition to exploring the historic site, visitors can picnic on the grounds, enjoy a leisurely stroll through the beautiful park, or participate in special events and programs offered throughout the year.\n\nFor those interested in history, architecture, and breathtaking views, a visit to the Jefferson Davis State Historic Site is a must-see destination in Kentucky.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jefferson%20Davis%20State%20Historic%20Site"
+            },
+            {
+                "name": "Jenny Wiley State Resort Park",
+                "url": "https://parks.ky.gov//explore/jenny-wiley-state-resort-park-7791",
+                "content": "Jenny Wiley State Resort Park is a beautiful 2,871-acre park in Eastern Kentucky, offering stunning views, hiking trails, and a peaceful lake for outdoor recreation.",
+                "description": "Jenny Wiley State Resort Park is located in Prestonsburg, Kentucky and offers visitors a tranquil escape to nature with its stunning mountain views and serene lakes. Visitors can enjoy a variety of outdoor activities, including hiking, bird-watching, fishing, and boating on Dewey Lake. The park also features a beautiful 1,100-seat amphitheater where guests can enjoy live musical performances and theatrical productions during the summer months. For those seeking overnight accommodations, Jenny Wiley State Resort Park offers a lodge with comfortable rooms and cabins nestled in the woods. With its picturesque surroundings and numerous recreational opportunities, Jenny Wiley State Resort Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jenny%20Wiley%20State%20Resort%20Park"
+            },
+            {
+                "name": "John James Audubon State Park",
+                "url": "https://parks.ky.gov//explore/john-james-audubon-state-park-7815",
+                "content": "John James Audubon State Park in Henderson, Kentucky is dedicated to preserving and showcasing the natural beauty observed by famous ornithologist John James Audubon during his time in the region.",
+                "description": "John James Audubon State Park in Kentucky is a beautiful and serene park named after the famous naturalist and artist. Visitors can explore over 160 acres of land filled with hiking trails, a lake, and abundant wildlife. The park also features a museum dedicated to Audubon, showcasing his artwork and historical artifacts. Additionally, guests can enjoy activities such as fishing, picnicking, and birdwatching in this peaceful and scenic setting. Overall, John James Audubon State Park is a must-visit destination for nature lovers and history enthusiasts alike.",
+                "image": "https://photos.smugmug.com/History/Early-19th-Century/Old-Fort-Harrod-State-Park-KY/i-wjcBP2v/0/D4T3Qfbh7Z8vLN2FnkJtzc6jHQ8LxHTBFZfCzV5VG/XL/IMG_2727-XL.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=John%20James%20Audubon%20State%20Park"
+            },
+            {
+                "name": "Kenlake State Resort Park",
+                "url": "https://parks.ky.gov//explore/kenlake-state-resort-park-7792",
+                "content": "Kenlake State Resort Park is a beautiful lakeside retreat in western Kentucky with a variety of lodging options, outdoor activities, golf, and an on-site restaurant.",
+                "description": "Kenlake State Resort Park located in Hardin, Kentucky, offers visitors a picturesque setting along the shores of Kentucky Lake, the largest man-made lake in the eastern United States. The park features a marina with boat rentals, a beach area for swimming, and plenty of opportunities for fishing and water sports. Guests can stay in the park's lodge, cabins, or campground for a relaxing and enjoyable getaway. Kenlake also boasts a challenging 18-hole golf course, hiking trails, and a variety of recreational facilities for visitors of all ages. With its stunning lake views and array of outdoor activities, Kenlake State Resort Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://s7d1.scene7.com/is/image/isp/fortdefiance-2301-e-360600?ts=1674260036367&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kenlake%20State%20Resort%20Park"
+            },
+            {
+                "name": "Kentucky Dam Village State Resort Park",
+                "url": "https://parks.ky.gov//explore/kentucky-dam-village-state-resort-park-7793",
+                "content": "Kentucky Dam Village State Resort Park is a picturesque lakeside retreat in western Kentucky offering a variety of outdoor activities and amenities.",
+                "description": "Kentucky Dam Village State Resort Park is a picturesque destination situated along the shores of Kentucky Lake, offering stunning views and outdoor recreational activities for visitors to enjoy. The park features a beautiful lodge with comfortable accommodations, a marina for boating and fishing, a golf course, and hiking trails for exploring the natural surroundings. Visitors can also relax at the beach or the swimming pool, or indulge in a delicious meal at the on-site restaurant with panoramic lake views. Whether you are looking for a peaceful retreat or an adventure-filled getaway, Kentucky Dam Village State Resort Park has something for everyone to enjoy.",
+                "image": "https://i0.wp.com/americanbyways.com/wp-content/uploads/2023/04/20230416-20230416-23114-Edit.jpg?fit=1600%2C1198",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kentucky%20Dam%20Village%20State%20Resort%20Park"
+            },
+            {
+                "name": "Kincaid Lake State Park",
+                "url": "https://parks.ky.gov//explore/kincaid-lake-state-park-7816",
+                "content": "Kincaid Lake State Park is a peaceful 850-acre park with a 183-acre lake, located in Pendleton County, Kentucky.",
+                "description": "Kincaid Lake State Park is located in Falmouth, Kentucky, and offers visitors a picturesque setting for outdoor recreation. The park features a 183-acre lake perfect for fishing, boating, and swimming during the summer months. There are several hiking trails that wind through the park, providing opportunities for bird watching and wildlife spotting. For those looking to extend their stay, the park offers a campground with both RV and tent sites available. Kincaid Lake State Park is a great destination for families, nature lovers, and anyone looking to relax in a beautiful natural setting.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kincaid%20Lake%20State%20Park"
+            },
+            {
+                "name": "Kingdom Come State Park",
+                "url": "https://parks.ky.gov//explore/kingdom-come-state-park-7817",
+                "content": "Kingdom Come State Park in Kentucky offers beautiful scenic views, hiking trails, and camping opportunities for visitors to enjoy.",
+                "description": "Kingdom Come State Park is located in the heart of the Appalachian Mountains in Kentucky, offering stunning views of the surrounding landscape. Visitors can enjoy hiking, birdwatching, and picnicking in this picturesque park. The park is named after the novel \"The Little Shepherd of Kingdom Come\" by John Fox Jr., adding a touch of history and culture to the area. Kingdom Come State Park also features a beautiful picnic shelter, perfect for enjoying a meal with family and friends. Overall, this park is a peaceful and scenic destination for those looking to escape the hustle and bustle of city life.",
+                "image": "https://www.explorescottcountyva.org/wp-content/uploads/Breaks-Interstate-Park.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kingdom%20Come%20State%20Park"
+            },
+            {
+                "name": "Lake Barkley State Resort Park",
+                "url": "https://parks.ky.gov//explore/lake-barkley-state-resort-park-7794",
+                "content": "Lake Barkley State Resort Park is a peaceful retreat situated on the shores of Lake Barkley in Kentucky, offers a variety of outdoor activities including boating, fishing, golfing, and hiking.",
+                "description": "Lake Barkley State Resort Park, located in Cadiz, Kentucky, offers guests a picturesque setting with stunning views of Lake Barkley. Visitors can enjoy a variety of outdoor activities, including fishing, boating, hiking, and golfing at the park's 18-hole golf course. The park also features a lodge with comfortable accommodations, a marina, and a swimming pool for guests to relax and unwind. Nature enthusiasts will appreciate the park's abundance of wildlife and diverse ecosystems, making it a perfect destination for birdwatching and nature photography. With its scenic beauty and recreational opportunities, Lake Barkley State Resort Park is an ideal getaway for families, couples, and outdoor enthusiasts alike.",
+                "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304660489.jpg?k=efabdca0f9e129a6a57d9d7287206c146367a35be2d5d35aec8d6267fe85ea6b&o=&hp=1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Barkley%20State%20Resort%20Park"
+            },
+            {
+                "name": "Lake Cumberland State Resort Park",
+                "url": "https://parks.ky.gov//explore/lake-cumberland-state-resort-park-7795",
+                "content": "Lake Cumberland State Resort Park is a popular vacation destination in Kentucky known for its scenic beauty, outdoor activities, and variety of accommodations.",
+                "description": "Lake Cumberland State Resort Park is a stunning destination nestled along the shores of one of the largest man-made lakes in the country. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, boating, and golfing. The park also features a marina, swimming pool, and tennis courts for guests to take advantage of during their stay. Accommodations range from campsites and cabins to lodge rooms, providing options for every type of traveler. With its picturesque views and abundance of recreational opportunities, Lake Cumberland State Resort Park is the perfect getaway for nature lovers and outdoor enthusiasts.",
+                "image": "https://cumberlandriverbasin.org/wp-content/uploads/2020/11/General-Burnside-1024x684.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Cumberland%20State%20Resort%20Park"
+            },
+            {
+                "name": "Lake Malone State Park",
+                "url": "https://parks.ky.gov//explore/lake-malone-state-park-7818",
+                "content": "Lake Malone State Park offers beautiful views of a 788-acre lake surrounded by sandstone cliffs and lush forests in Kentucky.",
+                "description": "Lake Malone State Park is a stunning 788-acre park located in Kentucky known for its tranquil atmosphere and beautiful lakeside views. Visitors can enjoy activities such as camping, picnicking, hiking, fishing, and boating on the lake. The park offers various amenities including a beach area, boat rentals, and a marina for all water enthusiasts. Nature lovers can explore the park's lush forests and scenic trails, or simply relax and take in the serene surroundings. With its diverse recreational opportunities and natural beauty, Lake Malone State Park is a perfect destination for a relaxing getaway in Kentucky.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Malone%20State%20Park"
+            },
+            {
+                "name": "Lincoln Homestead State Park",
+                "url": "https://parks.ky.gov//explore/lincoln-homestead-state-park-7819",
+                "content": "Lincoln Homestead State Park in Springfield, Kentucky, is the birthplace of Abraham Lincoln's mother, Nancy Hanks Lincoln.",
+                "description": "Lincoln Homestead State Park in Springfield, Kentucky, is a historic site that preserves the birthplace of Abraham Lincoln's mother, Nancy Hanks. Visitors can explore the replica of the original cabin where Nancy Hanks was born and learn about the early years of Abraham Lincoln's family history. The park also features hiking trails, a golf course, and a campground for outdoor enthusiasts to enjoy. Additionally, there are picnic areas and playgrounds for families to relax and unwind in a picturesque setting. History buffs and nature lovers alike will appreciate the unique blend of historical significance and natural beauty at Lincoln Homestead State Park.",
+                "image": "https://www.nps.gov/common/uploads/cropped_image/primary/B184712C-E831-3CA5-A6AB6A217EE005BF.jpeg?width=1600&quality=90&mode=crop",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lincoln%20Homestead%20State%20Park"
+            },
+            {
+                "name": "Mineral Mound State Park",
+                "url": "https://parks.ky.gov//explore/mineral-mound-state-park-7820",
+                "content": "Mineral Mound State Park offers stunning views of Lake Barkley and features a championship 18-hole golf course, making it a popular destination for outdoor enthusiasts.",
+                "description": "Mineral Mound State Park in Kentucky offers stunning views of Lake Barkley, making it a popular destination for outdoor enthusiasts. Visitors can enjoy activities such as fishing, boating, and picnicking while taking in the picturesque scenery.\n\nThe park is named after the area's unique geological formation, which consists of layers of sandstone, shale, and limestone. This natural beauty attracts photographers and nature lovers alike, providing plenty of opportunities for exploration and relaxation.\n\nHiking trails wind through the park, allowing visitors to experience the diverse flora and fauna that call Mineral Mound home. Birdwatchers in particular will appreciate the chance to spot a variety of avian species in this peaceful setting.\n\nFor those interested in history, the park also offers a glimpse into Kentucky\u2019s past with its historic picnic shelter and remnants of former homesteads. With its combination of natural beauty and cultural heritage, Mineral Mound State Park is a must-visit destination for anyone looking to experience the best of Kentucky's outdoor offerings.",
+                "image": "https://i0.wp.com/americanbyways.com/wp-content/uploads/2023/04/20230416-20230416-23114-Edit.jpg?fit=1600%2C1198",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mineral%20Mound%20State%20Park"
+            },
+            {
+                "name": "My Old Kentucky Home State Park",
+                "url": "https://parks.ky.gov//explore/my-old-kentucky-home-state-park-7821",
+                "content": "My Old Kentucky Home State Park is a historic site in Bardstown, Kentucky, known for its Federal-style mansion that inspired the song \"My Old Kentucky Home\" by Stephen Foster.",
+                "description": "My Old Kentucky Home State Park is located in Bardstown, Kentucky, and is home to the historic mansion that inspired Stephen Foster's famous song, \"My Old Kentucky Home.\"\n\nVisitors can take guided tours of the Federal-style mansion, which dates back to the early 19th century and is filled with period furnishings and decorative arts.\n\nThe park also features beautiful gardens, picnic areas, and a golf course, making it a great destination for outdoor enthusiasts.\n\nEvery summer, the park hosts \"The Stephen Foster Story,\" a musical production that brings the story of Stephen Foster and his famous song to life through song and dance.\n\nVisitors can also explore the park's hiking trails, visit the gift shop, and enjoy events and programs throughout the year that celebrate Kentucky's rich history and culture.",
+                "image": "https://photos.smugmug.com/History/Early-19th-Century/Old-Fort-Harrod-State-Park-KY/i-wjcBP2v/0/D4T3Qfbh7Z8vLN2FnkJtzc6jHQ8LxHTBFZfCzV5VG/XL/IMG_2727-XL.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=My%20Old%20Kentucky%20Home%20State%20Park"
+            },
+            {
+                "name": "Natural Bridge State Resort Park",
+                "url": "https://parks.ky.gov//explore/natural-bridge-state-resort-park-7796",
+                "content": "Natural Bridge State Resort Park is home to the stunning natural sandstone arch that spans 78 feet and is over 65 feet high, offering breathtaking views and numerous outdoor activities for visitors to enjoy.",
+                "description": "1. Natural Bridge State Resort Park is home to an impressive sandstone arch that spans 78 feet and stands 65 feet high, making it one of the largest natural bridges in the Eastern United States.\n\n2. Visitors can explore over 2,300 acres of stunning natural beauty, including scenic overlooks, hiking trails, and a tranquil lake perfect for fishing and paddle boating.\n\n3. The park offers a variety of outdoor activities for visitors to enjoy, such as rock climbing, birdwatching, and guided nature hikes with knowledgeable park rangers.\n\n4. For those looking to extend their stay, the park has a lodge and several cozy cabins available for rent, providing the perfect opportunity to immerse yourself in the peaceful surroundings of the park.\n\n5. Natural Bridge State Resort Park is a must-visit destination for nature lovers and outdoor enthusiasts seeking a serene retreat in the heart of Kentucky's beautiful Appalachian Mountains.",
+                "image": "https://www.explorescottcountyva.org/wp-content/uploads/Breaks-Interstate-Park.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Natural%20Bridge%20State%20Resort%20Park"
+            },
+            {
+                "name": "Nolin Lake State Park",
+                "url": "https://parks.ky.gov//explore/nolin-lake-state-park-7822",
+                "content": "Nolin Lake State Park offers a peaceful setting for fishing, boating, camping, and hiking in southcentral Kentucky.",
+                "description": "Nolin Lake State Park is a beautiful destination for outdoor enthusiasts, located in south-central Kentucky. Visitors can enjoy a variety of activities, including camping, fishing, hiking, and boating on the 5,795-acre Nolin Lake. The park offers picturesque views of the lake and surrounding woodlands, making it a perfect spot for nature lovers. Birdwatchers can also spot a variety of species in the park, including bald eagles and ospreys. With its tranquil atmosphere and abundant recreational opportunities, Nolin Lake State Park is a must-visit destination for those seeking a peaceful getaway in nature.",
+                "image": "https://i0.wp.com/americanbyways.com/wp-content/uploads/2023/04/20230416-20230416-23114-Edit.jpg?fit=1600%2C1198",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nolin%20Lake%20State%20Park"
+            },
+            {
+                "name": "Old Fort Harrod State Park",
+                "url": "https://parks.ky.gov//explore/old-fort-harrod-state-park-7823",
+                "content": "Old Fort Harrod State Park features a full-scale replica of the original fort built by James Harrod in 1774.",
+                "description": "Old Fort Harrod State Park in Harrodsburg, Kentucky, is a historical site that features a replica of the first permanent settlement west of the Allegheny Mountains. Visitors can explore the fort and learn about the early pioneer life in Kentucky through interactive exhibits and guided tours. The park also offers a pioneer cemetery, a museum with artifacts from the 18th century, and a blockhouse that served as a defensive structure during the pioneer days. Additionally, visitors can enjoy outdoor activities such as hiking, picnicking, and fishing along the scenic banks of the Chaplin River. This park is a great destination for history lovers and outdoor enthusiasts alike.",
+                "image": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/304660489.jpg?k=efabdca0f9e129a6a57d9d7287206c146367a35be2d5d35aec8d6267fe85ea6b&o=&hp=1",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Old%20Fort%20Harrod%20State%20Park"
+            },
+            {
+                "name": "Old Mulkey Meetinghouse State Historic Site",
+                "url": "https://parks.ky.gov//explore/old-mulkey-meetinghouse-state-historic-site-7803",
+                "content": "Old Mulkey Meetinghouse State Historic Site is home to one of the oldest log meetinghouses in Kentucky, dating back to the early 1800s.",
+                "description": "Old Mulkey Meetinghouse State Historic Site in Tompkinsville, Kentucky, is a unique attraction that showcases one of the oldest log churches in the region. Visitors can explore the well-preserved 19th-century meetinghouse, which was built in 1804 and contains fascinating historical artifacts. The site is also home to the final resting place of Revolutionary War soldiers, making it a significant destination for history buffs. Nature lovers will appreciate the beautiful surroundings, including hiking trails and picnic areas, perfect for a peaceful day out in the countryside. With its blend of history and natural beauty, Old Mulkey Meetinghouse State Historic Site offers a memorable experience for visitors of all interests.",
+                "image": "https://www.explorescottcountyva.org/wp-content/uploads/Breaks-Interstate-Park.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Old%20Mulkey%20Meetinghouse%20State%20Historic%20Site"
+            },
+            {
+                "name": "Paintsville Lake State Park",
+                "url": "https://parks.ky.gov//explore/paintsville-lake-state-park-7824",
+                "content": "Paintsville Lake State Park is a peaceful retreat in eastern Kentucky known for its 1,100-acre lake, scenic mountain views, and opportunities for outdoor recreation.",
+                "description": "1. Paintsville Lake State Park in eastern Kentucky offers a wide range of recreational activities for visitors, including fishing, boating, hiking, and wildlife watching.\n\n2. The 1,139-acre lake provides ample opportunities for water enthusiasts to enjoy the great outdoors, with boat rentals available for those who want to explore the serene waters.\n\n3. The park also features several hiking trails that wind through the lush forest, giving hikers the chance to spot a variety of wildlife, including deer, birds, and even the occasional fox.\n\n4. For those looking to relax, the park has a sandy beach area where visitors can soak up the sun or take a refreshing dip in the lake.\n\n5. With its picturesque scenery and abundance of outdoor activities, Paintsville Lake State Park is a must-visit destination for nature lovers and adventure seekers alike.",
+                "image": "https://www.onlyinyourstate.com/wp-content/uploads/2017/05/OIYS-Grayson-9.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Paintsville%20Lake%20State%20Park"
+            },
+            {
+                "name": "Pennyrile Forest State Resort Park",
+                "url": "https://parks.ky.gov//explore/pennyrile-forest-state-resort-park-7798",
+                "content": "Pennyrile Forest State Resort Park is a scenic getaway in western Kentucky with a 36-room lodge, challenging hiking trails, and a beautiful lake for fishing and boating.",
+                "description": "Pennyrile Forest State Resort Park in Kentucky offers visitors a peaceful retreat surrounded by 15,331 acres of stunning forest. Guests can enjoy hiking, fishing, swimming, and boating in Pennyrile Lake or explore the park's extensive trail system for a closer look at the natural beauty of the area. The park also features a lodge with comfortable accommodations, a restaurant serving delicious meals, and a variety of recreational activities, making it an ideal destination for a relaxing getaway. Birdwatchers will appreciate the park's abundant wildlife, including a variety of bird species that can be spotted throughout the park's diverse habitats. Whether you're looking for a weekend escape or a longer vacation, Pennyrile Forest State Resort Park has something for everyone to enjoy in the great outdoors.",
+                "image": "https://i0.wp.com/americanbyways.com/wp-content/uploads/2023/04/20230416-20230416-23114-Edit.jpg?fit=1600%2C1198",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pennyrile%20Forest%20State%20Resort%20Park"
+            },
+            {
+                "name": "Perryville Battlefield State Historic Site",
+                "url": "https://parks.ky.gov//explore/perryville-battlefield-state-historic-site-7804",
+                "content": "The Perryville Battlefield State Historic Site in Kentucky preserves the site of the largest Civil War battle in the state, with over 7,600 soldiers killed, wounded, or missing in action.",
+                "description": "Perryville Battlefield State Historic Site is the location of one of the bloodiest battles of the Civil War, fought on October 8, 1862. Visitors can explore the preserved battlefield, including Union and Confederate troop positions and the historic H.P. Bottom House. The site offers guided tours, interpretive programs, and special events to help visitors learn about the history of the battle and the impact it had on the surrounding area. Be sure to visit the museum and visitor center, which features exhibits on the battle, artifacts, and dioramas that bring the history of the site to life. The site is also a popular spot for hiking, bird watching, and picnicking, offering a peaceful and scenic setting for visitors to enjoy.",
+                "image": "https://www.nps.gov/common/uploads/cropped_image/primary/B184712C-E831-3CA5-A6AB6A217EE005BF.jpeg?width=1600&quality=90&mode=crop",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Perryville%20Battlefield%20State%20Historic%20Site"
+            },
+            {
+                "name": "Pine Mountain State Resort Park",
+                "url": "https://parks.ky.gov//explore/pine-mountain-state-resort-park-7799",
+                "content": "Pine Mountain State Resort Park is a scenic retreat in southeastern Kentucky known for its stunning views, diverse recreational opportunities, and historic DuPont Lodge.",
+                "description": "Pine Mountain State Resort Park in Kentucky offers visitors a stunning natural playground with over 1,150 acres of pristine wilderness to explore. The park features scenic overlooks, rugged cliffs, and expansive forests, making it a haven for outdoor enthusiasts and nature lovers alike. Guests can enjoy hiking, biking, horseback riding, and birdwatching on the park's numerous trails, or opt for a relaxing round of golf at the nearby Wasioto Winds Golf Course. For those looking to extend their stay, the park offers a variety of lodging options, including cozy cabins and rustic cottages, providing the perfect home base for an unforgettable mountain getaway. Whether you're seeking adventure or relaxation, Pine Mountain State Resort Park has something for everyone to enjoy in the heart of the Appalachian Mountains.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pine%20Mountain%20State%20Resort%20Park"
+            },
+            {
+                "name": "Pine Mountain State Scenic Trail",
+                "url": "https://parks.ky.gov//explore/pine-mountain-state-scenic-trail-7826",
+                "content": "The Pine Mountain State Scenic Trail offers stunning views of the Appalachian Mountains and a challenging hiking experience.",
+                "description": "The Pine Mountain State Scenic Trail is a 120-mile trail that offers stunning scenery and challenging terrain for hikers to explore. It runs along the crest of Pine Mountain, offering panoramic views of the surrounding forests and valleys. The trail is divided into sections that vary in difficulty, making it suitable for hikers of all skill levels. Along the way, visitors can spot a variety of wildlife and unique plant species that call the area home. Whether you're looking for a leisurely day hike or a multi-day backpacking adventure, the Pine Mountain State Scenic Trail has something for everyone to enjoy.",
+                "image": "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pine%20Mountain%20State%20Scenic%20Trail"
+            },
+            {
+                "name": "Rough River Dam State Resort Park",
+                "url": "https://parks.ky.gov//explore/rough-river-dam-state-resort-park-7800",
+                "content": "Rough River Dam State Resort Park is a beautiful destination in Kentucky offering a variety of outdoor activities including fishing, boating, and hiking.",
+                "description": "Rough River Dam State Resort Park is nestled along a 5,200-acre lake in Falls of Rough, Kentucky. Visitors can enjoy a variety of water activities such as swimming, boating, and fishing on the beautiful Rough River Lake. The park offers a 18-hole golf course, hiking trails, and picnic areas for guests to enjoy the great outdoors. Accommodations range from lodge rooms and cabins to camping and RV sites, providing options for every type of traveler. For those looking to relax, the park also features a full-service marina and a restaurant serving up delicious meals with a view of the lake.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rough%20River%20Dam%20State%20Resort%20Park"
+            },
+            {
+                "name": "Taylorsville Lake State Park",
+                "url": "https://parks.ky.gov//explore/taylorsville-lake-state-park-7827",
+                "content": "Taylorsville Lake State Park offers a peaceful setting for camping, hiking, fishing, and enjoying a variety of water activities on the 3,000-acre lake.",
+                "description": "Taylorsville Lake State Park, located in Spencer County, Kentucky, offers a variety of recreational activities for visitors to enjoy. The park covers 1,200 acres of land and is situated along the beautiful Taylorsville Lake, making it a popular destination for boating, fishing, and swimming.\n\nVisitors to Taylorsville Lake State Park can explore over 24 miles of hiking and mountain biking trails, providing opportunities to immerse yourself in the natural beauty of the park. For those looking to relax, there are picnic areas with stunning lake views and playgrounds for children to enjoy.\n\nCamping is another popular activity at Taylorsville Lake State Park, with options for both RV and tent camping available. The park features over 30 campsites with amenities such as electric hookups and modern restrooms, providing a comfortable camping experience for visitors.\n\nIn addition to outdoor recreation, the park also offers interpretive programs and nature workshops for visitors to learn more about the local wildlife and ecosystems. Overall, Taylorsville Lake State Park is a perfect destination for nature lovers and outdoor enthusiasts looking to enjoy a peaceful getaway in Kentucky.",
+                "image": "https://www.nps.gov/common/uploads/cropped_image/primary/B184712C-E831-3CA5-A6AB6A217EE005BF.jpeg?width=1600&quality=90&mode=crop",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Taylorsville%20Lake%20State%20Park"
+            },
+            {
+                "name": "Waveland State Historic Site",
+                "url": "https://parks.ky.gov//explore/waveland-state-historic-site-7805",
+                "content": "Waveland State Historic Site is a beautifully preserved 19th-century home that offers visitors a glimpse into Kentucky's rich history.",
+                "description": "Waveland State Historic Site in Lexington, Kentucky offers visitors a glimpse into the antebellum South with its beautifully preserved mansion and grounds. The mansion was built in the 1840s by Joseph Bryan, a wealthy planter, and has been restored to its former glory with original furnishings and decor. Visitors can take guided tours of the mansion to learn about the history of the Bryan family and life on a southern plantation.\n\nIn addition to the mansion, Waveland State Historic Site also features beautiful gardens, outbuildings, and a working smokehouse that offer insight into daily life on the plantation. The site is surrounded by rolling pastures and woodlands, making it a peaceful and picturesque destination for nature lovers and history enthusiasts alike.\n\nVisitors can explore the grounds on their own or participate in special events and programs offered throughout the year, including Civil War reenactments, historical demonstrations, and workshops. Waveland State Historic Site is a must-visit destination for anyone interested in Kentucky's rich history and heritage.",
+                "image": "https://lirp.cdn-website.com/ed9b99cf/dms3rep/multi/opt/AdobeStock_223700091-1920w.jpeg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Waveland%20State%20Historic%20Site"
+            },
+            {
+                "name": "Wickliffe Mounds State Historic Site",
+                "url": "https://parks.ky.gov//explore/wickliffe-mounds-state-historic-site-7806",
+                "content": "Wickliffe Mounds State Historic Site showcases a Native American village dating back to 1100 AD.",
+                "description": "Wickliffe Mounds State Historic Site in Ballard County, Kentucky, is a fascinating archaeological site that showcases the remnants of a Native American village believed to have been inhabited from around 1100 to 1350 AD. Visitors can explore the mounds, which were once platforms for important buildings and ceremonies, and learn about the daily life and rituals of the Mississippian culture that occupied the area. The site also features a museum with exhibits displaying artifacts, tools, and pottery unearthed during excavations, providing insight into the history and customs of the ancient inhabitants. Visitors can participate in guided tours, special events, and educational programs to enhance their understanding of this remarkable archaeological site. Wickliffe Mounds State Historic Site offers a unique opportunity to step back in time and discover the rich cultural heritage of the Native American peoples who once called this area home.",
+                "image": "https://photos.smugmug.com/History/Early-19th-Century/Old-Fort-Harrod-State-Park-KY/i-wjcBP2v/0/D4T3Qfbh7Z8vLN2FnkJtzc6jHQ8LxHTBFZfCzV5VG/XL/IMG_2727-XL.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wickliffe%20Mounds%20State%20Historic%20Site"
+            },
+            {
+                "name": "Yatesville Lake State Park",
+                "url": "https://parks.ky.gov//explore/yatesville-lake-state-park-7828",
+                "content": "Yatesville Lake State Park offers a variety of outdoor activities such as boating, fishing, hiking, and golfing in a beautiful natural setting.",
+                "description": "Yatesville Lake State Park in Kentucky offers a variety of outdoor activities for visitors to enjoy, including fishing, boating, picnicking, hiking, and camping. The park is located on a beautiful 2,300-acre lake, providing stunning views and opportunities for water recreation. Visitors can rent boats or bring their own to explore the lake and fish for bass, crappie, and catfish. The park features a beach area for swimming and sunbathing, as well as several scenic hiking trails for nature enthusiasts to explore. With its secluded, peaceful atmosphere, Yatesville Lake State Park is a perfect destination for a relaxing getaway in nature.",
+                "image": "https://s7d1.scene7.com/is/image/isp/fortdefiance-2301-e-360600?ts=1674260036367&$SlideshowThumbnail$",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Yatesville%20Lake%20State%20Park"
+            }
+        ]
+    }
+}

@@ -1,0 +1,310 @@
+{
+    "Maryland State Parks": {
+        "parks": [
+            {
+                "name": "Martinak State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/martinak.aspx",
+                "content": "Martinak State Park features a 100-acre lake for boating and fishing, as well as camping facilities and hiking trails for outdoor recreation.",
+                "description": "Martinak State Park is a charming waterfront park located in Denton, Maryland, along the Choptank River. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, picnicking, and birdwatching in this scenic park. The park also features a boat ramp, making it a great spot for boating and kayaking enthusiasts. For those looking to spend the night, there are campsites available for tents and RVs. The park offers a peaceful and natural setting for visitors to relax and unwind while connecting with the beauty of the outdoors.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/MartinakSP-Entrance.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Martinak%20State%20Park"
+            },
+            {
+                "name": "Merkle Natural Resources Management Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/merkle.aspx",
+                "content": "Merkle Natural Resources Management Area is a diverse 3,930-acre park featuring woodlands, wetlands, and grasslands for recreational activities and wildlife conservation.",
+                "description": "Merkle Natural Resources Management Area is a beautiful 1,670-acre park located in Prince George's County, Maryland. Visitors can explore over 10 miles of hiking and equestrian trails, as well as enjoy fishing and wildlife viewing opportunities along the scenic Mattawoman Creek. The park is known for its diverse ecosystems, including wetlands, forests, and meadows, making it a popular spot for birdwatching and nature photography. The park also offers educational programs and events for visitors of all ages to learn more about the importance of conservation and preservation of natural resources. Whether you're looking for a peaceful escape into nature or an outdoor adventure, Merkle Natural Resources Management Area has something for everyone to enjoy.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Merkle_Scenic-Wetland.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Merkle%20Natural%20Resources%20Management%20Area"
+            },
+            {
+                "name": "Monocacy Natural Resources Management Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/monocacy.aspx",
+                "content": "The Monocacy Natural Resources Management Area in Maryland offers diverse outdoor recreational opportunities such as hiking, fishing, and nature watching in a scenic natural setting.",
+                "description": "Monocacy Natural Resources Management Area is a 1,800-acre park located in Frederick County, Maryland. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, and birdwatching in this beautiful natural setting. The park is home to the Monocacy River, which offers excellent opportunities for canoeing and kayaking. History enthusiasts will appreciate the park's Civil War heritage, with several historic sites and trails to explore. With its diverse ecosystems and abundance of wildlife, Monocacy Natural Resources Management Area is a haven for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/011701grfishing.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Monocacy%20Natural%20Resources%20Management%20Area"
+            },
+            {
+                "name": "Morgan Run Natural Environment Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/morganrun.aspx",
+                "content": "Morgan Run Natural Environment Area in Maryland provides a peaceful retreat for visitors to enjoy hiking, birdwatching, and nature observation along its scenic trails and streams.",
+                "description": "Morgan Run Natural Environment Area is a serene and picturesque nature reserve located in Carroll County, Maryland. Visitors can explore over 1,000 acres of diverse habitats, including woodlands, wetlands, and meadows.\n\nThe area is home to a variety of wildlife, including deer, foxes, and a wide array of bird species, making it a popular spot for birdwatching and nature photography. The network of hiking trails offers stunning views of the surrounding countryside and provides opportunities for peaceful walks and hikes.\n\nFor those interested in fishing, Morgan Run features several streams and ponds stocked with trout, providing a tranquil setting for anglers to cast their lines. The area is also a great spot for picnicking, with several picnic tables and grills available for visitors to use.\n\nMorgan Run Natural Environment Area is a perfect escape for nature lovers looking to immerse themselves in the beauty of the Maryland wilderness and enjoy a peaceful day surrounded by the sights and sounds of nature.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/MorganRun.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Morgan%20Run%20Natural%20Environment%20Area"
+            },
+            {
+                "name": "New Germany State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/newgermany.aspx",
+                "content": "New Germany State Park is a 483-acre park nestled in the mountains of western Maryland, offering a peaceful retreat for camping, hiking, fishing, swimming, and more.",
+                "description": "New Germany State Park is a stunning 483-acre park located in Western Maryland, offering visitors a peaceful and serene natural setting to explore. The park features a 13-acre lake for swimming, boating, and fishing, as well as several hiking trails that showcase the beauty of the surrounding forests and streams. Additionally, the park has a variety of camping options, including tent and RV sites, as well as cozy cabins for those looking for a more comfortable stay. Visitors can also enjoy picnicking, bird watching, and wildlife viewing in the park, making it an ideal spot for nature lovers and outdoor enthusiasts alike. Whether you're looking for a relaxing weekend getaway or a fun-filled outdoor adventure, New Germany State Park has something for everyone to enjoy.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/new-germay-lake.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=New%20Germany%20State%20Park"
+            },
+            {
+                "name": "Newtowne Neck State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/newtowne.aspx",
+                "content": "Newtowne Neck State Park offers scenic views of the Patuxent River and protected wetlands, perfect for birdwatching and outdoor activities.",
+                "description": "Newtowne Neck State Park is located in St. Mary's County, Maryland, and is a beautiful natural area that offers a variety of outdoor activities for visitors to enjoy. The park is situated on a peninsula, surrounded by the waters of Breton Bay, the Potomac River, and St. Clements Bay, making it an ideal spot for water sports and fishing.\n\nVisitors can explore the park's many hiking trails, which wind through forests and wetlands, providing opportunities to spot local wildlife such as bald eagles, deer, and osprey. The park is also home to several historic sites, including the remnants of a colonial settlement and a Native American ceremonial site, offering visitors a glimpse into the area's rich history.\n\nFor those looking to relax, Newtowne Neck State Park has a sandy beach area where visitors can swim, sunbathe, or have a picnic overlooking the water. Camping is also available at the park, with sites that offer stunning views of the surrounding landscape and easy access to all the park has to offer. Whether you're looking for a day of outdoor adventure or a peaceful retreat into nature, Newtowne Neck State Park has something for everyone to enjoy.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/NewtowneNeck_MarkOdell.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Newtowne%20Neck%20State%20Park"
+            },
+            {
+                "name": "North Point State Battlefield",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/NorthPointBattlefield.aspx",
+                "content": "The North Point State Battlefield commemorates the War of 1812 battle where Maryland militia successfully defended Baltimore against British forces.",
+                "description": "North Point State Battlefield is a historic site in Maryland that offers visitors the opportunity to learn about the crucial Battle of North Point during the War of 1812. The battlefield features interpretive signage and walking trails that guide visitors through the various significant points of the battle. Visitors can explore the restored field hospital, earthworks, and monuments that commemorate the bravery of the American soldiers who defended Baltimore during the war. Additionally, the battlefield offers stunning views of the Patapsco River and Chesapeake Bay, providing a peaceful and picturesque setting for reflection on the site's historical significance. Overall, North Point State Battlefield offers a unique and educational experience for history buffs and outdoor enthusiasts alike.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/NPSBflags.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Point%20State%20Battlefield"
+            },
+            {
+                "name": "North Point State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/northpoint.aspx",
+                "content": "North Point State Park is a 1,300-acre park located along the Chesapeake Bay, offering hiking trails, fishing opportunities, and historic sites such as the old Bay Shore Amusement Park.",
+                "description": "North Point State Park is located on the Chesapeake Bay in Edgemere, Maryland and offers visitors a variety of outdoor activities including fishing, hiking, picnicking, and birdwatching. The park is home to the historic Black Marsh Wildlands, which provides habitat for a diverse array of wildlife and plant species. Visitors can explore the park's extensive network of trails, including the scenic Heritage Trail which offers beautiful views of the bay. For history buffs, the park is also home to Fort Howard, a former military installation that played a role in the defense of Baltimore during the War of 1812. Whether you're looking to relax by the water or immerse yourself in nature and history, North Point State Park offers something for everyone.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/NPSP_Fountain2.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Point%20State%20Park"
+            },
+            {
+                "name": "Palmer State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/palmer.aspx",
+                "content": "Palmer State Park in Maryland offers a scenic nature escape with hiking trails, a swimming area, and beautiful views of the Patuxent River.",
+                "description": "Palmer State Park is a beautiful 946-acre park located in Harford County, Maryland. Visitors can enjoy an array of outdoor activities including hiking, fishing, picnicking, and bird watching. The park is also home to a variety of wildlife, making it a great spot for nature enthusiasts. One of the highlights of Palmer State Park is its scenic overlook, which offers stunning views of the surrounding countryside. In addition, the park features a historic grist mill that dates back to the 19th century, providing visitors with a glimpse into the area's rich history.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/PalmerStatePark.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Palmer%20State%20Park"
+            },
+            {
+                "name": "Patapsco Valley State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/patapsco.aspx",
+                "content": "Patapsco Valley State Park offers numerous outdoor activities such as hiking, fishing, and picnicking along the Patapsco River.",
+                "description": "Patapsco Valley State Park is a 16,043-acre park located along the Patapsco River in central Maryland. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, camping, and mountain biking on over 200 miles of trails. The park is also home to historic sites such as the Thomas Viaduct, the oldest multiple-arched railroad bridge in the country. For those looking to cool off, there are several swimming areas along the river to relax and soak up the sun. With its diverse landscapes and abundant wildlife, Patapsco Valley State Park offers a scenic escape from the hustle and bustle of everyday life.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/pvsp-river.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Patapsco%20Valley%20State%20Park"
+            },
+            {
+                "name": "Patuxent River State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/patuxentriver.aspx",
+                "content": "Patuxent River State Park offers over 6,700 acres of outdoor recreation including hiking, fishing, and picnicking along the scenic Patuxent River.",
+                "description": "Patuxent River State Park is a 6,700-acre park located in Anne Arundel and Prince George's counties in Maryland. The park offers a variety of outdoor recreational activities including hiking, fishing, hunting, and horseback riding. Visitors can explore over 70 miles of trails that wind through forests, fields, and wetlands, providing opportunities to observe a variety of wildlife such as deer, foxes, and birds. The park also features a shooting range, picnic areas, and a multi-use field perfect for playing sports or flying kites. Additionally, the park offers interpretive programs and events throughout the year to educate visitors about the natural and cultural history of the park.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/PRSP-Trails.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Patuxent%20River%20State%20Park"
+            },
+            {
+                "name": "Pocomoke River State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/pocomokeriver.aspx",
+                "content": "Pocomoke River State Park offers scenic beauty and outdoor recreation opportunities along the Pocomoke River in Maryland.",
+                "description": "Pocomoke River State Park in Maryland offers visitors a chance to explore the beautiful Pocomoke River, which is known for its dark, tea-colored waters and diverse wildlife.\n\nVisitors can enjoy a variety of outdoor activities at the park, including hiking, biking, kayaking, and fishing. The park also features several picnic areas and campgrounds for those looking to spend the night under the stars.\n\nNature lovers will appreciate the park's unique ecosystem, which includes bald cypress swamps, hardwood forests, and sandy beaches along the river.\n\nBirdwatchers will be delighted by the park's abundance of bird species, including bald eagles, ospreys, and herons. With its peaceful atmosphere and stunning natural beauty, Pocomoke River State Park is a must-visit destination for outdoor enthusiasts in Maryland.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/PRSP_PocomokeRiver.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pocomoke%20River%20State%20Park"
+            },
+            {
+                "name": "Point Lookout State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/pointlookout.aspx",
+                "content": "Point Lookout State Park offers a variety of outdoor activities, including fishing, swimming, and camping, along the picturesque Chesapeake Bay.",
+                "description": "1. Point Lookout State Park is located at the southernmost tip of Maryland, where the Potomac River meets the Chesapeake Bay. This unique location offers visitors stunning panoramic views of the water and the surrounding landscape.\n\n2. The park is rich in history, as it served as a prisoner of war camp during the Civil War. Visitors can explore the Point Lookout Confederate Cemetery, which is the final resting place for over 3,000 Confederate soldiers who died at the camp.\n\n3. Outdoor enthusiasts will love the recreational opportunities at Point Lookout State Park, including swimming, boating, fishing, and hiking. The park also has a designated area for birdwatching, making it a popular spot for wildlife enthusiasts.\n\n4. The park offers a variety of camping options, from tent sites to cabins, allowing visitors to immerse themselves in nature and spend the night under the stars. Additionally, the park has picnic areas and playgrounds for families to enjoy a day out in the sun.\n\n5. For history buffs, the Point Lookout Lighthouse is a must-see attraction within the park. Visitors can take a guided tour of the historic lighthouse, which has stood as a beacon for sailors since the 1800s.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/POL_Landscape.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Point%20Lookout%20State%20Park"
+            },
+            {
+                "name": "Rocks State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/rocks.aspx",
+                "content": "Rocks State Park is home to the iconic King and Queen Seat rock outcrop and offers hiking, picnicking, and scenic views in northern Maryland.",
+                "description": "Rocks State Park in Harford County, Maryland is known for its stunning, rocky cliffs and picturesque hiking trails. Visitors can enjoy a variety of outdoor activities such as rock climbing, fishing, and picnicking in the park's serene surroundings. The King and Queen Seat, a popular rock formation that offers breathtaking views of the surrounding countryside, is a must-see attraction for hikers. The park also features a designated swimming area along Deer Creek, perfect for cooling off on hot summer days. With its diverse landscapes and rich natural beauty, Rocks State Park is a great destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Rocks_King-Queen-Seats_StephenBadger.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rocks%20State%20Park"
+            },
+            {
+                "name": "Rocky Gap State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/rockygap.aspx",
+                "content": "Rocky Gap State Park is a picturesque retreat in Western Maryland offering camping, hiking, swimming, and boating opportunities.",
+                "description": "Rocky Gap State Park is located in Flintstone, Maryland, and offers breathtaking views of the surrounding mountains and Lake Habeeb. Visitors can enjoy a variety of outdoor activities such as swimming, boating, fishing, and hiking on the park's 3,000 acres of land. The park also features a beautiful 243-acre lake with a sandy beach and picnic areas perfect for a day of relaxation with family and friends. For those looking to stay overnight, Rocky Gap State Park offers camping and cabin rental options, providing a unique opportunity to experience the beauty of the park even after the sun sets. With its stunning natural scenery and abundance of recreational options, Rocky Gap State Park is a must-visit destination for outdoor enthusiasts in Maryland.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/rockygap-aerial-richard-dos-santos.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rocky%20Gap%20State%20Park"
+            },
+            {
+                "name": "Rosaryville State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/rosaryville.aspx",
+                "content": "Rosaryville State Park is a 982-acre park in Prince George's County that offers hiking, biking, and equestrian trails through wooded areas and open fields.",
+                "description": "Rosaryville State Park is a beautiful natural oasis located in southern Maryland, offering over 900 acres of rolling hills, forests, and meadows for visitors to explore. The park features numerous hiking and biking trails, providing opportunities for outdoor enthusiasts to immerse themselves in nature.\n\nOne of the park's highlights is the historic Mount Airy Mansion, a stunning 18th-century estate that offers guided tours and special events throughout the year. Visitors can also enjoy picnicking, birdwatching, and horseback riding in designated areas of the park.\n\nFor those interested in history, Rosaryville State Park is home to remnants of a former plantation and Civil War skirmish sites, adding depth to the park's natural beauty. The park is a popular destination for families, couples, and individuals looking to escape the hustle and bustle of city life and reconnect with nature.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Rosaryville_MtAiryMansion.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rosaryville%20State%20Park"
+            },
+            {
+                "name": "Sandy Point State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/sandypoint.aspx",
+                "content": "Sandy Point State Park is a scenic waterfront park offering swimming, picnicking, fishing, and boating opportunities on the Chesapeake Bay.",
+                "description": "Sandy Point State Park is a popular destination for visitors looking to enjoy the beach along the Chesapeake Bay. The park offers a mile-long sandy beach for swimming and sunbathing, as well as picnic areas and playgrounds for the whole family to enjoy. In addition to water activities, visitors can also explore the park's hiking and biking trails, or try their hand at fishing from the park's fishing pier. For those looking to stay overnight, the park offers camping sites with amenities such as restrooms and showers. With its scenic views and variety of recreational opportunities, Sandy Point State Park is a must-visit destination for outdoor enthusiasts in Maryland.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/nature-center-sandy-point.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sandy%20Point%20State%20Park"
+            },
+            {
+                "name": "Sang Run State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/sangrun.aspx",
+                "content": "Sang Run State Park is a small, quiet park located in Western Maryland featuring scenic views, fishing access, and peaceful hiking trails.",
+                "description": "Sang Run State Park is a hidden gem located in Garrett County, Maryland, surrounded by the breathtaking scenery of the Savage River State Forest. Visitors to the park can enjoy a variety of outdoor activities, including hiking along scenic trails, fishing in the pristine waters of the Savage River, and wildlife viewing.\n\nFor those looking to spend the night in the park, there are rustic campsites available for both tent and RV camping, offering a peaceful and secluded retreat into nature. The park is also a popular destination for kayaking and canoeing, with opportunities to paddle on the calm waters of the Savage River or challenge yourself with some whitewater rafting on the nearby Upper Youghiogheny River.\n\nWhether you're an outdoor enthusiast looking for adventure or simply seeking a peaceful escape into nature, Sang Run State Park offers something for everyone. Don't forget to bring your camera to capture the stunning views and wildlife you may encounter during your visit to this beautiful park.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/srsp-friends-store-front.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sang%20Run%20State%20Park"
+            },
+            {
+                "name": "Sassafras Natural Resources Management Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/sassafras.aspx",
+                "content": "Sassafras Natural Resources Management Area offers a variety of outdoor recreational opportunities, including hiking trails and wildlife viewing, within its 2,500 acres of forested land in Maryland.",
+                "description": "Sassafras Natural Resources Management Area is a beautiful 1,048-acre park located in Kent County, Maryland. Visitors can enjoy a variety of outdoor activities such as hiking, birdwatching, fishing, and picnicking. The park is also home to an array of wildlife, including deer, foxes, and various bird species. The Sassafras River runs along the western boundary of the park, providing stunning views and opportunities for kayaking and canoeing. With its peaceful atmosphere and natural beauty, Sassafras Natural Resources Management Area is a perfect destination for nature enthusiasts and outdoor adventurers.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Sassafras_KnocksFollyVisitorCenter.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sassafras%20Natural%20Resources%20Management%20Area"
+            },
+            {
+                "name": "Seneca Creek State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/seneca.aspx",
+                "content": "Seneca Creek State Park is a 6,300-acre park located in Montgomery County, offering hiking, boating, fishing, and camping activities.",
+                "description": "Seneca Creek State Park is a 6,300-acre park located in Gaithersburg, Maryland, offering a variety of outdoor activities for visitors to enjoy. The park features a 90-acre lake where visitors can go fishing, paddle boating, or canoeing. Additionally, there are over 50 miles of trails for hiking, biking, and horseback riding, providing stunning views of the surrounding landscape. The park also has multiple picnic areas and playgrounds, making it the perfect spot for a family outing or a peaceful afternoon in nature. Seneca Creek State Park is a popular destination for birdwatching, with a wide variety of species to be spotted throughout the park's diverse habitats.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/seneca02-shelby-smith.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seneca%20Creek%20State%20Park"
+            },
+            {
+                "name": "Sideling Hill Creek State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/Sideling-Hill-Creek.aspx",
+                "content": "Sideling Hill Creek State Park features a scenic valley with hiking trails, fishing opportunities, and a variety of wildlife for visitors to enjoy.",
+                "description": "1. Sideling Hill Creek State Park is a hidden gem nestled in the mountains of Western Maryland, offering visitors a peaceful escape into nature. The park's beautiful creek winds its way through lush forests and scenic valleys, providing the perfect backdrop for hiking, fishing, and picnicking.\n\n2. One of the park's main attractions is the stunning Sideling Hill Overlook, which offers breathtaking views of the surrounding mountains and valleys. Visitors can take a leisurely stroll along the trails to reach this scenic overlook and enjoy a panoramic view of the landscape below.\n\n3. Wildlife enthusiasts will be delighted to know that Sideling Hill Creek State Park is home to a variety of native flora and fauna, including deer, foxes, and a multitude of bird species. Birdwatchers can bring their binoculars and keep an eye out for elusive species like the Eastern bluebird and the red-tailed hawk.\n\n4. The park also offers a range of recreational activities for outdoor enthusiasts, such as camping, boating, and mountain biking. With designated camping areas and boat launches, visitors can spend a weekend immersed in the beauty of nature while exploring the expansive park grounds.\n\n5. Whether you're looking for a peaceful retreat in the mountains or an adventure-filled weekend exploring the great outdoors, Sideling Hill Creek State Park has something to offer every visitor. So pack your hiking boots, grab your fishing gear, and embark on a memorable journey through this picturesque state park in Maryland.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Potomac-River-Overlook.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sideling%20Hill%20Creek%20State%20Park"
+            },
+            {
+                "name": "Smallwood State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/smallwood.aspx",
+                "content": "Smallwood State Park is a beautiful waterfront park on the Mattawoman Creek in Southern Maryland, offering a variety of recreational activities such as camping, fishing, and boating.",
+                "description": "Smallwood State Park offers visitors the opportunity to enjoy outdoor activities such as hiking, picnicking, birdwatching, and fishing along the Mattawoman Creek. The park features a network of scenic trails that wind through the lush forest and marshlands, providing a peaceful setting for nature lovers to explore. Visitors can also explore the historic Smallwood plantation house, which was once owned by General William Smallwood, a prominent Revolutionary War figure. The park's serene waterfront offers a perfect spot for kayaking, canoeing, and paddleboarding, allowing visitors to soak in the beauty of the surrounding landscape. Overall, Smallwood State Park provides a tranquil escape for outdoor enthusiasts looking to connect with nature and history in Southern Maryland.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/SmallwoodRetreat.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Smallwood%20State%20Park"
+            },
+            {
+                "name": "Soldier's Delight Natural Environment Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/soldiersdelight.aspx",
+                "content": "Soldier's Delight Natural Environment Area is a unique 1,900-acre natural area in Maryland known for its rare serpentine ecosystem and diverse plant life.",
+                "description": "Soldier's Delight Natural Environment Area is a unique and diverse 1,900-acre landscape located in Owings Mills, Maryland. Visitors can explore over 7 miles of hiking trails that wind through rare serpentine grasslands, home to 39 rare, threatened, and endangered plant species. The area is also a popular spot for birdwatching, with over 39 species of birds making their home in the area. Visitors can learn about the geological history of the region at the Visitor Center, which offers educational exhibits and displays. Don't forget to bring your camera, as the picturesque scenery and vibrant wildflowers make for stunning photo opportunities.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/SD_ROW-grass.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Soldier%27s%20Delight%20Natural%20Environment%20Area"
+            },
+            {
+                "name": "South Mountain Battlefield",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/southmountainbattlefield.aspx",
+                "content": "The South Mountain Battlefield in Maryland was the site of a crucial Civil War battle on September 14, 1862.",
+                "description": "The South Mountain Battlefield in Maryland marks the site of a crucial turning point in the Civil War, known as the \"battle that saved Washington.\" Visitors can explore the historic landscape and learn about the fierce fighting that took place here in September 1862. The battlefield features several well-preserved historic structures, including a farmhouse that served as a field hospital during the battle. Interpretive trails and exhibits provide visitors with insight into the tactics and strategies used by both Union and Confederate forces during the engagement. The South Mountain Battlefield offers a unique opportunity to immerse oneself in the rich history of the Civil War and gain a deeper understanding of this pivotal moment in American history.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/SouthMt_cannon.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=South%20Mountain%20Battlefield"
+            },
+            {
+                "name": "South Mountain State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/southmountain.aspx",
+                "content": "South Mountain State Park offers over 40 miles of trails for hiking, mountain biking, and horseback riding in a scenic wooded setting.",
+                "description": "South Mountain State Park is a hiker's paradise, with over 40 miles of trails winding through lush forests and meandering streams. Visitors can enjoy stunning panoramic views of the surrounding countryside from several overlooks along the park's trails. History enthusiasts will appreciate the park's Civil War sites, including the Appalachian Trail Museum and the Washington Monument. For those looking to stay overnight, the park offers campsites and cabins for rent, providing a peaceful and immersive outdoor experience. Whether you're looking for a leisurely stroll or a challenging hike, South Mountain State Park has something for every outdoor enthusiast.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/SMSP_WevertonCliffsOverlook.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=South%20Mountain%20State%20Park"
+            },
+            {
+                "name": "St. Clement's Island State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/stclements.aspx",
+                "content": "St. Clement's Island State Park is a historic site where the first English colonists landed in Maryland in 1634.",
+                "description": "St. Clement's Island State Park is located in Maryland, on the Potomac River. Visitors can explore the island's rich history, as it was the site of Maryland's first colonial landing in 1634. The park offers stunning views of the river and surrounding area, making it a popular spot for picnicking and birdwatching. Additionally, the park is home to the Blackistone Lighthouse, which provides a glimpse into maritime history. With its historical significance and natural beauty, St. Clement's Island State Park is a must-visit destination for history buffs and nature lovers alike.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/StClementsIsland.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=St.%20Clement%27s%20Island%20State%20Park"
+            },
+            {
+                "name": "St. Mary's River State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/southern/stmarysriver.aspx",
+                "content": "St. Mary's River State Park features scenic hiking trails, water activities, and peaceful picnicking along the St. Mary's River in southern Maryland.",
+                "description": "St. Mary's River State Park is located in southern Maryland in a beautiful, natural setting along the St. Mary's River. Visitors can enjoy a variety of outdoor activities such as hiking, picnicking, fishing, and boating. The park features over 20 miles of hiking trails, including the popular Indian Springs Trail which takes hikers through a hardwood forest and past several small streams. Birdwatchers will also love the park, as it is home to a wide variety of bird species including warblers, herons, and woodpeckers. Whether you're looking to relax by the water or explore the natural beauty of Maryland, St. Mary's River State Park is a great destination for outdoor enthusiasts.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/SMRSP_Scenic_StMarysTourism.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=St.%20Mary%27s%20River%20State%20Park"
+            },
+            {
+                "name": "Susquehanna State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/susquehanna.aspx",
+                "content": "Susquehanna State Park offers a variety of outdoor recreational activities including hiking, fishing, and camping along the scenic Susquehanna River.",
+                "description": "Susquehanna State Park is located along the banks of the Susquehanna River in Harford County, Maryland, offering visitors a beautiful natural setting for outdoor activities such as hiking, fishing, picnicking, and camping. The park features over 15 miles of marked hiking trails, including the popular Deer Creek Trail, which offers scenic views of the river and surrounding woodlands. Visitors can explore the historic Rock Run Grist Mill, which dates back to the 18th century and is now a popular spot for birdwatching and photography. The park also has a boat launch for kayaking and canoeing on the river, as well as a designated swimming area for cooling off in the summer months. With its rich history and diverse range of outdoor activities, Susquehanna State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Susquehanna_summer2017.JPG",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Susquehanna%20State%20Park"
+            },
+            {
+                "name": "Swallow Falls State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/swallowfalls.aspx",
+                "content": "Swallow Falls State Park in Maryland is home to stunning waterfalls, hiking trails, and scenic beauty.",
+                "description": "Swallow Falls State Park is located in Oakland, Maryland and is known for its beautiful waterfalls, hiking trails, and scenic views. The park's main attraction is Muddy Creek Falls, the highest waterfall in Maryland, standing at 53 feet tall. Visitors can also explore the Youghiogheny River and take advantage of opportunities for fishing, picnicking, and camping. The park offers over 9 miles of hiking trails, including a section of the historic Maryland Western Railroad line. With its stunning natural beauty and abundance of outdoor activities, Swallow Falls State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/SFSP_Falls.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Swallow%20Falls%20State%20Park"
+            },
+            {
+                "name": "Torrey C. Brown Rail Trail",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/central/tcb.aspx",
+                "content": "The Torrey C. Brown Rail Trail is a scenic 20-mile trail in Maryland that follows the route of the former Northern Central Railway, providing a peaceful environment for walking, running, biking, and horseback riding.",
+                "description": "The Torrey C. Brown Rail Trail, formerly known as the Northern Central Railroad Trail, is a scenic 20-mile trail that spans from Hunt Valley to the Pennsylvania border. Visitors can enjoy walking, running, biking, or even horseback riding along this picturesque trail. The trail passes through a variety of landscapes, including wooded areas, farmland, and streams, providing ample opportunities for birdwatching and wildlife spotting. There are multiple access points and trailheads along the route, making it easy for visitors to customize their experience on the trail. Whether you're looking for a leisurely stroll or an invigorating workout, the Torrey C. Brown Rail Trail offers something for everyone to enjoy.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/MonktonStation_DeanHughes.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Torrey%20C.%20Brown%20Rail%20Trail"
+            },
+            {
+                "name": "Tuckahoe State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/tuckahoe.aspx",
+                "content": "Tuckahoe State Park offers outdoor activities like hiking, biking, camping, and fishing in a scenic and peaceful setting.",
+                "description": "Tuckahoe State Park, located in Maryland's Eastern Shore, offers visitors the chance to explore over 3,800 acres of beautiful wooded parkland. The park features a picturesque lake perfect for boating and fishing, as well as numerous hiking and biking trails for outdoor enthusiasts to enjoy. Visitors can also experience the park's rich history, including the restored 19th-century Adkins Arboretum and the historic Adkins House. Additionally, Tuckahoe State Park offers a variety of recreational activities such as camping, picnicking, and wildlife watching, making it an ideal destination for nature lovers of all ages. Be sure to check out the park's seasonal events and programs for a fun and educational experience during your visit.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/TSP_ScenicLake_MichaelCarter.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tuckahoe%20State%20Park"
+            },
+            {
+                "name": "Washington Monument State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/washington.aspx",
+                "content": "Washington Monument State Park is home to the first completed monument dedicated to George Washington, offering hiking trails and picnicking opportunities.",
+                "description": "Washington Monument State Park is located in Maryland and is home to the first monument dedicated to George Washington in the United States. Visitors can hike to the top of the monument for a beautiful view of the surrounding countryside. The park offers picnic areas, hiking trails, and a playground for families to enjoy. History enthusiasts will appreciate the museum located on-site, which provides information about the monument's construction and significance. Overall, Washington Monument State Park is a great place to spend a day exploring history and enjoying the outdoors.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/WMSP_HomePage.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Washington%20Monument%20State%20Park"
+            },
+            {
+                "name": "Western Maryland Rail Trail",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/wmrt.aspx",
+                "content": "The Western Maryland Rail Trail is a 28-mile long trail that follows the abandoned Western Maryland Railway line and offers stunning views of the surrounding mountains and countryside.",
+                "description": "The Western Maryland Rail Trail is a 28-mile scenic pathway that follows the abandoned Western Maryland Railroad line. Visitors can enjoy a leisurely stroll, jog, bike ride, or horseback ride along the flat, crushed limestone trail that runs parallel to the Potomac River. The trail passes through picturesque farmland, forests, and historic Civil War sites, offering stunning views of the surrounding mountains and wildlife. The trail is also wheelchair accessible, making it a perfect outdoor destination for all ages and abilities. Visitors can stop at one of the trailheads to rest, have a picnic, or explore the charming nearby towns of Hancock and Williamsport.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/wmrt-bicking-running.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Western%20Maryland%20Rail%20Trail"
+            },
+            {
+                "name": "Wolf Den Run State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/Wolf-Den-Run.aspx",
+                "content": "Wolf Den Run State Park is a 1,025-acre park in Kitzmiller, Maryland that offers a variety of outdoor recreational opportunities including hiking, mountain biking, and hunting.",
+                "description": "Wolf Den Run State Park is a hidden gem located in the mountains of Western Maryland, offering visitors a rugged and secluded outdoor experience. The park features over 20 miles of multi-use trails for hiking, mountain biking, and horseback riding, allowing visitors to explore the park's diverse terrain and stunning vistas. Wolf Den Run is also a popular destination for off-road vehicle enthusiasts, with designated Jeep trails and a rock crawling area for those seeking an adrenaline-fueled adventure. The park's primitive campsites provide a unique opportunity for overnight stays in the wilderness, perfect for stargazing and reconnecting with nature. With its remote location and abundance of outdoor activities, Wolf Den Run State Park is a must-visit destination for outdoor enthusiasts looking to escape the hustle and bustle of everyday life.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/wdr-potomac.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wolf%20Den%20Run%20State%20Park"
+            },
+            {
+                "name": "Woodmont Natural Resources Management Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/woodmont.aspx",
+                "content": "Woodmont Natural Resources Management Area in Maryland offers over 6,000 acres of recreational opportunities, including hiking, hunting, and wildlife viewing.",
+                "description": "Woodmont Natural Resources Management Area is a 263-acre property located in Hancock, Maryland, offering a peaceful escape for outdoor enthusiasts. Visitors can explore the area's diverse habitats, including forests, wetlands, and grasslands, which support a variety of plant and animal species. The area features several hiking trails, picnic areas, and a fishing pond, providing opportunities for recreation and relaxation. Birdwatchers will enjoy spotting a wide range of bird species, including warblers, woodpeckers, and raptors, making it a popular destination for birdwatching enthusiasts. Additionally, the area's historic Woodmont Lodge, built in the late 1800s, offers a glimpse into the past and serves as a reminder of the area's rich history.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Woodmont2018.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Woodmont%20Natural%20Resources%20Management%20Area"
+            },
+            {
+                "name": "Wye Island State Natural Resources Management Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/wyeisland.aspx",
+                "content": "Wye Island State Natural Resources Management Area is a 2,800-acre island with diverse ecosystems, providing opportunities for hiking, bird watching, and fishing.",
+                "description": "Wye Island State Natural Resources Management Area is a 2,800-acre island located in the Chesapeake Bay and is a haven for outdoor enthusiasts. Visitors can explore over 10 miles of hiking and biking trails that weave through diverse ecosystems such as forests, wetlands, and marshes. The area is known for its abundant wildlife, including bald eagles, ospreys, and deer, making it a popular spot for bird watching and nature photography. Anglers can also enjoy fishing in the surrounding waters for a variety of species. Additionally, the island features historic sites such as the Old Wye Church, dating back to the 18th century, adding a cultural element to the outdoor experience.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/WyeIsland_Scenic.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wye%20Island%20State%20Natural%20Resources%20Management%20Area"
+            },
+            {
+                "name": "Wye Oak State Park",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/eastern/wyeoak.aspx",
+                "content": "Wye Oak State Park is home to the iconic Wye Oak, the largest white oak tree in the United States until it fell in 2002.",
+                "description": "Wye Oak State Park in Maryland is home to the iconic Wye Oak tree, which was once the largest white oak tree in the United States before it fell in a storm in 2002.\n\nVisitors to the park can explore the historic site where the Wye Oak once stood and learn about its significance in Maryland's history.\n\nIn addition to the Wye Oak site, the park offers opportunities for picnicking, hiking, and birdwatching, making it a great destination for nature lovers.\n\nThe park also features a children's playground, making it a family-friendly destination for a day trip or weekend getaway.\n\nOverall, Wye Oak State Park is a peaceful and beautiful natural area that offers visitors a chance to connect with the state's history and enjoy the great outdoors.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/WyeOakStatePark.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wye%20Oak%20State%20Park"
+            },
+            {
+                "name": "Youghiogheny Wild River Natural Environmental Area",
+                "url": "https://dnr.maryland.gov/publiclands/Pages/western/youghiogheny.aspx",
+                "content": "The Youghiogheny Wild River Natural Environmental Area offers visitors stunning views of the Youghiogheny River and surrounding forests, perfect for hiking and exploring.",
+                "description": "The Youghiogheny Wild River Natural Environmental Area is a stunning 6,695-acre preserve located in Western Maryland, offering visitors a peaceful retreat into nature. This area is known for its pristine forests, scenic river views, and abundant wildlife, making it a popular destination for outdoor enthusiasts. Visitors can enjoy a variety of recreational activities such as hiking, fishing, picnicking, and birdwatching along the river's picturesque banks. The Youghiogheny River is also a designated Wild and Scenic River, providing a unique opportunity to experience the beauty of this natural waterway. Whether you're seeking adventure or simply a place to relax and unwind, the Youghiogheny Wild River Natural Environmental Area has something to offer for everyone.",
+                "image": "https://dnr.maryland.gov/publiclands/PublishingImages/Youghiogheny_Rafting.png",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Youghiogheny%20Wild%20River%20Natural%20Environmental%20Area"
+            }
+        ]
+    }
+}

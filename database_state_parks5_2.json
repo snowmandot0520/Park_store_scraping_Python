@@ -1,0 +1,14 @@
+{
+    "Mississippi State Parks": {
+        "parks": [
+            {
+                "name": "Buccaneer",
+                "url": "https://www.mdwfp.com/parks-destinations/state-parks/buccaneer/",
+                "content": "Buccaneer State Park in Waveland, Mississippi offers a serene coastal escape with camping, cabins, and water activities for visitors to enjoy.",
+                "description": "Buccaneer State Park is located in Waveland, Mississippi and sits on the Gulf Coast, making it a popular destination for beachgoers. The park offers a variety of outdoor activities such as swimming, fishing, hiking, and camping, providing visitors with plenty of opportunities to enjoy the natural beauty of the area. One of the park's main attractions is the Buccaneer Bay Waterpark, which features water slides, a lazy river, and a wave pool, making it a great spot for families to cool off and have fun. Additionally, the park has a nature trail where visitors can spot local wildlife and learn about the coastal ecosystem. With its picturesque setting and range of amenities, Buccaneer State Park is a must-visit destination for anyone looking to relax and unwind by the beach.",
+                "image": "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buccaneer"
+            }
+        ]
+    }
+}
