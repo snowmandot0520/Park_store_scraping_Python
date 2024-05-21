@@ -1,0 +1,710 @@
+{
+    "Texas State Parks": {
+        "parks": [
+            {
+                "name": "Abilene State Park",
+                "url": "https://tpwd.texas.gov/state-parks/abilene",
+                "content": "Abilene State Park offers a serene escape with hiking trails, campgrounds, and fishing opportunities in the heart of the Texas Hill Country.",
+                "description": "Abilene State Park, located in the beautiful Texas Hill Country, offers visitors a peaceful retreat with stunning views of the surrounding landscape. The park is known for its diverse wildlife, including white-tailed deer, armadillos, and a variety of bird species for nature enthusiasts to enjoy.\n\nVisitors can explore over 15 miles of scenic hiking and biking trails that wind through oak, cedar, and mesquite trees, providing a serene and tranquil outdoor experience. The park also features a freshwater swimming pool fed by a natural spring, perfect for cooling off on hot summer days.\n\nFor those interested in camping, Abilene State Park offers a variety of camping options, including tent camping sites, screened shelters, and RV hookups, allowing guests to fully immerse themselves in the natural surroundings. Additionally, the park has picnic areas, fishing spots, and a playground for families to enjoy a fun-filled day outdoors.\n\nHistory buffs will appreciate the park's historic Civilian Conservation Corps-built structures, such as the group recreation hall and the iconic stone water tower, offering a glimpse into the park's rich history and preservation efforts. Whether you're looking for a relaxing weekend getaway or an outdoor adventure, Abilene State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Abilene%20State%20Park"
+            },
+            {
+                "name": "Atlanta State Park",
+                "url": "https://tpwd.texas.gov/state-parks/atlanta",
+                "content": "Atlanta State Park is a serene park located on the shores of Wright Patman Lake in East Texas, offering a variety of outdoor recreational activities including hiking, fishing, and camping.",
+                "description": "Atlanta State Park, located in the northeastern corner of Texas, is a peaceful retreat for nature lovers and outdoor enthusiasts. Visitors can explore over 1,500 acres of piney woods, enjoy hiking and biking along scenic trails, or relax by the tranquil shores of Wright Patman Lake.\n\nFishing is a popular activity at Atlanta State Park, with anglers casting their lines for bass, crappie, catfish, and sunfish. The park also offers a boat ramp for easy access to the lake, perfect for boating and water skiing.\n\nBirdwatchers will delight in the diverse array of avian species that call Atlanta State Park home, including bald eagles, ospreys, and great blue herons. The park is a designated birding area, with opportunities to spot these majestic creatures throughout the year.\n\nFor overnight stays, visitors can choose from a variety of camping options, including tent sites, RV hookups, and screened shelters. The park offers modern amenities such as restrooms, showers, and a playground for families with children.\n\nWhether you're seeking a weekend getaway or a day trip from nearby cities like Texarkana or Shreveport, Atlanta State Park provides a tranquil escape into the natural beauty of East Texas. Don't forget to pack your binoculars, fishing gear, and hiking shoes for a memorable outdoor adventure.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Atlanta%20State%20Park"
+            },
+            {
+                "name": "Balmorhea State Park",
+                "url": "https://tpwd.texas.gov/state-parks/balmorhea",
+                "content": "Balmorhea State Park is home to the world\u2019s largest spring-fed swimming pool and offers camping, picnicking, and scuba diving opportunities in the beautiful West Texas desert.",
+                "description": "Balmorhea State Park is a stunning oasis located in West Texas, known for its crystal-clear freshwater springs that create a tranquil swimming experience for visitors. The park offers a large spring-fed swimming pool that is fed by the San Solomon Springs, attracting swimmers and scuba divers alike to explore its depths. Visitors can also enjoy picnicking, camping, hiking, and birdwatching in the park's beautiful surroundings. The park is home to a variety of wildlife, including fish, turtles, and even the occasional alligator snapping turtle. With its unique combination of natural beauty and recreational opportunities, Balmorhea State Park is a must-visit destination for outdoor enthusiasts in Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Balmorhea%20State%20Park"
+            },
+            {
+                "name": "Barton Warnock Visitor Center",
+                "url": "https://tpwd.texas.gov/state-parks/barton-warnock",
+                "content": "The Barton Warnock Visitor Center is a hub for exploring the unique flora and fauna of Big Bend Ranch State Park in Texas.",
+                "description": "The Barton Warnock Visitor Center is located within Big Bend Ranch State Park in West Texas and serves as the gateway to the park's stunning landscapes and diverse wildlife. Visitors can explore interactive exhibits on the area's unique geology, plant life, and history, as well as pick up maps and information on hiking and camping opportunities in the park.\n\nThe center also offers guided tours and educational programs led by park staff, giving visitors the opportunity to learn more about the flora, fauna, and cultural heritage of the region. Outdoor enthusiasts will appreciate the nearby access to hiking trails, birdwatching areas, and scenic overlooks, making it the perfect starting point for an adventure in the park.\n\nAdditionally, the Barton Warnock Visitor Center features a gift shop where visitors can purchase souvenirs, books, and field guides to enhance their experience in Big Bend Ranch State Park. Whether you're a first-time visitor or a seasoned explorer, this center provides valuable resources and insights to help you make the most of your time in this remote and captivating corner of Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Barton%20Warnock%20Visitor%20Center"
+            },
+            {
+                "name": "Bastrop State Park",
+                "url": "https://tpwd.texas.gov/state-parks/bastrop",
+                "content": "Bastrop State Park is a 5,926-acre park known for its towering pine trees, diverse wildlife, and scenic hiking trails.",
+                "description": "Bastrop State Park is a beautiful natural oasis located less than an hour away from Austin, Texas. This park is known for its stunning pine forests, clear creeks, and diverse wildlife, making it a popular destination for outdoor enthusiasts and nature lovers.\n\nVisitors can enjoy a variety of outdoor activities at Bastrop State Park, including hiking, biking, fishing, and camping. The park boasts over seven miles of hiking trails that take visitors through scenic landscapes and offer breathtaking views of the surrounding area.\n\nFor those looking to spend the night, Bastrop State Park offers both tent camping and RV camping sites, as well as rustic cabins for a more comfortable stay. The park also has picnic areas and a swimming pool, making it a great spot for a day trip or a weekend getaway with family and friends.\n\nBastrop State Park is also home to the famous \"Lost Pines,\" a unique pine forest that is separated from the main East Texas Piney Woods, making it a special and rare ecosystem that attracts visitors from all over the state. Whether you're looking to explore the trails, relax by the pool, or simply enjoy the beauty of nature, Bastrop State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bastrop%20State%20Park"
+            },
+            {
+                "name": "Bentsen-Rio Grande Valley State             Park",
+                "url": "https://tpwd.texas.gov/state-parks/bentsen-rio-grande-valley",
+                "content": "Bentsen-Rio Grande Valley State Park is a popular birdwatching destination in Texas, known for its diverse bird species and prime location along the Rio Grande.",
+                "description": "Bentsen-Rio Grande Valley State Park is located in South Texas and offers a unique opportunity for visitors to explore the region's diverse wildlife and ecosystems. The park is known for its birdwatching opportunities, with over 300 species of birds spotted throughout the year.\n\nVisitors can enjoy exploring the park's network of trails, which wind through lush forests, wetlands, and meadows. The park also offers guided tram tours and birding tours led by knowledgeable staff and volunteers.\n\nFor those looking to stay overnight, the park offers a variety of camping options, including tent campsites, RV sites, and even furnished cabins. The park's campground facilities feature modern amenities such as restrooms, showers, and a camp store.\n\nIn addition to birdwatching, visitors can enjoy other activities such as cycling, fishing, and wildlife viewing. The park also has a visitor center with exhibits on the local flora and fauna, as well as a gift shop with souvenirs and educational materials.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bentsen-Rio%20Grande%20Valley%20State%20%20%20%20%20%20%20%20%20%20%20%20%20Park"
+            },
+            {
+                "name": "Big Bend Ranch State Park",
+                "url": "https://tpwd.texas.gov/state-parks/big-bend-ranch",
+                "content": "Big Bend Ranch State Park is the largest state park in Texas, offering rugged landscapes, scenic views, and numerous activities for outdoor enthusiasts.",
+                "description": "Big Bend Ranch State Park is the largest state park in Texas, covering over 300,000 acres of rugged and remote desert terrain. Visitors can explore the park's many hiking, mountain biking, and horseback riding trails, offering stunning views of the Rio Grande and the surrounding mountains. The park is home to a variety of wildlife, including desert bighorn sheep, javelinas, and golden eagles, making it a popular destination for birdwatchers and nature enthusiasts. Camping is available in designated primitive campsites throughout the park, allowing visitors to truly immerse themselves in the beauty and solitude of the West Texas landscape. For those looking for a unique experience, guided tours and educational programs are available to learn more about the park's geology, history, and conservation efforts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Bend%20Ranch%20State%20Park"
+            },
+            {
+                "name": "Big Spring State Park",
+                "url": "https://tpwd.texas.gov/state-parks/big-spring",
+                "content": "Big Spring State park is a scenic park in Texas known for its natural spring, hiking trails, and rock formations.",
+                "description": "Big Spring State Park is located in Texas and boasts a beautiful natural spring that feeds into a 200-foot-wide and 40-foot-deep pool, perfect for swimming on hot days. Visitors can also explore the park's rugged limestone hills, which offer hiking opportunities and stunning views of the surrounding landscape. The park is home to a variety of wildlife, including white-tailed deer, bobcats, and numerous species of birds, making it a great spot for wildlife enthusiasts. Additionally, the park offers camping facilities for those looking to spend the night under the stars and enjoy the peaceful setting of the park. Overall, Big Spring State Park is a must-visit destination for nature lovers seeking a unique outdoor experience in Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Spring%20State%20Park"
+            },
+            {
+                "name": "Blanco State Park",
+                "url": "https://tpwd.texas.gov/state-parks/blanco",
+                "content": "Blanco State Park is a serene natural area located in Blanco, Texas, offering activities such as camping, swimming, hiking, and fishing along the Blanco River.",
+                "description": "Blanco State Park is a beautiful oasis located along the Blanco River in Blanco, Texas. Visitors can enjoy a variety of outdoor activities such as swimming, fishing, tubing, and hiking in this peaceful setting. The park offers 30 campsites for those looking to spend the night under the stars, as well as day-use picnic areas for families to enjoy a meal together. Birdwatchers will be delighted by the diverse array of bird species that can be spotted in the park, making it a great spot for wildlife enthusiasts. With its scenic bluffs and tranquil atmosphere, Blanco State Park is the perfect destination for a relaxing getaway in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blanco%20State%20Park"
+            },
+            {
+                "name": "Bonham State Park",
+                "url": "https://tpwd.texas.gov/state-parks/bonham",
+                "content": "Bonham State Park is a peaceful park with a scenic lake, swimming area, hiking trails, and picnic areas in Bonham, Texas.",
+                "description": "Bonham State Park is a charming retreat located in Fannin County, Texas, just an hour and a half drive from Dallas. Visitors can enjoy activities such as fishing, swimming, hiking, and camping in this tranquil park surrounded by beautiful mature trees and lush greenery. The centerpiece of the park is a pristine 65-acre lake perfect for boating and fishing. For those interested in history, the park also features a CCC-built (Civilian Conservation Corps) pavilion and group recreation hall, adding a touch of nostalgia to the natural surroundings. Whether you're looking for a relaxing day by the water or a fun weekend camping trip, Bonham State Park offers a picturesque setting for outdoor enthusiasts to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bonham%20State%20Park"
+            },
+            {
+                "name": "Brazos Bend State Park",
+                "url": "https://tpwd.texas.gov/state-parks/brazos-bend",
+                "content": "Brazos Bend State Park is known for its abundant wildlife, extensive trail system, and scenic camping opportunities, located just 45 minutes from Houston.",
+                "description": "Located just 45 minutes southwest of Houston, Brazos Bend State Park offers a diverse range of activities for visitors to enjoy. The park is home to a variety of wildlife, including alligators, white-tailed deer, and numerous bird species, making it a popular spot for nature enthusiasts and photographers. In addition to hiking and biking trails, visitors can also fish, kayak, and camp in the park's picturesque surroundings. With its dark sky designation, Brazos Bend State Park is the perfect place for stargazing and observing the night sky. Whether you're looking to relax in nature or embark on an outdoor adventure, this state park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brazos%20Bend%20State%20Park"
+            },
+            {
+                "name": "Buescher State Park",
+                "url": "https://tpwd.texas.gov/state-parks/buescher",
+                "content": "Buescher State Park is a peaceful natural oasis located between Austin and Houston, offering hiking, camping, and fishing opportunities in a scenic setting.",
+                "description": "Buescher State Park is a beautiful natural oasis located in the heart of the Lost Pines region of Texas. Visitors can enjoy activities such as hiking, fishing, camping, and bird watching in this scenic park. The park is home to a variety of wildlife, including white-tailed deer, armadillos, and a wide array of bird species. The park also features a 7-mile scenic drive that winds through lush forested areas and offers stunning views of the surrounding landscape. With its peaceful atmosphere and diverse recreational opportunities, Buescher State Park is the perfect destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buescher%20State%20Park"
+            },
+            {
+                "name": "Caddo Lake State Park",
+                "url": "https://tpwd.texas.gov/state-parks/caddo-lake",
+                "content": "Caddo Lake State Park is a lush, swampy paradise in East Texas known for its serene waters, iconic bald cypress trees, and diverse wildlife.",
+                "description": "Caddo Lake State Park, located in eastern Texas near the Louisiana border, is known for its unique bayous, swamps, and cypress trees draped with Spanish moss. Visitors can explore the park's diverse ecosystems by hiking on over 12 miles of trails, paddling through the maze-like waterways in a kayak or canoe, or taking a guided boat tour to learn about the area's rich history and wildlife.\n\nAnglers will appreciate the excellent fishing opportunities in Caddo Lake, which is home to a variety of fish species including largemouth bass, crappie, and catfish. Birdwatchers will also be delighted to spot a variety of bird species such as herons, egrets, and bald eagles in the park.\n\nFor overnight stays, the park offers campsites with water and electric hookups, as well as fully furnished cabins for those looking for a more comfortable lodging option. Overall, Caddo Lake State Park is a beautiful and tranquil destination that offers plenty of outdoor activities for nature lovers to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Caddo%20Lake%20State%20Park"
+            },
+            {
+                "name": "Caprock Canyons State Park & Trailway",
+                "url": "https://tpwd.texas.gov/state-parks/caprock-canyons",
+                "content": "Caprock Canyons State Park & Trailway features over 90 miles of trails for hiking, biking, and horseback riding through rugged canyons and scenic vistas.",
+                "description": "1. Caprock Canyons State Park & Trailway is home to the official Texas State Bison Herd, one of the few public bison herds in the country. Visitors have the opportunity to witness these majestic creatures roaming freely in their natural habitat.\n\n2. The park boasts over 90 miles of multi-use trails for hiking, mountain biking, and horseback riding, offering stunning views of the rugged canyons, cliffs, and unique rock formations that make up the park's landscape.\n\n3. Visitors can explore the historic Clarity Tunnel, a 583-foot-long railroad tunnel built in 1927 which now serves as an attraction for hikers and bikers. The tunnel is an iconic feature of the park's 64-mile trailway, a converted railroad corridor that runs through the park.\n\n4. In addition to outdoor recreational activities, the park offers camping facilities, including tent sites and RV hookups, as well as cabins for those looking for a more comfortable stay. The park also features a swimming area, playground, and interpretive center for visitors to enjoy.\n\n5. With its diverse wildlife, stunning scenery, and rich history, Caprock Canyons State Park & Trailway is a must-visit destination for outdoor enthusiasts and nature lovers looking to experience the beauty and grandeur of the Texas Panhandle.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Caprock%20Canyons%20State%20Park%20%26%20Trailway"
+            },
+            {
+                "name": "Cedar Hill State Park",
+                "url": "https://tpwd.texas.gov/state-parks/cedar-hill",
+                "content": "Cedar Hill State Park offers outdoor enthusiasts a variety of recreational activities, including hiking, biking, fishing, and camping amidst the scenic beauty of the North Texas prairie.",
+                "description": "Cedar Hill State Park is located just 10 miles southwest of Dallas, making it a convenient outdoor escape for city dwellers.\nThe park features over 1,800 acres of rolling hills, wooded trails, and a sprawling lake perfect for fishing and boating.\nVisitors can explore over 15 miles of hiking and biking trails, which offer stunning views of Joe Pool Lake and the surrounding landscape.\nThe park also has campsites for overnight stays, as well as picnic areas and playgrounds for families to enjoy.\nWhether you're looking for a quick day trip or a longer outdoor adventure, Cedar Hill State Park offers a peaceful retreat in the heart of North Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cedar%20Hill%20State%20Park"
+            },
+            {
+                "name": "Choke Canyon State Park",
+                "url": "https://tpwd.texas.gov/state-parks/choke-canyon",
+                "content": "Choke Canyon State Park in Texas offers opportunities for fishing, camping, hiking, and wildlife viewing in a picturesque canyon setting.",
+                "description": "Choke Canyon State Park, located in southern Texas, is a popular destination for outdoor enthusiasts. The park offers a wide range of activities including fishing, hiking, bird watching, and camping. Visitors can explore over 26 miles of trails that wind through oak forests, meadows, and along the shores of the park's two reservoirs.\n\nOne of the main attractions of Choke Canyon State Park is its excellent fishing opportunities. The park is home to a variety of fish species including catfish, bass, and crappie, making it a favorite spot for anglers. Boat rentals and a fishing pier are available for those looking to spend a day on the water.\n\nBird watchers will also appreciate the diverse bird population in the park, which includes species such as woodpeckers, warblers, hawks, and more. The park's unique ecosystem provides a habitat for a wide variety of bird species, making it a prime location for bird watching enthusiasts.\n\nFor those looking to extend their stay, Choke Canyon State Park offers a variety of camping options including RV sites, tent sites, and cabins. The park's scenic surroundings make for a peaceful and relaxing camping experience, with amenities such as showers, restrooms, and picnic areas available for campers.\n\nOverall, Choke Canyon State Park offers a little something for everyone, whether you're looking to reel in a big catch, explore the great outdoors, or simply unwind in nature. With its diverse array of activities and beautiful natural surroundings, it's no wonder why this park is a favorite among visitors to southern Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Choke%20Canyon%20State%20Park"
+            },
+            {
+                "name": "Cleburne State Park",
+                "url": "https://tpwd.texas.gov/state-parks/cleburne",
+                "content": "Cleburne State Park is a scenic park located in Texas featuring diverse outdoor activities such as fishing, swimming, hiking, and camping.",
+                "description": "Cleburne State Park, located in North Texas, offers visitors a peaceful retreat with its rolling hills and dense forest of oak and juniper trees.\nVisitors can enjoy a variety of outdoor activities, such as hiking, mountain biking, and fishing in the park's two small lakes.\nThe park also features a swimming beach, picnic areas, and campsites for overnight stays, making it a great destination for a weekend getaway.\nWildlife enthusiasts will appreciate the park's diverse ecosystem, which is home to deer, foxes, and a variety of bird species.\nOverall, Cleburne State Park is a fantastic destination for nature lovers seeking to explore the great outdoors and unwind in a tranquil setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cleburne%20State%20Park"
+            },
+            {
+                "name": "Colorado Bend State Park",
+                "url": "https://tpwd.texas.gov/state-parks/colorado-bend",
+                "content": "Colorado Bend State Park is a beautiful natural area in Texas known for its stunning waterfalls, limestone cliffs, and excellent hiking and fishing opportunities.",
+                "description": "Colorado Bend State Park is a hidden gem located in the Hill Country of Texas, offering visitors a unique outdoor experience. The park boasts beautiful limestone cliffs, breathtaking waterfalls, and over 35 miles of hiking trails for visitors to explore. One of the highlights of the park is Gorman Falls, a 70-foot cascading waterfall that is a sight to behold. Visitors can also enjoy activities such as fishing, camping, and wildlife viewing in this natural oasis. With its stunning scenery and diverse recreational opportunities, Colorado Bend State Park is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Colorado%20Bend%20State%20Park"
+            },
+            {
+                "name": "Cooper Lake State Park",
+                "url": "https://tpwd.texas.gov/state-parks/cooper-lake",
+                "content": "Cooper Lake State Park is a serene outdoor recreation area located in northeast Texas, offering opportunities for fishing, boating, hiking, and camping.",
+                "description": "Cooper Lake State Park is a beautiful outdoor destination located in northeast Texas, offering visitors a variety of recreational activities to enjoy. The park features two separate units - Doctors Creek and South Sulphur - each providing unique opportunities for camping, fishing, hiking, and wildlife viewing. Visitors can explore over 19 miles of scenic trails that wind through lush forests and along the picturesque shoreline of Cooper Lake. The park also offers excellent birdwatching opportunities, with over 200 species of birds recorded in the area. Whether you're looking to relax by the water, challenge yourself on the hiking trails, or simply soak in the natural beauty of the region, Cooper Lake State Park is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cooper%20Lake%20State%20Park"
+            },
+            {
+                "name": "Copper Breaks State Park",
+                "url": "https://tpwd.texas.gov/state-parks/copper-breaks",
+                "content": "Copper Breaks State Park in Texas offers stunning stargazing opportunities due to its dark skies and observatory.",
+                "description": "Copper Breaks State Park is a beautiful 1,899-acre park located in the rolling plains of North Texas, offering stunning panoramic views of the surrounding landscape. Visitors can enjoy camping, hiking, biking, and stargazing in one of the best dark sky parks in the state. The park features a variety of wildlife, including white-tailed deer, wild turkeys, and a wide variety of bird species. Additionally, there are several scenic trails for both beginner and experienced hikers, providing opportunities to explore the park's diverse terrain and unique geological formations. Be sure to bring your camera to capture the breathtaking sunsets and star-filled night skies that make Copper Breaks State Park a must-visit destination.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Copper%20Breaks%20State%20Park"
+            },
+            {
+                "name": "Daingerfield State Park",
+                "url": "https://tpwd.texas.gov/state-parks/daingerfield",
+                "content": "Daingerfield State Park offers scenic nature trails, a picturesque 80-acre lake, and clean camping facilities for visitors to enjoy.",
+                "description": "Daingerfield State Park is located in East Texas and offers visitors a picturesque setting with its stunning 80-acre lake surrounded by rolling hills and towering pine trees. The park is a popular spot for fishing, with largemouth bass, catfish, and sunfish among the species found in the lake. Visitors can also enjoy hiking and biking on the park's scenic trails, as well as picnicking in the designated picnic areas scattered throughout the park. For those looking to extend their visit, the park offers a variety of camping options, including cabins, campsites, and screened shelters. Whether you're seeking a relaxing weekend getaway or an outdoor adventure, Daingerfield State Park has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Daingerfield%20State%20Park"
+            },
+            {
+                "name": "Davis Mountains State Park",
+                "url": "https://tpwd.texas.gov/state-parks/davis-mountains",
+                "content": "Davis Mountains State Park is a 2,709-acre park located in the Davis Mountains of West Texas, known for its stunning natural beauty and opportunities for camping, hiking, and birdwatching.",
+                "description": "1. Davis Mountains State Park is located in the rugged beauty of West Texas, offering visitors stunning views of mountain peaks, dramatic canyons, and clear blue skies.\n\n2. Hiking enthusiasts will delight in exploring over 4 miles of trails that wind through the park's unique landscape, allowing them to encounter diverse plant and animal life along the way.\n\n3. Campers can choose from a variety of camping options, including tent camping, RV sites, and cozy cabins, all providing a chance to sleep under the star-filled night sky and wake up to the peaceful sounds of nature.\n\n4. Birdwatchers will have the opportunity to spot a wide variety of bird species, including roadrunners, golden eagles, and painted buntings, making Davis Mountains State Park a prime destination for avian enthusiasts.\n\n5. With its dark skies and minimal light pollution, the park is also a designated International Dark Sky Park, making it an ideal spot for stargazing and marveling at the countless stars that illuminate the night sky above the majestic Davis Mountains.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Davis%20Mountains%20State%20Park"
+            },
+            {
+                "name": "Devils River State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/devils-river",
+                "content": "Devils River State Natural Area is a remote and pristine wilderness area known for its crystal-clear waters and rugged canyons perfect for hiking and paddling adventures.",
+                "description": "Devils River State Natural Area is a remote and pristine oasis located in southwest Texas, offering visitors a chance to escape the hustle and bustle of city life. The park is known for its crystal-clear waters, perfect for kayaking, swimming, and fishing. Visitors can also explore the area's rugged landscapes, including deep canyons, limestone cliffs, and vibrant wildflowers.\n\nFor those seeking adventure, the park offers backcountry camping opportunities along the riverbanks, providing a truly immersive outdoor experience. Wildlife enthusiasts will be delighted by the diverse array of animals that call Devils River home, including deer, javelinas, and various bird species.\n\nAdditionally, the park is a designated Dark Sky area, making it an ideal spot for stargazing and observing the Milky Way in all its glory. Whether you're seeking solitude in nature or looking to explore the untamed beauty of Texas, Devils River State Natural Area is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Devils%20River%20State%20Natural%20Area"
+            },
+            {
+                "name": "Devil's Sinkhole State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/devils-sinkhole",
+                "content": "Devil's Sinkhole State Natural Area is a unique geological formation in Texas known for its massive underground limestone chamber, which is home to a large population of Mexican free-tailed bats.",
+                "description": "Devil's Sinkhole State Natural Area is a unique geological wonder located in Edwards County, Texas. This natural area is home to the largest single-chamber cavern in Texas, measuring approximately 400 feet deep and 40-60 feet wide. Visitors can take guided tours to explore the sinkhole and learn about its history and formation. The site is also a popular spot for birdwatching, with the sinkhole serving as a roosting site for thousands of Mexican free-tailed bats. Outdoor enthusiasts can enjoy hiking trails, picnic areas, and camping facilities within the state natural area. Be sure to visit during sunrise or sunset for stunning views of the sinkhole against the backdrop of the Texas Hill Country.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Devil%27s%20Sinkhole%20State%20Natural%20Area"
+            },
+            {
+                "name": "Dinosaur Valley State Park",
+                "url": "https://tpwd.texas.gov/state-parks/dinosaur-valley",
+                "content": "Dinosaur Valley State Park in Texas features preserved dinosaur tracks and offers hiking, camping, and swimming opportunities.",
+                "description": "Dinosaur Valley State Park in Glen Rose, Texas, is a popular destination for visitors looking to explore ancient dinosaur tracks. The park is home to some of the best-preserved dinosaur tracks in the world, dating back over 100 million years. Visitors can walk in the footsteps of these prehistoric creatures along the Paluxy River bed.\n\nIn addition to the dinosaur tracks, the park offers hiking, mountain biking, and horseback riding trails, as well as opportunities for camping and picnicking. The park is also a designated wildlife sanctuary, making it a great spot for birdwatching and wildlife viewing.\n\nVisitors can learn more about the history of the area and the dinosaurs that once roamed the earth at the park's interpretive center, which features exhibits and displays related to paleontology and geology. The park also hosts guided tours and educational programs for guests of all ages.\n\nFor those looking to cool off during the hot summer months, the park offers swimming and fishing in the Paluxy River, as well as opportunities for paddling and tubing. Overall, Dinosaur Valley State Park offers a unique and educational experience for visitors of all ages to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dinosaur%20Valley%20State%20Park"
+            },
+            {
+                "name": "Eisenhower State Park",
+                "url": "https://tpwd.texas.gov/state-parks/eisenhower",
+                "content": "Eisenhower State Park is a serene and scenic park in Texas offering a variety of recreational activities such as fishing, hiking, camping, and swimming.",
+                "description": "1. Eisenhower State Park is located on the shores of Lake Texoma, offering visitors stunning views of the lake and surrounding landscapes. The park is named after President Dwight D. Eisenhower, who was born in nearby Denison, Texas.\n\n2. Visitors to Eisenhower State Park can enjoy a variety of outdoor activities, including hiking, biking, swimming, and fishing. The park boasts over 450 acres of beautiful scenery, making it an ideal destination for nature lovers.\n\n3. One of the highlights of Eisenhower State Park is its sandy beach area, perfect for sunbathing and picnicking with family and friends. The park also has several picnic areas, as well as camping facilities for those looking to spend the night under the stars.\n\n4. Wildlife enthusiasts will appreciate the opportunity to spot a variety of bird species, as well as deer and other wildlife, while exploring the park's trails. The park is also a popular spot for birdwatching, with a wide range of species to observe throughout the year.\n\n5. Whether you're looking for a peaceful escape into nature or a fun-filled day by the water, Eisenhower State Park has something for everyone. With its scenic beauty and abundance of recreational opportunities, it's no wonder this park is a favorite destination for outdoor enthusiasts in Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eisenhower%20State%20Park"
+            },
+            {
+                "name": "Enchanted Rock State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/enchanted-rock",
+                "content": "Enchanted Rock State Natural Area is a majestic pink granite dome that offers stunning views and is a popular destination for hiking, camping, and rock climbing in Texas.",
+                "description": "Enchanted Rock State Natural Area is a popular destination for outdoor enthusiasts in Texas, offering stunning views and unique geological formations. Visitors can explore the massive pink granite dome that rises 425 feet above the surrounding terrain, providing a challenging but rewarding hike to the top. Rock climbers also flock to the park to test their skills on the textured surfaces of Enchanted Rock. Additionally, the park offers camping, picnicking, and stargazing opportunities, making it a great spot for a weekend getaway in nature. Be sure to check out the park's diverse plant and animal life, including rare species like the ashe juniper and golden-cheeked warbler.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Enchanted%20Rock%20State%20Natural%20Area"
+            },
+            {
+                "name": "Estero Llano Grande State Park",
+                "url": "https://tpwd.texas.gov/state-parks/estero-llano-grande",
+                "content": "Estero Llano Grande State Park is a 230-acre park in Weslaco, Texas, known for its great birdwatching opportunities and diverse wildlife.",
+                "description": "Estero Llano Grande State Park is a birdwatcher's paradise located in Weslaco, Texas. With over 240 different species of birds, visitors can catch a glimpse of rare and exotic birds in their natural habitat. The park offers guided bird walks and tram tours for those looking to learn more about the diverse bird population. In addition to birdwatching, visitors can explore the park's wetlands, forests, and grasslands on hiking trails and boardwalks. With its serene atmosphere and abundant wildlife, Estero Llano Grande State Park is a must-visit destination for nature enthusiasts and bird lovers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Estero%20Llano%20Grande%20State%20Park"
+            },
+            {
+                "name": "Falcon State Park",
+                "url": "https://tpwd.texas.gov/state-parks/falcon",
+                "content": "Falcon State Park in Texas offers outdoor enthusiasts opportunities for fishing, boating, camping, and wildlife viewing along the Rio Grande River.",
+                "description": "1. Falcon State Park is located on the shores of the beautiful Falcon Reservoir, offering stunning views of the water and surrounding landscape for visitors to enjoy.\n\n2. The park is a popular spot for fishing, with the reservoir known for its abundance of largemouth bass, catfish, and white bass, making it a great destination for anglers of all skill levels.\n\n3. Visitors to Falcon State Park can also enjoy hiking and bird watching along the park's trails, where they may spot a variety of bird species including Harris's hawks, green jays, and great kiskadees.\n\n4. For those looking to stay overnight, the park offers a variety of camping options, including tent and RV sites, as well as screened shelters for a more comfortable outdoor experience.\n\n5. Whether you're looking to relax by the water, cast your line for a big catch, or explore the park's hiking trails, Falcon State Park offers a peaceful and scenic retreat for visitors looking to enjoy the great outdoors in South Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Falcon%20State%20Park"
+            },
+            {
+                "name": "Fort Boggy State Park",
+                "url": "https://tpwd.texas.gov/state-parks/fort-boggy",
+                "content": "Fort Boggy State Park is a serene natural area located in Leon County, Texas, offering hiking, fishing, and camping opportunities.",
+                "description": "Fort Boggy State Park is a 1,847-acre park located in Leon County, Texas. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, bird watching, and picnicking. The park features a 15-acre lake where anglers can catch catfish, bass, and sunfish. History enthusiasts will appreciate the park's namesake, Fort Boggy, which was a temporary fort established by the Republic of Texas in 1836. With its diverse ecosystem and peaceful atmosphere, Fort Boggy State Park is a great destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Boggy%20State%20Park"
+            },
+            {
+                "name": "Fort Leaton State Historic Site",
+                "url": "https://tpwd.texas.gov/state-parks/fort-leaton",
+                "content": "Fort Leaton State Historic Site in Texas is a preserved adobe fort that was once a trading post on the Chihuahua Trail.",
+                "description": "1. Fort Leaton State Historic Site in Presidio, Texas, showcases a well-preserved adobe fort that was originally built in the mid-19th century. Visitors to the site can explore the fort's barracks, officer's quarters, and other structures that provide insight into the daily life of early settlers in the region.\n\n2. History buffs will appreciate the fort's role as a trading post and military outpost during the Mexican-American War and the Civil War. The site offers guided tours that delve into the historical significance of Fort Leaton and its impact on the development of the Southwest.\n\n3. The fort's strategic location on the historic Chihuahua Trail made it a crucial hub for trade and communication between Mexico and the United States. Visitors can imagine the bustling activity that once occurred at this remote outpost in the desert.\n\n4. In addition to touring the fort itself, visitors can enjoy the natural beauty of the surrounding Big Bend region, with its rugged mountains and wide-open desert landscapes. The site is a must-see destination for those interested in frontier history and the rich cultural heritage of West Texas.\n\n5. Whether you're exploring the fort's adobe walls, strolling through the historic cemetery, or simply taking in the sweeping views of the Rio Grande, Fort Leaton State Historic Site offers a unique glimpse into the past and a memorable experience for visitors of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Leaton%20State%20Historic%20Site"
+            },
+            {
+                "name": "Fort Parker State Park",
+                "url": "https://tpwd.texas.gov/state-parks/fort-parker",
+                "content": "Fort Parker State Park offers hiking, fishing, camping and swimming opportunities in a beautiful natural setting.",
+                "description": "Fort Parker State Park is located in Mexia, Texas and offers a peaceful escape with a variety of outdoor activities for visitors to enjoy. The park is home to the historic Fort Parker, which was originally established in 1834 as a protection against Native American attacks. Visitors can explore the fort's reconstructed buildings and learn about its fascinating history. The park also features a 750-acre lake perfect for fishing, swimming, and boating, as well as hiking and biking trails for outdoor enthusiasts. With beautiful scenery and rich historical significance, Fort Parker State Park is a must-visit destination for nature lovers and history buffs alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Parker%20State%20Park"
+            },
+            {
+                "name": "Fort Richardson State Park, Historic Site             &...",
+                "url": "https://tpwd.texas.gov/state-parks/fort-richardson",
+                "content": "Fort Richardson State Park is a historic site that offers camping, hiking, and fishing opportunities.",
+                "description": "Fort Richardson State Park, Historic Site & Lost Creek Reservoir State Trailway is a must-visit destination for history buffs and outdoor enthusiasts alike. Visitors can explore the well-preserved military fort that was active during the Indian Wars and Civil War eras, complete with barracks, a hospital, officers' quarters, and a bakery. The park also offers hiking and biking opportunities on the Lost Creek Reservoir State Trailway, where you can immerse yourself in the natural beauty of North Texas. Don't miss the chance to spot wildlife such as deer, turkey, and bobcats while enjoying the scenic views along the trail. Whether you're interested in history, nature, or both, Fort Richardson State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Richardson%20State%20Park%2C%20Historic%20Site%20%20%20%20%20%20%20%20%20%20%20%20%20%26..."
+            },
+            {
+                "name": "Franklin Mountains State Park",
+                "url": "https://tpwd.texas.gov/state-parks/franklin-mountains",
+                "content": "Franklin Mountains State Park is a 27,000-acre park located in El Paso, Texas, featuring rocky canyons, scenic vistas, and miles of hiking and biking trails.",
+                "description": "Franklin Mountains State Park is the largest urban park in the United States, located entirely within the city limits of El Paso, Texas. Visitors can enjoy over 100 miles of hiking and biking trails that traverse rugged desert landscapes, offering stunning views of the surrounding area. The park is home to a variety of wildlife, including mule deer, reptiles, and a diverse array of bird species. Rock climbing and bouldering are popular activities in the park, with routes suitable for beginners and experienced climbers alike. Camping is also available, allowing visitors to experience the beauty of the desert night sky.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Franklin%20Mountains%20State%20Park"
+            },
+            {
+                "name": "Galveston Island State Park",
+                "url": "https://tpwd.texas.gov/state-parks/galveston-island",
+                "content": "Galveston Island State Park offers outdoor enthusiasts a chance to explore coastal ecosystems, go fishing, bird watching, or simply relax on the beach.",
+                "description": "Galveston Island State Park is a beautiful 2,013-acre park located on the western end of Galveston Island in Texas. Visitors can enjoy a variety of outdoor activities, including swimming, fishing, birdwatching, hiking, biking, and camping. The park's diverse habitats, including beaches, marshes, and dunes, provide opportunities to see a wide range of wildlife, such as shorebirds, dolphins, and sea turtles. The park also offers educational programs and guided tours for visitors to learn more about the island's natural history and conservation efforts. With stunning views of the Gulf of Mexico and plenty of recreational opportunities, Galveston Island State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Galveston%20Island%20State%20Park"
+            },
+            {
+                "name": "Garner State Park",
+                "url": "https://tpwd.texas.gov/state-parks/garner",
+                "content": "Garner State Park is a popular state park in Texas known for its scenic river, hiking trails, and opportunities for swimming and camping.",
+                "description": "Garner State Park is a beautiful natural oasis located in the scenic Hill Country of Texas. Visitors can enjoy a variety of outdoor activities such as hiking, swimming, and tubing on the pristine Frio River. The park offers over 11 miles of hiking trails that wind through stunning landscapes of limestone cliffs and oak groves. It is a popular destination for camping, with over 300 campsites available for both tents and RVs. Garner State Park also features historic CCC-built structures that add to the charm and character of the park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Garner%20State%20Park"
+            },
+            {
+                "name": "Goliad State Park & Historic Site",
+                "url": "https://tpwd.texas.gov/state-parks/goliad",
+                "content": "Goliad State Park & Historic Site offers a peaceful retreat with a blend of outdoor recreation and Texas history.",
+                "description": "Goliad State Park & Historic Site is a beautiful and historic park located in Goliad, Texas. Visitors can explore the park's 188 acres of lush greenery and diverse wildlife, making it a great spot for outdoor enthusiasts. The park also boasts a number of historical features, including the reconstructed Mission Espiritu Santo, which provides a glimpse into Texas' Spanish colonial history.\n\nFor history buffs, the park offers guided tours of the preserved Goliad Courthouse and the Fannin Memorial Monument, commemorating the Goliad Massacre during the Texas Revolution. The park also features campsites, picnic areas, and hiking trails, making it a perfect destination for a weekend getaway. Whether you're interested in nature, history, or simply enjoying the great outdoors, Goliad State Park & Historic Site has something to offer for every visitor.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Goliad%20State%20Park%20%26%20Historic%20Site"
+            },
+            {
+                "name": "Goose Island State Park",
+                "url": "https://tpwd.texas.gov/state-parks/goose-island",
+                "content": "Goose Island State Park is a beautiful coastal park located along the Gulf Coast of Texas, offering camping, fishing, birdwatching, and boat access to the famous Big Tree.",
+                "description": "1. Goose Island State Park is located along the Gulf Coast of Texas and offers visitors a chance to explore pristine coastal habitats, including marshes, oak trees, and sandy beaches.\n\n2. The park is known for its impressive Big Tree, a massive live oak tree that is estimated to be over 1,000 years old and stands over 44 feet tall with a circumference of 35 feet.\n\n3. Visitors can enjoy a variety of outdoor activities at Goose Island State Park, including fishing, birdwatching, hiking, and camping. The park is home to a wide array of bird species, making it a popular spot for bird enthusiasts.\n\n4. The park also offers RV and tent camping facilities, as well as picnic areas and a boat ramp for easy access to the park's scenic waterways. Canoe and kayak rentals are available for those looking to explore the park from the water.\n\n5. Whether you're looking to relax on the beach, go for a hike, or spot some unique wildlife, Goose Island State Park offers something for everyone to enjoy in the beautiful Gulf Coast setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Goose%20Island%20State%20Park"
+            },
+            {
+                "name": "Government Canyon State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/government-canyon",
+                "content": "Government Canyon State Natural Area is a sprawling park in San Antonio, Texas that offers over 40 miles of hiking and biking trails amidst scenic canyons and grasslands.",
+                "description": "Government Canyon State Natural Area is a vast 12,244-acre park located just outside of San Antonio, Texas. It offers visitors the opportunity to explore over 40 miles of hiking and biking trails, making it a popular destination for outdoor enthusiasts. The park is home to a variety of native wildlife, including white-tailed deer, armadillos, and a wide array of bird species, making it a great spot for wildlife viewing. One of the highlights of the park is the dinosaur tracks that can be found along some of the trails, providing a unique glimpse into the area's prehistoric past. Visitors can also enjoy camping, picnicking, and stargazing in this beautiful natural area.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Government%20Canyon%20State%20Natural%20Area"
+            },
+            {
+                "name": "Guadalupe River State Park",
+                "url": "https://tpwd.texas.gov/state-parks/guadalupe-river",
+                "content": "Guadalupe River State Park offers visitors a chance to swim, fish, hike, and camp along the scenic Guadalupe River in central Texas.",
+                "description": "Guadalupe River State Park, located in Spring Branch, Texas, offers visitors a wide range of outdoor activities such as hiking, camping, fishing, and swimming. The park features over 13 miles of scenic trails, including the popular 5-mile River Overlook Trail that offers stunning views of the Guadalupe River. Visitors can also enjoy a leisurely float down the river on tubes or canoes, or try their hand at catching rainbow trout, bass, and catfish in the park's well-stocked fishing areas. For those looking to stay overnight, the park offers a variety of camping options, including tent and RV sites, as well as cozy cabins for a more comfortable stay. With its picturesque landscapes and abundant wildlife, Guadalupe River State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Guadalupe%20River%20State%20Park"
+            },
+            {
+                "name": "Hill Country State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/hill-country",
+                "content": "Hill Country State Natural Area is a rugged and primitive 5,369-acre park offering hiking, biking, and horseback riding in the scenic Texas Hill Country.",
+                "description": "Hill Country State Natural Area is a beautiful 5,369-acre park located in Bandera County, Texas. Visitors can enjoy hiking, biking, and horseback riding on over 40 miles of trails that wind through rolling hills, canyons, and lush forests. The park is home to a diverse range of wildlife, including deer, turkey, and songbirds, making it a popular spot for birdwatching and wildlife photography. Camping is also available at the park, with primitive campsites nestled among the oak trees providing a peaceful and secluded overnight experience. Whether you're looking for a day of outdoor adventure or a peaceful retreat in nature, Hill Country State Natural Area offers something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hill%20Country%20State%20Natural%20Area"
+            },
+            {
+                "name": "Honey Creek State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/honey-creek",
+                "content": "Honey Creek State Natural Area is a scenic park known for its crystal-clear creek, limestone cliffs, and diverse plant and animal life.",
+                "description": "Honey Creek State Natural Area is a hidden gem located in the heart of the Texas Hill Country. This natural area is known for its stunning limestone bluffs, clear spring-fed streams, and diverse plant and animal life. Visitors can explore the area's hiking trails and experience the beauty of the native oak and juniper trees that cover the landscape.\n\nOutdoor enthusiasts will love fishing, swimming, and kayaking in the pristine waters of Honey Creek. Birdwatchers will also delight in the variety of bird species that call the natural area home, including warblers, flycatchers, and painted buntings. For those looking to relax and unwind, the area offers quiet picnic spots and peaceful camping areas surrounded by the natural beauty of the Hill Country.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Honey%20Creek%20State%20Natural%20Area"
+            },
+            {
+                "name": "Hueco Tanks State Park & Historic Site",
+                "url": "https://tpwd.texas.gov/state-parks/hueco-tanks",
+                "content": "Hueco Tanks State Park & Historic Site offers visitors a unique opportunity to explore ancient rock formations, pictographs, and petroglyphs in the Chihuahuan Desert.",
+                "description": "Hueco Tanks State Park & Historic Site is a unique destination located in El Paso, Texas, known for its large, hollow rock formations that collect rainwater, creating natural \"huecos\" or depressions.\nVisitors can explore over 860 acres of picturesque desert landscape, filled with ancient petroglyphs and pictographs created by the Native American inhabitants of the region.\nHueco Tanks is a popular destination for rock climbing enthusiasts, offering a variety of challenging routes for climbers of all skill levels.\nIn addition to rock climbing, visitors can enjoy hiking trails, birdwatching, picnicking, and camping in the peaceful surroundings of the park.\nTo preserve the delicate ecosystem and cultural heritage of Hueco Tanks, visitors are required to make reservations in advance and follow strict rules to protect the environment.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hueco%20Tanks%20State%20Park%20%26%20Historic%20Site"
+            },
+            {
+                "name": "Huntsville State Park",
+                "url": "https://tpwd.texas.gov/state-parks/huntsville",
+                "content": "Huntsville State Park offers hiking trails, fishing spots, and campsites in the lush piney woods of East Texas.",
+                "description": "Huntsville State Park is a beautiful outdoor destination located just north of Huntsville, Texas. Visitors can enjoy a variety of outdoor activities such as fishing, hiking, and birdwatching in the park's lush piney woods. The park is home to a scenic 210-acre lake, perfect for canoeing or kayaking. Camping enthusiasts can choose from a variety of campsites, including tent camping, RV sites, and screened shelters. With miles of trails winding through the park, visitors can explore the stunning natural beauty of the Sam Houston National Forest.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Huntsville%20State%20Park"
+            },
+            {
+                "name": "Indian Lodge",
+                "url": "https://tpwd.texas.gov/state-parks/indian-lodge",
+                "content": "Indian Lodge is a historic adobe-style hotel nestled in the Davis Mountains of West Texas.",
+                "description": "Indian Lodge is a historic pueblo-style lodge located within Davis Mountains State Park in Texas. The lodge was built by the Civilian Conservation Corps in the 1930s and features stunning adobe architecture and rustic charm. Visitors can choose from a variety of accommodations, including rooms, suites, and cabins, each offering a unique and authentic Southwestern experience. Guests can enjoy breathtaking views of the surrounding mountains from the lodge's outdoor pool and courtyard. The lodge also features a restaurant serving delicious regional cuisine, making it the perfect place to relax and unwind after a day of exploring the state park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Indian%20Lodge"
+            },
+            {
+                "name": "Inks Lake State Park",
+                "url": "https://tpwd.texas.gov/state-parks/inks-lake",
+                "content": "Inks Lake State Park is a popular outdoor destination known for its clear blue waters, stunning granite rock formations, and variety of recreational activities including camping, hiking, swimming, and fishing.",
+                "description": "Inks Lake State Park offers visitors a picturesque setting with crystal-clear waters and rocky terrain perfect for exploring. The park is popular for water activities such as boating, fishing, and swimming in the refreshing blue waters of the lake. Hiking enthusiasts will appreciate the diverse trails that wind through the park, offering stunning views of the surrounding hills and limestone cliffs. Campers can choose from a variety of camping options, including tent campsites and cabins, making it a great destination for a weekend getaway. Don't miss the opportunity to witness a breathtaking sunset over the water while enjoying a picnic on the park's sandy shores.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Inks%20Lake%20State%20Park"
+            },
+            {
+                "name": "Kickapoo Cavern State Park",
+                "url": "https://tpwd.texas.gov/state-parks/kickapoo-cavern",
+                "content": "Kickapoo Cavern State Park is a remote and undeveloped park featuring unique caves and a variety of wildlife in a rugged limestone landscape.",
+                "description": "Kickapoo Cavern State Park in Texas is a hidden gem for outdoor enthusiasts, offering over 6,400 acres of rugged beauty to explore. One of the main attractions at the park is the Kickapoo Cavern, a breathtaking natural limestone cave that is home to a variety of unique geological formations. Visitors can also enjoy hiking, birdwatching, and stargazing in the park, which boasts some of the darkest skies in Texas. For those looking to stay overnight, the park offers primitive camping and a limited number of water and electric campsites. With its diverse wildlife, stunning landscapes, and peaceful atmosphere, Kickapoo Cavern State Park is the perfect destination for a nature-filled adventure.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kickapoo%20Cavern%20State%20Park"
+            },
+            {
+                "name": "Lake Arrowhead State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-arrowhead",
+                "content": "Lake Arrowhead State Park is a picturesque park located in Wichita Falls, Texas, offering activities such as fishing, camping, hiking, and wildlife viewing.",
+                "description": "Lake Arrowhead State Park is a popular destination for visitors looking to enjoy outdoor activities such as camping, fishing, and hiking. The park is situated on a 524-acre reservoir, offering opportunities for boating and swimming as well. Visitors can also explore the park's diverse wildlife and birdwatching opportunities, with over 200 species of birds calling the area home. Additionally, the park features picnic areas, playgrounds, and group pavilions for visitors to enjoy a day out with family and friends. With its natural beauty and abundance of recreational opportunities, Lake Arrowhead State Park is a must-visit destination for outdoor enthusiasts in Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Arrowhead%20State%20Park"
+            },
+            {
+                "name": "Lake Bob Sandlin State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-bob-sandlin",
+                "content": "Lake Bob Sandlin State Park is a peaceful 639-acre park located in northeast Texas, offering a variety of outdoor activities such as hiking, fishing, boating, and camping.",
+                "description": "Lake Bob Sandlin State Park is a beautiful 641-acre park located in northeast Texas, offering a serene escape for visitors looking to relax and unwind. The park features a 9-mile hiking and biking trail that winds through the lush forest, providing stunning views of the surrounding landscape. Visitors can also enjoy boating, fishing, and swimming in the crystal-clear waters of Lake Bob Sandlin. The park is a popular spot for birdwatching, with numerous species of birds calling the area home, making it a great destination for nature lovers. Additionally, the park offers camping facilities, with both tent and RV sites available for overnight stays, allowing visitors to immerse themselves in the beauty of the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Bob%20Sandlin%20State%20Park"
+            },
+            {
+                "name": "Lake Brownwood State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-brownwood",
+                "content": "Lake Brownwood State Park offers outdoor enthusiasts a variety of activities including fishing, swimming, hiking, and camping in a picturesque setting located in Central Texas.",
+                "description": "Lake Brownwood State Park is a beautiful 537-acre park located in central Texas, just 16 miles northwest of Brownwood. Visitors can enjoy a variety of outdoor activities, including swimming, fishing, hiking, and birdwatching. The park also offers campsites for both tents and RVs, as well as screened shelters for those looking to spend the night under the stars. The park's crystal-clear lake is perfect for boating and water sports, making it a popular destination for families and outdoor enthusiasts alike. With its stunning scenery and abundance of recreational opportunities, Lake Brownwood State Park is the perfect spot for a weekend getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Brownwood%20State%20Park"
+            },
+            {
+                "name": "Lake Casa Blanca International State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-casa-blanca",
+                "content": "Lake Casa Blanca International State Park is a popular outdoor destination located in Laredo, Texas, offering activities such as fishing, boating, hiking, and camping.",
+                "description": "Lake Casa Blanca International State Park, located in Laredo, Texas, is a popular destination for outdoor enthusiasts. Visitors can enjoy a variety of recreational activities such as fishing, boating, hiking, and bird watching. The park is home to a diverse range of wildlife, including deer, bobcats, and a variety of bird species. The lake itself offers opportunities for water sports, with boat ramps and a fishing pier available for use. For those looking to relax and unwind, the park also features picnic areas and campgrounds, making it a perfect spot for a weekend getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Casa%20Blanca%20International%20State%20Park"
+            },
+            {
+                "name": "Lake Colorado City State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-colorado-city",
+                "content": "Lake Colorado City State Park is a peaceful outdoor oasis located in West Texas with activities including camping, hiking, and fishing.",
+                "description": "Lake Colorado City State Park, located in West Texas, offers visitors a serene and picturesque setting to enjoy outdoor activities such as fishing, boating, and swimming. The lake covers 1,618 surface acres and is known for its clear blue waters, making it a popular spot for water recreation. The park also features hiking and biking trails, perfect for exploring the surrounding natural beauty. With RV and tent camping options available, visitors can extend their stay and immerse themselves in the peaceful surroundings of the park. Additionally, birdwatching enthusiasts will appreciate the diverse bird population that calls the park home, including bald eagles and various waterfowl species.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Colorado%20City%20State%20Park"
+            },
+            {
+                "name": "Lake Corpus Christi State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-corpus-christi",
+                "content": "Lake Corpus Christi State Park is a popoular destination for camping, fishing, boating, and wildlife viewing.",
+                "description": "Lake Corpus Christi State Park is a beautiful park located on the shores of Lake Corpus Christi in Mathis, Texas. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, and birdwatching in this scenic park. The park also features campsites, picnic areas, and a playground, making it the perfect spot for a family getaway or weekend camping trip.\n\nOne of the unique features of Lake Corpus Christi State Park is its birding opportunities, with over 200 species of birds recorded in the area. In addition to birdwatching, visitors can also enjoy boating and swimming in the clear waters of Lake Corpus Christi. The park is a popular destination for nature enthusiasts and outdoor lovers looking to escape the hustle and bustle of city life.\n\nFor those interested in history, Lake Corpus Christi State Park offers a glimpse into the past with the remnants of a historic homestead that can be explored on foot. The park also hosts educational programs and nature walks for visitors of all ages, providing a fun and interactive way to learn about the local wildlife and ecosystem.\n\nOverall, Lake Corpus Christi State Park is a serene and picturesque destination that offers something for everyone, from outdoor activities and wildlife viewing to relaxation and exploration. Whether you are planning a day trip or a weekend getaway, this park is sure to provide a memorable and enjoyable experience for all who visit.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Corpus%20Christi%20State%20Park"
+            },
+            {
+                "name": "Lake Livingston State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-livingston",
+                "content": "Lake Livingston State Park is a popular outdoor recreation destination in Texas, offering activities such as boating, fishing, camping, and hiking along the scenic shores of Lake Livingston.",
+                "description": "Lake Livingston State Park is a beautiful and expansive park located on the shores of Lake Livingston, the second largest lake in Texas. Visitors can enjoy a variety of outdoor activities such as fishing, boating, hiking, and bird watching. The park also offers camping facilities and cabins for those looking to stay overnight and fully immerse themselves in the natural beauty of the area. With over 450 acres of wooded terrain, there are plenty of opportunities for exploration and wildlife viewing. Whether you are seeking a peaceful escape or an active outdoor adventure, Lake Livingston State Park has something to offer for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Livingston%20State%20Park"
+            },
+            {
+                "name": "Lake Mineral Wells State Park &             Trailway",
+                "url": "https://tpwd.texas.gov/state-parks/lake-mineral-wells",
+                "content": "Lake Mineral Wells State Park offers a tranquil escape with camping, hiking, fishing, and rock climbing opportunities.",
+                "description": "Lake Mineral Wells State Park & Trailway offers visitors a unique outdoor experience with opportunities for hiking, biking, rock climbing, and fishing. The park's namesake lake provides a scenic backdrop for picnicking and birdwatching. The expansive trail system winds through varied terrain, including limestone cliffs and dense forests, providing stunning views of the surrounding landscape. Visitors can also enjoy camping under the stars and stargazing in the dark skies of the park. With its diverse recreational activities and natural beauty, Lake Mineral Wells State Park is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Mineral%20Wells%20State%20Park%20%26%20%20%20%20%20%20%20%20%20%20%20%20%20Trailway"
+            },
+            {
+                "name": "Lake Somerville State Park & Trailway",
+                "url": "https://tpwd.texas.gov/state-parks/lake-somerville",
+                "content": "Lake Somerville State Park & Trailway offers a variety of outdoor activities including camping, fishing, hiking, and boating along the scenic shores of Lake Somerville.",
+                "description": "Lake Somerville State Park & Trailway is a beautiful park located in the heart of the Texas Hill Country. Visitors can enjoy hiking, biking, fishing, and bird watching in this tranquil setting. The park offers several campsites for those looking to spend the night under the stars. The 13-mile long Somerville Trailway is a popular spot for horseback riding and mountain biking, offering stunning views of the lake and surrounding countryside. Whether you're looking for outdoor adventure or a peaceful retreat, Lake Somerville State Park & Trailway has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Somerville%20State%20Park%20%26%20Trailway"
+            },
+            {
+                "name": "Lake Tawakoni State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-tawakoni",
+                "content": "Lake Tawakoni State Park offers a variety of recreational activities including fishing, camping, hiking, and wildlife viewing, providing an opportunity for visitors to immerse themselves in nature.",
+                "description": "Lake Tawakoni State Park is located in northeast Texas and offers a variety of outdoor recreational activities for visitors to enjoy. The park surrounds Lake Tawakoni, a 37,879-acre reservoir known for its excellent fishing opportunities.\n\nVisitors can explore over five miles of hiking trails that wind through dense forests, offering glimpses of local wildlife and beautiful scenery. The park also has a swimming area, boat ramps, and a bird blind for birdwatching enthusiasts.\n\nFor those looking to extend their stay, Lake Tawakoni State Park offers both campsites and cabins for overnight accommodations. The park is a popular spot for picnicking, fishing, and boating, making it a great destination for outdoor enthusiasts of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Tawakoni%20State%20Park"
+            },
+            {
+                "name": "Lake Whitney State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lake-whitney",
+                "content": "Lake Whitney State Park is a scenic destination where visitors can swim, fish, hike, and enjoy water sports on the 23,500-acre Lake Whitney.",
+                "description": "Lake Whitney State Park is a picturesque destination located on the shores of its namesake, Lake Whitney, which is known for its clear blue waters and sandy beaches. Visitors can enjoy a variety of outdoor activities such as fishing, hiking, picnicking, and birdwatching in this beautiful park. The limestone cliffs that surround the lake offer excellent opportunities for rock climbing and exploring. RV and tent camping sites are available for those who wish to spend the night under the stars. With its stunning natural scenery and abundance of recreational opportunities, Lake Whitney State Park is the perfect getaway for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Whitney%20State%20Park"
+            },
+            {
+                "name": "Lockhart State Park",
+                "url": "https://tpwd.texas.gov/state-parks/lockhart",
+                "content": "Lockhart State Park is a small, peaceful park in Texas known for its historic golf course and scenic hiking trails.",
+                "description": "Lockhart State Park is a beautiful 263-acre park located just outside of Lockhart, Texas, known as the \"Barbecue Capital of Texas.\" Visitors can enjoy hiking, picnicking, and camping in this scenic park, which features a nine-hole golf course and a swimming pool fed by fresh spring water.\n\nOne of the highlights of Lockhart State Park is the historic Civilian Conservation Corps (CCC) structures that were built in the 1930s. These stone buildings and picnic shelters add to the charm and character of the park, providing a glimpse into the past.\n\nFor those interested in wildlife viewing, Lockhart State Park is home to a variety of bird species, including painted buntings and golden-cheeked warblers. Nature lovers will also appreciate the diverse plant life found throughout the park, from wildflowers to towering oak trees.\n\nVisitors can also explore the park's limestone cliffs and caves, which offer a unique and challenging rock climbing experience. Whether you're looking for a relaxing weekend getaway or an outdoor adventure, Lockhart State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lockhart%20State%20Park"
+            },
+            {
+                "name": "Longhorn Cavern State Park",
+                "url": "https://tpwd.texas.gov/state-parks/longhorn-cavern",
+                "content": "Longhorn Cavern State Park features stunning underground chambers, beautiful rock formations, and intriguing history in the heart of the Texas Hill Country.",
+                "description": "Longhorn Cavern State Park is a unique natural wonder located in the heart of the Texas Hill Country. The park features a vast system of underground caves formed by the relentless flow of water over thousands of years, creating stunning rock formations and intricate passageways for visitors to explore. Guided tours take visitors through the caverns, highlighting the rich history and geology of the area. Visitors can also enjoy hiking, picnicking, and birdwatching in the beautiful surrounding park. Longhorn Cavern State Park is a must-visit destination for nature lovers and history enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Longhorn%20Cavern%20State%20Park"
+            },
+            {
+                "name": "Lost Maples State Natural Area",
+                "url": "https://tpwd.texas.gov/state-parks/lost-maples",
+                "content": "Lost Maples State Natural Area is a beautiful 2,100-acre park known for its stunning fall foliage, crystal-clear streams, and rugged limestone cliffs in the Hill Country of Texas.",
+                "description": "Lost Maples State Natural Area, located in Vanderpool, Texas, is a captivating destination known for its stunning display of fall foliage. Visitors can hike along over 10 miles of trails, each offering panoramic views of the colorful maple trees and rugged limestone cliffs. The Sabinal River flows through the park, providing opportunities for fishing, swimming, and picnicking. Birdwatchers will delight in the chance to spot golden-cheeked warblers and other rare species in this lush and diverse ecosystem. For those seeking a peaceful retreat in nature, Lost Maples State Natural Area offers campsites and cabins for overnight stays amidst the beauty of the Hill Country.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lost%20Maples%20State%20Natural%20Area"
+            },
+            {
+                "name": "Lyndon B. Johnson State Park & Historic             Site",
+                "url": "https://tpwd.texas.gov/state-parks/lyndon-b-johnson",
+                "content": "Lyndon B. Johnson State Park & Historic Site is a Texas state park dedicated to preserving the natural beauty and historical significance of the area, including the LBJ Ranch and the Sauer-Beckmann Living History Farm.",
+                "description": "Lyndon B. Johnson State Park & Historic Site in Stonewall, Texas, offers visitors the opportunity to explore the countryside that shaped the 36th President of the United States. Visitors can tour the \"Texas White House,\" where President Johnson conducted official business during his time in office. The park also features a visitor center with exhibits on Johnson's life and presidency, as well as his love for the land and conservation efforts. Outdoor enthusiasts can enjoy hiking, picnicking, and birdwatching in the park's scenic surroundings. Additionally, the park hosts special events and programs throughout the year, providing a deeper look into the life and legacy of President Johnson.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lyndon%20B.%20Johnson%20State%20Park%20%26%20Historic%20%20%20%20%20%20%20%20%20%20%20%20%20Site"
+            },
+            {
+                "name": "Martin Creek Lake State Park",
+                "url": "https://tpwd.texas.gov/state-parks/martin-creek-lake",
+                "content": "Martin Creek Lake State Park is a tranquil park in Texas that offers fishing, boating, and camping opportunities for outdoor enthusiasts.",
+                "description": "Martin Creek Lake State Park is a beautiful 286-acre park located in northeast Texas, offering a variety of outdoor activities for visitors to enjoy. The park features a 320-acre lake perfect for boating, fishing, and swimming, with a sandy beach area for relaxation. Visitors can also explore the park's hiking and biking trails, which wind through the scenic piney woods of East Texas. For those looking to extend their stay, the park offers 60 campsites with water and electric hookups, as well as screened shelters for a more rustic camping experience. Don't forget to bring your binoculars, as the park is a popular spot for birdwatching, with a variety of species to spot throughout the year.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Martin%20Creek%20Lake%20State%20Park"
+            },
+            {
+                "name": "Martin Dies, Jr. State Park",
+                "url": "https://tpwd.texas.gov/state-parks/martin-dies-jr",
+                "content": "Martin Dies, Jr. State Park offers a variety of outdoor activities such as fishing, camping, hiking, and bird watching in a scenic East Texas setting.",
+                "description": "Martin Dies, Jr. State Park is a sprawling 705-acre park located in Jasper and Tyler Counties in Texas. The park sits along the banks of the Neches River and features ample opportunities for fishing, boating, and paddling in its scenic waters.\n\nVisitors can explore over 10 miles of hiking and biking trails that wind through the park's lush pine forests and along the river's edge. The park is also a popular spot for birdwatching, with over 200 species of birds calling the area home.\n\nFor those looking to stay overnight, Martin Dies, Jr. State Park offers a variety of camping options, including tent sites, RV sites, and cabins for rent. Other amenities at the park include picnic areas, a swimming area, and playgrounds for children.\n\nWhether you're seeking a peaceful retreat in nature or an active outdoor adventure, Martin Dies, Jr. State Park offers something for everyone to enjoy in East Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Martin%20Dies%2C%20Jr.%20State%20Park"
+            },
+            {
+                "name": "McKinney Falls State Park",
+                "url": "https://tpwd.texas.gov/state-parks/mckinney-falls",
+                "content": "McKinney Falls State Park is a scenic destination in Texas featuring waterfalls, hiking trails, and camping opportunities.",
+                "description": "McKinney Falls State Park in Austin, Texas is a picturesque park featuring stunning waterfalls and natural beauty. Visitors can explore over nine miles of hiking trails that wind through lush forests and along the banks of the Onion Creek. The park is also home to a variety of wildlife, including deer, raccoons, and armadillos, making it a great spot for nature enthusiasts. For those looking to cool off, there is a designated swimming area at the upper falls where visitors can take a refreshing dip in the clear waters. Camping is also available at the park, allowing visitors to truly immerse themselves in the stunning surroundings.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=McKinney%20Falls%20State%20Park"
+            },
+            {
+                "name": "Meridian State Park",
+                "url": "https://tpwd.texas.gov/state-parks/meridian",
+                "content": "Meridian State Park is a tranquil park featuring a scenic limestone-filled lake, multiple hiking trails, and opportunities for bird watching and fishing.",
+                "description": "Meridian State Park, located in the heart of Texas Hill Country, offers visitors a tranquil escape from city life. The park is home to the picturesque Meridian Lake, perfect for fishing, swimming, and kayaking. Hiking enthusiasts will enjoy exploring the park's 5 miles of scenic trails with breathtaking views of limestone cliffs and lush greenery. Birdwatchers will also find plenty to see, with over 100 species of birds calling the park home. Additionally, the park offers campsites and cabins for overnight stays, making it an ideal destination for a weekend getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Meridian%20State%20Park"
+            },
+            {
+                "name": "Mission Tejas State Park",
+                "url": "https://tpwd.texas.gov/state-parks/mission-tejas",
+                "content": "Mission Tejas State Park is a historic site known for its historic mission replica and scenic trails for hiking and picnicking.",
+                "description": "1. Mission Tejas State Park is located in East Texas and is named after the first Spanish mission in Texas, Mission San Francisco de los Tejas, established in 1690.\n2. Visitors can explore the mission replica and learn about the history of the area, as well as enjoy hiking, picnicking, and camping in the park's 363 acres.\n3. The park also features a beautiful 3.3-mile trail that winds through the piney woods, offering stunning views of the surrounding landscape.\n4. Birdwatchers will enjoy spotting a variety of bird species in the park, including woodpeckers, hawks, and warblers.\n5. For a unique experience, visitors can stay in one of the park's historic cabins or camp under the stars in one of the primitive campsites.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mission%20Tejas%20State%20Park"
+            },
+            {
+                "name": "Monahans Sandhills State Park",
+                "url": "https://tpwd.texas.gov/state-parks/monahans-sandhills",
+                "content": "Monahans Sandhills State Park features a unique landscape of stunning white sand dunes perfect for sandboarding and exploring.",
+                "description": "Monahans Sandhills State Park is a unique natural attraction located in West Texas, featuring vast expanses of stunning sand dunes that are perfect for sandboarding and sledding. Visitors can rent sand sleds and boards at the park's headquarters to enjoy thrilling rides down the sandy slopes. The park also offers hiking trails that meander through the dunes, providing a serene and picturesque experience. Camping is available at Monahans Sandhills State Park, allowing visitors to spend the night under the starlit sky surrounded by the peaceful beauty of the desert landscape. Birdwatching, picnicking, and wildlife viewing are also popular activities at this breathtaking park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Monahans%20Sandhills%20State%20Park"
+            },
+            {
+                "name": "Mother Neff State Park",
+                "url": "https://tpwd.texas.gov/state-parks/mother-neff",
+                "content": "Mother Neff State Park in Texas is the first official state park in the state and offers hiking trails, picnicking areas, and campsites for visitors to enjoy.",
+                "description": "Mother Neff State Park, located in Central Texas, is the first official state park in Texas, established in 1934. Visitors can explore the park's diverse landscape, which includes wooded areas, rolling hills, and the scenic Leon River. The park offers a variety of recreational activities such as hiking, picnicking, and birdwatching, making it a great destination for outdoor enthusiasts. Camping facilities are also available for those looking to extend their stay and enjoy the peaceful surroundings of the park. With its rich history and natural beauty, Mother Neff State Park provides a perfect escape for visitors looking to connect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mother%20Neff%20State%20Park"
+            },
+            {
+                "name": "Mustang Island State Park",
+                "url": "https://tpwd.texas.gov/state-parks/mustang-island",
+                "content": "Mustang Island State Park offers a beautiful stretch of undeveloped coastline for swimming, fishing, camping and birdwatching.",
+                "description": "Mustang Island State Park, located along the Gulf of Mexico, offers visitors a chance to experience pristine beaches, sand dunes, and clear blue waters. The park is a popular destination for camping, fishing, birdwatching, and swimming. Visitors can explore over 5 miles of hiking and biking trails that wind through the park's diverse coastal habitats. The park also features picnic areas, a playground, and a gift shop for those looking to take home a souvenir. Whether you're looking to relax on the beach or explore the natural beauty of the Texas coast, Mustang Island State Park has something to offer for every visitor.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mustang%20Island%20State%20Park"
+            },
+            {
+                "name": "Old Tunnel State Park",
+                "url": "https://tpwd.texas.gov/state-parks/old-tunnel",
+                "content": "The Old Tunnel State Park in Texas is a popular spot for bat-watching, as it is home to thousands of Mexican free-tailed bats that emerge at sunset.",
+                "description": "Old Tunnel State Park in Fredericksburg, Texas is a unique destination for nature lovers as it is home to a colony of Mexican free-tailed bats. Visitors can watch the bats emerge from the tunnel at dusk, creating a spectacular sight. The park also offers hiking trails where visitors can explore the surrounding Hill Country landscape. Birdwatchers will enjoy the variety of bird species that call the park home, including golden-cheeked warblers and painted buntings. The park is a great place for a family outing or a peaceful retreat into nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Old%20Tunnel%20State%20Park"
+            },
+            {
+                "name": "Palmetto State Park",
+                "url": "https://tpwd.texas.gov/state-parks/palmetto",
+                "content": "Palmetto State Park is a small state park in Texas known for its unique swampy terrain and picturesque camping facilities.",
+                "description": "Palmetto State Park is a charming refuge nestled in the Gulf Coast plains of Texas, just an hour's drive southeast of San Antonio. The park is renowned for its stunning cypress trees, dwarf palmettos, and the unique Sabinal River that winds its way through the landscape. Visitors can enjoy a variety of outdoor activities such as hiking, birdwatching, fishing, and camping within the park's lush surroundings. The park also offers historic CCC-built cabins that provide a cozy and comfortable accommodation option for those looking to immerse themselves in nature. Palmetto State Park is a perfect destination for nature enthusiasts seeking a peaceful and serene escape from the hustle and bustle of city life.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Palmetto%20State%20Park"
+            },
+            {
+                "name": "Palo Duro Canyon State Park",
+                "url": "https://tpwd.texas.gov/state-parks/palo-duro-canyon",
+                "content": "Palo Duro Canyon State Park is home to the second largest canyon in the United States, offering breathtaking views, outdoor recreational activities, and unique geological formations.",
+                "description": "Palo Duro Canyon State Park is often referred to as the \"Grand Canyon of Texas\" and is the second-largest canyon in the United States. Visitors can explore over 30 miles of hiking, biking, and horseback riding trails that wind through the stunning red rock formations and rugged terrain of the canyon. The park is also home to the Palo Duro Trading Post, where visitors can shop for souvenirs and local crafts. For those looking to extend their stay, the park offers camping, cabins, and RV sites with breathtaking views of the canyon. Be sure to check out the outdoor amphitheater where the award-winning musical drama, \"Texas,\" is performed during the summer months.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Palo%20Duro%20Canyon%20State%20Park"
+            },
+            {
+                "name": "Palo Pinto Mountains State Park",
+                "url": "https://tpwd.texas.gov/state-parks/palo-pinto-mountains",
+                "content": "Palo Pinto Mountains State Park is a future state park located in North Central Texas that showcases rugged hills, scenic canyons, and diverse wildlife.",
+                "description": "Palo Pinto Mountains State Park, located in Texas, offers visitors a unique experience with its rugged landscapes and diverse wildlife. Hikers can explore over 4,000 acres of trails, including the challenging Summit Trail which rewards them with stunning panoramic views at the top. Birdwatchers will be delighted by the park's resident and migratory bird species, making it a great spot for wildlife enthusiasts. The park also provides camping opportunities for those looking to immerse themselves in the natural beauty of the area, with primitive campsites available for a true wilderness experience. Visitors can also enjoy activities such as fishing, swimming, and mountain biking in this picturesque and unspoiled setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Palo%20Pinto%20Mountains%20State%20Park"
+            },
+            {
+                "name": "Pedernales Falls State Park",
+                "url": "https://tpwd.texas.gov/state-parks/pedernales-falls",
+                "content": "Pedernales Falls State Park is a 5,200-acre park located in the Texas Hill Country, known for its stunning limestone cliffs, clear blue waters, and picturesque waterfalls.",
+                "description": "Pedernales Falls State Park is a beautiful natural area located in the Texas Hill Country, just 30 miles west of Austin. The main attraction of the park is the Pedernales River, which cuts through limestone bedrock to create stunning waterfalls and cascades. Visitors can enjoy swimming, tubing, and fishing in the river, as well as hiking and birdwatching along the many trails in the park. The park is also home to a variety of wildlife, including deer, armadillos, and a wide range of bird species. Camping is available at the park, with both tent and RV sites, making it a great place to experience the beauty of the Hill Country overnight.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pedernales%20Falls%20State%20Park"
+            },
+            {
+                "name": "Possum Kingdom State Park",
+                "url": "https://tpwd.texas.gov/state-parks/possum-kingdom",
+                "content": "Possum Kingdom State Park is a popular recreational area in Texas known for its beautiful scenery, diverse wildlife, and opportunities for camping, hiking, and water activities.",
+                "description": "Possum Kingdom State Park is the perfect destination for outdoor enthusiasts looking to explore the beauty of North Texas. The park offers a variety of activities including hiking, swimming, fishing, and boating on the crystal clear waters of Possum Kingdom Lake. Visitors can relax and unwind on the sandy beach or take a scenic hike through the rugged Palo Pinto Mountains. Those looking for a more adventurous experience can try their hand at rock climbing on the towering cliffs that overlook the lake. With a range of camping options including tent sites, cabins, and RV hookups, Possum Kingdom State Park has something for every type of traveler. Don't forget to keep an eye out for the local wildlife, including deer, wild turkeys, and even the occasional bald eagle soaring overhead.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Possum%20Kingdom%20State%20Park"
+            },
+            {
+                "name": "Purtis Creek State Park",
+                "url": "https://tpwd.texas.gov/state-parks/purtis-creek",
+                "content": "Purtis Creek State Park is a serene park known for its fishing and water recreation opportunities, offering cabins, campsites, and hiking trails.",
+                "description": "Purtis Creek State Park is a tranquil getaway located in east Texas, perfect for nature lovers and outdoor enthusiasts. Visitors can enjoy fishing in the 355-acre lake, known for its abundance of largemouth bass, catfish, and crappie. The park offers various camping options, including tent sites, RV hookups, and cozy cabins for those looking to stay overnight. Hiking and birdwatching are popular activities in the park, with over 15 miles of scenic trails to explore. Don't forget to pack a picnic and enjoy a peaceful afternoon by the water's edge.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Purtis%20Creek%20State%20Park"
+            },
+            {
+                "name": "Ray Roberts Lake State Park",
+                "url": "https://tpwd.texas.gov/state-parks/ray-roberts-lake",
+                "content": "Ray Roberts Lake State Park offers a variety of outdoor activities including fishing, hiking, camping, and birdwatching.",
+                "description": "Ray Roberts Lake State Park offers visitors the chance to explore over 20 miles of hiking and biking trails, making it a perfect destination for outdoor enthusiasts. The park is also a great spot for fishing, with the chance to catch bass, crappie, and catfish in the lake. Visitors can enjoy swimming and boating in the lake, or relax on the sandy beaches along the shoreline. Birdwatchers will love the variety of species that can be spotted in the park, including bald eagles, herons, and woodpeckers. Camping is also available for those looking to spend the night under the stars in this beautiful natural setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ray%20Roberts%20Lake%20State%20Park"
+            },
+            {
+                "name": "Resaca de la Palma State Park",
+                "url": "https://tpwd.texas.gov/state-parks/resaca-de-la-palma",
+                "content": "Resaca de la Palma State Park features a rare, oxbow lake that provides critical habitat for wildlife and is perfect for birdwatching and nature observation.",
+                "description": "Resaca de la Palma State Park is located in Brownsville, Texas and offers visitors a unique opportunity to explore a historic battle site from the Mexican-American War in 1846. The park is home to a resaca, or oxbow lake, that provides a habitat for a variety of wildlife, including birds, reptiles, and mammals. Visitors can enjoy hiking, biking, and birdwatching along the park's nature trails, which offer scenic views of the surrounding wetlands and woodlands. The park also features a visitor center with exhibits on the history and natural resources of the area, making it a great educational experience for families and school groups. Whether you're interested in history, nature, or simply enjoying the great outdoors, Resaca de la Palma State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Resaca%20de%20la%20Palma%20State%20Park"
+            },
+            {
+                "name": "San Angelo State Park",
+                "url": "https://tpwd.texas.gov/state-parks/san-angelo",
+                "content": "San Angelo State Park is a 7,677-acre park in Texas offering hiking, biking, fishing, and camping opportunities.",
+                "description": "San Angelo State Park, located along the shores of O.C. Fisher Reservoir, offers visitors a variety of outdoor recreational activities such as hiking, mountain biking, and camping. The park is home to a diverse range of wildlife including white-tailed deer, armadillos, and numerous bird species, making it a popular destination for nature enthusiasts. Visitors can explore over 50 miles of multi-use trails, including the popular Red Arroyo Trail, which offers stunning views of the surrounding landscape. Camping facilities at the park include both tent and RV sites, as well as cabins for those looking for a more luxurious camping experience. Additionally, the park offers opportunities for fishing, boating, and swimming in the reservoir, providing endless opportunities for outdoor adventure.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=San%20Angelo%20State%20Park"
+            },
+            {
+                "name": "Sea Rim State Park",
+                "url": "https://tpwd.texas.gov/state-parks/sea-rim",
+                "content": "Sea Rim State Park is a coastal park in Texas with marshlands, beaches, and camping facilities.",
+                "description": "Sea Rim State Park is located along the Gulf of Mexico, providing visitors with stunning views of the water and nearby marshlands. Visitors can enjoy a variety of outdoor activities, such as birdwatching, kayaking, and fishing. The park is known for its excellent birdwatching opportunities, with over 200 species of birds being spotted throughout the year. Camping is available at the park, with both tent and RV sites offered for those looking to stay overnight. With its unique coastal landscape and diverse wildlife, Sea Rim State Park offers a peaceful and picturesque setting for nature lovers to explore.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sea%20Rim%20State%20Park"
+            },
+            {
+                "name": "Seminole Canyon State Park & Historic             Site",
+                "url": "https://tpwd.texas.gov/state-parks/seminole-canyon",
+                "content": "Seminole Canyon State Park & Historic Site is a picturesque park in Texas that features ancient rock art and stunning canyon landscapes.",
+                "description": "1. Seminole Canyon State Park & Historic Site is home to some of the oldest rock art in North America, with paintings dating back over 4,000 years. Visitors can take guided tours to see these ancient pictographs up close and learn about the history and culture of the people who created them.\n\n2. The park offers a variety of outdoor activities, including hiking, birdwatching, and camping. The rugged terrain provides opportunities for exploration and discovery, with breathtaking views of the surrounding canyons and the Rio Grande River.\n\n3. One of the highlights of the park is the Fate Bell Shelter, a massive rock overhang that served as a dwelling for early inhabitants of the region. Excavations at the shelter have uncovered artifacts and evidence of human occupation dating back thousands of years.\n\n4. In addition to its archaeological significance, Seminole Canyon State Park is also a designated International Dark Sky Park, making it a great spot for stargazing. Visitors can enjoy the clarity of the night sky away from the light pollution of urban areas.\n\n5. Whether you're interested in history, outdoor adventure, or simply enjoying the beauty of nature, Seminole Canyon State Park & Historic Site offers a unique and unforgettable experience for visitors of all ages. Come explore this hidden gem in Southwest Texas and immerse yourself in the rich cultural heritage of the region.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seminole%20Canyon%20State%20Park%20%26%20Historic%20%20%20%20%20%20%20%20%20%20%20%20%20Site"
+            },
+            {
+                "name": "Sheldon Lake State Park & Environmental...",
+                "url": "https://tpwd.texas.gov/state-parks/sheldon-lake",
+                "content": "Sheldon Lake State Park & Environmental Learning Center offers opportunities for outdoor recreation, nature education, and wildlife observation in a restored wetland habitat.",
+                "description": "Sheldon Lake State Park & Environmental Learning Center is a beautiful natural preserve located in Houston, Texas. Visitors can enjoy a variety of outdoor activities such as fishing, birdwatching, hiking, and wildlife observation. The park is home to a diverse range of habitats including wetlands, forests, and grasslands, making it an ideal spot for nature lovers. Additionally, the environmental learning center offers educational programs and exhibits for visitors of all ages to learn more about the local ecosystem and conservation efforts. Don't forget to pack a picnic and make a day of exploring this hidden gem in the heart of the city.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sheldon%20Lake%20State%20Park%20%26%20Environmental..."
+            },
+            {
+                "name": "South Llano River State Park",
+                "url": "https://tpwd.texas.gov/state-parks/south-llano-river",
+                "content": "South Llano River State Park is a scenic destination known for its crystal clear waters, bird watching opportunities, and hiking trails.",
+                "description": "South Llano River State Park is a beautiful natural oasis located in the Texas Hill Country. Visitors can enjoy activities such as hiking, birdwatching, fishing, and swimming in the clear waters of the South Llano River. The park is also known for its diverse wildlife, including white-tailed deer, wild turkeys, and numerous bird species. Campers can stay overnight in a variety of campsites, from primitive spots along the river to sites with water and electric hookups. With its stunning scenery and abundance of outdoor recreation opportunities, South Llano River State Park is a must-visit destination for nature lovers in Texas.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=South%20Llano%20River%20State%20Park"
+            },
+            {
+                "name": "Stephen F. Austin State Park",
+                "url": "https://tpwd.texas.gov/state-parks/stephen-f-austin",
+                "content": "Stephen F. Austin State Park offers a serene setting for camping, hiking, and fishing along the Brazos River in Texas.",
+                "description": "1. Stephen F. Austin State Park is nestled along the Brazos River in San Felipe, Texas, and offers a tranquil escape for outdoor enthusiasts seeking hiking, biking, and fishing opportunities.\n\n2. Visitors can explore the park's scenic trails, such as the River Trail or the Raccoon Run Trail, which wind through lush woodlands and offer glimpses of native wildlife like white-tailed deer and armadillos.\n\n3. Anglers will enjoy casting their lines in the calm waters of the Brazos River, where they can try their luck at catching catfish, bass, and sunfish.\n\n4. History buffs will appreciate the park's connection to Texas history, as the site once served as a gathering place for early settlers and even hosted a pivotal meeting during the Texas Revolution.\n\n5. Whether you're looking to soak in the natural beauty, learn about the area's rich heritage, or simply unwind in a peaceful setting, Stephen F. Austin State Park has something to offer every visitor.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stephen%20F.%20Austin%20State%20Park"
+            },
+            {
+                "name": "Tyler State Park",
+                "url": "https://tpwd.texas.gov/state-parks/tyler",
+                "content": "Tyler State Park offers outdoor enthusiasts a variety of activities such as camping, hiking, fishing, and paddle sports in a scenic pine forest setting.",
+                "description": "Tyler State Park is located just north of Tyler, Texas and offers visitors a variety of outdoor activities such as camping, hiking, and fishing. The park features over 13 miles of hiking trails that wind through dense pine and hardwood forests, perfect for nature enthusiasts. Visitors can also enjoy swimming and paddle boating on the 64-acre Tyler State Park Lake. The park is a popular spot for birdwatching, with over 200 species of birds recorded in the area. With its picturesque scenery and abundance of recreational opportunities, Tyler State Park is a must-visit destination for outdoor lovers.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tyler%20State%20Park"
+            },
+            {
+                "name": "Village Creek State Park",
+                "url": "https://tpwd.texas.gov/state-parks/village-creek",
+                "content": "Village Creek State Park is a peaceful park in southeastern Texas known for its scenic hiking trails and opportunities for canoeing and fishing.",
+                "description": "Village Creek State Park is a beautiful natural oasis located in Lumberton, Texas, offering visitors a peaceful retreat from city life. The park boasts over 1,000 acres of pine and hardwood forests, providing ample opportunities for hiking, birdwatching, and wildlife viewing. Visitors can also enjoy canoeing and kayaking along the crystal-clear waters of Village Creek, or try their hand at fishing for bass and catfish. The park features well-maintained camping facilities, including both primitive and RV sites, allowing visitors to immerse themselves in the natural surroundings overnight. With its serene atmosphere and abundance of outdoor activities, Village Creek State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Village%20Creek%20State%20Park"
+            },
+            {
+                "name": "Wyler Aerial Tramway",
+                "url": "https://tpwd.texas.gov/state-parks/wyler-aerial-tramway",
+                "content": "The Wyler Aerial Tramway offers visitors stunning views of Texas and Mexico from a unique tram ride up the Franklin Mountains.",
+                "description": "The Wyler Aerial Tramway in El Paso, Texas offers visitors a unique experience to ride a gondola lift high above Franklin Mountains State Park. The tramway takes guests on a scenic ride up Ranger Peak, providing breathtaking views of El Paso and the surrounding desert landscape. Once at the top, visitors can explore hiking trails, picnic areas, and enjoy panoramic vistas of three states and two nations. The tramway operates Friday through Sunday, offering a thrilling adventure for nature lovers and outdoor enthusiasts. Don't miss the opportunity to see the beauty of Texas from a bird's eye view on the Wyler Aerial Tramway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wyler%20Aerial%20Tramway"
+            }
+        ]
+    }
+}

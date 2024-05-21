@@ -1,0 +1,982 @@
+{
+    "Wisconsin State Parks": {
+        "parks": [
+            {
+                "name": "Ahnapee",
+                "url": "https://dnr.wisconsin.gov/topic/parks/ahnapee",
+                "content": "The Ahnapee State Trail in Wisconsin is a beautiful and popular hiking and biking destination that offers stunning views of Lake Michigan.",
+                "description": "Ahnapee State Park, located in Kewaunee County, Wisconsin, is a beautiful natural area that offers a variety of recreational opportunities for visitors. The park features over two miles of stunning shoreline along Lake Michigan, providing stunning views and opportunities for water activities like swimming, boating, and fishing. Visitors can explore the park's diverse ecosystems, including forests, wetlands, and sand dunes, on several hiking trails that wind through the park. The park is also home to a historic boardwalk that offers a unique perspective on the park's natural beauty. Whether you're looking to relax on the beach or explore the wilderness, Ahnapee State Park has something for every nature lover to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ahnapee"
+            },
+            {
+                "name": "Amnicon Falls",
+                "url": "https://dnr.wisconsin.gov/topic/parks/amnicon",
+                "content": "Amnicon Falls State Park representative is a beautiful outdoor oasis located on the Amnicon River in northern Wisconsin, offering picturesque waterfalls, hiking trails, and camping opportunities.",
+                "description": "Amnicon Falls State Park is a beautiful destination in northern Wisconsin known for its stunning waterfalls and picturesque landscapes. Visitors can explore a series of waterfalls along the Amnicon River, including the impressive Upper and Lower Falls. The park offers a variety of hiking trails, picnic areas, and camping facilities, making it a great place for outdoor enthusiasts to explore and relax. One of the highlights of the park is the stunning Swinging Bridge, which offers fantastic views of the waterfalls and surrounding forests. Whether you're looking to hike, fish, or simply enjoy the natural beauty of Wisconsin, Amnicon Falls State Park is a must-visit destination.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Amnicon%20Falls"
+            },
+            {
+                "name": "Aztalan",
+                "url": "https://dnr.wisconsin.gov/topic/parks/aztalan",
+                "content": "Aztalan State Park represents Wisconsin's ancient Native American history with its preserved archaeological site of ancient mound builders.",
+                "description": "Aztalan State Park in Wisconsin is home to an ancient Native American archaeological site that dates back to the 10th-13th centuries. Visitors can explore the remnants of this ancient settlement, including large earthen mounds and a reconstructed stockade. The park offers guided tours and interpretive exhibits to help visitors learn more about the site's history and significance.\n\nIn addition to its historical attractions, Aztalan State Park is also a great spot for outdoor recreation. The park features hiking trails, picnic areas, and a scenic overlook of the Crawfish River. Visitors can enjoy birdwatching, fishing, and wildlife viewing in the park's natural surroundings.\n\nAztalan State Park hosts special events throughout the year, such as archaeological digs and educational programs. These events offer visitors a unique opportunity to engage with the site's history and learn more about the people who once lived there. Whether you're a history buff, nature lover, or outdoor enthusiast, Aztalan State Park has something to offer for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Aztalan"
+            },
+            {
+                "name": "Badger",
+                "url": "https://dnr.wisconsin.gov/topic/parks/badger",
+                "content": "The Badger represents the history and legacy of the former Badger Army Ammunition Plant, now transformed into the Badger State Trail and part of the Sauk Prairie State Recreation Area.",
+                "description": "Badger State Trail is a former railroad corridor that has been converted into a scenic trail for hiking, biking, and snowmobiling. Visitors can explore over 40 miles of trail that winds through picturesque landscapes, including forests, prairies, and wetlands. The trail also offers opportunities for birdwatching and wildlife viewing, with the chance to spot deer, foxes, and a variety of bird species. In addition to outdoor recreation, the trail passes through historic towns and villages with charming shops, restaurants, and museums for visitors to explore. Whether you're seeking adventure or relaxation, Badger State Trail offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Badger"
+            },
+            {
+                "name": "Bearskin",
+                "url": "https://dnr.wisconsin.gov/topic/parks/bearskin",
+                "content": "Bearskin State Trail is a scenic and peaceful rail-trail that winds through the pristine Northwoods of Wisconsin.",
+                "description": "Bearskin State Trail is a popular recreational trail in northern Wisconsin, spanning 18 miles from Minocqua to Hazelhurst. The trail is well-known for its stunning scenery, passing through dense forests, wetlands, and scenic bridges over the Bearskin Creek. Visitors can enjoy a variety of outdoor activities on the trail, including hiking, biking, birdwatching, and snowmobiling in the winter months. The trail is also popular for its wildlife viewing opportunities, with the chance to spot deer, otters, and a variety of bird species along the way. Whether you're looking for a leisurely stroll or a more adventurous trek, Bearskin State Trail offers something for everyone to enjoy in the beauty of the Northwoods.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bearskin"
+            },
+            {
+                "name": "Belmont Mound",
+                "url": "https://dnr.wisconsin.gov/topic/parks/belmont",
+                "content": "The Belmont Mound State Park in Wisconsin offers scenic views from the top of a 400-foot high mound.",
+                "description": "Belmont Mound State Park is located in southwestern Wisconsin and offers stunning panoramic views of the surrounding countryside. The park's main attraction is the historic Belmont Mound, which rises 400 feet above the surrounding landscape and provides a challenging hike for visitors. In addition to hiking, the park offers picnic areas, a playground, and wildflower-filled meadows for visitors to enjoy. The park is also home to a variety of wildlife, including deer, foxes, and bald eagles, making it a popular spot for nature enthusiasts. Whether you're looking for a challenging hike or a peaceful picnic spot, Belmont Mound State Park has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Belmont%20Mound"
+            },
+            {
+                "name": "Big Bay",
+                "url": "https://dnr.wisconsin.gov/topic/parks/bigbay",
+                "content": "Big Bay State Park is located on Madeline Island in Lake Superior and offers stunning views, camping opportunities, and access to miles of hiking trails.",
+                "description": "Big Bay State Park is located on Madeline Island, the largest of the Apostle Islands in Lake Superior. Visitors can enjoy stunning views of the lake from the park's pristine sandy beach, perfect for swimming and sunbathing. The park also features over seven miles of hiking trails, providing opportunities to explore the island's diverse ecosystems and wildlife. For those interested in history, the park is home to the historic La Pointe Indian Cemetery, where visitors can learn about the island's indigenous peoples. Whether you're looking to relax on the beach or embark on a nature-filled adventure, Big Bay State Park offers something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Bay"
+            },
+            {
+                "name": "Big Foot Beach",
+                "url": "https://dnr.wisconsin.gov/topic/parks/bigfoot",
+                "content": "Big Foot Beach State Park is a scenic park located on the shores of Lake Geneva in Wisconsin, offering opportunities for swimming, picnicking, and hiking.",
+                "description": "Big Foot Beach State Park is a beautiful destination nestled along the shores of Lake Geneva in Wisconsin. Visitors can enjoy stunning views of the lake, as well as access to a sandy beach for swimming and sunbathing. The park offers a variety of recreational activities, including hiking trails, picnic areas, and a playground for children. Campers can stay overnight in one of the park's spacious campsites, complete with fire rings and picnic tables. With its peaceful setting and abundance of outdoor activities, Big Foot Beach State Park is the perfect spot for nature lovers looking to escape the hustle and bustle of daily life.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Foot%20Beach"
+            },
+            {
+                "name": "Black River",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/blackriver",
+                "content": "The Black River State Forest in Wisconsin features over 60 miles of hiking trails, pristine camping spots, and opportunities for hunting and fishing.",
+                "description": "The Black River State Forest in Wisconsin is home to the scenic Black River, a 68-mile long river that meanders through the forest. Visitors can enjoy kayaking, canoeing, fishing, and even tubing on this beautiful river.\n\nThe Black River is known for its crystal-clear water and sandy beaches, making it a popular spot for swimming and picnicking during the summer months. The river is also teeming with wildlife, including bald eagles, otters, and various species of fish.\n\nFor those looking to explore the Black River further, there are several trails that run alongside the river, offering opportunities for hiking and wildlife viewing. The river is also a prime spot for birdwatching, with many species of birds making their home along its banks.\n\nVisitors to the Black River State Forest can also enjoy camping along the river, with several campgrounds located nearby. Whether you're looking for adventure or just a peaceful getaway, the Black River offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Black%20River"
+            },
+            {
+                "name": "Blue Mound",
+                "url": "https://dnr.wisconsin.gov/topic/parks/bluemound",
+                "content": "Blue Mound State Park is located in southwest Wisconsin and features beautiful hiking trails, scenic views, and offers camping and picnicking opportunities for visitors.",
+                "description": "Blue Mound State Park offers visitors the opportunity to explore the highest point in southern Wisconsin, with stunning panoramic views of the surrounding landscape.\n\nThe park features a variety of outdoor activities, including hiking, mountain biking, and camping, as well as a designated horse trail for equestrian enthusiasts.\n\nVisitors can also enjoy the unique geological features of Blue Mound, such as the mysterious \"tree mounds\" and the striking Niagara Escarpment.\n\nIn addition to outdoor recreation, the park offers interpretive programs and educational opportunities for visitors to learn more about the natural and cultural history of the area.\n\nWhether you're looking to enjoy a leisurely hike, challenge yourself on the mountain biking trails, or simply relax and take in the scenic beauty, Blue Mound State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blue%20Mound"
+            },
+            {
+                "name": "Brule River",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/bruleriver",
+                "content": "The Brule River is a designated National Wild and Scenic River known for its crystal-clear water, world-class trout fishing, and scenic beauty.",
+                "description": "The Brule River is a popular destination for visitors seeking outdoor adventure in Wisconsin. Stretching over 44 miles, this scenic river offers excellent opportunities for fishing, canoeing, and kayaking.\n\nVisitors to the Brule River State Forest can explore over 40 miles of hiking trails that wind through dense forests and along the river's edge. The forest is home to a variety of wildlife, including deer, black bear, and bald eagles, making it a great spot for nature enthusiasts.\n\nFor those looking to extend their stay, the Brule River State Forest offers several campgrounds with amenities such as picnic tables, fire rings, and vault toilets. Camping along the river allows visitors to fully immerse themselves in the beauty of the area.\n\nIn addition to outdoor activities, the Brule River State Forest also offers historical sites and interpretive programs for visitors interested in learning more about the area's rich history. Whether you're looking for a relaxing weekend getaway or an action-packed adventure, the Brule River has something to offer everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brule%20River"
+            },
+            {
+                "name": "Brunet Island",
+                "url": "https://dnr.wisconsin.gov/topic/parks/brunetisland",
+                "content": "Brunet Island State Park is a peaceful island park on the Chippewa River with miles of scenic hiking trails and opportunities for fishing and bird watching.",
+                "description": "Brunet Island State Park is a beautiful 1,200-acre island park located along the scenic Chippewa River in western Wisconsin. Visitors can enjoy a variety of outdoor activities, including hiking, fishing, canoeing, and birdwatching.\n\nThe park features over 13 miles of hiking trails that wind through forests, prairies, and wetlands, offering stunning views of the river and surrounding landscape. Birdwatchers will be delighted by the diverse array of bird species that call the park home, including bald eagles, osprey, and various waterfowl.\n\nFishing enthusiasts can cast a line in the Chippewa River or one of the park's two ponds in search of walleye, northern pike, and smallmouth bass. Additionally, the park offers canoe and kayak rentals for visitors looking to explore the river and its peaceful waterways.\n\nCamping is also available at Brunet Island State Park, with both rustic and modern campsites that provide a tranquil setting for overnight stays. Whether you're looking for a day trip or a weekend getaway, Brunet Island State Park offers something for every nature lover to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brunet%20Island"
+            },
+            {
+                "name": "Buckhorn",
+                "url": "https://dnr.wisconsin.gov/topic/parks/buckhorn",
+                "content": "The Buckhorn State Park representative is knowledgeable about the park's history, recreational opportunities, and conservation efforts.",
+                "description": "Buckhorn State Park is a beautiful natural area located along the shore of Castle Rock Lake in central Wisconsin. The park offers a variety of recreational activities for visitors to enjoy, including hiking, boating, fishing, and camping. One of the park's most popular features is the 300-foot sandy beach, perfect for swimming and sunbathing on hot summer days. The area is also great for birdwatching, with a diverse range of species calling the park home. Visitors can explore the unique wetland habitats and spot wildlife such as deer, beavers, and bald eagles. Whether you're looking for a peaceful retreat or an adventurous getaway, Buckhorn State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buckhorn"
+            },
+            {
+                "name": "Buffalo River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/buffalo",
+                "content": "The Buffalo River in Wisconsin is a popular destination for canoeing and kayaking with calm waters and beautiful scenery.",
+                "description": "The Buffalo River is a popular destination for outdoor enthusiasts seeking opportunities for canoeing, kayaking, and fishing. Visitors can explore the river's winding path through scenic valleys and forests, providing a tranquil setting for a day on the water. The river is home to a variety of fish species, including smallmouth bass and northern pike, making it a prime spot for anglers of all skill levels. Wildlife enthusiasts will also enjoy the chance to spot eagles, otters, and other native animals along the riverbanks. Whether you're looking for a peaceful paddle or a day of casting your line, the Buffalo River offers a diverse and beautiful natural experience for all who visit.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buffalo%20River"
+            },
+            {
+                "name": "Cadiz Springs",
+                "url": "https://dnr.wisconsin.gov/topic/parks/cadizsprings",
+                "content": "Cadiz Springs State Recreation Area is a peaceful park in southeast Wisconsin with opportunities for fishing, hiking, picnicking, and wildlife observation.",
+                "description": "Cadiz Springs State Recreation Area is a hidden gem for outdoor lovers in Wisconsin. Visitors can enjoy fishing in the pristine waters of the 35-acre lake, which is stocked with a variety of fish. The park also offers picnic areas, hiking trails, and a beach for swimming and sunbathing. Birdwatchers will delight in the diverse array of bird species that call Cadiz Springs home, with opportunities to spot bald eagles, osprey, and sandhill cranes. With its tranquil atmosphere and natural beauty, Cadiz Springs is the perfect destination for a day of relaxation and recreation.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cadiz%20Springs"
+            },
+            {
+                "name": "Capital City",
+                "url": "https://dnr.wisconsin.gov/topic/parks/capcity",
+                "content": "The Capital City State Trail is a 17 mile bike trail that connects the communities of Fitchburg, Madison, Monona, and the Capital City State Trail.",
+                "description": "Madison, the capital city of Wisconsin, is known for its stunning natural beauty and vibrant cultural scene. Visitors can explore the stunning landscapes of the city's many parks, such as the beloved Olbrich Botanical Gardens and the picturesque Lake Mendota. The city is also home to the University of Wisconsin-Madison, offering a wealth of educational and recreational opportunities for visitors. History buffs will enjoy exploring the Wisconsin State Capitol building, a stunning example of early 20th-century architecture. And foodies will delight in the city's diverse culinary scene, with everything from farm-to-table restaurants to bustling food markets showcasing the best of Wisconsin's local produce.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Capital%20City"
+            },
+            {
+                "name": "Capital Springs",
+                "url": "https://dnr.wisconsin.gov/topic/parks/capsprings",
+                "content": "Capital Springs Recreation Area is a county park located in Dane County and encompasses a mix of natural habitats such as prairies, woodlands, and wetlands.",
+                "description": "Capital Springs State Recreation Area is a unique natural oasis located just outside of Madison, Wisconsin. Visitors can explore over 3,000 acres of diverse habitats, including wetlands, prairies, and woodlands. The park offers a variety of outdoor activities, such as hiking, biking, fishing, and birdwatching. One of the highlights of Capital Springs is the beautiful Lake Farm County Park, which provides opportunities for swimming, picnicking, and boating. With its stunning natural beauty and abundant wildlife, Capital Springs is a must-visit destination for outdoor enthusiasts in the Madison area.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Capital%20Springs"
+            },
+            {
+                "name": "Cattail",
+                "url": "https://dnr.wisconsin.gov/topic/parks/cattail",
+                "content": "Cattail represents a diverse ecosystem within Wisconsin's parks, providing habitat for wildlife and acting as a natural water purifier.",
+                "description": "Cattail is a small, serene park located in the heart of Wisconsin, known for its picturesque natural beauty and diverse wildlife. Visitors can enjoy a leisurely stroll along the park's peaceful trails, perfect for birdwatching and wildlife photography. The park also offers a splendid picnic area with stunning views of the nearby lake, making it an ideal spot for a relaxing outdoor lunch. Fishing enthusiasts can try their luck at catching bass and panfish in the park's tranquil waters, while nature lovers can explore the diverse flora and fauna that call Cattail home. Whether you're seeking a peaceful retreat into nature or looking for a fun outdoor adventure, Cattail Park has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cattail"
+            },
+            {
+                "name": "Chippewa Flowage",
+                "url": "https://dnr.wisconsin.gov/topic/lands/chippewaflowage",
+                "content": "The Chippewa Flowage is a vast reservoir in northern Wisconsin known for its pristine waters, excellent fishing opportunities, and beautiful natural scenery.",
+                "description": "The Chippewa Flowage, also known as the \"Big Chip,\" is a sprawling reservoir in northern Wisconsin that covers over 15,000 acres of water.\n\nVisitors to the Chippewa Flowage can enjoy a wide range of outdoor activities, including fishing for species such as muskie, walleye, and bass, as well as boating, kayaking, and canoeing.\n\nThe area surrounding the Chippewa Flowage is home to diverse wildlife, including bald eagles, osprey, and loons, making it a popular destination for birdwatching enthusiasts.\n\nFor those looking to explore the area on land, there are several hiking and biking trails that wind through the forests and along the shoreline of the reservoir.\n\nWhether you're looking for a relaxing day on the water or an adventurous outdoor excursion, the Chippewa Flowage offers something for everyone to enjoy in the heart of Wisconsin's beautiful Northwoods.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chippewa%20Flowage"
+            },
+            {
+                "name": "Chippewa Moraine",
+                "url": "https://dnr.wisconsin.gov/topic/parks/chipmoraine",
+                "content": "The Chippewa Moraine State Recreation Area in Wisconsin features a diverse landscape of rolling hills and kettles formed by glacial activity.",
+                "description": "The Chippewa Moraine State Recreation Area in Wisconsin is a unique landscape formed by the last glacier to cover the state around 10,000 years ago. Visitors to the park can explore a variety of glacial landforms, such as drumlins, kames, and eskers, that were left behind by the retreating ice sheet. The park offers a range of outdoor activities, including hiking, birdwatching, and cross-country skiing, making it a great destination for nature lovers. One of the highlights of the park is the Ice Age Interpretive Center, where visitors can learn more about the geological history of the area through interactive exhibits and displays. Whether you're interested in geology, ecology, or simply enjoying the beauty of the outdoors, the Chippewa Moraine State Recreation Area has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chippewa%20Moraine"
+            },
+            {
+                "name": "Chippewa River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/chipriver",
+                "content": "The Chippewa River flows through several counties in Wisconsin and provides opportunities for boating, fishing, and camping in Chippewa River State Park.",
+                "description": "The Chippewa River is a scenic and vibrant waterway located in northwestern Wisconsin. Spanning 183 miles, this river offers plenty of opportunities for outdoor enthusiasts to explore and enjoy its natural beauty. Visitors can partake in activities such as fishing, boating, kayaking, and even tubing along the gentle currents of the river. The surrounding forests and wetlands provide a picturesque backdrop for hiking and wildlife viewing. With several state parks and recreation areas along its banks, the Chippewa River is a popular destination for nature lovers looking to immerse themselves in the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chippewa%20River"
+            },
+            {
+                "name": "Copper Culture",
+                "url": "https://dnr.wisconsin.gov/topic/parks/copperculture",
+                "content": "The Copper Culture was a prehistoric Native American culture in Wisconsin that mined and worked with copper around 5,000 to 6,000 years ago.",
+                "description": "The Copper Culture State Park is home to one of the oldest known Native American cultures in Wisconsin, dating back over 7,000 years. Visitors can explore the park's ancient burial grounds, where artifacts made of copper and other materials have been uncovered. The Copper Culture people were skilled metalworkers, using the resources around them to create tools, weapons, and decorative items. This unique archaeological site offers a fascinating glimpse into the lives and traditions of a prehistoric culture that thrived in the Great Lakes region. A visit to Copper Culture State Park is a great opportunity to learn about Wisconsin's rich history and connect with the land's original inhabitants.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Copper%20Culture"
+            },
+            {
+                "name": "Copper Falls",
+                "url": "https://dnr.wisconsin.gov/topic/parks/copperfalls",
+                "content": "The Copper Falls State Park representative is committed to preserving the stunning natural beauty and rich history of the park for visitors to explore and enjoy.",
+                "description": "Copper Falls State Park in Wisconsin is a stunning natural wonder that offers visitors the chance to explore scenic gorges, waterfalls, and an ancient lava flow. With over 13 miles of hiking trails, visitors can immerse themselves in the park's diverse landscapes and wildlife. One of the main highlights of the park is the breathtaking Copper Falls, which cascades over 30 feet into a deep gorge. The park also offers opportunities for camping, fishing, and picnicking, making it the perfect destination for outdoor enthusiasts looking to connect with nature. Whether you're a seasoned hiker or just looking for a peaceful escape, Copper Falls State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Copper%20Falls"
+            },
+            {
+                "name": "Coulee",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/coulee",
+                "content": "The Coulee Experimental State Forest represents a living laboratory for sustainable forest management practices in Wisconsin.",
+                "description": "The Coulee State Recreation Area is a beautiful natural area located in western Wisconsin, known for its stunning views of rolling hills and deep valleys carved out by glaciers.\n\nVisitors to Coulee can enjoy a variety of outdoor activities, including hiking, mountain biking, and bird watching. The area is home to a diverse range of wildlife, making it a popular spot for nature enthusiasts.\n\nThe Coulee State Recreation Area offers several picnic areas and campgrounds, perfect for a day trip or a weekend getaway. There are also several miles of hiking trails that wind through the forest, offering stunning views of the surrounding countryside.\n\nIn addition to outdoor activities, visitors can learn about the history of the area at the Coulee State Recreation Area's interpretive center. The center features exhibits on the geology, flora, and fauna of the region, providing an educational experience for all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Coulee"
+            },
+            {
+                "name": "Council Grounds",
+                "url": "https://dnr.wisconsin.gov/topic/parks/councilgrounds",
+                "content": "The Council Grounds State Park is represented by a variety of flora and fauna, providing a peaceful and serene environment for visitors to enjoy outdoor activities.",
+                "description": "Council Grounds State Park is a beautiful 508-acre park located along the Wisconsin River in Merrill. Visitors can enjoy a variety of outdoor activities including hiking, fishing, boating, and picnicking. The park also features an 18-hole disc golf course for disc golf enthusiasts to enjoy. The park is a popular spot for wildlife viewing, as it is home to a variety of bird species and other wildlife. With its scenic views and peaceful atmosphere, Council Grounds State Park is a great destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Council%20Grounds"
+            },
+            {
+                "name": "Cross Plains",
+                "url": "https://dnr.wisconsin.gov/topic/parks/crossplains",
+                "content": "The Cross Plains State Park representative is committed to preserving and showcasing the natural beauty and cultural history of the park for visitors to enjoy.",
+                "description": "Cross Plains State Park is a beautiful natural area located in Sauk County, Wisconsin. Visitors to the park can enjoy hiking, birdwatching, and picnicking in the scenic surroundings of the Driftless Region. The park is known for its diverse plant and animal life, including rare species such as the regal fritillary butterfly and the massasauga rattlesnake. With its tranquil atmosphere and stunning views, Cross Plains State Park is a perfect destination for outdoor enthusiasts looking to connect with nature. Don't forget to bring your camera to capture the breathtaking vistas and unique wildlife that call this park home.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cross%20Plains"
+            },
+            {
+                "name": "Devil's Lake",
+                "url": "https://dnr.wisconsin.gov/topic/parks/devilslake",
+                "content": "Devil's Lake is a stunning and popular state park in Wisconsin known for its picturesque lake surrounded by towering bluffs.",
+                "description": "Devil's Lake is a stunning natural attraction located in Wisconsin's Devil's Lake State Park, featuring a crystal-clear lake surrounded by towering bluffs and lush forests.\n\nVisitors can enjoy a variety of outdoor activities at Devil's Lake, including hiking on over 29 miles of scenic trails, rock climbing on the park's famous quartzite cliffs, and swimming or boating in the pristine waters of the lake.\n\nThe park also offers opportunities for camping, picnicking, and wildlife viewing, making it the perfect destination for nature lovers and outdoor enthusiasts.\n\nFor those interested in the area's history, Devil's Lake State Park is home to ancient Native American effigy mounds and archaeological sites, providing a glimpse into the area's rich cultural past.\n\nWith its breathtaking natural beauty and diverse recreational offerings, Devil's Lake is a must-visit destination for anyone looking to experience the great outdoors in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Devil%27s%20Lake"
+            },
+            {
+                "name": "Devil's River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/devilsriver",
+                "content": "The Devil's River is a scenic waterway in Wisconsin known for its crystal-clear waters and picturesque limestone bluffs.",
+                "description": "The Devil's River is a popular destination for outdoor enthusiasts in Wisconsin, known for its crystal clear waters and stunning scenery. Visitors can enjoy activities such as kayaking, canoeing, fishing, and birdwatching along the river's 16-mile stretch. The river is surrounded by lush forests and limestone bluffs, providing a picturesque backdrop for any adventure. If you're lucky, you may even spot wildlife such as bald eagles, otters, and deer while exploring the Devil's River. Be sure to pack a picnic and take in the beauty of this hidden gem in the heart of Wisconsin's Driftless Region.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Devil%27s%20River"
+            },
+            {
+                "name": "Eisenbahn",
+                "url": "https://dnr.wisconsin.gov/topic/parks/eisenbahn",
+                "content": "The Eisenbahn State Trail is a 25-mile trail that follows a former railroad line through scenic landscapes in Wisconsin.",
+                "description": "Eisenbahn State Trail in Wisconsin is a scenic 25-mile trail perfect for hiking, biking, and snowmobiling. The trail follows the route of the old Chicago and Northwestern Railroad, providing visitors with a unique journey through the state's natural beauty.\n\nThis trail offers stunning views of rolling countryside, picturesque farmland, and charming small towns along the way. Visitors can spot a variety of wildlife, including deer, birds, and other native species while exploring the trail.\n\nThe Eisenbahn State Trail is also a popular spot for birdwatching, with opportunities to see a diverse array of bird species in their natural habitat. The trail is well-maintained and easy to navigate, making it accessible for visitors of all ages and abilities.\n\nWhether you're looking for a leisurely stroll through nature or a challenging bike ride, Eisenbahn State Trail offers something for everyone to enjoy. Make sure to pack a picnic and take advantage of the picnic areas along the trail to enjoy a scenic lunch with family and friends.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eisenbahn"
+            },
+            {
+                "name": "Elroy-Sparta",
+                "url": "https://dnr.wisconsin.gov/topic/parks/elroysparta",
+                "content": "The Elroy-Sparta Trail is a popular hiking and biking trail in Wisconsin, known for its scenic beauty and historic railway tunnels.",
+                "description": "Elroy-Sparta State Trail is an iconic 32-mile trail located in southwestern Wisconsin that attracts visitors from all over the country. The trail runs through three old railroad tunnels that are breathtaking to explore. Visitors can bike, hike, or even cross-country ski along the well-maintained trail, making it a versatile destination for outdoor enthusiasts of all kinds.\n\nThe tunnels along the trail were originally built in the 1870s and provide a unique and historical element to the experience. The trail passes through lush forests and scenic countryside, offering stunning views of Wisconsin's natural beauty. Along the route, visitors can stop at quaint towns like Elroy, Kendall, Wilton, and Sparta to enjoy local shops, restaurants, and accommodations.\n\nElroy-Sparta State Trail is known for its peaceful and serene atmosphere, making it the perfect destination for a relaxing weekend getaway in nature. Whether you're seeking adventure or simply looking to unwind, this trail offers a little something for everyone. Don't forget your camera to capture the picturesque views and unforgettable memories along the Elroy-Sparta State Trail.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Elroy-Sparta"
+            },
+            {
+                "name": "Fenley",
+                "url": "https://dnr.wisconsin.gov/topic/parks/fenley",
+                "content": "The Fenley State Recreation Area representative helps manage and protect the diverse natural habitats found within the park.",
+                "description": "Fenley State Recreation Area is a beautiful 91-acre park located in northern Wisconsin, offering visitors a peaceful natural retreat full of diverse wildlife and stunning scenery. Visitors can explore the park's several hiking trails that wind through wooded areas and along the shores of the scenic lake, providing the perfect opportunity for birdwatching and wildlife observation. The park also has picnic areas, fishing piers, and boat launches, making it an ideal spot for a day of outdoor recreation with friends and family. Fenley State Recreation Area is a great place for nature lovers and outdoor enthusiasts to relax and unwind in the serene surroundings of the Northwoods. With its tranquil atmosphere and abundance of recreational opportunities, Fenley State Recreation Area is a must-visit destination for anyone looking to escape the hustle and bustle of everyday life.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fenley"
+            },
+            {
+                "name": "Fischer Creek",
+                "url": "https://dnr.wisconsin.gov/topic/parks/fischercreek",
+                "content": "Fischer Creek State Recreation Area is a peaceful park with secluded beaches and picnic areas along Lake Michigan.",
+                "description": "Fischer Creek is a charming and tranquil state natural area located in Manitowoc County, Wisconsin. Visitors to Fischer Creek can explore a variety of habitats, including wetlands, creeks, and forests, making it a diverse and unique outdoor experience. The area is popular for birdwatching, with numerous species of birds, including warblers and waterfowl, making their home in the park. The park also offers opportunities for fishing, hiking, and picnicking, making it a perfect destination for nature lovers of all ages. With its beautiful scenery and abundance of wildlife, Fischer Creek is a hidden gem waiting to be discovered by visitors looking for a peaceful escape into nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fischer%20Creek"
+            },
+            {
+                "name": "Flambeau River",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/flambeauriver",
+                "content": "The Flambeau River is a popular destination for canoeing, kayaking, fishing, and camping in Wisconsin's Northwoods.",
+                "description": "1. The Flambeau River, located in northern Wisconsin, is a popular destination for outdoor enthusiasts seeking thrilling whitewater rafting and kayaking experiences.\n2. Stretching over 75 miles, the Flambeau River offers a variety of rapids ranging from class I to class II, providing both novice and experienced paddlers with an exhilarating journey through scenic forests and rocky terrain.\n3. In addition to water activities, visitors can also explore the surrounding Flambeau River State Forest, which encompasses over 90,000 acres of pristine wilderness perfect for hiking, camping, fishing, and wildlife viewing.\n4. The Flambeau River is renowned for its abundant wildlife, including bald eagles, osprey, deer, otters, and beavers, making it a haven for nature lovers and photographers eager to capture the beauty of the Northwoods.\n5. Whether you're seeking a thrilling adventure on the rapids or a tranquil escape in the great outdoors, the Flambeau River offers a diverse range of activities to suit all interests and ages, making it a must-visit destination for anyone looking to experience the natural beauty of Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Flambeau%20River"
+            },
+            {
+                "name": "Fox River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/foxriver",
+                "content": "The Fox River in Wisconsin is a beautiful waterway that offers a variety of recreational opportunities, including fishing, boating, and wildlife viewing.",
+                "description": "The Fox River is a scenic waterway in southeastern Wisconsin that offers a variety of outdoor recreational opportunities for visitors. The river is known for its calm waters, making it popular for canoeing, kayaking, and fishing. Along the river, visitors can enjoy picturesque views of wooded banks and abundant wildlife, including herons, bald eagles, and deer. The Fox River also offers several public access points and boat launches, making it easily accessible for visitors looking to explore the area by water. Whether you're looking for a peaceful paddle or a relaxing afternoon of fishing, the Fox River is a must-visit destination for nature lovers in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fox%20River"
+            },
+            {
+                "name": "Friendship",
+                "url": "https://dnr.wisconsin.gov/topic/parks/friendship",
+                "content": "Friendshipwith a park representative can provide valuable information and resources for visitors looking to explore Wisconsin's parks and natural areas.",
+                "description": "Friendship State Trail in Wisconsin offers a wonderful opportunity for outdoor enthusiasts to connect with nature and each other. Spanning 15 miles, this scenic trail provides a picturesque setting for hiking, biking, and horseback riding. Visitors can explore lush forests, tranquil wetlands, and vibrant prairies along the trail, experiencing the diverse natural beauty of the area. With convenient access points and well-maintained paths, Friendship State Trail is perfect for a day of recreation with friends and family. Whether you're seeking adventure or relaxation, this trail is sure to provide a memorable and enjoyable experience for all who visit.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Friendship"
+            },
+            {
+                "name": "Gandy Dancer State Trail",
+                "url": "https://dnr.wisconsin.gov/topic/parks/gandydancer",
+                "content": "The Gandy Dancer State Trail is a 98-mile long trail that stretches from St. Croix Falls to Superior, offering scenic views and opportunities for hiking, biking, and snowmobiling.",
+                "description": "The Gandy Dancer State Trail is a 98-mile recreational trail that runs through Wisconsin and Minnesota, offering visitors a scenic and historic journey through the Northwoods. The trail follows the former Minneapolis, St. Paul, and Sault Ste. Marie railroad line, also known as the \"Gandy Dancer,\" which was used to transport lumber and supplies in the late 1800s.\n\nVisitors to the Gandy Dancer State Trail can enjoy a variety of outdoor activities, including hiking, biking, snowmobiling, and cross-country skiing. The trail features diverse landscapes, from rolling hills and forests to wetlands and rivers, providing opportunities for wildlife viewing and birdwatching along the way.\n\nOne of the highlights of the trail is the Tamarack Wildlife Area, a 5,000-acre nature reserve that offers a glimpse into the region's natural beauty and biodiversity. The trail also passes through several charming towns and villages, where visitors can stop for a break and explore local shops, restaurants, and attractions.\n\nWith its combination of natural beauty, history, and recreational opportunities, the Gandy Dancer State Trail is a must-visit destination for outdoor enthusiasts and history buffs alike. Whether you're looking for a peaceful hike through the woods or an adrenaline-pumping snowmobile ride, this trail has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gandy%20Dancer%20State%20Trail"
+            },
+            {
+                "name": "Glacial Drumlin",
+                "url": "https://dnr.wisconsin.gov/topic/parks/glacialdrumlin",
+                "content": "The Glacial Drumlin State Trail is a 52-mile trail that follows the terminal moraine of the last glacier in Wisconsin, offering scenic views and recreational opportunities for biking, hiking, and snowmobiling.",
+                "description": "The Glacial Drumlin State Trail in Wisconsin spans 52 miles through picturesque countryside, offering visitors a scenic and tranquil experience. The trail follows a former railroad line and is named after the unique landform known as a drumlin created by glaciers during the Ice Age.\n\nVisitors can enjoy a variety of outdoor activities along the trail, such as hiking, biking, horseback riding, and snowmobiling, making it a popular destination for outdoor enthusiasts of all ages. The trail passes through several charming towns and quaint rural landscapes, providing opportunities to explore the local culture and history.\n\nWildlife enthusiasts will appreciate the diverse array of plant and animal species that call the trail home, including deer, foxes, birds, and wildflowers. The trail is also accessible year-round, allowing visitors to experience its beauty in every season, from the lush greenery of summer to the snow-covered landscapes of winter.\n\nWhether you're looking for a leisurely stroll through nature or an adrenaline-pumping bike ride, the Glacial Drumlin State Trail offers something for everyone to enjoy. So pack your walking shoes or bike helmet and come discover the natural beauty and outdoor adventures that await you on this scenic trail in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Glacial%20Drumlin"
+            },
+            {
+                "name": "Governor Dodge",
+                "url": "https://dnr.wisconsin.gov/topic/parks/govdodge",
+                "content": "Governor Dodge State Park is represented by Governor Dodgewith, a prominent figure in Wisconsin history who served as the state's first governor from 1848-1850.",
+                "description": "Governor Dodge State Park is named after Henry Dodge, the first governor of the Wisconsin Territory. Dodge was a frontier politician and military leader, known for negotiating peace with Native American tribes in the area.\n\nVisitors to Governor Dodge State Park can explore over 40 miles of hiking trails, offering stunning views of the park's forests, bluffs, and waterways. The park is also home to two man-made lakes, perfect for swimming, fishing, and boating.\n\nHistory buffs will enjoy visiting the restored Cox Hollow Civilian Conservation Corps (CCC) camp, which offers a glimpse into the park's past as a New Deal-era conservation project. The CCC played a crucial role in developing the park's infrastructure and creating its iconic stone structures.\n\nIn addition to its natural beauty, Governor Dodge State Park is also known for its diverse wildlife, including white-tailed deer, wild turkeys, and a variety of bird species. Birdwatchers can spot species such as bald eagles, red-tailed hawks, and great blue herons throughout the park.\n\nOverall, Governor Dodge State Park offers a mix of outdoor recreation, historical exploration, and opportunities to connect with nature, making it a must-visit destination for anyone looking to experience the beauty of Wisconsin's wilderness.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Governor%20Dodge"
+            },
+            {
+                "name": "Governor Knowles",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/govknowles",
+                "content": "Governor Knowles State Forest is a popular recreational destination in northwestern Wisconsin, offering opportunities for camping, hiking, biking, and wildlife viewing.",
+                "description": "Governor Knowles State Forest, located in northwestern Wisconsin along the St. Croix National Scenic Riverway, offers visitors over 54,000 acres of pristine wilderness to explore. The forest is home to a variety of wildlife, including black bear, deer, and bald eagles, making it a popular destination for nature enthusiasts and wildlife watchers.\n\nVisitors to Governor Knowles State Forest can enjoy a wide range of outdoor recreational activities, including hiking, fishing, canoeing, and camping. The forest features several scenic hiking trails, such as the St. Croix River Trail and the North Country National Scenic Trail, that offer stunning views of the surrounding landscape.\n\nOne of the highlights of Governor Knowles State Forest is the scenic St. Croix River, which winds its way through the forest, providing opportunities for kayaking, canoeing, and fishing. The river is also a designated National Scenic Riverway, known for its crystal clear waters and towering bluffs.\n\nFor those looking to spend the night in the forest, Governor Knowles State Forest offers several campgrounds and rustic cabins for visitors to stay in. Whether you're seeking a quiet retreat in nature or an adventurous outdoor experience, Governor Knowles State Forest has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Governor%20Knowles"
+            },
+            {
+                "name": "Governor Nelson",
+                "url": "https://dnr.wisconsin.gov/topic/parks/govnelson",
+                "content": "Governor Nelson State Park is named after Wisconsin Governor Gaylord Nelson, known for his leadership in environmental conservation and establishment of Earth Day.",
+                "description": "Governor Nelson State Park in Wisconsin is a popular destination for outdoor enthusiasts, offering over 10 miles of hiking trails through dense forests and along the shores of Lake Mendota. Visitors can also enjoy swimming, fishing, and boating on the 500-acre lake. The park is named after Governor Gaylord Nelson, a Wisconsin native and founder of Earth Day. In addition to its natural beauty, Governor Nelson State Park is home to a variety of wildlife, including bald eagles, deer, and songbirds. With its tranquil surroundings and diverse recreational opportunities, this park is a must-visit for nature lovers in the Midwest.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Governor%20Nelson"
+            },
+            {
+                "name": "Governor Thompson",
+                "url": "https://dnr.wisconsin.gov/topic/parks/govthompson",
+                "content": "Governor Thompson State Park, named after Wisconsin Governor Tommy Thompson, offers a variety of recreational activities including hiking, camping, and fishing.",
+                "description": "Governor Thompson State Park in Wisconsin is named after Tommy G. Thompson, the longest-serving governor in the state's history and a passionate advocate for outdoor recreation. The park features over 2,800 acres of woodlands, wetlands, and meadows, providing visitors with ample opportunities for hiking, birdwatching, and wildlife viewing. One of the park's highlights is the 6-mile Jack Lake Mountain Biking Trail, which offers a challenging and scenic ride through the forest. Visitors can also enjoy picnicking, swimming, and fishing at the park's two lakes, 30-acre Woods Lake and 167-acre Mole Lake. With its diverse ecosystems and dedication to preserving natural beauty, Governor Thompson State Park is a must-visit destination for outdoor enthusiasts in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Governor%20Thompson"
+            },
+            {
+                "name": "Great River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/greatriver",
+                "content": "The Great River State Trail stretches for 24 miles along the scenic Mississippi River, offering scenic views and opportunities for hiking, biking, and birdwatching.",
+                "description": "The Great River State Trail in Wisconsin follows the beautiful Mississippi River for 24 miles, offering stunning views of the water and surrounding landscape. Visitors can explore the trail by hiking, biking, or even horseback riding, making it a versatile and enjoyable destination for outdoor enthusiasts. Along the trail, visitors may also spot a variety of wildlife, including bald eagles and osprey soaring overhead. The trail passes through charming towns like Trempealeau and Onalaska, where visitors can stop for a bite to eat or explore local shops and attractions. Whether you're looking for a leisurely stroll or an adventurous bike ride, the Great River State Trail has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Great%20River"
+            },
+            {
+                "name": "Great Sauk",
+                "url": "https://dnr.wisconsin.gov/topic/parks/greatsauk",
+                "content": "The Great Sauk Trail represents a significant cultural and historical link between Wisconsin's indigenous Sauk and Fox tribes and the natural beauty of the state park system.",
+                "description": "Great Sauk State Trail is a former railroad corridor that has been transformed into a scenic trail for hiking, bicycling, and other recreational activities. The trail stretches for 6.5 miles and offers breathtaking views of the surrounding landscapes, including forests, wetlands, and prairies. Visitors can explore the trail on foot, bicycle, or even on horseback, making it a versatile destination for outdoor enthusiasts of all kinds.\n\nAlong the trail, visitors can also enjoy birdwatching, fishing, and picnicking at designated spots. The trail is well-maintained and offers easy access to amenities such as restrooms and parking areas. Whether you're looking for a relaxing stroll through nature or a challenging bike ride, Great Sauk State Trail has something to offer for everyone. Make sure to pack your camera and binoculars to capture the beauty of this hidden gem in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Great%20Sauk"
+            },
+            {
+                "name": "Green Circle",
+                "url": "https://dnr.wisconsin.gov/topic/parks/greencircle",
+                "content": "The Green Circle Trail in Wisconsin represents a 27-mile scenic loop connecting parks, schools, and natural areas for hikers, bikers, and outdoor enthusiasts to enjoy.",
+                "description": "The Green Circle is a 27-mile hiking and biking trail that loops around the city of Stevens Point, Wisconsin, showcasing the natural beauty of the area. Visitors can explore diverse ecosystems, including wetlands, prairies, and woodlands, while enjoying scenic views along the Wisconsin River. The trail is accessible year-round and offers opportunities for birdwatching, wildlife viewing, and photography. With multiple access points and trailheads, visitors can customize their experience and choose different sections to explore. Whether you're looking for a leisurely stroll or a challenging bike ride, the Green Circle offers something for outdoor enthusiasts of all ages and abilities.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Green%20Circle"
+            },
+            {
+                "name": "Hank Aaron",
+                "url": "https://dnr.wisconsin.gov/topic/parks/hankaaron",
+                "content": "Hank Aaron State Trail is a 14-mile paved trail named in honor of Milwaukee Braves baseball legend Hank Aaron.",
+                "description": "Hank Aaron State Trail is a beautiful 13-mile paved trail that runs along the scenic Menomonee River in southeastern Wisconsin. Named after baseball legend Hank Aaron, the trail offers stunning views of the river, wetlands, and woodlands.\n\nVisitors to the trail can enjoy walking, running, biking, and inline skating as they explore the natural beauty of the area. Along the way, they may spot a variety of wildlife, including deer, foxes, and a wide array of bird species.\n\nThe trail also offers access to several parks, including Lakeshore State Park and Three Bridges Park, where visitors can enjoy picnicking, fishing, and birdwatching. Interpretive signs along the trail provide information about the history and ecology of the area.\n\nThe Hank Aaron State Trail is a popular destination for outdoor enthusiasts and sports fans alike, offering a unique opportunity to experience the beauty of nature while honoring the legacy of a sports icon. Whether you're looking for a peaceful hike or an exhilarating bike ride, this trail has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hank%20Aaron"
+            },
+            {
+                "name": "Harrington Beach",
+                "url": "https://dnr.wisconsin.gov/topic/parks/harringtonbeach",
+                "content": "Harrington Beach State Park features over a mile of Lake Michigan shoreline and offers camping, hiking, fishing, and picnicking opportunities for visitors.",
+                "description": "Harrington Beach State Park is a beautiful destination along the shores of Lake Michigan, offering stunning views and tranquil natural surroundings for visitors to enjoy. The park features a mile-long sandy beach perfect for swimming, sunbathing, and picnicking. Visitors can explore over six miles of hiking trails that wind through forests, wetlands, and dunes, providing opportunities to spot wildlife and enjoy the scenic landscapes.\n\nAdditionally, Harrington Beach State Park boasts a historic quarry where visitors can learn about the area's mining history and see remnants of the old quarry structures. The park also offers camping facilities for those looking to spend a night under the stars, with both traditional campsites and rustic hike-in sites available. Whether you're looking to relax on the beach, hike through natural beauty, or learn about local history, Harrington Beach State Park offers something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Harrington%20Beach"
+            },
+            {
+                "name": "Hartman Creek",
+                "url": "https://dnr.wisconsin.gov/topic/parks/hartmancreek",
+                "content": "Hartman Creek State Park is a 1,500-acre park in Wisconsin that offers camping, hiking, mountain biking, and swimming opportunities.",
+                "description": "Hartman Creek State Park is a beautiful 1,500-acre park located in central Wisconsin, just 2 hours north of Madison. Visitors can enjoy a variety of outdoor activities such as hiking, biking, swimming, and fishing in the park's pristine lakes and woodlands.\n\nOne of the highlights of the park is the 1,500-acre Hartman Lake, which offers excellent fishing for bass, panfish, and trout. The park also has several well-maintained hiking trails that take visitors through oak and pine forests, offering stunning views of the surrounding area.\n\nFor those looking to stay overnight, Hartman Creek State Park has several campgrounds with both electric and non-electric sites, as well as a group cabin available for rent. The park is a popular destination for families, with picnic areas, playgrounds, and a beach for swimming in the summer months.\n\nIn the winter, visitors can enjoy cross-country skiing, snowshoeing, and sledding in the park, making it a year-round destination for outdoor enthusiasts. With its peaceful surroundings and abundance of recreational opportunities, Hartman Creek State Park is a hidden gem in Wisconsin waiting to be explored.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hartman%20Creek"
+            },
+            {
+                "name": "Havenwoods",
+                "url": "https://dnr.wisconsin.gov/topic/parks/havenwoods",
+                "content": "Havenwoods State Forest is Wisconsin's only urban state forest, offering visitors the opportunity to explore nature in the heart of Milwaukee.",
+                "description": "Havenwoods State Forest is a unique urban green space located in Milwaukee, Wisconsin. Visitors can explore over 200 acres of diverse habitats, including woodlands, wetlands, and prairies. The forest offers a variety of recreational activities such as hiking, birdwatching, and nature photography. It also features a nature center with interactive exhibits and educational programs for all ages. Don't miss the opportunity to escape the hustle and bustle of the city and immerse yourself in the natural beauty of Havenwoods State Forest.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Havenwoods"
+            },
+            {
+                "name": "Heritage Hill",
+                "url": "https://dnr.wisconsin.gov/topic/parks/heritagehill",
+                "content": "Heritage Hill State Park in Green Bay, Wisconsin, showcases the history and culture of early European settlers through a collection of preserved buildings and educational programs.",
+                "description": "1. Heritage Hill State Historical Park in Green Bay, Wisconsin, offers visitors a unique opportunity to step back in time and experience life in the 19th century through its meticulously recreated historic buildings.\n\n2. Visitors can explore over 24 acres of beautifully preserved buildings, including a fur trade post, a Belgian farmstead, a one-room schoolhouse, and a pioneer homestead, to gain a deeper understanding of the area's rich cultural heritage.\n\n3. The park features costumed interpreters who bring history to life through interactive demonstrations, storytelling, and hands-on activities that showcase the daily routines and challenges faced by early settlers in Northeast Wisconsin.\n\n4. In addition to its historic buildings, Heritage Hill offers a variety of special events and programs throughout the year, including reenactments, craft demonstrations, and seasonal celebrations that provide a fun and educational experience for visitors of all ages.\n\n5. Whether you're interested in history, architecture, or simply looking for a unique and engaging day out, Heritage Hill State Historical Park is a must-visit destination that promises to transport you back in time to a bygone era.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Heritage%20Hill"
+            },
+            {
+                "name": "High Cliff",
+                "url": "https://dnr.wisconsin.gov/topic/parks/highcliff",
+                "content": "High Cliff State Park features a towering limestone cliff overlooking Lake Winnebago in Wisconsin.",
+                "description": "High Cliff State Park in Wisconsin is home to a towering limestone cliff that rises 180 feet above the shores of Lake Winnebago. Visitors can enjoy stunning panoramic views of the lake and surrounding landscape from various overlooks along the cliff. The park offers hiking and biking trails, as well as opportunities for fishing, boating, and birdwatching. History buffs can explore the remnants of an ancient effigy mound group and a reconstructed 19th-century lime kiln. With its diverse recreational opportunities and scenic beauty, High Cliff State Park is a must-visit destination for outdoor enthusiasts in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=High%20Cliff"
+            },
+            {
+                "name": "Hillsboro",
+                "url": "https://dnr.wisconsin.gov/topic/parks/hillsboro",
+                "content": "The Hillsboro State Park representative is a beautiful outdoor landscape that offers hiking, camping, and fishing opportunities in Wisconsin.",
+                "description": "Hillsboro State Park in Wisconsin offers visitors the opportunity to explore over 11,000 acres of gorgeous rolling hills, bluffs, and valleys. This area is known for its stunning natural beauty and abundance of wildlife, making it a popular spot for hiking, bird watching, and wildlife photography. The park also features a variety of recreational activities, including fishing, boating, and camping, making it the perfect destination for outdoor enthusiasts of all kinds. In addition to its outdoor attractions, Hillsboro State Park also offers picnic areas, playgrounds, and scenic overlooks for visitors to enjoy. Whether you're looking to relax in nature or get your adrenaline pumping with outdoor adventures, Hillsboro State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hillsboro"
+            },
+            {
+                "name": "Hoffman Hills",
+                "url": "https://dnr.wisconsin.gov/topic/parks/hoffmanhills",
+                "content": "This Hoffman Hills representative is known for their dedication to preserving the natural beauty and wildlife of the park through education and community involvement.",
+                "description": "Hoffman Hills State Recreation Area offers visitors a serene escape in the heart of Wisconsin's rolling hills. Hikers can explore over 13 miles of picturesque trails that wind through peaceful forests and open meadows, providing ample opportunities for birdwatching and wildlife spotting. Stunning scenic overlooks at the top of Hoffman Hill offer panoramic views of the surrounding landscape, making it a popular spot for photography enthusiasts. The park also features a handicapped-accessible cabin and picnic areas, perfect for a day of relaxation and outdoor enjoyment. Whether you're seeking a challenging hike or a leisurely stroll in nature, Hoffman Hills has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hoffman%20Hills"
+            },
+            {
+                "name": "Interstate",
+                "url": "https://dnr.wisconsin.gov/topic/parks/interstate",
+                "content": "Interstate State Park in Wisconsin is the oldest state park in the state and features beautiful landscapes of the St. Croix River and unique geological formations.",
+                "description": "Interstate State Park is located in St. Croix Falls, Wisconsin, making it the oldest state park in the state. Visitors can enjoy stunning views of the Dalles of the St. Croix River, a deep gorge with high cliffs and unique geological formations. The park offers a variety of recreational activities, including hiking, camping, fishing, and rock climbing. The Ice Age Interpretive Center highlights the park's geological history and the unique glacial formations that can be seen throughout the area. With its natural beauty and diverse activities, Interstate State Park is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Interstate"
+            },
+            {
+                "name": "Kinnickinnic",
+                "url": "https://dnr.wisconsin.gov/topic/parks/kinnickinnic",
+                "content": "The Kinnickinnic State Park representative works to preserve and protect the park's natural resources for future generations to enjoy.",
+                "description": "Kinnickinnic State Park, located in Wisconsin, is a perfect destination for outdoor enthusiasts looking to explore the beauty of nature. With over 1,242 acres of rolling hills, scenic bluffs, and crystal-clear streams, visitors can enjoy activities such as hiking, fishing, and bird watching.\n\nOne of the main highlights of Kinnickinnic State Park is the Kinnickinnic River, a popular spot for canoeing and kayaking. The river is known for its pristine waters and diverse wildlife, making it a must-visit for nature lovers.\n\nFor those interested in camping, Kinnickinnic State Park offers both tent and RV camping sites, allowing visitors to immerse themselves in the peaceful sounds of nature under the starlit sky. With a variety of amenities and facilities, including picnic areas and playgrounds, visitors can enjoy a comfortable and relaxing stay.\n\nIn addition to outdoor recreational activities, Kinnickinnic State Park also boasts a rich cultural history, with remnants of ancient Native American mounds scattered throughout the park. Visitors can learn about the park's history through interpretive displays and educational programs, providing a deeper understanding of the land and its significance.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kinnickinnic"
+            },
+            {
+                "name": "Kohler-Andrae",
+                "url": "https://dnr.wisconsin.gov/topic/parks/kohlerandrae",
+                "content": "Kohler-Andrae State Park is a beautiful natural area along the shores of Lake Michigan, offering sandy beaches, dunes, and hiking trails for visitors to enjoy.",
+                "description": "Kohler-Andrae State Park is a stunning coastal park located along the shores of Lake Michigan in Sheboygan, Wisconsin. The park features over two miles of sandy beach, perfect for swimming, sunbathing, and picnicking. Visitors can explore the park's towering sand dunes, which provide breathtaking views of the lake and surrounding landscape.\n\nNature enthusiasts will appreciate the diverse ecosystems found within the park, including wetlands, woodlands, and a unique black oak forest. Hiking and biking trails wind through the park, offering opportunities to observe wildlife such as deer, foxes, and a variety of bird species. The park also offers camping facilities for those looking to extend their stay and fully immerse themselves in the natural beauty of Kohler-Andrae State Park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kohler-Andrae"
+            },
+            {
+                "name": "La Crosse River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/lacrosseriver",
+                "content": "The La Crosse River flows through  parts of southwestern Wisconsin, offering beautiful scenery and recreational opportunities for visitors.",
+                "description": "The La Crosse River offers visitors a unique opportunity to explore the natural beauty of western Wisconsin. The river meanders through picturesque woodlands and wetlands, providing a peaceful setting for fishing, canoeing, and birdwatching. Visitors can also enjoy hiking and biking along the scenic trails that run alongside the river, offering stunning views of the surrounding landscape. The river is home to a variety of wildlife, including deer, beavers, and a wide array of bird species, making it a popular destination for nature enthusiasts. Whether you're seeking a relaxing day on the water or a scenic hike through the woods, the La Crosse River has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=La%20Crosse%20River"
+            },
+            {
+                "name": "Lake Kegonsa",
+                "url": "https://dnr.wisconsin.gov/topic/parks/lakekegonsa",
+                "content": "Lake Kegonsa is a popular Wisconsin state park known for its picturesque beauty and recreational opportunities like fishing, boating, and camping.",
+                "description": "Lake Kegonsa is a 3,209-acre lake located in south-central Wisconsin, offering a variety of recreational activities for visitors to enjoy. Boaters can explore the lake's clear waters and sandy shorelines, perfect for swimming and sunbathing in the summer months. Anglers will find an abundance of fish species, including bluegill, largemouth bass, and northern pike, making it a popular spot for fishing enthusiasts. The lake also features several picnic areas and hiking trails, providing the perfect setting for a day of outdoor adventure with family and friends. With its stunning natural beauty and diverse recreational opportunities, Lake Kegonsa is a must-visit destination for anyone looking to immerse themselves in Wisconsin's great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Kegonsa"
+            },
+            {
+                "name": "Lake Wissota",
+                "url": "https://dnr.wisconsin.gov/topic/parks/lakewissota",
+                "content": "Lake Wissota is a 6,300-acre reservoir located in Chippewa County, Wisconsin, known for its fishing, boating, and scenic beauty.",
+                "description": "Lake Wissota is a stunning 6,300-acre lake located in Chippewa County, Wisconsin, offering a variety of recreational activities for visitors to enjoy. The lake is a popular destination for fishing enthusiasts, with abundant populations of walleye, bass, and panfish. Visitors can also explore the lake by boat, kayak, or paddleboard, taking in the beautiful scenery and wildlife along the way. The surrounding Lake Wissota State Park features hiking trails, picnic areas, and a swimming beach, making it a great spot for a day of outdoor fun. Whether you're looking to relax on the water or get active on land, Lake Wissota has something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Wissota"
+            },
+            {
+                "name": "Lakeshore",
+                "url": "https://dnr.wisconsin.gov/topic/parks/lakeshore",
+                "content": "A Lakeshore representative is responsible for managing and preserving the natural resources and recreational opportunities at Wisconsin's lakeshores.",
+                "description": "The Lakeshore State Park in Wisconsin offers stunning views of Lake Michigan and the Milwaukee skyline, making it a popular destination for visitors. The park features a variety of recreational activities such as hiking, biking, fishing, and bird-watching, providing endless opportunities for outdoor fun. Visitors can also enjoy picnicking by the water's edge or taking a leisurely stroll along the scenic trails that wind through the park. The park is home to diverse wildlife, including bald eagles, herons, and other bird species, making it a great spot for nature enthusiasts. Whether you're looking to relax by the water or explore the natural beauty of the area, Lakeshore State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lakeshore"
+            },
+            {
+                "name": "Lapham Peak Unit",
+                "url": "https://dnr.wisconsin.gov/topic/parks/laphampeak",
+                "content": "Lapham Peak Unit is a popular Wisconsin state park known for its scenic hiking trails, observation tower, and winter sports opportunities.",
+                "description": "Lapham Peak Unit is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as hiking, biking, and cross-country skiing. Visitors can explore over 17 miles of scenic trails that wind through lush forests and open meadows, providing stunning views of the surrounding landscape.\n\nOne of the highlights of Lapham Peak Unit is the observation tower, which offers panoramic views of the surrounding countryside and the city skyline in the distance. It is a great spot to take photos, especially during the fall when the trees are ablaze with color.\n\nHistory buffs will appreciate the historical significance of the park, as it is home to the remains of a 19th-century mining operation. Interpretive signs along the trails provide information about the area's mining history and its impact on the surrounding environment.\n\nFor those looking to extend their visit, Lapham Peak Unit also offers camping facilities, including rustic cabins and campsites. This allows visitors to truly immerse themselves in the natural beauty of the park and enjoy a peaceful night under the stars.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lapham%20Peak%20Unit"
+            },
+            {
+                "name": "Lizard Mound",
+                "url": "https://dnr.wisconsin.gov/topic/parks/lizardmound",
+                "content": "The Lizard Mound is a unique archaeological site in Wisconsin featuring ancient Native American effigy mounds shaped like lizard and turtle forms.",
+                "description": "1. The Lizard Mound is a prehistoric Native American effigy mound located in Washington County, Wisconsin, and is one of only a few remaining lizard-shaped mounds in the state.\n\n2. This unique archaeological site dates back to the Late Woodland period (AD 650 \u2013 1200) and is believed to have been used for ceremonial and religious purposes by the indigenous people of the region.\n\n3. The mound is approximately 188 feet long and 12 feet wide, with a head that measures about 6 feet in diameter. Visitors can see the unmistakable shape of a lizard when viewing the mound from above.\n\n4. The Lizard Mound is surrounded by a fence to protect it from vandalism and erosion, allowing visitors to safely view this ancient site and learn about the history and culture of the Native Americans who created it.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lizard%20Mound"
+            },
+            {
+                "name": "Loew Lake Unit",
+                "url": "https://dnr.wisconsin.gov/topic/parks/loewlake",
+                "content": "Loew Lake Unit is part of the Kettle Moraine State Forest Northern Unit and offers hiking, fishing, and hunting opportunities.",
+                "description": "The Loew Lake Unit is a peaceful natural area located within the Kettle Moraine State Forest in southeastern Wisconsin. Visitors can explore over 11 miles of hiking trails that wind through a variety of habitats, including forests, wetlands, and prairies. The highlight of the park is Loew Lake, a scenic 22-acre lake that offers opportunities for fishing and picnicking along its shores. Birdwatchers will also enjoy the diverse array of bird species that call this area home, including bald eagles and sandhill cranes. Whether you're looking for a quiet nature retreat or an outdoor adventure, the Loew Lake Unit has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Loew%20Lake%20Unit"
+            },
+            {
+                "name": "Lost Dauphin",
+                "url": "https://dnr.wisconsin.gov/topic/parks/lostdauphin",
+                "content": "The Lost Dauphin State Park in Wisconsin offers scenic views of Lake Michigan and unique geological features.",
+                "description": "The Lost Dauphin State Park in Wisconsin is named after the \"Lost Dauphin,\" Louis XVII, son of King Louis XVI and Marie Antoinette of France.\n\nVisitors can explore the park's diverse landscape, which includes wetlands, forests, and scenic bluffs overlooking the Lake Michigan shoreline.\n\nHiking, fishing, and picnicking are popular activities at Lost Dauphin State Park, making it a great destination for outdoor enthusiasts.\n\nThe park also offers a variety of bird-watching opportunities, with over 90 species of birds documented in the area.\n\nFor those interested in history, the park's name and signage provide a unique connection to a tragic chapter in French royal history.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lost%20Dauphin"
+            },
+            {
+                "name": "Lower Wisconsin",
+                "url": "https://dnr.wisconsin.gov/topic/lands/lowerwisconsin",
+                "content": "The Lower Wisconsin State Riverway is a 92-mile protected stretch of the Wisconsin River known for its stunning natural beauty and abundant recreational opportunities.",
+                "description": "The Lower Wisconsin State Riverway is a beautiful stretch of the Wisconsin River that spans over 90 miles from Prairie du Sac to the confluence of the Mississippi River. Visitors can enjoy a variety of outdoor activities such as boating, fishing, hiking, and birdwatching along the riverway.\n\nOne of the highlights of the Lower Wisconsin State Riverway is the stunning sandstone bluffs that line the river, providing breathtaking views and opportunities for rock climbing and photography. The riverway is also home to a variety of wildlife, including bald eagles, osprey, river otters, and a wide range of bird species.\n\nFor history buffs, there are several archaeological sites along the riverway that offer a glimpse into the region's past, including effigy mounds, Native American burial grounds, and remnants of early European settlements. The riverway is also a popular destination for paddlers, with several access points and canoe/kayak rentals available for those looking to explore the river by water.\n\nOverall, the Lower Wisconsin State Riverway is a must-visit destination for nature lovers, outdoor enthusiasts, and anyone looking to experience the beauty of Wisconsin's natural landscapes. Whether you're looking for a relaxing day on the water or a challenging hike through the bluffs, there is something for everyone to enjoy along this scenic riverway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lower%20Wisconsin"
+            },
+            {
+                "name": "MacKenzie Center",
+                "url": "https://dnr.wisconsin.gov/education/mackenzie",
+                "content": "The MacKenzie Center is a environmental education center in Wisconsin that offers hands-on programs for visitors of all ages.",
+                "description": "The MacKenzie Center is a unique environmental education facility located in Poynette, Wisconsin. It offers a variety of hands-on learning experiences for visitors of all ages, including wildlife exhibits, hiking trails, and interactive programs. One of the highlights of the center is its historic buildings, including a restored 1850s log cabin and a replica of an 1870s one-room schoolhouse. Visitors can also enjoy the center's outdoor education programs, which range from bird watching to archery. Overall, the MacKenzie Center is a great destination for anyone looking to learn more about Wisconsin's natural history and wildlife.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=MacKenzie%20Center"
+            },
+            {
+                "name": "Mascoutin Valley",
+                "url": "https://dnr.wisconsin.gov/topic/parks/mascoutin",
+                "content": "Mascoutin Valley State Park offers scenic trails for hiking, biking, and wildlife viewing in central Wisconsin.",
+                "description": "Mascoutin Valley State Park is a hidden gem located in central Wisconsin, offering visitors a peaceful and secluded natural escape. The park features over six miles of scenic hiking trails that wind through dense forests, open meadows, and along the beautiful Mecan River. Visitors can also enjoy birdwatching, fishing, picnicking, and wildlife viewing opportunities throughout the park.\n\nOne of the highlights of Mascoutin Valley State Park is the historic wooden covered bridge that spans the Mecan River, providing a picturesque backdrop for photos and a charming spot to stop and take in the serene surroundings. The park is also home to a variety of unique plant and animal species, making it a great destination for nature enthusiasts and those looking to explore the diverse ecosystems of Wisconsin.\n\nFor those looking to spend more time in the area, Mascoutin Valley State Park offers rustic camping facilities for both tents and trailers, allowing visitors to fully immerse themselves in the natural beauty of the park. Whether you're looking for a peaceful retreat, a scenic spot for a family outing, or an opportunity to reconnect with nature, Mascoutin Valley State Park is a must-visit destination in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mascoutin%20Valley"
+            },
+            {
+                "name": "Menominee River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/menominee",
+                "content": "The Menominee River is a beautiful waterway that flows through forests and rock formations providing excellent opportunities for paddling, fishing, and wildlife viewing.",
+                "description": "The Menominee River is a beautiful waterway located in Marinette County, Wisconsin, offering a variety of recreational activities for visitors to enjoy. The river is known for its excellent fishing opportunities, with species such as walleye, northern pike, and smallmouth bass abundant in its waters. Canoeing and kayaking are popular activities on the Menominee River, allowing visitors to explore its scenic beauty and rich wildlife habitats. The river is also home to several waterfalls, including Piers Gorge and Twelve Foot Falls, which offer stunning views and photo opportunities for nature enthusiasts. Whether you're looking to fish, paddle, or simply admire the natural beauty of the area, the Menominee River is a must-visit destination for outdoor lovers.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Menominee%20River"
+            },
+            {
+                "name": "Merrick",
+                "url": "https://dnr.wisconsin.gov/topic/parks/merrick",
+                "content": "The Merrick State Park representative is knowledgeable and passionate about protecting the natural beauty and recreational opportunities found within the park.",
+                "description": "Merrick State Park is a beautiful 321-acre park located along the Mississippi River in Fountain City, Wisconsin. Visitors can enjoy stunning views of the river from the park's hiking trails and scenic overlooks. The park also offers camping, picnicking, and fishing opportunities for visitors to relax and enjoy the natural beauty of the area.\n\nOne of the highlights of Merrick State Park is the unique sandstone cliffs that line the river. These cliffs create a dramatic backdrop for outdoor activities like bird watching and photography. Visitors can also explore the park's sandy beaches and swim or paddle in the cool waters of the Mississippi River.\n\nFor those interested in history, Merrick State Park is home to the historic Tilden Mine, which operated in the late 1800s and early 1900s. Interpretive signs throughout the park provide information about the mine and its impact on the area. Visitors can learn about the park's rich history while exploring its natural wonders.\n\nWhether you're looking for a peaceful retreat in nature or an adventure-filled day along the river, Merrick State Park offers something for everyone. With its diverse landscape, abundant wildlife, and recreational opportunities, this park is a must-visit destination for outdoor enthusiasts in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Merrick"
+            },
+            {
+                "name": "Military Ridge",
+                "url": "https://dnr.wisconsin.gov/topic/parks/militaryridge",
+                "content": "The Military Ridge representative is a dedicated individual who works to promote and protect the scenic beauty and historical significance of the Military Ridge State Trail in Wisconsin.",
+                "description": "Military Ridge State Trail is a popular destination for outdoor enthusiasts, offering fantastic opportunities for hiking, biking, and bird watching. The trail follows the route of a former military road built in the 1830s, providing a unique glimpse into the area's history. Visitors can enjoy stunning views of the surrounding countryside as they traverse the ridge, which offers a challenging yet rewarding experience. The trail also intersects with several charming small towns, making it a great option for those looking to explore the local culture and attractions. Whether you're seeking a peaceful nature retreat or a new adventure, Military Ridge State Trail has something to offer for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Military%20Ridge"
+            },
+            {
+                "name": "Mill Bluff",
+                "url": "https://dnr.wisconsin.gov/topic/parks/millbluff",
+                "content": "Mill Bluff State Park features unique sandstone cliffs that rise 80 feet above the surrounding landscape.",
+                "description": "Mill Bluff State Park is a unique geological wonder located in Wisconsin. Visitors can marvel at the towering sandstone bluffs that rise up to 80 feet above the surrounding landscape. The park offers a variety of hiking trails that lead to scenic overlooks where guests can take in stunning views of the surrounding area. A highlight of the park is the trail that leads to Roche-a-Cri, a 300-foot-high rock outcropping that was used as a landmark by Native American tribes and early European settlers. Visitors can also explore the park's campground, picnic areas, and wildlife viewing opportunities. Whether you're an avid hiker or just looking for a peaceful retreat in nature, Mill Bluff State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mill%20Bluff"
+            },
+            {
+                "name": "Mirror Lake",
+                "url": "https://dnr.wisconsin.gov/topic/parks/mirrorlake",
+                "content": "Mirror Lake State Park in Wisconsin is home to a serene 137-acre lake surrounded by sandstone bluffs.",
+                "description": "Mirror Lake State Park in Wisconsin is home to a beautiful 137-acre lake surrounded by stunning sandstone bluffs. Visitors can enjoy a variety of water activities such as swimming, fishing, and boating on the calm waters of the lake. The park also features 17 miles of scenic hiking trails that wind through lush forests and offer breathtaking views of the lake and surrounding landscape. For those looking to stay overnight, the park offers both campsites and cozy cabins for a peaceful and secluded getaway. Don't forget to keep an eye out for the diverse wildlife that calls Mirror Lake State Park home, including deer, turkeys, and a variety of bird species.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mirror%20Lake"
+            },
+            {
+                "name": "Mound View",
+                "url": "https://dnr.wisconsin.gov/topic/parks/moundview",
+                "content": "Mound View is a peaceful and scenic state natural area in Grant County, Wisconsin, known for its Native American effigy mounds and beautiful views of the surrounding countryside.",
+                "description": "Mound View is a picturesque state park located in Grant County, Wisconsin, offering visitors stunning views of the surrounding valleys and bluffs. The park is popular among hikers and nature enthusiasts for its well-maintained trails that wind through lush forests and open meadows. Birdwatchers will appreciate the variety of migratory and resident bird species that can be spotted throughout the park, including bald eagles and warblers. History buffs can explore the park's ancient Native American effigy mounds, which provide a glimpse into the area's rich cultural heritage. With its tranquil atmosphere and diverse wildlife, Mound View is the perfect destination for a peaceful day in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mound%20View"
+            },
+            {
+                "name": "Mountain-Bay",
+                "url": "https://dnr.wisconsin.gov/topic/parks/mountainbay",
+                "content": "The Mountain-Bay State Trail represents the harmonious blend of Wisconsin's scenic natural beauty and recreational opportunities, stretching over 80 miles from Howard to Weston for outdoor enthusiasts to explore.",
+                "description": "Mountain-Bay State Park in Wisconsin offers over 5,000 acres of beautiful natural surroundings for visitors to enjoy. The park features over 20 miles of hiking and biking trails, perfect for outdoor enthusiasts looking to explore the area's diverse landscapes. Visitors can also take advantage of the park's scenic picnic areas and camping facilities, providing a peaceful retreat from the hustle and bustle of everyday life. For those interested in water activities, the park offers access to the Mosinee Flowage, where visitors can fish, kayak, and canoe. Overall, Mountain-Bay State Park is a hidden gem in Wisconsin, offering a perfect blend of outdoor recreation and natural beauty for visitors to experience.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mountain-Bay"
+            },
+            {
+                "name": "Mukwonago River Unit",
+                "url": "https://dnr.wisconsin.gov/topic/parks/mukwonago",
+                "content": "The Mukwonago River Unit is a part of the Kettle Moraine State Forest and offers opportunities for hiking, fishing, and picnicking along the scenic Mukwonago River.",
+                "description": "The Mukwonago River Unit is a beautiful natural area located within the Kettle Moraine State Forest in Wisconsin. Visitors can explore the winding Mukwonago River, which is a popular spot for kayaking and fishing. Hikers can enjoy the challenging trails that wind through dense forests and offer scenic overlooks of the surrounding area. Birdwatchers will delight in the variety of bird species that call this area home, including bald eagles and great blue herons. Camping is available for visitors who want to spend more time immersed in the tranquil beauty of the Mukwonago River Unit.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mukwonago%20River%20Unit"
+            },
+            {
+                "name": "Natural Bridge",
+                "url": "https://dnr.wisconsin.gov/topic/parks/naturalbridge",
+                "content": "The Natural Bridge State Park in Wisconsin features a stunning natural sandstone arch that was formed over thousands of years by erosion.",
+                "description": "The Natural Bridge State Park in Wisconsin is home to a stunning natural rock arch formation that spans over 25 feet in height and 35 feet in width. Visitors can hike the short, half-mile loop trail to reach the bridge and enjoy picturesque views of the surrounding lush forests and trickling streams. The park is a popular spot for nature enthusiasts and photographers looking to capture the beauty of the unique geological formation. For those looking to explore further, the park offers additional hiking trails and picnic areas for a full day of outdoor adventure. Be sure to bring sturdy footwear and a camera to capture the beauty of this natural wonder.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Natural%20Bridge"
+            },
+            {
+                "name": "Nelson Dewey",
+                "url": "https://dnr.wisconsin.gov/topic/parks/nelsondewey",
+                "content": "Nelson Dewey State Park showcases stunning views of the Mississippi River from its bluffs in Wisconsin's Driftless Region.",
+                "description": "Nelson Dewey State Park is located along the Mississippi River in Wisconsin and named after Nelson Dewey, the first governor of the state. Visitors to the park can enjoy a variety of outdoor activities such as hiking, fishing, and picnicking. The park offers scenic views of the river and surrounding bluffs, making it a popular spot for photography and bird watching. History enthusiasts can explore the remains of an old lead smelter that operated in the area during the 19th century. With its peaceful surroundings and rich history, Nelson Dewey State Park is a must-visit destination for nature lovers and history buffs alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nelson%20Dewey"
+            },
+            {
+                "name": "New Glarus Woods",
+                "url": "https://dnr.wisconsin.gov/topic/parks/ngwoods",
+                "content": "New Glarus Woods State Park offers a peaceful retreat into nature with its serene forests, rolling hills, and diverse wildlife.",
+                "description": "New Glarus Woods State Park is a hidden gem nestled in the heart of southern Wisconsin, offering visitors a serene and peaceful escape from the hustle and bustle of everyday life. The park is home to a variety of ecosystems, including oak-hickory forests, prairies, and wetlands, making it a haven for nature enthusiasts and bird watchers alike. Hiking and biking trails wind through the park, providing opportunities for outdoor recreation and exploration. History buffs will appreciate the park's proximity to the historic Swiss village of New Glarus, known for its charming architecture and rich cultural heritage. Whether you're looking for a quiet retreat or an active adventure, New Glarus Woods State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=New%20Glarus%20Woods"
+            },
+            {
+                "name": "Newport",
+                "url": "https://dnr.wisconsin.gov/topic/parks/newport",
+                "content": "Newport State Park representative is responsible for overseeing the management and preservation of this pristine wilderness park located on the northern tip of the Door County Peninsula in Wisconsin.",
+                "description": "1. Newport State Park, located in Door County, Wisconsin, is known for its pristine wilderness and dark sky preserve, making it a perfect destination for stargazing and enjoying the beauty of the night sky.\n\n2. Visitors to Newport can explore over 30 miles of hiking trails that wind through a variety of habitats, including dense forests, majestic sand dunes, and tranquil wetlands, providing a diverse and immersive outdoor experience.\n\n3. The park's secluded beaches along Lake Michigan offer breathtaking views and opportunities for swimming, sunbathing, and beachcombing, making it a popular spot for those looking to relax and enjoy the natural beauty of the area.\n\n4. With its unique combination of wilderness and recreation, Newport State Park is a haven for outdoor enthusiasts, offering opportunities for camping, fishing, birdwatching, and wildlife viewing, providing a truly unforgettable experience for visitors looking to connect with nature. \n\n5. Whether you're looking to embark on a challenging hike, spend a relaxing day at the beach, or gaze at the stars in the dark sky preserve, Newport State Park offers something for everyone, making it a must-visit destination for those seeking a true escape into nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Newport"
+            },
+            {
+                "name": "Newton Blackmour",
+                "url": "https://dnr.wisconsin.gov/topic/parks/newton",
+                "content": "Newton Blackmour State Trail represents the ultimate outdoor recreational destination in Wisconsin with opportunities for biking, hiking, snowmobiling, and more.",
+                "description": "Newton Blackmour State Trail is a 24-mile walking and biking trail that runs through scenic forests, wetlands, and farmland in northeastern Wisconsin. Visitors can enjoy the diverse wildlife and beautiful landscapes along the trail, making it a perfect destination for nature enthusiasts. The trail follows the former Chicago and Northwestern Railway corridor, providing a unique historical perspective as well. For those looking to explore the area further, there are opportunities for birdwatching, fishing, and picnicking along the trail. With its peaceful surroundings and rich history, Newton Blackmour State Trail is a must-visit destination for outdoor recreation in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Newton%20Blackmour"
+            },
+            {
+                "name": "Nicolet",
+                "url": "https://dnr.wisconsin.gov/topic/parks/nicolet",
+                "content": "The Nicolet State Trail spans 89 miles through northern Wisconsin, showcasing the region's beautiful forests, lakes, and rivers.",
+                "description": "Nicolet State Trail in Wisconsin offers visitors a unique way to explore the Northwoods region, spanning over 90 miles of scenic trails through forests, wetlands, and rolling hills. Visitors can enjoy a variety of outdoor activities such as hiking, biking, snowmobiling, and horseback riding along the trail. The trail is named after French explorer Jean Nicolet, who was the first European to set foot in what is now Wisconsin in the 17th century. The trail passes through several charming small towns and provides opportunities to experience the natural beauty and wildlife of the area. With its peaceful surroundings and diverse terrain, Nicolet State Trail is a must-visit destination for outdoor enthusiasts looking to connect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Nicolet"
+            },
+            {
+                "name": "Northern Highland American Legion",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/nhal",
+                "content": "The Northern Highland American Legion State Forest in Wisconsin is represented by the American Legion and offers opportunities for outdoor recreation and conservation efforts in the northern highland region.",
+                "description": "The Northern Highland American Legion State Forest is a beautiful and expansive forest located in northern Wisconsin, covering over 232,000 acres. Visitors can explore a variety of outdoor recreational activities, including hiking, biking, fishing, and hunting. The forest is also home to a plethora of wildlife, such as deer, bear, and loons, making it a great spot for nature enthusiasts.\n\nOne of the highlights of the forest is the Powell Marsh Wildlife Area, which features a boardwalk trail that takes visitors through a stunning wetland habitat. Additionally, the forest boasts over 130 lakes and 200 miles of rivers and streams, perfect for water-based activities like boating and kayaking. Whether you're looking for a peaceful retreat in nature or an adventure-filled getaway, the Northern Highland American Legion State Forest has something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Northern%20Highland%20American%20Legion"
+            },
+            {
+                "name": "Northern Unit",
+                "url": "https://dnr.wisconsin.gov/topic/parks/kmn",
+                "content": "The Northern Unit of the Kettle Moraine State Forest in Wisconsin offers miles of hiking trails, scenic overlooks, and camping opportunities in a beautiful natural setting.",
+                "description": "The Northern Unit is a stunning and diverse area within the Kettle Moraine State Forest in Wisconsin, offering visitors the chance to explore dense forests, rolling hills, and pristine lakes. One of the main attractions in the Northern Unit is the 31-mile Ice Age Trail, showcasing the area's glacial history with breathtaking views of kettles, moraines, and other unique geological formations. Additionally, visitors can enjoy camping, hiking, biking, and horseback riding on the many trails that wind through the forest. Birdwatchers will be thrilled by the abundance of bird species in the area, including warblers, woodpeckers, and raptors. Whether seeking adventure or tranquility, the Northern Unit is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Northern%20Unit"
+            },
+            {
+                "name": "Oconto River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/oconto",
+                "content": "The Oconto River is a popular recreational destination in Wisconsin, known for its opportunities for fishing, boating, and camping.",
+                "description": "The Oconto River flows for 34 miles through northeastern Wisconsin, offering visitors a picturesque and tranquil setting for outdoor recreation. The river is known for its excellent fishing opportunities, with a variety of fish species including walleye, northern pike, smallmouth bass, and musky. Canoeing and kayaking are popular activities on the river, allowing visitors to take in the scenic beauty of the surrounding forests and wildlife. The Oconto River State Park is a great place to access the river, with hiking trails, picnic areas, and a campground for visitors to enjoy. Whether you are looking to fish, paddle, or simply relax by the water, the Oconto River is a must-visit destination for nature lovers in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Oconto%20River"
+            },
+            {
+                "name": "Old Abe",
+                "url": "https://dnr.wisconsin.gov/topic/parks/oldabe",
+                "content": "Old Abe was a famous bald eagle mascot for the 8th Wisconsin Infantry during the Civil War, and is now commemorated by a statue in Veterans Memorial Park in Eau Claire.",
+                "description": "Old Abe State Trail is a 19.5 mile long trail that winds through beautiful landscapes like forests, prairies, and wetlands. Named after a famous Civil War bald eagle mascot, this trail is perfect for hiking, biking, and horseback riding. Visitors can catch stunning views of the Chippewa and Eau Claire Rivers from the scenic overlooks along the trail. Birdwatchers will love the chance to spot a variety of bird species, including eagles, woodpeckers, and warblers. With its diverse wildlife and picturesque scenery, Old Abe State Trail offers a unique outdoor experience for nature enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Old%20Abe"
+            },
+            {
+                "name": "Pattison",
+                "url": "https://dnr.wisconsin.gov/topic/parks/pattison",
+                "content": "The Pattison State Park representative can provide information on hiking trails, camping options, and the impressive waterfalls in the park.",
+                "description": "Pattison State Park, located in Wisconsin, is home to the highest waterfall in the state, Big Manitou Falls, which plunges 165 feet into the Black River. Visitors can enjoy hiking trails that offer stunning views of the falls and surrounding forested landscape. The park also features Interfalls Lake, perfect for fishing or paddling in a canoe or kayak. Camping is available at the park, allowing visitors to immerse themselves in the natural beauty of the area. With an array of outdoor recreational activities, Pattison State Park offers a picturesque getaway for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pattison"
+            },
+            {
+                "name": "Pecatonica",
+                "url": "https://dnr.wisconsin.gov/topic/parks/pecatonica",
+                "content": "The Pecatonica State Trail is a 10-mile trail located in southwestern Wisconsin, offering a peaceful and scenic route for hiking, biking, and horseback riding.",
+                "description": "Pecatonica State Park is nestled in southwestern Wisconsin, offering visitors a peaceful retreat surrounded by lush forests and stunning bluffs. The park features several miles of scenic hiking trails, perfect for exploring the diverse landscape and spotting local wildlife.\n\nOne of the main attractions at Pecatonica State Park is the picturesque Pecatonica River, which winds through the park providing opportunities for fishing, kayaking, and canoeing. The park also boasts a beautiful, family-friendly campground with modern amenities, making it a great spot for a weekend getaway.\n\nHistory buffs will appreciate the park's historical significance, as it was once home to a Meskwaki village, as well as the site of a popular 19th-century ferry crossing. Interpretive signs throughout the park provide insight into the area's rich past.\n\nWhether you're seeking outdoor adventure or simply looking to relax in nature, Pecatonica State Park offers something for every visitor to enjoy. Don't forget to bring your camera to capture the stunning views and memories of your trip to this hidden gem in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pecatonica"
+            },
+            {
+                "name": "Peninsula",
+                "url": "https://dnr.wisconsin.gov/topic/parks/peninsula",
+                "content": "The Peninsula State Park in Wisconsin offers stunning views of Lake Michigan and is a popular destination for hiking, biking, and camping.",
+                "description": "Peninsula State Park in Wisconsin is a popular destination for outdoor enthusiasts, offering over 460 campsites and multiple hiking and biking trails for visitors to explore. The park is located on a scenic peninsula between Green Bay and Lake Michigan, providing stunning views of both bodies of water. Visitors can also enjoy water activities such as swimming, fishing, and boating on the park's shores. The park is home to The Eagle Bluff Lighthouse, a historic site that offers tours and provides a glimpse into the area's maritime history. With its diverse array of recreational opportunities and natural beauty, Peninsula State Park is a must-visit destination for nature lovers.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Peninsula"
+            },
+            {
+                "name": "Perrot",
+                "url": "https://dnr.wisconsin.gov/topic/parks/perrot",
+                "content": "The Perrot State Park representative is dedicated to preserving and protecting the natural beauty and recreational opportunities of the park for future generations.",
+                "description": "Perrot State Park is located in Wisconsin along the picturesque Mississippi River, offering visitors stunning views of the river valley and surrounding bluffs. The park features over 1,200 acres of diverse habitats, including hardwood forests, wetlands, and prairies, making it a haven for wildlife enthusiasts and nature lovers.\n\nVisitors can explore the park's 12 miles of hiking trails, which lead to scenic overlooks, like Brady's Bluff, where you can take in panoramic views of the river and surrounding landscapes. The park is also a popular destination for birdwatching, with over 200 species of birds recorded in the area.\n\nFor those looking to extend their stay, Perrot State Park offers a variety of camping options, including drive-in sites, walk-in sites, and a group campsite. The park also has a picnic area, playground, and boat launch for visitors to enjoy.\n\nWhether you're hiking, birdwatching, or simply taking in the natural beauty, Perrot State Park is a must-visit destination for outdoor enthusiasts looking to experience the beauty of the Mississippi River Valley.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Perrot"
+            },
+            {
+                "name": "Governor Earl Peshtigo River",
+                "url": "https://dnr.wisconsin.gov/topic/StateForests/govearl",
+                "content": "Governor Earl Peshtigo River State Forest is a 1,924-acre forest in northern Wisconsin named after former Wisconsin governor and Peshtigo native, Francis E. McGovern.",
+                "description": "Governor Earl Peshtigo River State Forest is a 1,476-acre forest located in northeastern Wisconsin, named after former Wisconsin Governor Tommy G. Thompson and the Peshtigo River that runs through the forest. Visitors can enjoy a variety of outdoor activities including hiking, fishing, hunting, and wildlife viewing. The forest is also home to diverse plant and animal species, making it a great destination for nature enthusiasts. The Peshtigo River offers opportunities for canoeing and kayaking, as well as relaxing by the water's edge. With its scenic beauty and recreational opportunities, Governor Earl Peshtigo River State Forest is a must-visit destination for outdoor enthusiasts in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Governor%20Earl%20Peshtigo%20River"
+            },
+            {
+                "name": "Pike Lake Unit",
+                "url": "https://dnr.wisconsin.gov/topic/parks/pikelake",
+                "content": "The Pike Lake Unit is a popular recreation area in southeastern Wisconsin, offering opportunities for camping, hiking, swimming, and fishing in a scenic natural setting.",
+                "description": "Pike Lake Unit is located within the Kettle Moraine State Forest and offers a variety of recreational activities for visitors. The park features over 500 acres of lush forests, pristine lakes, and scenic hiking trails, making it a popular destination for nature enthusiasts. Visitors can enjoy fishing, swimming, and boating on Pike Lake, or explore the park's diverse ecosystems on foot or by bike. The park also offers picnic areas, a playground, and camping facilities for those looking to extend their stay. With its stunning natural beauty and abundance of outdoor activities, Pike Lake Unit is the perfect destination for a fun-filled day trip or weekend getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pike%20Lake%20Unit"
+            },
+            {
+                "name": "Pike Wild River",
+                "url": "https://dnr.wisconsin.gov/topic/lands/pikeriver",
+                "content": "The Pike Wild River is a designated area in Wisconsin known for its scenic beauty and diverse recreational opportunities.",
+                "description": "The Pike Wild River is a stunning natural area located in northeastern Wisconsin, offering visitors a chance to explore and appreciate the beauty of the Northwoods. The river is known for its crystal-clear waters, perfect for kayaking, canoeing, and fishing. Hikers can enjoy miles of scenic trails that wind through towering hemlock and cedar forests, providing a peaceful escape into nature. Birdwatchers will delight in the diverse array of avian species that call the Pike Wild River home, including bald eagles and osprey. With its tranquil atmosphere and abundant wildlife, the Pike Wild River is a must-visit destination for outdoor enthusiasts looking to immerse themselves in the peaceful serenity of Wisconsin's wilderness.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pike%20Wild%20River"
+            },
+            {
+                "name": "Pine-Popple Wild Rivers",
+                "url": "https://dnr.wisconsin.gov/topic/lands/pinepopple",
+                "content": "Pine-Popple Wild Rivers State Natural Area features pristine rivers and forests in the Northwoods of Wisconsin.",
+                "description": "Pine-Popple Wild Rivers is a beautiful natural area located in Marinette County, Wisconsin. Visitors can explore over 3,000 acres of forests, wetlands, and rivers, making it a haven for outdoor enthusiasts.\n\nOne of the main attractions at Pine-Popple Wild Rivers is the Pine and Popple Wild Rivers themselves, which offer stunning views and opportunities for canoeing, kayaking, and fishing.\n\nHiking trails wind through the forested areas, providing visitors with the chance to spot a variety of wildlife, including deer, birds, and maybe even a black bear.\n\nFor those interested in camping, Pine-Popple Wild Rivers offers rustic campsites where visitors can truly immerse themselves in the tranquil beauty of the natural surroundings.\n\nWhether you are looking for a peaceful retreat in nature or an adventure-filled outdoor experience, Pine-Popple Wild Rivers has something to offer every visitor looking to explore Wisconsin's wild beauty.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pine-Popple%20Wild%20Rivers"
+            },
+            {
+                "name": "Point Beach",
+                "url": "https://dnr.wisconsin.gov/topic/parks/pointbeach",
+                "content": "Point Beach State Forest is a diverse 3,000-acre property on Lake Michigan with a sandy beach, a banded dune along the lakeshore, and a long-standing bird observatory.",
+                "description": "Point Beach State Forest in Wisconsin is a beautiful destination for outdoor enthusiasts with over six miles of sandy beach along Lake Michigan. Visitors can enjoy swimming, sunbathing, hiking, biking, and birdwatching in this picturesque setting. The park also offers campsites for those looking to spend the night under the stars and a nature center with educational programs and exhibits. Point Beach is a popular spot for watching stunning sunsets over the lake, making it a must-visit for nature lovers and photographers alike. With its diverse habitats and abundant wildlife, this state forest is a hidden gem waiting to be explored.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Point%20Beach"
+            },
+            {
+                "name": "Potawatomi",
+                "url": "https://dnr.wisconsin.gov/topic/parks/potawatomi",
+                "content": "The Potawatomi State Park in Wisconsin offers stunning views of Sturgeon Bay and the surrounding area.",
+                "description": "Potawatomi State Park is located in Door County, Wisconsin, and offers visitors stunning views of Sturgeon Bay and Green Bay. The park is named after the Native American tribe that once inhabited the area. Visitors can enjoy hiking, biking, and picnicking on the park's scenic trails and overlooks. The park is also home to a historic tower that offers breathtaking panoramic views of the surrounding landscape. Additionally, Potawatomi State Park is a popular spot for birdwatching, as it is a stopover point for many migratory bird species.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Potawatomi"
+            },
+            {
+                "name": "Red Cedar",
+                "url": "https://dnr.wisconsin.gov/topic/parks/redcedar",
+                "content": "The Red Cedar State Trail follows the scenic Red Cedar River for 14.5 miles, offering opportunities for biking, hiking, and birdwatching.",
+                "description": "The Red Cedar State Trail in Wisconsin offers visitors a picturesque journey through lush forests and along the scenic Red Cedar River.\n\nThis 14.5-mile trail is perfect for hiking, biking, or cross-country skiing, providing a peaceful escape into nature for outdoor enthusiasts of all kinds.\n\nVisitors may also spot a variety of wildlife along the trail, such as deer, birds, and even the occasional river otter or beaver.\n\nThe trail features multiple access points and rest areas, making it easy for visitors to explore different sections of this beautiful natural area.\n\nWhether you're looking for a leisurely stroll or a more challenging outdoor adventure, the Red Cedar State Trail has something for everyone to enjoy in every season.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Red%20Cedar"
+            },
+            {
+                "name": "Rib Mountain",
+                "url": "https://dnr.wisconsin.gov/topic/parks/ribmt",
+                "content": "Rib Mountain State Park, located near Wausau, Wisconsin, offers stunning views from its 60-foot observation tower and over 14 miles of hiking trails.",
+                "description": "1. Rib Mountain State Park offers visitors stunning panoramic views of the surrounding area, including the city of Wausau and the Wisconsin River. Hiking to the top of Rib Mountain is a popular activity for visitors, with both easy and challenging trails to choose from.\n\n2. The park is home to a variety of plant and animal species, making it a great spot for nature enthusiasts and birdwatchers. Visitors may spot bald eagles, deer, and other wildlife while exploring the park's diverse habitats.\n\n3. In the winter, Rib Mountain State Park transforms into a winter wonderland, with opportunities for skiing, snowshoeing, and snowmobiling. The park's ski trails are well-groomed and offer options for skiers of all skill levels.\n\n4. History buffs will appreciate the park's historic sites, including a quarry where red granite was once mined. Interpretive signs along the trails provide information about the park's geology and history, giving visitors a deeper understanding of the area's natural and cultural heritage.\n\n5. Whether you're looking for a challenging hike, a scenic viewpoint, or a peaceful escape into nature, Rib Mountain State Park has something to offer for visitors of all interests. Don't forget to pack a camera to capture the park's stunning landscapes and wildlife!",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rib%20Mountain"
+            },
+            {
+                "name": "Richard Bong",
+                "url": "https://dnr.wisconsin.gov/topic/parks/richardbong",
+                "content": "Richard Bong State Recreation Area is named in honor of Major Richard I. Bong, a Medal of Honor recipient from Wisconsin who was America's top ace in World War II with 40 victories.",
+                "description": "Richard Bong State Recreation Area in Kansasville, Wisconsin, is named after World War II flying ace Richard Bong, who hailed from nearby Poplar, Wisconsin. This park offers over 4,500 acres of diverse natural landscapes, including grasslands, wetlands, and forests that provide habitat for a variety of wildlife species. Visitors can enjoy activities such as hiking, birdwatching, fishing, and hunting within the park's boundaries. The park also features a shooting range and designated areas for camping and picnicking. With its rich history and abundant recreational opportunities, Richard Bong State Recreation Area is a must-visit destination for outdoor enthusiasts in Wisconsin.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Richard%20Bong"
+            },
+            {
+                "name": "Roche-A-Cri",
+                "url": "https://dnr.wisconsin.gov/topic/parks/rocheacri",
+                "content": "The Roche-A-Cri State Park representative is known for its iconic mound and petroglyphs, offering a glimpse into Wisconsin's Native American history.",
+                "description": "Roche-A-Cri State Park in central Wisconsin is known for its stunning 300-foot-high rock outcropping, which offers visitors panoramic views of the surrounding landscape. Visitors can climb 303 steps to the top of the bluff for a bird's eye view of the park and the surrounding countryside. The park also features Native American petroglyphs, which are ancient rock carvings that offer a glimpse into the area's indigenous history. Hiking trails wind through the park's lush forests, providing opportunities to see unique plant and animal species. Roche-A-Cri State Park is a popular destination for outdoor enthusiasts looking to explore Wisconsin's diverse natural beauty.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Roche-A-Cri"
+            },
+            {
+                "name": "Rock Island",
+                "url": "https://dnr.wisconsin.gov/topic/parks/rockisland",
+                "content": "Rock Island State Park is a peaceful island retreat located in Door County, Wisconsin, known for its pristine beaches, historic lighthouse and remote camping opportunities.",
+                "description": "Rock Island State Park is a unique destination in Wisconsin, located on a 912-acre island in Lake Michigan. Visitors can explore the natural beauty of the island by hiking through the lush forests and along the rugged shoreline. The park is home to historic structures, including the Pottawatomie Lighthouse, which offers stunning views of the lake. Campers can enjoy primitive camping at one of the 40 sites on the island, providing a true wilderness experience. Rock Island State Park is a great place for outdoor enthusiasts looking to escape the hustle and bustle of everyday life and immerse themselves in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rock%20Island"
+            },
+            {
+                "name": "Rocky Arbor",
+                "url": "https://dnr.wisconsin.gov/topic/parks/rockyarbor",
+                "content": "Rocky Arbor State Park in Wisconsin offers scenic hiking trails, sandstone bluffs, and a peaceful campground for visitors to enjoy.",
+                "description": "Rocky Arbor State Park in Wisconsin is a beautiful natural area filled with towering pine trees and unique rock formations. Visitors to the park can explore the rugged trails that wind through the forest and along the rocky cliffs, offering stunning views of the surrounding landscape. The park is a popular spot for picnicking, with several shaded picnic areas and a playground for kids to enjoy. For those looking to extend their stay, there are both rustic and modern campsites available for overnight camping. Wildlife enthusiasts will also appreciate the diverse array of animals that call the park home, including deer, red foxes, and various bird species.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rocky%20Arbor"
+            },
+            {
+                "name": "Sauk Prairie",
+                "url": "https://dnr.wisconsin.gov/topic/parks/saukprairie",
+                "content": "Sauk Prairie State Recreation Area is a 3,400-acre site located on the Wisconsin River that offers a variety of outdoor recreational opportunities including hiking, birdwatching, and fishing.",
+                "description": "Sauk Prairie State Recreation Area is a unique natural area located along the Wisconsin River and encompasses over 7,000 acres of diverse habitats. Visitors can explore restored prairies, wetlands, oak savannas, and forests while enjoying a variety of recreational activities such as hiking, birdwatching, and fishing.\nOne of the main attractions at Sauk Prairie is the 1.75-mile hiking trail that leads to the top of the scenic Gibraltar Rock, offering panoramic views of the surrounding landscape. The area is also home to a rich diversity of wildlife, including bald eagles, sandhill cranes, and white-tailed deer, making it a popular destination for nature enthusiasts and wildlife photographers.\nFor those interested in history, Sauk Prairie has a rich cultural heritage dating back to Native American settlements and early European pioneers. Visitors can explore historical sites such as the Badger Army Ammunition Plant, which played a significant role in World War II and Cold War history.\nOverall, Sauk Prairie State Recreation Area is a hidden gem in Wisconsin that offers a perfect blend of natural beauty, outdoor recreation, and historical significance for visitors to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sauk%20Prairie"
+            },
+            {
+                "name": "Saunders",
+                "url": "https://dnr.wisconsin.gov/topic/parks/saunders",
+                "content": "The representative of Saunders State Park is dedicated to preserving and maintaining the natural beauty of its diverse ecosystems in Wisconsin.",
+                "description": "Saunders State Park is a hidden gem nestled on the shores of Lake Michigan, offering stunning views and sandy beaches for visitors to enjoy. The park is known for its tranquil atmosphere and abundant wildlife, making it a popular spot for birdwatching and nature photography. Visitors can explore miles of hiking and biking trails that wind through the park's lush forests and meadows, providing plenty of opportunities to immerse themselves in the beauty of Wisconsin's natural landscape. The park also features picnic areas, playgrounds, and a campground for those looking to extend their stay and make the most of this peaceful retreat. Whether you're seeking a relaxing day by the water or an outdoor adventure, Saunders State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Saunders"
+            },
+            {
+                "name": "Southern Unit",
+                "url": "https://dnr.wisconsin.gov/topic/parks/kms",
+                "content": "The Southern Unit of the Kettle Moraine State Forest encompasses over 22,000 acres of rolling hills, forests, and lakes in southeast Wisconsin.",
+                "description": "The Southern Unit of the Kettle Moraine State Forest offers visitors a diverse range of outdoor activities, including hiking, biking, horseback riding, and camping. With over 29 miles of trails, visitors can explore the forest's rolling hills, peaceful lakes, and stunning vistas. The forest is also home to abundant wildlife, including deer, foxes, and a variety of bird species, making it a popular spot for nature enthusiasts and photographers. For those interested in history, the forest also features several archaeological sites that showcase the area's rich Native American heritage. With its tranquil surroundings and beautiful landscapes, the Southern Unit of the Kettle Moraine State Forest is the perfect destination for outdoor adventure and relaxation.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Southern%20Unit"
+            },
+            {
+                "name": "Stower Seven Lakes",
+                "url": "https://dnr.wisconsin.gov/topic/parks/stower",
+                "content": "Stower Seven Lakes State Trail in Wisconsin is a scenic 14-mile trail that winds through rolling farmland and historic small towns.",
+                "description": "Stower Seven Lakes State Trail in Wisconsin offers visitors a scenic and peaceful escape into nature, spanning 14 miles through rolling farmland and forests. The trail boasts breathtaking views of seven picturesque lakes, perfect for fishing, picnicking, or simply taking in the tranquility of the surroundings. As you explore the trail, keep an eye out for the diverse wildlife, including a variety of bird species and mammals that call the area home. History buffs will appreciate the remnants of the old railroad corridor that once connected several small towns in the region, adding a unique element to the trail experience. Whether you're seeking a leisurely stroll, a bike ride, or a day of exploring the great outdoors, Stower Seven Lakes State Trail offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stower%20Seven%20Lakes"
+            },
+            {
+                "name": "Straight Lake",
+                "url": "https://dnr.wisconsin.gov/topic/parks/straightlake",
+                "content": "Straight Lake State Park is a peaceful and scenic natural area in northwestern Wisconsin that offers pristine lakeshore, rolling hills, and a variety of recreational opportunities.",
+                "description": "Straight Lake State Park is a beautiful and peaceful natural area located in northwestern Wisconsin. The park features a stunning 200-acre lake surrounded by lush forests, making it a perfect spot for fishing, boating, and wildlife viewing. Visitors can also enjoy hiking and biking on the park's scenic trails, which offer stunning views of the lake and the surrounding landscape. Straight Lake is known for its diverse bird population, making it a great destination for birdwatchers. With its tranquil atmosphere and diverse recreational opportunities, Straight Lake State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Straight%20Lake"
+            },
+            {
+                "name": "Sugar River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/sugarriver",
+                "content": "The Sugar River flows through beautiful countryside in southern Wisconsin, offering scenic views for canoeing, fishing, and hiking along its banks.",
+                "description": "The Sugar River is a tranquil waterway located in southern Wisconsin, running through beautiful landscapes of forests and farmland. Visitors can enjoy canoeing, kayaking, and fishing along the river, which is known for its diverse wildlife and picturesque scenery. The Sugar River State Trail follows the river, offering hiking and biking opportunities for outdoor enthusiasts. History buffs will appreciate the historic railroad bridge crossings that add charm to the scenery. Be sure to keep an eye out for bald eagles, deer, and other wildlife that call the Sugar River home.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sugar%20River"
+            },
+            {
+                "name": "Tomorrow River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/tomorrow",
+                "content": "The Tomorrow River State Park in Wisconsin offers scenic hiking and biking trails along the picturesque Tomorrow River.",
+                "description": "The Tomorrow River is a scenic waterway that flows through the Tomorrow River State Park in Central Wisconsin. Visitors can enjoy kayaking, canoeing, and fishing along the river, which is known for its peaceful and tranquil surroundings.\n\nThe river is also a popular spot for birdwatching, with a variety of waterfowl, songbirds, and raptors commonly spotted along its banks. The Tomorrow River State Park offers several hiking and biking trails that wind through the forested landscapes surrounding the river, providing opportunities for visitors to explore the area's natural beauty and wildlife.\n\nFor those looking to relax and unwind, the Tomorrow River State Park offers several picnic areas and camping sites, as well as a swimming beach for hot summer days. With its diverse array of outdoor activities and stunning scenery, the Tomorrow River is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tomorrow%20River"
+            },
+            {
+                "name": "Totogatic Wild River",
+                "url": "https://dnr.wisconsin.gov/topic/lands/totogatic",
+                "content": "The Totogatic Wild River in Wisconsin is a scenic and remote waterway known for its excellent fishing opportunities and beautiful natural surroundings.",
+                "description": "The Totogatic Wild River is located in northwest Wisconsin and offers visitors a remote and pristine wilderness experience. Spanning 44 miles, this designated wild river features quiet water paddling opportunities, lush forests, and abundant wildlife.\n\nVisitors can paddle along the slow-moving waters of the Totogatic River, taking in the scenic beauty of the surrounding landscape. The river is known for its excellent fishing, with anglers having the chance to catch a variety of fish species, including musky, pike, and smallmouth bass.\n\nHiking enthusiasts can explore the miles of scenic trails that wind through the river's forested corridors, offering opportunities to spot a variety of birds and other wildlife. The river also provides camping options for those looking to immerse themselves in the natural beauty of the area.\n\nFor those seeking a peaceful escape from the hustle and bustle of daily life, the Totogatic Wild River offers a tranquil retreat in the heart of Wisconsin's Northwoods. Experience the beauty and serenity of this wild river as you reconnect with nature and unwind in the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Totogatic%20Wild%20River"
+            },
+            {
+                "name": "Tower Hill",
+                "url": "https://dnr.wisconsin.gov/topic/parks/towerhill",
+                "content": "Tower Hill State Park is located in Spring Green, Wisconsin and offers scenic views of the Wisconsin River and opportunities for hiking, picnicking, and birdwatching.",
+                "description": "1. Tower Hill State Park offers visitors a unique opportunity to explore a historic site that was once home to a 19th-century shot tower used to make lead shot for firearms.\n\n2. The park is nestled in the scenic Driftless Area of Wisconsin, providing stunning views of the surrounding countryside and the Wisconsin River below.\n\n3. Visitors can enjoy hiking, picnicking, birdwatching, and camping in the park, as well as touring the remnants of the shot tower and learning about its fascinating history.\n\n4. Tower Hill State Park is also popular for rock climbing, with several challenging cliffs to scale for outdoor enthusiasts looking for an adrenaline rush.\n\n5. Whether you're interested in history, nature, or outdoor recreation, Tower Hill State Park offers something for everyone to enjoy in a beautiful and serene setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tower%20Hill"
+            },
+            {
+                "name": "Turtle-Flambeau",
+                "url": "https://dnr.wisconsin.gov/topic/lands/turtleflambeau",
+                "content": "The Turtle-Flambeau Flowage is a popular destination in Wisconsin for fishing, boating, and enjoying the scenic beauty of the Northwoods.",
+                "description": "1. The Turtle-Flambeau Flowage in Wisconsin offers visitors a tranquil and pristine setting for outdoor recreational activities such as fishing, boating, and wildlife viewing.\n\n2. This 14,000-acre flowage is a popular destination for anglers, with abundant populations of walleye, muskellunge, and panfish, providing ample opportunities for catching trophy-sized fish.\n\n3. The Turtle-Flambeau Scenic Waters Area also boasts numerous hiking trails that wind through dense forests, offering hikers the chance to spot a variety of wildlife, including bald eagles, osprey, and deer.\n\n4. Camping is available at designated sites along the flowage, allowing visitors to immerse themselves in the natural beauty of the area and enjoy picturesque sunsets over the water.\n\n5. Whether you're looking for a peaceful retreat to connect with nature or seeking exciting outdoor adventures, the Turtle-Flambeau Flowage has something for every outdoor enthusiast to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Turtle-Flambeau"
+            },
+            {
+                "name": "Tuscobia",
+                "url": "https://dnr.wisconsin.gov/topic/parks/tuscobia",
+                "content": "Tuscobia State Trail in Wisconsin offers a scenic 74-mile trail perfect for hiking, biking, and snowmobiling in the Northwoods.",
+                "description": "Tuscobia State Trail is a popular destination for outdoor enthusiasts, offering over 74 miles of scenic trails for hiking, biking, and snowmobiling. Visitors can explore a variety of landscapes, including wooded areas, wetlands, and farmlands, providing opportunities to observe wildlife in their natural habitats.\n\nThe trail follows an old railroad route, offering a unique historical perspective as visitors traverse through the scenic countryside of northern Wisconsin. The trail is well-maintained and offers convenient amenities such as parking areas, restrooms, and picnic areas, making it a great option for a day trip or weekend getaway.\n\nIn the winter months, Tuscobia State Trail transforms into a winter wonderland, offering opportunities for snowmobiling, cross-country skiing, and snowshoeing. Visitors can experience the beauty of the trail covered in a blanket of snow and enjoy the peacefulness of the winter landscape.\n\nFor those looking to extend their visit, the trail connects to several campgrounds, providing opportunities for camping under the stars and enjoying the tranquility of the outdoors. Whether you're seeking adventure or relaxation, Tuscobia State Trail offers something for everyone to enjoy in any season.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tuscobia"
+            },
+            {
+                "name": "White River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/whiteriver",
+                "content": "The White River is a peaceful and scenic waterway in Wisconsin that provides opportunities for paddling, fishing, and wildlife viewing.",
+                "description": "The White River, located in northern Wisconsin, is known for its crystal-clear waters and scenic beauty, making it a popular destination for fishing and kayaking enthusiasts. Visitors can enjoy a peaceful day on the river surrounded by lush forests and abundant wildlife.\n\nIn addition to outdoor activities, the White River offers several camping and picnic areas along its banks, perfect for a relaxing getaway in nature. The river is also home to a variety of fish species, including trout and smallmouth bass, making it a great spot for anglers looking to reel in a big catch.\n\nFor those interested in exploring the area further, the White River State Trail runs alongside the river and offers miles of hiking and biking trails with stunning views of the surrounding landscape. Whether you're looking to relax by the water or get active in the outdoors, the White River has something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=White%20River"
+            },
+            {
+                "name": "Whitefish Dunes",
+                "url": "https://dnr.wisconsin.gov/topic/parks/whitefish",
+                "content": "Whitefish Dunes State Park features beautiful sandy beaches, towering sand dunes, and pristine hiking trails along the shores of Lake Michigan.",
+                "description": "Whitefish Dunes State Park is a stunning slice of nature located along the shores of Lake Michigan in Door County, Wisconsin. Visitors can explore the park's beautiful sand dunes, pristine beaches, and lush forests on over 14 miles of hiking trails. The park is a popular spot for birdwatching, with over 300 species of birds recorded in the area. History buffs will also appreciate the park's historic Clark Lake Beach House, which offers a glimpse into the area's past as a bustling resort destination. Whitefish Dunes State Park is a must-visit destination for outdoor enthusiasts looking to experience the beauty of Wisconsin's lakeshore landscape.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Whitefish%20Dunes"
+            },
+            {
+                "name": "Wild Goose",
+                "url": "https://dnr.wisconsin.gov/topic/parks/wildgoose",
+                "content": "The Wild Goose State Trail represents a historic railroad corridor transformed into a scenic recreational trail in Wisconsin.",
+                "description": "Wild Goose State Park, located in central Wisconsin, offers a variety of recreational opportunities for visitors to enjoy. With over 4000 acres of land, this park is perfect for hiking, birdwatching, and wildlife viewing. The park is also home to a beautiful 400-acre lake, which is great for fishing, boating, and swimming. Visitors can also stay overnight at one of the park's campsites or cabins, making it a perfect destination for a weekend getaway. Whether you're looking to relax in nature or get active outdoors, Wild Goose State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wild%20Goose"
+            },
+            {
+                "name": "Wild Rivers",
+                "url": "https://dnr.wisconsin.gov/topic/parks/wildrivers",
+                "content": "The Wild Rivers State Trail in Wisconsin offers a scenic, multi-use path for outdoor enthusiasts to hike, bike, or snowmobile through diverse landscapes and alongside picturesque rivers.",
+                "description": "Wild Rivers State Trail in Wisconsin offers visitors a unique outdoor experience, extending for 104 miles through beautiful forests and scenic landscapes. The trail follows the course of the Namekagon and St. Croix Rivers, providing stunning views of the waterways along the way. Visitors can enjoy a variety of recreational activities, including hiking, biking, horseback riding, and snowmobiling in the winter months. The diverse wildlife and lush vegetation along the trail make it a perfect spot for nature lovers and outdoor enthusiasts to explore and appreciate the natural beauty of Wisconsin. Whether you're looking for a peaceful hike or an adrenaline-pumping bike ride, Wild Rivers State Trail has something for everyone to enjoy in every season.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wild%20Rivers"
+            },
+            {
+                "name": "Wildcat Mountain",
+                "url": "https://dnr.wisconsin.gov/topic/parks/wildcat",
+                "content": "Wildcat Mountain State Park in Wisconsin offers stunning panoramic views of the Kickapoo River Valley and is a popular spot for hiking, camping, and birdwatching.",
+                "description": "Wildcat Mountain State Park offers visitors breathtaking views of the rugged bluffs and valleys of the Driftless Area in Wisconsin. Visitors can explore over 20 miles of hiking trails, including the popular Ice Cave Trail, which leads to a fascinating underground cave formation. The park is also a popular spot for birdwatching, with opportunities to see a variety of species including bald eagles and pileated woodpeckers. For those looking to spend the night, the park offers both modern and rustic campsites, as well as a convenient group camp area. Whether you're looking for a scenic hike or a peaceful camping getaway, Wildcat Mountain State Park has something to offer every outdoor enthusiast.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wildcat%20Mountain"
+            },
+            {
+                "name": "Willow Flowage",
+                "url": "https://dnr.wisconsin.gov/topic/lands/willowflowage",
+                "content": "Willow Flowage is a sprawling reservoir in northern Wisconsin known for its pristine waters and excellent fishing opportunities.",
+                "description": "Willow Flowage is a stunning 6,400-acre impoundment located in northern Wisconsin, known for its pristine wilderness and excellent fishing opportunities. Visitors can explore the 86 miles of shoreline by boat or kayak, taking in the lush forests and abundant wildlife that call this area home. The flowage is also popular for camping, with several rustic campsites scattered along the shoreline, providing a truly immersive outdoor experience. Anglers come from far and wide to try their luck at catching a variety of fish species, including musky, walleye, and bass. Whether you're looking for a tranquil nature retreat or an exciting fishing adventure, Willow Flowage has something for every outdoor enthusiast to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Willow%20Flowage"
+            },
+            {
+                "name": "Willow River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/willowriver",
+                "content": "Willow River State Park is a beautiful park in western Wisconsin known for its stunning Willow Falls and miles of scenic hiking and biking trails.",
+                "description": "Willow River State Park is a stunning natural oasis located in western Wisconsin. The park boasts a picturesque waterfall that cascades 45 feet into a beautiful gorge, making it a popular spot for visitors to admire and photograph. Visitors can enjoy a variety of outdoor activities such as hiking, biking, and picnicking on the park's scenic trails and open green spaces. The park is also home to a large campground, making it an ideal destination for a weekend getaway immersed in nature. Whether you are seeking a peaceful day of relaxation or an adventure-filled weekend, Willow River State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Willow%20River"
+            },
+            {
+                "name": "Wiouwash",
+                "url": "https://dnr.wisconsin.gov/topic/parks/wiouwash",
+                "content": "The Wiouwash State Trail representative works to maintain and promote this popular recreational trail for hiking, biking, and snowmobiling in Wisconsin.",
+                "description": "The Wiouwash State Trail is a 41-mile long trail in northeastern Wisconsin that follows a former railroad line, making it perfect for hiking, biking, and snowmobiling.\n\nVisitors can enjoy scenic views of wetlands, woodlands, and farmland as they traverse the trail, which is known for its diverse wildlife and peaceful surroundings.\n\nThe trail passes through several charming towns and offers opportunities for birdwatching, fishing, and picnicking along the way.\n\nWith multiple access points and amenities such as restrooms and parking lots, the Wiouwash State Trail provides a convenient and enjoyable outdoor experience for visitors of all ages and abilities.\n\nWhether you're looking for a leisurely stroll or a challenging bike ride, the Wiouwash State Trail offers a unique opportunity to explore the natural beauty of Wisconsin's countryside.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wiouwash"
+            },
+            {
+                "name": "Wolf River",
+                "url": "https://dnr.wisconsin.gov/topic/parks/wolfriver",
+                "content": "The Wolf River is a scenic waterway in Wisconsin known for its excellent fishing and paddling opportunities.",
+                "description": "The Wolf River is a popular destination for outdoor enthusiasts, offering a variety of recreational activities such as canoeing, kayaking, and fishing along its scenic waters. Visitors can explore the river's diverse ecosystem, home to a wide range of plant and animal species, including bald eagles and ospreys.\n\nThe river is surrounded by the beautiful forests of the Northwoods region, providing a tranquil and picturesque setting for nature lovers to enjoy. The Wolf River also offers opportunities for camping and hiking, allowing visitors to immerse themselves in the natural beauty of the area.\n\nFor those looking for a more challenging adventure, the river features exciting rapids and swift currents, perfect for experienced paddlers and thrill-seekers. The Wolf River is a must-visit destination for anyone seeking an outdoor adventure in Wisconsin's stunning wilderness. Come and experience the beauty and excitement of this scenic river for yourself!",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wolf%20River"
+            },
+            {
+                "name": "Wyalusing",
+                "url": "https://dnr.wisconsin.gov/topic/parks/wyalusing",
+                "content": "The representative of Wyalusing State Park is known for its stunning views of the confluence of the Wisconsin and Mississippi Rivers.",
+                "description": "Wyalusing State Park is located in the stunning Driftless Area of Wisconsin, where the Wisconsin and Mississippi Rivers converge. Visitors can explore over 14 miles of hiking trails that wind through towering bluffs, lush forests, and vibrant prairies. The park offers breathtaking views of the rivers and surrounding countryside from several scenic overlooks, making it a popular spot for birdwatching and photography. Camping is available in both modern and primitive campsites, providing a true outdoor experience for overnight visitors. History buffs will also appreciate the park's Native American burial mounds and the historic Stonefield Village, which showcases Wisconsin's agricultural heritage.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wyalusing"
+            },
+            {
+                "name": "Yellowstone Lake",
+                "url": "https://dnr.wisconsin.gov/topic/parks/yellowstone",
+                "content": "Yellowstone Lake is the largest lake in Lafayette County, Wisconsin, offering a variety of outdoor recreational activities such as boating, fishing, and swimming.",
+                "description": "Yellowstone Lake is the largest lake in Lafayette County, Wisconsin, covering over 450 acres. The lake offers excellent opportunities for boating, fishing, and swimming, with a beautiful sandy beach perfect for picnicking and sunbathing. Visitors can explore the lake by renting kayaks, canoes, or paddleboards from the park office. Yellowstone Lake State Park also features a variety of hiking trails that offer stunning views of the surrounding countryside. Birdwatchers will enjoy spotting a variety of bird species, including herons, osprey, and bald eagles, along the shores of the lake.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Yellowstone%20Lake"
+            }
+        ]
+    }
+}

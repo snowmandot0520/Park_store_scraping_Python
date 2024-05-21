@@ -1,0 +1,294 @@
+{
+    "West Virginia State Parks": {
+        "parks": [
+            {
+                "name": "Audra",
+                "url": "https://wvstateparks.com/park/audra-state-park/",
+                "content": "The Audra State Park representative can offer information on the park's scenic trails, crystal-clear river for fishing and swimming, and numerous camping and picnicking opportunities.",
+                "description": "Audra State Park is a beautiful natural oasis nestled along the gorgeous Middle Fork River in West Virginia. Visitors can enjoy a leisurely stroll along the scenic hiking trails that wind through the park's lush forests and picturesque rock formations. The park is also a popular spot for fishing, with anglers flocking to the river to catch trout and bass. For those looking to relax, there are picnic areas and camping facilities available, making Audra State Park the perfect destination for a peaceful getaway in nature. Be sure to keep an eye out for the park's stunning wildlife, from deer to various bird species, as you explore this serene outdoor haven.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Audra"
+            },
+            {
+                "name": "Babcock",
+                "url": "https://wvstateparks.com/park/babcock-state-park/",
+                "content": "The representative from Babcock State Park is passionate about preserving West Virginia's natural beauty and providing visitors with memorable outdoor experiences.",
+                "description": "Babcock State Park, located in Fayette County, West Virginia, is a beautiful destination known for its iconic Glade Creek Grist Mill. Visitors can tour the historic mill and learn about the importance of grinding corn and wheat in the 19th century. The park also offers a variety of outdoor activities, including hiking, fishing, and birdwatching, making it a popular spot for nature enthusiasts.\n\nOne of the highlights of Babcock State Park is the scenic overlook at the end of the Skyline Trail, where visitors can take in stunning views of the New River Gorge. The park is also home to several waterfalls, such as the picturesque Babcock Falls, which are especially impressive during the spring and summer months. Additionally, Babcock State Park features a campground with both tent and RV sites, as well as cozy cabins for those looking to stay overnight in the park.\n\nWhether you're interested in history, outdoor recreation, or simply enjoying the natural beauty of West Virginia, Babcock State Park has something for everyone. With its unique combination of historic sites and stunning scenery, this park is a must-visit destination for anyone exploring the Mountain State.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Babcock"
+            },
+            {
+                "name": "Beartown",
+                "url": "https://wvstateparks.com/park/beartown-state-park/",
+                "content": "Beartown State Park in West Virginia showcases unique sandstone formations and ancient hemlock trees in a picturesque natural setting.",
+                "description": "Beartown State Park is a unique and stunning natural attraction in West Virginia that features a labyrinth of ancient rock formations, caves, and crevices. Visitors can explore the park's winding boardwalk trail that meanders through the dense forest and showcases the park's intricate sandstone boulders and towering rock walls. Beartown is home to a variety of wildlife such as black bears, deer, and numerous bird species, making it a popular destination for nature enthusiasts and photographers. The park is also a favorite spot for rock climbers and boulderers, offering challenging routes and breathtaking views of the surrounding landscape. With its peaceful and serene atmosphere, Beartown State Park is the perfect place to escape the hustle and bustle of everyday life and immerse yourself in the beauty of nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beartown"
+            },
+            {
+                "name": "Beech Fork",
+                "url": "https://wvstateparks.com/park/beech-fork-state-park/",
+                "content": "Beech Fork State Park in West Virginia offers a peaceful retreat for outdoor enthusiasts with its 720-acre lake, campground, hiking trails, and abundant wildlife viewing opportunities.",
+                "description": "Beech Fork State Park is a beautiful and serene destination in West Virginia, offering a wide range of recreational activities for visitors to enjoy. The park features a 720-acre lake perfect for boating, fishing, and swimming.\n\nVisitors can also explore over 30 miles of hiking and biking trails that wind through lush forests and offer stunning views of the surrounding countryside.\n\nFor those looking to relax, Beech Fork State Park offers cozy cabins and campsites for overnight stays, as well as picnic areas and playgrounds for families to enjoy.\n\nNature lovers will appreciate the park's diverse wildlife and birdwatching opportunities, with over 100 species of birds inhabiting the area.\n\nWhether you're looking to immerse yourself in nature or enjoy a fun-filled day on the water, Beech Fork State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beech%20Fork"
+            },
+            {
+                "name": "Berkeley Springs",
+                "url": "https://wvstateparks.com/park/berkeley-springs-state-park/",
+                "content": "Berkeley Springs State Park is a historic hot springs destination in West Virginia known for its healing mineral waters and beautiful surroundings.",
+                "description": "Berkeley Springs State Park is a historic landmark known for its healing mineral waters, with George Washington among its notable visitors. Visitors can enjoy soaking in the warm springs in a Roman Bathhouse, a unique experience that dates back to the 1700s. In addition to the soothing waters, the park offers a variety of outdoor activities such as hiking, picnicking, and birdwatching in a picturesque setting. The park also features a museum with exhibits on the history and geology of Berkeley Springs, providing insight into the area's rich cultural heritage. With its blend of relaxation, history, and natural beauty, Berkeley Springs State Park offers a delightful escape for visitors seeking a rejuvenating getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Berkeley%20Springs"
+            },
+            {
+                "name": "Blackwater Falls",
+                "url": "https://wvstateparks.com/park/blackwater-falls-state-park/",
+                "content": "The Blackwater Falls is a 57-foot cascade waterfall located in Blackwater Falls State Park in West Virginia.",
+                "description": "Blackwater Falls is a breathtaking natural wonder located in the Blackwater Falls State Park in West Virginia. The falls are known for their stunning black water, which is a result of tannic acid from fallen hemlock and red spruce needles. The falls drop approximately 57 feet, creating a magnificent cascade that can be viewed from several different overlooks in the park. In the winter, visitors can witness the falls frozen over, creating a magical icy spectacle. Blackwater Falls State Park offers a variety of recreational activities, including hiking, biking, fishing, and camping, making it a popular destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blackwater%20Falls"
+            },
+            {
+                "name": "Blennerhassett Island",
+                "url": "https://wvstateparks.com/park/blennerhassett-island-historical-state-park/",
+                "content": "Blennerhassett Island Historical State Park is an enchanting island retreat with beautifully restored historic buildings and gardens, offering visitors a glimpse into the luxurious lifestyle of early 19th-century America.",
+                "description": "Blennerhassett Island, located in the Ohio River near Parkersburg, West Virginia, is a historical gem that offers visitors a glimpse into the past. The island is home to the beautifully restored Blennerhassett Mansion, once owned by the wealthy Blennerhassett family in the early 1800s. Visitors can take a guided tour of the mansion to learn about its rich history and opulent furnishings.\n\nIn addition to the mansion, visitors can explore the island's lush gardens and picturesque grounds, which provide a peaceful setting for picnics and leisurely strolls. The island also offers a variety of recreational activities, including biking, hiking, and horse-drawn wagon rides, making it a perfect destination for outdoor enthusiasts. For a truly unique experience, visitors can take a paddlewheel boat ride to the island and enjoy the scenic views of the Ohio River along the way.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Blennerhassett%20Island"
+            },
+            {
+                "name": "Bluestone",
+                "url": "https://wvstateparks.com/park/bluestone-state-park/",
+                "content": "Bluestone State Park in West Virginia offers a peaceful setting for outdoor activities such as hiking, fishing, and camping near the scenic Bluestone Lake.",
+                "description": "Bluestone State Park, located in southern West Virginia, offers visitors a serene and picturesque setting with its 2,100-acre property that includes the stunning Bluestone Lake. The park offers a variety of outdoor activities such as hiking, fishing, boating, and camping for visitors to enjoy. The park also has a swimming pool, picnic areas, and playgrounds for families to relax and unwind. Visitors can explore the park's lush forests, rolling hills, and diverse wildlife, making it a perfect destination for nature lovers and outdoor enthusiasts. With its scenic beauty and abundance of recreational opportunities, Bluestone State Park is a wonderful place for visitors to escape the hustle and bustle of everyday life and reconnect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bluestone"
+            },
+            {
+                "name": "Cacapon",
+                "url": "https://wvstateparks.com/park/cacapon-resort-state-park/",
+                "content": "A representative from Cacapon Resort State Park would likely exude a passion for outdoor recreation and natural beauty in West Virginia's Eastern Panhandle.",
+                "description": "Cacapon Resort State Park is nestled in the Eastern Panhandle of West Virginia and offers visitors a chance to explore the majestic beauty of the Appalachian Mountains. The park boasts over 6,000 acres of lush forests, scenic overlooks, and recreational opportunities such as hiking, birdwatching, and golfing. Visitors can unwind and relax at the park's luxurious lodge, which features comfortable accommodations and stunning views of the surrounding landscape. One of the highlights of Cacapon Resort State Park is the 230-acre lake, where guests can swim, fish, and paddle in the crystal-clear waters. Whether you're seeking adventure or tranquility, Cacapon Resort State Park is the perfect destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cacapon"
+            },
+            {
+                "name": "Camp Creek and Forest",
+                "url": "https://wvstateparks.com/park/camp-creek-state-park/",
+                "content": "Camp Creek State Park and Forest offers a peaceful retreat with wooded trails, fishing ponds, and campsites in the heart of southern West Virginia.",
+                "description": "Camp Creek State Park offers a serene escape into nature with its lush forests and winding creek. Visitors can enjoy hiking along the park's scenic trails, which meander through the beautiful forest landscape. The park also features a campground for those looking to spend the night under the stars. Anglers will appreciate the fishing opportunities at Camp Creek, where they can try their luck at catching trout and bass. Additionally, the park offers picnic areas and playgrounds for families to enjoy a fun day outdoors together.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Camp%20Creek%20and%20Forest"
+            },
+            {
+                "name": "Canaan Valley",
+                "url": "https://wvstateparks.com/park/canaan-valley-resort-state-park/",
+                "content": "Canaan Valley Resort State Park offers beautiful mountain scenery, outdoor adventures, and comfortable accommodations in the heart of West Virginia's scenic Tucker County.",
+                "description": "Canaan Valley Resort State Park is located in the picturesque Allegheny Mountains of West Virginia, offering visitors stunning views of the surrounding countryside. The park is a popular destination for outdoor enthusiasts, with activities such as hiking, skiing, and golfing available year-round. Visitors can explore over 18 miles of hiking and biking trails, with varying difficulty levels to suit all skill levels. The park is home to a diverse range of wildlife, including black bears, deer, and wild turkeys, providing nature enthusiasts with plenty of opportunities for wildlife spotting. For those looking to relax, the park offers a variety of accommodations, including a lodge, cabins, and campgrounds, making it the perfect destination for a weekend getaway or a longer vacation.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Canaan%20Valley"
+            },
+            {
+                "name": "Carnifex Ferry Battlefield",
+                "url": "https://wvstateparks.com/park/carnifex-ferry-battlefield-state-park/",
+                "content": "Carnifex Ferry Battlefield State Park preserves the site of an important Civil War battle fought on September 10, 1861.",
+                "description": "Carnifex Ferry Battlefield State Park in West Virginia is a historic site where a significant Civil War battle took place in 1861. Visitors can explore the battlefield and learn about the tactics and events that unfolded during the conflict.\n\nThe park features a museum with exhibits detailing the battle and its impact on the region, making it a great educational experience for history buffs. The site also offers hiking trails where visitors can view preserved earthworks and other remnants of the battle.\n\nVisitors can enjoy a scenic picnic area overlooking the Gauley River, providing a peaceful setting to relax and take in the natural beauty of the area. The park hosts interpretive programs and special events throughout the year, offering visitors the opportunity to engage with the history of the battlefield in a meaningful way.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Carnifex%20Ferry%20Battlefield"
+            },
+            {
+                "name": "Cass Scenic Railroad",
+                "url": "https://wvstateparks.com/park/cass-scenic-railroad-state-park/",
+                "content": "Cass Scenic Railroad State Park is a historic steam-driven locomotive that takes visitors on a scenic journey through the mountains of West Virginia.",
+                "description": "The Cass Scenic Railroad in West Virginia offers visitors a unique and authentic experience to step back in time and ride on vintage steam locomotives through the stunning mountain scenery of the Allegheny Mountains. The railroad, originally built in 1901 to haul lumber from the Cass mill to Spruce, has been preserved and restored to provide visitors with a glimpse into the state's industrial history. Guests can choose from a variety of train rides, ranging from shorter excursions to longer trips through the wilderness, each offering breathtaking views of the mountains and valleys. The park also features a museum, gift shop, and historic company town, allowing visitors to learn more about the railroad's rich history and significance in the region. Whether you are a train enthusiast or just looking for a fun and unique adventure, the Cass Scenic Railroad is a must-visit destination for anyone exploring West Virginia.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cass%20Scenic%20Railroad"
+            },
+            {
+                "name": "Cathedral",
+                "url": "https://wvstateparks.com/park/cathedral-state-park/",
+                "content": "Cathedral State Park in West Virginia is known for its impressive stands of ancient hemlock trees and serene, peaceful atmosphere.",
+                "description": "Cathedral State Park is located in West Virginia and is known for its towering old-growth hemlock trees, some of which are over 90 feet tall. The park gets its name from the cathedral-like quality of the dense hemlock forest canopy, which creates a peaceful and picturesque setting for visitors to explore. The park offers several hiking trails that wind through the ancient forest, allowing visitors to immerse themselves in the natural beauty of the area. In addition to hiking, visitors can also enjoy a picnic at one of the park's designated picnic areas or take in the stunning views from the park's overlooks. Cathedral State Park is a designated National Natural Landmark and is a must-see destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cathedral"
+            },
+            {
+                "name": "Cedar Creek",
+                "url": "https://wvstateparks.com/park/cedar-creek-state-park/",
+                "content": "Cedar Creek State Park is a charming park in West Virginia featuring a picturesque creek, scenic trails, and a variety of outdoor recreational activities.",
+                "description": "Cedar Creek State Park is a beautiful 2,588-acre park located in Glenville, West Virginia. The park features a peaceful 31-acre lake for fishing and boating, as well as several miles of hiking and mountain biking trails. Visitors can also enjoy camping, picnicking, and swimming at the park's sandy beach area.\n\nOne of the main attractions at Cedar Creek State Park is the Pioneer Farm, a living history museum that showcases what life was like in the 19th century. Visitors can see demonstrations of traditional crafts and explore historic buildings such as a one-room schoolhouse, blacksmith shop, and log cabin.\n\nNature lovers will appreciate the diverse plant and animal life found throughout the park, including wildflowers, songbirds, and white-tailed deer. Birdwatchers can try to spot species like woodpeckers, warblers, and red-tailed hawks along the park's trails and around the lake.\n\nCedar Creek State Park is a great destination for a day trip or weekend getaway, offering a peaceful and scenic retreat in a natural setting. Whether you're looking for outdoor recreation, history, or simply a place to relax and unwind, this park has something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cedar%20Creek"
+            },
+            {
+                "name": "Chief Logan",
+                "url": "https://wvstateparks.com/park/chief-logan-state-park/",
+                "content": "Chief Logan State Park is a historic park in West Virginia named after a famous Native American leader known for his efforts to bring peace between settlers and Native tribes.",
+                "description": "Chief Logan State Park in West Virginia is named after the 18th-century Mingo chief who once lived in the area. Visitors can explore the park's stunning natural beauty with over 4,000 acres of rolling hills, woodland trails, and a tranquil lake perfect for fishing and boating. The park also offers a variety of recreational activities, including swimming, tennis, and picnicking, making it a great destination for outdoor enthusiasts. For history buffs, the park features a museum showcasing artifacts and exhibits about Chief Logan and the region's Native American heritage. Additionally, guests can stay overnight at the park's cozy cabins or spacious campgrounds for a truly immersive experience in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chief%20Logan"
+            },
+            {
+                "name": "Droop Mountain Battlefield",
+                "url": "https://wvstateparks.com/park/droop-mountain-battlefield-state-park/",
+                "content": "Droop Mountain Battlefield State Park is the site of the largest and most significant Civil War battle in West Virginia, featuring a museum and self-guided driving tour.",
+                "description": "Droop Mountain Battlefield State Park is a historic site in West Virginia that commemorates the largest Civil War battle fought in the state. Visitors to the park can explore the battlefield and learn about the events that took place there in 1863. The park features a museum with exhibits showcasing artifacts from the battle, as well as displays detailing the history of the area during the Civil War. In addition to its historical significance, Droop Mountain Battlefield State Park offers hiking trails, picnic areas, and stunning views of the surrounding mountains, making it a popular destination for outdoor enthusiasts. The park also hosts events throughout the year, including reenactments of the battle, living history demonstrations, and educational programs for visitors of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Droop%20Mountain%20Battlefield"
+            },
+            {
+                "name": "Fairfax Stone",
+                "url": "https://wvstateparks.com/park/fairfax-stone-state-park/",
+                "content": "Fairfax Stone State Park is home to the monument marking the source of the North Branch of the Potomac River, as well as beautiful hiking and picnicking areas for visitors to enjoy.",
+                "description": "Fairfax Stone State Park is home to the marker of the headwaters of the North Branch of the Potomac River, which defines the boundary between Maryland and West Virginia. Visitors can see the original Fairfax Stone, a large sandstone boulder bearing the coat of arms of Thomas Fairfax, for whom the stone is named. The park offers scenic views of the surrounding forests and mountains, making it a great spot for picnicking and hiking. History buffs will appreciate the significance of this location in early American land disputes and the establishment of state boundaries. Don't forget to bring your camera to capture the beauty of this historic landmark.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fairfax%20Stone"
+            },
+            {
+                "name": "Hawks Nest",
+                "url": "https://wvstateparks.com/park/hawks-nest-state-park/",
+                "content": "The Hawks Nest State Park is a beautiful natural area located along the New River Gorge showcasing stunning views and offering a variety of outdoor activities for visitors to enjoy.",
+                "description": "Hawks Nest State Park, located in the New River Gorge area of West Virginia, offers breathtaking views of the beautiful New River Gorge. Visitors can explore the park through numerous hiking trails that winds through lush forests and rocky cliffs. The park is also known for its aerial tramway that takes visitors down to the gorge floor where they can partake in various water activities like whitewater rafting and fishing. For those interested in history, the park also offers a variety of Civil War and early settlement sites to explore. Be sure to bring your camera to capture the stunning views and wildlife that call Hawks Nest State Park home.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hawks%20Nest"
+            },
+            {
+                "name": "Holly River",
+                "url": "https://wvstateparks.com/park/holly-river-state-park/",
+                "content": "Holly River State Park in West Virginia offers a peaceful retreat with scenic hiking trails, a tranquil river, and cozy cabins for a relaxing getaway.",
+                "description": "Holly River State Park is a breathtaking destination for outdoor enthusiasts, nestled in the heart of the dense woodlands of West Virginia. The park is known for its stunning scenery, which includes lush forests, rolling hills, and the tranquil Holly River. Visitors can enjoy a variety of recreational activities, such as hiking, fishing, and picnicking, all while immersing themselves in the natural beauty of the area. The park also offers cozy cabins and campsites for overnight stays, providing a truly immersive experience in the great outdoors. With its peaceful surroundings and abundant wildlife, Holly River State Park is the perfect place to escape the hustle and bustle of everyday life and reconnect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Holly%20River"
+            },
+            {
+                "name": "Little Beaver",
+                "url": "https://wvstateparks.com/park/little-beaver-state-park/",
+                "content": "Little Beaver State Park is a scenic outdoor destination, offering a peaceful lake for fishing and boating along with hiking trails and camping areas.",
+                "description": "Little Beaver State Park is a beautiful and serene destination located in Raleigh County, West Virginia. Visitors can enjoy a variety of outdoor recreational activities, such as fishing, boating, hiking, and picnicking, within the park's 562 acres of lush forests and picturesque lake. The park is also home to a campground, making it the perfect spot for a weekend getaway or a family vacation. Nature enthusiasts will love exploring the park's diverse wildlife, including the charming little beavers that can be spotted in and around the lake. With its tranquil atmosphere and abundance of outdoor adventures, Little Beaver State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Beaver"
+            },
+            {
+                "name": "Lost River",
+                "url": "https://wvstateparks.com/park/lost-river-state-park/",
+                "content": "Lost River is a tranquil state park in West Virginia known for its rugged beauty and natural hot springs.",
+                "description": "Lost River State Park in West Virginia offers visitors a chance to explore a unique karst landscape filled with caves, towering cliffs, and lush forests. Outdoor enthusiasts can enjoy hiking along the park's 26 miles of trails, including the challenging Cranny Crow overlook trail. The park also features a stunning pool fed by a natural spring, perfect for a refreshing swim during the summer months. For those looking to extend their stay, Lost River State Park offers cozy cabins and campsites nestled among the trees, providing a peaceful getaway for nature lovers. Don't forget to keep an eye out for the diverse wildlife that calls the park home, from deer and wild turkeys to black bears and bald eagles.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lost%20River"
+            },
+            {
+                "name": "Moncove Lake",
+                "url": "https://wvstateparks.com/park/moncove-lake-state-park/",
+                "content": "Moncove Lake State Park offers fishing and boating opportunities in a peaceful setting surrounded by wooded hillsides.",
+                "description": "Moncove Lake State Park is surrounded by the beautiful rolling hills of West Virginia, providing a peaceful and scenic escape for visitors seeking outdoor adventure. The 144-acre lake offers opportunities for fishing, paddle boating, and kayaking, making it a popular spot for water enthusiasts. The park also features a sandy beach area, perfect for relaxing and soaking up the sun during the warmer months. For those looking to explore the surrounding area, the park offers several hiking trails that wind through the lush forests and offer stunning views of the lake. With its diverse wildlife, serene atmosphere, and array of recreational activities, Moncove Lake State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Moncove%20Lake"
+            },
+            {
+                "name": "North Bend",
+                "url": "https://wvstateparks.com/park/north-bend-state-park/",
+                "content": "The North Bend State Park representative is a knowledgeable and passionate advocate for preserving the natural beauty and recreational opportunities offered by this West Virginia state park.",
+                "description": "North Bend State Park is a hidden gem located in West Virginia, offering visitors a peaceful retreat surrounded by rolling hills and lush forests. Outdoor enthusiasts can enjoy a variety of activities such as hiking, biking, fishing, and horseback riding on the park's 72 miles of multi-use trails. The park is also home to the North Bend Rail Trail, a 72-mile long trail that follows the path of an old rail line and offers stunning views of the surrounding countryside. Visitors can stay overnight in one of the park's cozy cabins or campsites, and be sure to check out the park's nature center for educational programs and exhibits on the local flora and fauna. With its tranquil setting and diverse range of recreational opportunities, North Bend State Park is the perfect destination for nature lovers looking to unwind and reconnect with the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Bend"
+            },
+            {
+                "name": "Pinnacle Rock",
+                "url": "https://wvstateparks.com/park/pinnacle-rock-state-park/",
+                "content": "Pinnacle Rock State Park features a towering sandstone formation that offers stunning panoramic views of the surrounding mountains and valleys.",
+                "description": "Pinnacle Rock State Park is a stunning natural landmark located in Mercer County, West Virginia. The park is named after the 3,100-foot sandstone cliff that rises dramatically from the surrounding landscape. Visitors can hike the easily accessible half-mile trail to the base of the rock, where they can admire the breathtaking views of the surrounding valleys and mountains. The park offers a peaceful picnic area perfect for enjoying a meal while taking in the picturesque scenery. Pinnacle Rock State Park is a popular spot for birdwatching, as the cliff provides a unique habitat for a variety of bird species. Whether you're an outdoor enthusiast or just looking for a peaceful retreat in nature, Pinnacle Rock State Park is a must-visit destination in West Virginia.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pinnacle%20Rock"
+            },
+            {
+                "name": "Pipestem",
+                "url": "https://wvstateparks.com/park/pipestem-resort-state-park/",
+                "content": "Pipestem Resort State Park in West Virginia offers a variety of outdoor activities including golfing, hiking, and zip-lining for visitors to enjoy.",
+                "description": "Nestled in the picturesque Appalachian Mountains of West Virginia, Pipestem Resort State Park offers a stunning natural setting for visitors to enjoy. With over 4,000 acres of lush forests, guests can explore miles of hiking and biking trails, or take a scenic tram ride down into the majestic Bluestone Gorge. The park also features two challenging golf courses, an aerial tramway, and a luxurious lodge and conference center for overnight stays. For outdoor enthusiasts, Pipestem offers an array of recreational activities, including horseback riding, fishing, and canoeing on the serene Bluestone River. Whether you're seeking adventure or relaxation, Pipestem Resort State Park has something for everyone to enjoy in the heart of West Virginia's beautiful countryside.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pipestem"
+            },
+            {
+                "name": "Prickett's Fort",
+                "url": "https://wvstateparks.com/park/pricketts-fort-state-park/",
+                "content": "A living history reenactor at Prickett's Fort State Park educates visitors on daily life in an 18th-century fort through demonstrations and role-playing.",
+                "description": "Prickett's Fort State Park in Fairmont, West Virginia is a unique living history attraction where visitors can step back in time to the late 18th century. The fort itself is a replica of an original frontier outpost that once stood along the Monongahela River in the 1700s. Visitors can explore the fort and interact with costumed interpreters who demonstrate daily life, crafts, and trades of the time period. The park also features hiking trails, picnic areas, and a museum showcasing artifacts from the Colonial era. Prickett's Fort State Park offers a fascinating glimpse into the early days of West Virginia's history, making it a must-visit destination for history buffs and families alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Prickett%27s%20Fort"
+            },
+            {
+                "name": "Stonewall",
+                "url": "https://wvstateparks.com/park/stonewall-resort-state-park/",
+                "content": "The representative at Stonewall Resort State Park is knowledgeable and eager to help guests make the most of their visit.",
+                "description": "Stonewall Resort State Park is a beautiful destination nestled in the rolling hills of West Virginia, offering a peaceful retreat for visitors seeking outdoor adventures and relaxation. The park features a luxurious lodge with stunning views of Stonewall Jackson Lake, perfect for a weekend getaway or special event. Guests can enjoy a round of golf at the Arnold Palmer Signature Course, go fishing or boating on the lake, or explore the miles of hiking and biking trails. For those looking to unwind, the resort also offers a full-service spa, fine dining options, and a variety of recreational activities for all ages. Whether you're seeking a nature-filled escape or a chance to pamper yourself, Stonewall Resort State Park is a must-visit destination for unforgettable experiences.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stonewall"
+            },
+            {
+                "name": "Summersville Lake",
+                "url": "https://wvstateparks.com/summersville",
+                "content": "Summersville Lake is the largest lake in West Virginia and offers a variety of recreational activities such as boating, fishing, and hiking.",
+                "description": "Summer Lake in West Virginia is a breathtaking destination for outdoor enthusiasts. With its crystal-clear water and stunning mountain backdrop, it\u2019s the perfect spot for swimming, boating, and fishing. Visitors can also enjoy hiking along the nearby trails or simply relaxing on the sandy beach. For those seeking adventure, the lake is a popular spot for rock climbing and cliff jumping. With its beauty and abundance of activities, Summersville Lake is a must-visit destination for anyone looking to experience the natural beauty of West Virginia.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Summersville%20Lake"
+            },
+            {
+                "name": "Tomlinson Run",
+                "url": "https://wvstateparks.com/park/tomlinson-run-state-park/",
+                "content": "The representative from Tomlinson Run State Park is committed to preserving the natural beauty and recreational opportunities offered at the park.",
+                "description": "Tomlinson Run State Park is a beautiful 1,398-acre park located in the northern panhandle of West Virginia. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, picnicking, and swimming in the park's 18-acre lake. The park also features a campground with 54 sites for tents and RVs, as well as 8 cozy cabins for those looking to stay overnight. Nature enthusiasts will appreciate the park's diverse wildlife and lush forests, making it a great destination for birdwatching and nature photography. With its peaceful atmosphere and scenic views, Tomlinson Run State Park is the perfect place to escape the hustle and bustle of city life and reconnect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tomlinson%20Run"
+            },
+            {
+                "name": "Tu-Endie-Wei",
+                "url": "https://wvstateparks.com/park/tu-endie-wei-state-park/",
+                "content": "The representative from Tu-Endie-Wei State Park can provide information on the park's rich history dating back to its use as a Native American ceremonial site and its location at the confluence of the Ohio and Kanawha Rivers.",
+                "description": "Tu-Endie-Wei State Park, located in Point Pleasant, West Virginia, is a beautiful and historic park that offers visitors a glimpse into the state's rich past. The park is home to the famous Mothman statue, which is a popular attraction for fans of the legendary creature. Visitors can also explore the on-site museum, which showcases artifacts and exhibits related to the history of the region. The park's location along the Ohio River provides stunning views and opportunities for outdoor activities such as fishing, boating, and picnicking. With its tranquil setting and fascinating history, Tu-Endie-Wei State Park is a must-visit destination for anyone traveling through West Virginia.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tu-Endie-Wei"
+            },
+            {
+                "name": "Twin Falls",
+                "url": "https://wvstateparks.com/park/twin-falls-resort-state-park/",
+                "content": "Twin Falls Resort State Park offers beautiful waterfalls, hiking trails, and a golf course for visitors to enjoy in a peaceful, natural setting.",
+                "description": "Twin Falls Resort State Park is home to two stunning waterfalls, known as Twin Falls, that cascade into the rugged and scenic landscape below. Visitors can enjoy hiking trails that lead to stunning views of the falls, as well as opportunities for birdwatching and wildlife viewing in the surrounding forest. The park also offers a variety of outdoor activities, including fishing, boating, and golfing, making it the perfect destination for nature lovers and outdoor enthusiasts. Additionally, the park features comfortable lodging options, including cabins and campgrounds, for those looking to extend their stay and immerse themselves in the beauty of West Virginia's natural surroundings. Whether you're seeking adventure or relaxation, Twin Falls Resort State Park offers a picturesque retreat for visitors of all ages to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Twin%20Falls"
+            },
+            {
+                "name": "Tygart Lake",
+                "url": "https://wvstateparks.com/park/tygart-lake-state-park/",
+                "content": "Tygart Lake State Park offers a scenic 10-mile lake surrounded by lush forests, perfect for boating, fishing, and hiking.",
+                "description": "Tygart Lake State Park is a beautiful destination for outdoor enthusiasts and nature lovers alike. Visitors can enjoy a wide range of activities, including fishing, boating, hiking, and picnicking, all against the backdrop of stunning views of the lake and surrounding mountains. The park is also home to a 20-room lodge, cabins, and campgrounds, making it the perfect spot for a weekend getaway or extended vacation. With its peaceful atmosphere and abundance of wildlife, Tygart Lake State Park is a must-visit destination for those looking to reconnect with nature and recharge their batteries. Be sure to keep an eye out for bald eagles, who are known to frequent the area!",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Tygart%20Lake"
+            },
+            {
+                "name": "Valley Falls",
+                "url": "https://wvstateparks.com/park/valley-falls-state-park/",
+                "content": "Valley Falls State Park in West Virginia offers beautiful waterfalls, hiking trails, and scenic views of the Tygart Valley River.",
+                "description": "Valley Falls State Park in West Virginia is known for its stunning beauty, with cascading waterfalls and picturesque valleys that are popular with visitors seeking outdoor adventures. The park offers a variety of activities for visitors, including hiking, fishing, and picnicking, making it a great destination for families and nature enthusiasts. One of the main attractions at Valley Falls is the impressive waterfalls, where visitors can enjoy the sights and sounds of the rushing water as they explore the park. The park also features a network of trails that wind through the lush forests, providing plenty of opportunities for wildlife viewing and birdwatching. With its tranquil setting and natural beauty, Valley Falls State Park is a must-visit destination for anyone looking to experience the beauty of the West Virginia wilderness.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Valley%20Falls"
+            },
+            {
+                "name": "Watoga",
+                "url": "https://wvstateparks.com/park/watoga-state-park/",
+                "content": "The representative for Watoga State Park is a knowledgeable and passionate individual who strives to educate visitors on the natural beauty and rich history of the park.",
+                "description": "Watoga State Park, located in West Virginia, is the largest state park in the state, spanning over 10,000 acres of beautiful natural scenery. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, boating, and swimming in the park's two lakes. The park also offers cozy cabins and campsites for those looking to spend the night surrounded by nature. Nature enthusiasts will love exploring the park's diverse plant and animal life, as well as its numerous scenic overlooks and hiking trails. Whether you're looking for a relaxing weekend getaway or an adventurous outdoor experience, Watoga State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Watoga"
+            },
+            {
+                "name": "Watters Smith",
+                "url": "https://wvstateparks.com/park/watters-smith-memorial-state-park/",
+                "content": "The representative at Watters Smith Memorial State Park is knowledgeable about the park's history and amenities, and can provide helpful information to visitors.",
+                "description": "Watters Smith Memorial State Park in West Virginia is a beautiful 532-acre park named after two brothers who were members of the prominent Smith family in the late 1800s. Visitors can explore the park's extensive trail system, which includes a 6.5-mile hiking trail that takes hikers through dense forests and past historic farm buildings. The park also offers picnic shelters, playgrounds, and a swimming pool for visitors to enjoy. History buffs will appreciate the park's restored 1850s-era farmhouse, which offers a glimpse into rural life in the mid-19th century. Birdwatchers will delight in the variety of bird species that call the park home, including woodpeckers, warblers, and hawks.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Watters%20Smith"
+            }
+        ]
+    }
+}
