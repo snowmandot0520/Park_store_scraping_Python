@@ -1,0 +1,478 @@
+{
+    "Vermont State Parks": {
+        "parks": [
+            {
+                "name": "Alburgh Dunes",
+                "url": "https://vtstateparks.com/alburgh.html",
+                "content": "Alburgh Dunes State Park in Vermont boasts beautiful sandy beaches along Lake Champlain with stunning views of the Adirondack Mountains.",
+                "description": "Alburgh Dunes State Park is a hidden gem located on the shores of Lake Champlain in Vermont. Visitors can enjoy over half a mile of pristine sandy beach, perfect for sunbathing, picnicking, and swimming in the crystal-clear waters of the lake. The park also offers hiking trails through dunes and wetlands, providing opportunities for birdwatching and wildlife spotting. The park is ideal for families, with a designated swimming area, restrooms, and a playground for children to enjoy. With stunning views of the lake and the Adirondack Mountains in the distance, Alburgh Dunes State Park is a tranquil and picturesque destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Alburgh%20Dunes"
+            },
+            {
+                "name": "Allis",
+                "url": "https://vtstateparks.com/allis.html",
+                "content": "The Allis State Park representative is dedicated to preserving the natural beauty and serenity of the park for all visitors to enjoy.",
+                "description": "Allis State Park is a hidden gem tucked away in the heart of Vermont, offering visitors a peaceful and secluded retreat. The park is home to the stunning Allisville Pond, which provides the perfect spot for swimming, fishing, and canoeing. Nature enthusiasts will love exploring the park's scenic hiking trails that wind through lush forests and offer breathtaking views of the surrounding mountains. The park is also a popular spot for birdwatching, with a diverse array of bird species to be spotted among the trees. Whether you're looking for a relaxing getaway or an outdoor adventure, Allis State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Allis"
+            },
+            {
+                "name": "Big Deer",
+                "url": "https://vtstateparks.com/bigdeer.html",
+                "content": "Big Deer State Park offers a tranquil setting for camping and hiking, surrounded by beautiful forests and the picturesque waters of the lake.",
+                "description": "Big Deer State Park in Groton, Vermont is a hidden gem for outdoor enthusiasts. The park covers over 400 acres and offers pristine hiking trails, perfect for exploring the surrounding wilderness. Visitors can also enjoy swimming in the park's crystal-clear lake, or try their luck fishing for trout and bass. Birdwatchers will be delighted by the many species that call the park home, including loons, herons, and bald eagles. The park also offers several campsites for those looking to extend their stay and immerse themselves in the natural beauty of Vermont.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Big%20Deer"
+            },
+            {
+                "name": "Bomoseen",
+                "url": "https://vtstateparks.com/bomoseen.html",
+                "content": "Bomoseen represents Vermont's picturesque beauty with its crystal-clear lake, sandy beach, and scenic campground.",
+                "description": "Bomoseen State Park is located on the shores of Lake Bomoseen, Vermont's largest lake entirely within state borders. Visitors can enjoy swimming, fishing, and boating in the crystal-clear waters of the lake, as well as hiking and picnicking in the surrounding woodlands.\n\nThe park features a sandy swimming beach with stunning views of the surrounding mountains, making it the perfect spot for a refreshing dip on a hot summer day. The lake is also a popular spot for fishing, with anglers casting their lines for bass, trout, and panfish.\n\nFor those looking to explore the area on foot, there are several hiking trails that wind through the park, offering a chance to see the local wildlife and beautiful scenery up close. The park also offers boat rentals, making it easy to get out on the water and explore the lake from a different perspective.\n\nWith its picturesque setting and abundance of outdoor activities, Bomoseen State Park is the perfect destination for a day trip or weekend getaway for visitors looking to relax and enjoy the beauty of Vermont's natural landscapes.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bomoseen"
+            },
+            {
+                "name": "Boulder Beach",
+                "url": "https://vtstateparks.com/boulder.html",
+                "content": "Boulder Beach is a popular swimming spot located at Groton State Forest in Vermont with clear waters, sandy beach, and plenty of large granite boulders for sunbathing and picnicking.",
+                "description": "Boulder Beach is a picturesque sandy beach located at the northern end of Lake Groton in Groton State Forest. Visitors can enjoy swimming, picnicking, and sunbathing on the smooth, sandy shore. The beach is known for its large, flat boulders scattered along the water's edge, perfect for sunbathing or enjoying a scenic view of the lake. The crystal-clear waters of Lake Groton are ideal for swimming and paddling, making Boulder Beach a popular spot for families and outdoor enthusiasts. The beach also offers convenient amenities such as restrooms, changing facilities, and a concession stand where visitors can purchase snacks and drinks.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Boulder%20Beach"
+            },
+            {
+                "name": "Branbury",
+                "url": "https://vtstateparks.com/branbury.html",
+                "content": "The Branbury State Park representative is passionate about preserving the natural beauty of Lake Dunmore and providing visitors with an enjoyable outdoor experience.",
+                "description": "Branbury State Park is a stunning natural oasis located on the eastern shore of Lake Dunmore in Vermont. Visitors can enjoy swimming, boating, and fishing in the crystal-clear waters of the lake, or explore the park's lush hiking trails that wind through the surrounding forest. The park also offers cozy camping sites with beautiful lake views, making it the perfect spot for a peaceful weekend getaway. With its picturesque scenery and abundance of outdoor activities, Branbury State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike. Be sure to bring your camera to capture the breathtaking sunsets over the lake!",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Branbury"
+            },
+            {
+                "name": "Brighton",
+                "url": "https://vtstateparks.com/brighton.html",
+                "content": "The Brighton State Park representative is committed to preserving the park's natural beauty and providing a safe and enjoyable outdoor experience for visitors.",
+                "description": "Brighton State Park in Island Pond, Vermont is a peaceful destination surrounded by the breathtaking beauty of the Northeast Kingdom. Visitors can enjoy the park's sandy beach on the shores of Spectacle Pond, perfect for swimming, kayaking, and picnicking. The park offers several hiking trails with scenic views of the surrounding mountains and valleys, making it an ideal spot for nature lovers and outdoor enthusiasts. Campers can choose from a variety of campsites, including remote sites for a more secluded experience. With its tranquil atmosphere and diverse recreational opportunities, Brighton State Park is a must-visit destination for those looking to unwind and connect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brighton"
+            },
+            {
+                "name": "Burton Island",
+                "url": "https://vtstateparks.com/burton.html",
+                "content": "Burton Island State Park is a 253-acre island with hiking trails, camping sites, and sandy beaches on Lake Champlain in Vermont.",
+                "description": "Burton Island State Park is a beautiful 253-acre island park located in Lake Champlain, accessible only by boat. Visitors can explore the park's trails, kayak along the pristine shoreline, or relax on the sandy beaches. The island offers 15 remote campsites for those looking to spend the night under the stars. A unique feature of Burton Island is the historic Captain Wilbur Stone House, built in the early 1900s and available for guided tours. Whether you're seeking adventure or simply a peaceful getaway, Burton Island State Park has something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Burton%20Island"
+            },
+            {
+                "name": "Button Bay",
+                "url": "https://vtstateparks.com/buttonbay.html",
+                "content": "Button Bay State Park, located on the shores of Lake Champlain in Vermont, offers a peaceful and picturesque setting for camping, hiking, swimming, and wildlife watching.",
+                "description": "Button Bay State Park is a stunning 253-acre park located on the shores of Lake Champlain in Vermont. Visitors can enjoy a variety of recreational activities including swimming, picnicking, boating, and fishing. The park also offers several hiking trails for those looking to explore the natural beauty of the area. Birdwatchers will be delighted by the diverse bird species that call Button Bay home, making it a great spot for birdwatching enthusiasts. The park's tranquil setting and breathtaking views of the lake make it the perfect destination for a relaxing day outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Button%20Bay"
+            },
+            {
+                "name": "Camel's Hump",
+                "url": "https://vtstateparks.com/camelshump.html",
+                "content": "Camel's Hump is a popular hiking destination in Vermont known for its distinctive camel-shaped summit and stunning panoramic views of the surrounding Green Mountains.",
+                "description": "Camel's Hump is a distinctive mountain in the Green Mountains of Vermont, known for its unique hump-shaped profile visible from miles away. Visitors can enjoy a strenuous hike to the summit, which offers panoramic views of Lake Champlain and the Adirondack Mountains. The mountain is popular among outdoor enthusiasts for its challenging trails that vary in difficulty, making it suitable for both experienced hikers and beginners. Camel's Hump is also home to a variety of plant and animal species, providing opportunities for nature lovers to spot wildlife and explore the diverse ecosystems of the area. Whether you're looking for a challenging hike or a scenic spot to enjoy the beauty of Vermont's natural surroundings, Camel's Hump is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Camel%27s%20Hump"
+            },
+            {
+                "name": "Camp Plymouth",
+                "url": "https://vtstateparks.com/plymouth.html",
+                "content": "Camp Plymouth is a family-friendly campground located in the beautiful Green Mountains of Vermont.",
+                "description": "Camp Plymouth State Park is a beautiful, family-friendly destination located alongside Echo Lake in Vermont. Visitors can enjoy swimming, fishing, and canoeing in the crystal-clear waters of the lake. The park offers several hiking trails for those looking to explore the surrounding forest and enjoy picturesque views of the Green Mountains. Campsites are available for tent and RV camping, as well as lean-tos for a more rustic experience. With its peaceful atmosphere and abundance of outdoor activities, Camp Plymouth State Park is the perfect place for a relaxing getaway in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Camp%20Plymouth"
+            },
+            {
+                "name": "Coolidge",
+                "url": "https://vtstateparks.com/coolidge.html",
+                "content": "Coolidge State Park offers beautiful mountain views, hiking trails, and rustic camping facilities in the heart of the Green Mountains.",
+                "description": "Coolidge State Park is a picturesque outdoor destination in Vermont nestled within the Green Mountain National Forest. Visitors can enjoy hiking along scenic trails that offer stunning views of the surrounding mountains and valleys. The park also features a beautiful 20-acre pond perfect for swimming, fishing, and paddling. Camping enthusiasts will appreciate the park's well-maintained campsites with amenities such as hot showers and picnic tables. Nature lovers can keep an eye out for various wildlife species including deer, moose, and a variety of bird species while exploring the park's natural beauty.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Coolidge"
+            },
+            {
+                "name": "Crystal Lake",
+                "url": "https://vtstateparks.com/crystal.html",
+                "content": "Crystal Lake is a beautiful and serene 82-acre lake located in Barton, Vermont, perfect for swimming, fishing, and relaxing with stunning mountain views.",
+                "description": "Crystal Lake State Park is a picturesque 772-acre park located in the Green Mountains of Vermont, known for its stunning mountain views and crystal-clear waters. Visitors can enjoy swimming, boating, and fishing in the pristine lake, which is gradually sloped and has a sandy beach perfect for families. The park offers hiking trails that lead to scenic overlooks and a peaceful picnic area with grills and tables for a relaxing outdoor meal. Birdwatchers will delight in the variety of bird species that call the park home, including osprey and bald eagles. Visitors can also stay overnight at one of the park's camping sites or rent a cabin for a truly immersive outdoor experience.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Crystal%20Lake"
+            },
+            {
+                "name": "D.A.R.",
+                "url": "https://vtstateparks.com/dar.html",
+                "content": "The Daughters of the American Revolution (D.A.R.) is a volunteer women's service organization dedicated to preserving American history and promoting patriotism.",
+                "description": "The D.A.R. State Park in Vermont is located on Lake Champlain and offers visitors a beautiful sandy beach for swimming and sunbathing.\nVisitors can enjoy hiking along the park's trails, which offer stunning views of the lake and surrounding mountains.\nThe park is home to a variety of wildlife, including deer and a wide array of bird species, making it a great spot for birdwatching.\nFor history buffs, the park features a stone pavilion that was built by the Daughters of the American Revolution in 1933 as a tribute to Vermont's early settlers.\nCampers can stay overnight in the park's 50 campsites, which offer a peaceful and scenic setting for a night under the stars.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=D.A.R."
+            },
+            {
+                "name": "Elmore",
+                "url": "https://vtstateparks.com/elmore.html",
+                "content": "The representative for Elmore is a beautiful and remote state park surrounded by lush forests and a stunning mountain lake.",
+                "description": "Elmore State Park in Vermont offers visitors stunning views of Lake Elmore and surrounding mountain ranges. The park features a sandy beach for swimming and a network of scenic hiking trails, including the popular Fire Tower Trail that leads to a historic tower with panoramic views. Visitors can also enjoy picnicking, fishing, and paddleboarding on the clear waters of Lake Elmore. The park is known for its peaceful and secluded atmosphere, making it a perfect destination for a relaxing getaway in nature. Whether you're looking to unwind on the beach or explore the trails, Elmore State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Elmore"
+            },
+            {
+                "name": "Emerald Lake",
+                "url": "https://vtstateparks.com/emerald.html",
+                "content": "Emerald Lake State Park in Vermont offers a peaceful oasis with crystal clear water surrounded by lush green forests.",
+                "description": "Emerald Lake State Park is a stunning natural gem nestled in the heart of the Green Mountains in Vermont. This pristine, 20-acre lake boasts crystal clear emerald waters that are perfect for swimming, kayaking, and fishing. Visitors can relax on the sandy beach or explore the surrounding hiking trails that offer breathtaking views of the surrounding mountains. The park also features a charming picnic area and a campground for those looking to extend their stay and truly immerse themselves in the beauty of the area. Whether you're looking for a peaceful escape in nature or an adventurous outdoor experience, Emerald Lake State Park has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Emerald%20Lake"
+            },
+            {
+                "name": "Fort Dummer",
+                "url": "https://vtstateparks.com/fortdummer.html",
+                "content": "Fort Dummer State Park in Vermont offers a peaceful setting for picnicking, hiking, and birdwatching, with the historic Fort Dummer site highlighting the area's Native American and colonial history.",
+                "description": "Fort Dummer State Park in Brattleboro, Vermont is located on the site of a historic fort built in 1724 to protect settlers from Native American attacks during the French and Indian War. Visitors can explore the ruins of the fort, which offer a glimpse into the region's colonial past. The park also offers hiking trails with beautiful views of the Connecticut River Valley, making it a great spot for outdoor enthusiasts. Be sure to keep an eye out for wildlife such as deer, foxes, and even the occasional black bear. With its rich history and stunning natural beauty, Fort Dummer State Park is a must-visit destination for history buffs and nature lovers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Dummer"
+            },
+            {
+                "name": "Gifford Woods",
+                "url": "https://vtstateparks.com/gifford.html",
+                "content": "The Gifford Woods State Park representative is responsible for overseeing the beautiful forested campground and hiking trails in the heart of the Green Mountains.",
+                "description": "Gifford Woods State Park is a beautiful destination located in Vermont, known for its stunning wooded scenery and peaceful environment. Visitors can enjoy a variety of outdoor activities such as hiking along the park's trails, picnicking in designated areas, and camping in the spacious campground. The park is also home to the Appalachian Trail, providing opportunities for more adventurous hikers to explore the iconic long-distance trail. Wildlife enthusiasts will have the chance to spot a variety of animals, including deer, birds, and maybe even a moose. With its serene atmosphere and natural beauty, Gifford Woods State Park is the perfect place for a relaxing getaway in the heart of Vermont.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Gifford%20Woods"
+            },
+            {
+                "name": "Grand Isle",
+                "url": "https://vtstateparks.com/grandisle.html",
+                "content": "Grand Isle State Park is a serene waterfront destination, offering camping, swimming, and picnicking opportunities on Lake Champlain.",
+                "description": "Grand Isle State Park is located on a beautiful island in Lake Champlain, making it a popular destination for visitors looking to relax and enjoy the stunning views of the lake and surrounding mountains.\n\nThe park offers a variety of recreational activities, including swimming, boating, fishing, and picnicking, making it the perfect spot for a fun-filled day with family and friends.\n\nVisitors can explore the park's extensive network of hiking and biking trails, providing opportunities to spot wildlife and enjoy the natural beauty of the island.\n\nFor those looking to extend their stay, Grand Isle State Park offers camping facilities with both tent and RV sites available, allowing visitors to immerse themselves in the peaceful and serene environment of the island.\n\nOverall, Grand Isle State Park provides a wonderful escape from the hustle and bustle of everyday life, offering visitors a chance to unwind and connect with nature in a truly picturesque setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grand%20Isle"
+            },
+            {
+                "name": "Green River Reservoir",
+                "url": "https://vtstateparks.com/grriver.html",
+                "content": "Green River Reservoir is a 653-acre pristine body of water surrounded by lush forests and offering a peaceful, remote setting for paddling, fishing, and camping.",
+                "description": "Green River Reservoir is a beautiful and serene body of water located in the heart of Vermont's Green Mountains. Visitors can enjoy a variety of recreational activities such as swimming, fishing, kayaking, and paddleboarding on the reservoir's crystal-clear waters. The reservoir is surrounded by over 5,000 acres of pristine wilderness, making it a great destination for nature lovers and outdoor enthusiasts. With no motorized boats allowed on the reservoir, visitors can truly experience the peace and tranquility of this hidden gem. Camping is also available at Green River Reservoir, offering a unique opportunity to spend the night under the stars in a secluded and picturesque setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Green%20River%20Reservoir"
+            },
+            {
+                "name": "Groton Nature Center",
+                "url": "https://vtstateparks.com/groton-nature.html",
+                "content": "The Groton Nature Center offers visitors a place to learn about the natural wonders of Groton State Forest through interactive exhibits and educational programs.",
+                "description": "The Groton Nature Center, located in Groton State Forest, is the perfect destination for visitors looking to explore Vermont's natural beauty. The center offers a variety of interactive exhibits, educational programs, and guided nature walks for visitors of all ages. Additionally, visitors can learn about the diverse plant and animal species that call the state forest home, and even participate in hands-on activities such as bird watching and wildlife tracking. The center also provides valuable information on conservation efforts and sustainability practices, making it a great educational experience for those interested in environmental stewardship. With its stunning views, scenic trails, and abundant wildlife, the Groton Nature Center is a must-visit destination for nature enthusiasts and outdoor adventurers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Groton%20Nature%20Center"
+            },
+            {
+                "name": "Half Moon Pond",
+                "url": "https://vtstateparks.com/halfmoon.html",
+                "content": "Half Moon Pond State Park offers peaceful camping and swimming in a beautiful mountain setting.",
+                "description": "Half Moon Pond State Park in Vermont is a tranquil oasis nestled in the Green Mountains, offering visitors a peaceful retreat away from the hustle and bustle of everyday life. The park features a pristine half-moon shaped pond, perfect for swimming, fishing, and paddling. Hiking enthusiasts will appreciate the beautiful trails that wind through the surrounding forests, providing opportunities to observe local wildlife and stunning mountain views. Campers can pitch their tents at one of the secluded campsites, complete with picnic tables and fire pits, creating an ideal setting for a night under the stars. Whether you're seeking a relaxing day of fishing on the pond or a challenging hike up to a scenic overlook, Half Moon Pond State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Half%20Moon%20Pond"
+            },
+            {
+                "name": "Jamaica",
+                "url": "https://vtstateparks.com/jamaica.html",
+                "content": "Jamaica State Park in Vermont offers picturesque riverside camping and hiking trails for outdoor enthusiasts.",
+                "description": "Jamaica State Park in Vermont offers visitors a serene and picturesque setting with its lush forested trails and cascading waterfalls. Visitors can enjoy activities such as hiking, picnicking, fishing, and swimming in the pristine waters of the West River. The park also features spacious camping sites, perfect for a peaceful getaway in nature. Birdwatchers will have a field day spotting the diverse avian species that call the park home. Additionally, history enthusiasts will appreciate exploring the remnants of the historic West River Railroad, which once operated in the area.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jamaica"
+            },
+            {
+                "name": "Kettle Pond",
+                "url": "https://vtstateparks.com/kettlepond.html",
+                "content": "Kettle Pond is a popular state park in Vermont known for its crystal-clear waters and scenic hiking trails.",
+                "description": "Kettle Pond is a picturesque body of water located in Groton State Forest, Vermont. This tranquil pond is a popular destination for locals and visitors looking to enjoy camping, fishing, and swimming in the crystal-clear waters. The surrounding forest offers opportunities for hiking and wildlife viewing, making it a great spot for nature enthusiasts. The campground at Kettle Pond features 26 tent sites, each with a picnic table and fire ring, providing a rustic camping experience. Don't forget to bring your kayak or canoe to explore the serene waters of Kettle Pond!",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kettle%20Pond"
+            },
+            {
+                "name": "Kill Kare",
+                "url": "https://vtstateparks.com/killkare.html",
+                "content": "Kill Kare State Park is a peaceful waterfront park located on the shores of Lake Champlain, perfect for swimming, picnicking, and enjoying scenic views.",
+                "description": "Kill Kare State Park is a beautiful 67-acre park located on the shores of Lake Champlain in Vermont. Visitors can enjoy picnicking, swimming, fishing, and boating at this serene waterfront destination. The park offers stunning views of the surrounding mountains and islands, making it a perfect spot for nature lovers and outdoor enthusiasts. With hiking trails, boat rentals, and a playground for children, Kill Kare State Park is a great place for families to spend a day by the water. Whether you're looking to relax on the sandy beach or explore the scenic landscape, Kill Kare State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kill%20Kare"
+            },
+            {
+                "name": "Kingsland Bay",
+                "url": "https://vtstateparks.com/kingsland.html",
+                "content": "The Kingsland Bay State Park representative is known for their dedication to preserving the natural beauty and providing recreational opportunities for all visitors.",
+                "description": "Kingsland Bay State Park is located on the picturesque shores of Lake Champlain in Ferrisburgh, Vermont. Visitors can enjoy swimming in the clear waters of the lake, with a sandy beach and designated swimming area available for all to enjoy. The park also offers opportunities for picnicking, with shady spots under the trees or open grassy areas perfect for outdoor meals. Hikers will appreciate the park's network of trails, which offer stunning views of the surrounding landscape. Visitors can also explore the historic Kingsland Bay estate, which dates back to the 19th century and is now listed on the National Register of Historic Places.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kingsland%20Bay"
+            },
+            {
+                "name": "Knight Island",
+                "url": "https://vtstateparks.com/knightisland.html",
+                "content": "Knight Island is a rustic and secluded island campground in Lake Champlain, only accessible by boat, offering beautiful natural surroundings and a peaceful retreat.",
+                "description": "Knight Island is a remote and enchanting destination located in Lake Champlain, accessible only by boat or kayak. Visitors can explore the pristine sandy beaches, hike through the lush forests, and camp under the stars in designated campsites. The island is a haven for birdwatching, with numerous species of migratory birds passing through during the spring and fall. Outdoor enthusiasts can also enjoy fishing, swimming, and picnicking on this secluded island paradise. With no amenities or facilities on the island, visitors must come prepared with all necessary supplies for a true wilderness experience.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Knight%20Island"
+            },
+            {
+                "name": "Knight Point",
+                "url": "https://vtstateparks.com/knightpoint.html",
+                "content": "The Knight Point State Park representative is friendly and knowledgeable, ready to help visitors make the most of their outdoor experience.",
+                "description": "Knight Point State Park is a peaceful waterfront park located on the shores of Lake Champlain in North Hero, Vermont. Visitors can enjoy stunning views of the lake and surrounding mountains while picnicking on the park's grassy fields. The park also offers a sandy beach for swimming, as well as opportunities for boating, fishing, and birdwatching. With its well-maintained facilities and beautiful natural setting, Knight Point State Park is the perfect spot for a relaxing day by the water. Be sure to bring your camera to capture the picturesque sunsets over the lake.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Knight%20Point"
+            },
+            {
+                "name": "Lake Carmi",
+                "url": "https://vtstateparks.com/carmi.html",
+                "content": "Lake Carmi is a popular summer destination for swimming, boating, and fishing with a beautiful sandy beach and calm waters.",
+                "description": "Lake Carmi State Park is situated on the shores of the magnificent Lake Carmi, the fourth largest natural lake in Vermont. Visitors can enjoy a variety of outdoor activities such as swimming, fishing, canoeing, kayaking, and paddleboarding. The lake is home to a diverse range of wildlife, including loons, herons, and various species of fish. The park offers a sandy beach area, picnic tables, and a playground, making it an ideal spot for families to relax and enjoy the natural beauty of Vermont. With its peaceful surroundings and recreational opportunities, Lake Carmi State Park is a perfect destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Carmi"
+            },
+            {
+                "name": "Lake Shaftsbury",
+                "url": "https://vtstateparks.com/shaftsbury.html",
+                "content": "Lake Shaftsbury State Park is a popular destination for swimming, fishing, and picnicking in Southern Vermont.",
+                "description": "Lake Shaftsbury State Park is a peaceful retreat nestled in the beautiful Green Mountains of Vermont. The lake offers crystal clear water perfect for swimming, boating, and fishing, with a sandy beach for sunbathing and picnicking. Visitors can enjoy hiking and biking trails that wind through the surrounding woods and fields, providing stunning views of the lake and nearby mountains. The park also boasts a nature center with interpretive programs and educational exhibits, making it a great destination for families and nature enthusiasts alike. With its tranquil setting and abundance of recreational activities, Lake Shaftsbury State Park is a must-visit destination for anyone looking to relax and reconnect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Shaftsbury"
+            },
+            {
+                "name": "Lake St. Catherine",
+                "url": "https://vtstateparks.com/catherine.html",
+                "content": "Lake St. Catherine State Park offers sandy beaches, swimming, fishing, and hiking in a peaceful and picturesque setting.",
+                "description": "Lake St. Catherine State Park is a beautiful destination for visitors looking to relax and enjoy the nature of Vermont. The park features a sandy beach perfect for swimming and sunbathing, as well as picnic areas for a leisurely lunch with stunning views of the lake. Visitors can also rent kayaks, paddleboards, and canoes to explore the calm waters of Lake St. Catherine. The park offers several hiking trails for those looking to stretch their legs and immerse themselves in the surrounding natural beauty. Camping facilities are available for those who want to extend their stay and fully enjoy all that Lake St. Catherine has to offer.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20St.%20Catherine"
+            },
+            {
+                "name": "Little River",
+                "url": "https://vtstateparks.com/littleriver.html",
+                "content": "Little River State Park is located in Waterbury, Vermont and offers opportunities for swimming, fishing, and picnicking along the picturesque Little River.",
+                "description": "Little River State Park is a hidden gem nestled in the Green Mountains of Vermont, featuring a picturesque river perfect for swimming and tubing. Visitors can enjoy a leisurely float down the river, surrounded by lush forests and stunning mountain views. The park also offers hiking trails along the riverbank, providing opportunities to spot wildlife and explore the natural beauty of the area. For those looking to relax, there are designated swimming holes where visitors can cool off on a hot summer day. With well-maintained picnic areas and campsites, Little River State Park is the ideal destination for a peaceful escape into nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20River"
+            },
+            {
+                "name": "Lowell Lake",
+                "url": "https://vtstateparks.com/lowell.html",
+                "content": "The representative features of Lowell Lake State Park include a peaceful lake surrounded by wooded trails for hiking and bird watching.",
+                "description": "Lowell Lake State Park is a serene and picturesque destination located in the Green Mountains of Vermont. Visitors can enjoy hiking on the park's well-maintained trails, taking in the stunning views of the lake and surrounding forest. The park is also popular for fishing, with opportunities to catch trout and bass in the clear waters of Lowell Lake. Birdwatchers will delight in the variety of bird species that call the park home, including warblers, woodpeckers, and northern cardinals. For those looking to relax, there are picnic areas and a sandy beach perfect for a day of sunbathing and swimming.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lowell%20Lake"
+            },
+            {
+                "name": "Maidstone",
+                "url": "https://vtstateparks.com/maidstone.html",
+                "content": "Maidstone State Park offers a tranquil setting with a sandy beach and crystal-clear waters on the shores of Maidstone Lake.",
+                "description": "Maidstone State Park is a beautiful destination located in the Northeast Kingdom of Vermont. Visitors can enjoy a variety of outdoor activities such as swimming, boating, and fishing on the pristine waters of Maidstone Lake. The park also offers hiking trails that wind through the surrounding forests, providing opportunities to spot local wildlife like moose and deer. Campers can choose from a variety of campsites, including some that are conveniently located right on the lake shore. Whether you're looking to relax on the beach or explore the great outdoors, Maidstone State Park is the perfect place for a memorable outdoor adventure in Vermont.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Maidstone"
+            },
+            {
+                "name": "Molly's Falls Pond",
+                "url": "https://vtstateparks.com/mollysfalls.html",
+                "content": "Molly's Falls Pond State Park offers a peaceful setting with a 35-acre pond, perfect for fishing, boating, and picnicking.",
+                "description": "Molly's Falls Pond is a tranquil and scenic spot located in the northern part of Vermont. Visitors can enjoy swimming, fishing, and boating in the clear waters of the pond. Surrounding the pond are lush green forests, offering a peaceful setting for picnics and hiking. The area is also home to a variety of wildlife, making it a great spot for birdwatching and nature photography. Camping is available nearby, providing the perfect opportunity to spend a relaxing weekend immersed in the beauty of Molly's Falls Pond.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Molly%27s%20Falls%20Pond"
+            },
+            {
+                "name": "Molly Stark",
+                "url": "https://vtstateparks.com/mollystark.html",
+                "content": "Molly Stark State Park is a peaceful and picturesque outdoor destination in Vermont, offering camping, hiking, and fishing opportunities surrounded by lush greenery and stunning views.",
+                "description": "Molly Stark State Park is a serene getaway nestled in the Green Mountains of Vermont, offering visitors a chance to experience nature at its finest. Named after the wife of American Revolutionary War general John Stark, the park boasts stunning views of the surrounding mountains and valleys. Outdoor enthusiasts can enjoy hiking, fishing, and picnicking amidst the park's lush forests and meadows. History buffs will appreciate the park's proximity to the Bennington Battle Monument, a tribute to the only Revolutionary War battle fought on Vermont soil. With its peaceful atmosphere and rich historical significance, Molly Stark State Park is a must-visit destination for those seeking a true Vermont experience.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Molly%20Stark"
+            },
+            {
+                "name": "Mt. Ascutney",
+                "url": "https://vtstateparks.com/ascutney.html",
+                "content": "Mt. Ascutney offers stunning views of Vermont and New Hampshire, with miles of hiking trails and a paved road for driving to the summit.",
+                "description": "Mt. Ascutney is a popular destination for outdoor enthusiasts visiting Vermont State Parks. The mountain offers over 65 miles of hiking, biking, and horseback riding trails, providing stunning views of the surrounding countryside. Visitors can also enjoy picnicking and camping at the park, with both tent sites and lean-to shelters available for overnight stays. For more adventurous visitors, the park offers opportunities for rock climbing and hang gliding from the summit of the mountain. With its diverse recreational opportunities and beautiful natural scenery, Mt. Ascutney is a must-visit destination for nature lovers in Vermont.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mt.%20Ascutney"
+            },
+            {
+                "name": "Mt. Philo",
+                "url": "https://vtstateparks.com/philo.html",
+                "content": "Mt. Philo is a popular state park in Vermont known for its stunning views and easy hiking trails.",
+                "description": "Mount Philo State Park is a popular destination for visitors due to its stunning views of the Champlain Valley and Adirondack Mountains. The park offers various hiking trails, picnicking areas, and a campground for overnight stays. At 968 feet, Mount Philo is the oldest state park in Vermont and is known for its unique geological formations and diverse plant and animal species. Visitors can enjoy bird watching, wildlife spotting, or simply taking in the breathtaking scenery from the summit. Additionally, the park hosts educational programs and events throughout the year, making it a great destination for both nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mt.%20Philo"
+            },
+            {
+                "name": "Muckross",
+                "url": "https://vtstateparks.com/muckross.html",
+                "content": "Muckross State Park in Vermont features scenic views, hiking trails, and a tranquil campground perfect for enjoying the natural beauty of the region.",
+                "description": "Muckross State Park in Vermont offers visitors a serene and picturesque setting to enjoy outdoor activities such as hiking, fishing, and wildlife viewing. The park features a beautiful lake surrounded by lush forests, providing a peaceful escape from the hustle and bustle of daily life. Visitors can explore the park's hiking trails, which wind through dense woods and offer stunning views of the lake and surrounding mountains. The park is also a popular spot for birdwatching, with a variety of bird species that call the area home. Whether you're looking to relax by the water or embark on an outdoor adventure, Muckross State Park is the perfect destination for nature lovers.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Muckross"
+            },
+            {
+                "name": "New Discovery",
+                "url": "https://vtstateparks.com/newdiscovery.html",
+                "content": "The New Discovery State Park in Vermont offers visitors a serene and secluded escape with tranquil trails and panoramic mountain views.",
+                "description": "The new discovery at Vermont State Parks is the stunning Quechee Gorge, known as the \"Grand Canyon of the East.\" Visitors can explore the 165-foot deep chasm carved by the Ottauquechee River, offering breathtaking views and great photo opportunities. There are walking and hiking trails along the gorge, providing a chance to immerse yourself in the natural beauty of the area. The nearby Quechee State Park offers amenities such as picnic areas, swimming holes, and camping facilities for those looking to extend their stay. Don't miss the chance to experience this remarkable geological wonder during your visit to Vermont State Parks.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=New%20Discovery"
+            },
+            {
+                "name": "Niquette Bay",
+                "url": "https://vtstateparks.com/niquette.html",
+                "content": "The Niquette Bay State Park representative is dedicated to protecting and preserving the natural beauty and recreational opportunities available at Niquette Bay.",
+                "description": "Niquette Bay State Park offers visitors the perfect opportunity to explore the stunning beauty of Lake Champlain. Visitors can enjoy a leisurely stroll along the park's scenic nature trails, which wind through lush forests and offer breathtaking views of the lake. The park also provides opportunities for picnicking, swimming, and fishing, making it an ideal spot for a fun-filled day trip with family and friends. Birdwatchers will delight in the chance to spot a variety of bird species, including warblers, herons, and osprey, in their natural habitat. With its tranquil setting and abundance of recreational activities, Niquette Bay State Park is a must-visit destination for nature enthusiasts and outdoor lovers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Niquette%20Bay"
+            },
+            {
+                "name": "North Hero",
+                "url": "https://vtstateparks.com/northhero.html",
+                "content": "The North Hero State Park representative is a beautiful and peaceful island located in the middle of Lake Champlain, offering a variety of recreational activities and stunning views of the surrounding mountains.",
+                "description": "North Hero State Park is located on the picturesque North Hero Island in Lake Champlain, Vermont. The park offers stunning waterfront views, perfect for swimming, picnicking, and hiking along the shoreline. Visitors can also enjoy a variety of water activities such as boating, fishing, or kayaking in the crystal-clear waters of Lake Champlain. The park is known for its beautiful sunsets, making it a popular spot for photography enthusiasts. With its peaceful atmosphere and natural beauty, North Hero State Park is a must-visit destination for outdoor enthusiasts looking to relax and unwind in a tranquil setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=North%20Hero"
+            },
+            {
+                "name": "Quechee",
+                "url": "https://vtstateparks.com/quechee.html",
+                "content": "Quechee State Park is home to the beautiful Quechee Gorge, known as \"Vermont's Little Grand Canyon.\"",
+                "description": "Quechee State Park, located in Vermont, offers visitors stunning views of Quechee Gorge, known as the \"Grand Canyon of the East.\" The park features hiking trails that wind through lush forests, providing opportunities to spot wildlife such as deer and wild turkeys. Visitors can also enjoy swimming in the park's crystal-clear waters or picnicking along the banks of the Ottauquechee River. For those interested in history, the park is home to the Quechee Gorge Village, a quaint shopping area filled with unique boutiques and restaurants. Quechee State Park is a must-visit destination for nature lovers and outdoor enthusiasts looking to explore the beauty of Vermont.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Quechee"
+            },
+            {
+                "name": "Ricker Pond",
+                "url": "https://vtstateparks.com/ricker.html",
+                "content": "The Ricker Pond State Park in Vermont offers camping, swimming, and fishing opportunities in a picturesque setting.",
+                "description": "Ricker Pond is a stunning state park nestled in the heart of Groton State Forest in Vermont. Visitors can enjoy a variety of outdoor activities such as swimming, fishing, and kayaking on the picturesque pond. The surrounding lush forest offers numerous hiking trails, perfect for exploring the natural beauty of the area. Camping at Ricker Pond is a popular choice for visitors looking to immerse themselves in the tranquil surroundings and enjoy stargazing around the campfire. With its scenic views and serene atmosphere, Ricker Pond is the perfect destination for outdoor enthusiasts seeking a peaceful retreat in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Ricker%20Pond"
+            },
+            {
+                "name": "Sand Bar",
+                "url": "https://vtstateparks.com/sandbar.html",
+                "content": "The Sand Bar State Park representative is dedicated to preserving the natural beauty and recreational opportunities of the park for visitors to enjoy.",
+                "description": "Sand Bar State Park is located on a sandbar in the middle of Lake Champlain, providing stunning waterfront views and a unique outdoor experience for visitors. The park offers a sandy beach for swimming and sunbathing, as well as picnic areas and nature trails for exploring the surrounding natural beauty. Visitors can enjoy a variety of water activities such as kayaking, paddleboarding, and fishing in the crystal clear waters of the lake. The birdwatching opportunities at Sand Bar State Park are exceptional, with a diverse range of species to observe in their natural habitat. Whether you're looking to relax on the beach or immerse yourself in the great outdoors, Sand Bar State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sand%20Bar"
+            },
+            {
+                "name": "Seyon Lodge",
+                "url": "https://vtstateparks.com/seyon.html",
+                "content": "Seyon Lodge State Park offers an idyllic retreat in the heart of Vermont's Groton State Forest, featuring cozy lodge accommodations, scenic views, and access to outdoor recreational activities.",
+                "description": "Seyon Lodge State Park is a picturesque destination nestled in the heart of the Groton State Forest in Vermont. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, and wildlife viewing in the surrounding wilderness. The lodge itself offers cozy accommodations with stunning views of Noyes Pond, perfect for a peaceful retreat. With its quaint charm and tranquil setting, Seyon Lodge is the ideal escape for nature lovers and those seeking a serene getaway. Guests can also enjoy delicious farm-to-table meals made with local ingredients during their stay at the lodge.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seyon%20Lodge"
+            },
+            {
+                "name": "Silver Lake",
+                "url": "https://vtstateparks.com/silver.html",
+                "content": "Silver Lake is a peaceful and beautiful lake surrounded by scenic mountains, perfect for swimming, fishing, and picnicking.",
+                "description": "Silver Lake State Park is a picturesque destination nestled in the Green Mountains of Vermont, known for its crystal-clear waters and sandy beach.\n\nVisitors can enjoy swimming, picnicking, and fishing in the tranquil surroundings of this 84-acre lake, which is also popular for kayaking and canoeing.\n\nThe park features a network of scenic hiking trails, including a loop around the lake that offers stunning views of the surrounding mountains and forests.\n\nCamping is available on-site, with tent and lean-to sites available for overnight stays, making it the perfect spot for a peaceful getaway in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Silver%20Lake"
+            },
+            {
+                "name": "Smugglers' Notch",
+                "url": "https://vtstateparks.com/smugglers.html",
+                "content": "Smugglers' Notch State Park offers stunning hiking trails and opportunities for rock climbing in Vermont's picturesque Green Mountains.",
+                "description": "Smugglers' Notch State Park in Vermont is a breathtaking destination known for its stunning natural beauty and rich history. The park is named after the narrow pass between Mount Mansfield and Spruce Peak, which was once used by smugglers to transport goods across the Canadian border. Visitors can explore the park's network of hiking trails, including the popular Sterling Pond Trail, which offers stunning views of the surrounding mountains. In the winter, Smugglers' Notch is a popular destination for skiing and snowboarding, with access to some of the best slopes in the state. Campers can enjoy a peaceful stay at the park's secluded campground, complete with tent sites, lean-tos, and hot showers.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Smugglers%27%20Notch"
+            },
+            {
+                "name": "Stillwater",
+                "url": "https://vtstateparks.com/stillwater.html",
+                "content": "The Stillwater State Park representative is knowledgeable about the park's amenities and is dedicated to helping visitors make the most of their outdoor experience.",
+                "description": "Stillwater State Park is a serene destination located on the shores of Lake Carmi in Vermont. Visitors can enjoy a variety of outdoor activities such as swimming, boating, and fishing in the crystal-clear waters of the lake. The park offers several hiking trails that wind through the peaceful forests, providing opportunities for birdwatching and wildlife spotting. Camping is available at the park, allowing visitors to fully immerse themselves in the natural beauty of the area. With its picturesque surroundings and abundance of recreational opportunities, Stillwater State Park is the perfect place for a relaxing getaway in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stillwater"
+            },
+            {
+                "name": "Stone Hut",
+                "url": "https://vtstateparks.com/stonehut.html",
+                "content": "The Stone Hut is a rustic and historic shelter located in Mt. Mansfield State Forest, popular for its unique stone construction and stunning mountain views.",
+                "description": "The Stone Hut is a unique and historic structure located in Vermont's Mt. Mansfield State Forest. Built in the 1930s by the Civilian Conservation Corps, the hut offers rustic accommodations for hikers and outdoor enthusiasts. The interior features stone walls and a cozy fireplace, creating a charming and intimate atmosphere. Visitors can enjoy stunning views of the surrounding mountains and forests from the hut's windows. It is a popular destination for those looking to experience a true backcountry retreat in the heart of Vermont's wilderness.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Stone%20Hut"
+            },
+            {
+                "name": "Taconic Mountains Ramble",
+                "url": "https://vtstateparks.com/taconic.html",
+                "content": "The Taconic Mountains Ramble offers scenic views and peaceful hiking trails in southern Vermont.",
+                "description": "The Taconic Mountains Ramble trail offers visitors a chance to explore a diverse and scenic landscape in the heart of Vermont. Hikers can enjoy stunning views of the surrounding mountains and valleys as they traverse through lush forests and open meadows. Along the way, you may encounter a variety of wildlife, including deer, moose, and a wide array of bird species. The trail is well-maintained and offers options for both beginners and experienced hikers, making it a great destination for outdoor enthusiasts of all levels. Be sure to pack plenty of water, snacks, and your camera to capture the beauty of this hidden gem in the Green Mountain State.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Taconic%20Mountains%20Ramble"
+            },
+            {
+                "name": "Thetford Hill",
+                "url": "https://vtstateparks.com/thetford.html",
+                "content": "The Thetford Hill State Park representative is knowledgeable about the park's amenities and activities, and is dedicated to promoting outdoor recreation and enjoyment for all visitors.",
+                "description": "Thetford Hill State Park is a hidden gem tucked away in the Green Mountains of Vermont, offering visitors a peaceful and secluded retreat. The park features a stunning 80-foot fire tower that provides panoramic views of the surrounding mountains and valleys, making it a must-visit spot for photographers and nature enthusiasts. Hiking trails wind through the lush forest, where visitors can spot wildlife such as deer, squirrels, and a variety of bird species. The park is also a popular spot for picnicking, with several picnic tables and grills available for use. With its serene atmosphere and breathtaking vistas, Thetford Hill State Park is the perfect destination for a relaxing day trip or weekend getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Thetford%20Hill"
+            },
+            {
+                "name": "Townshend",
+                "url": "https://vtstateparks.com/townshend.html",
+                "content": "The Townshend State Park representative is an idyllic picnic destination with easy access to hiking trails and a picturesque swimming pond.",
+                "description": "Townshend State Park is a hidden gem located in the picturesque town of Townshend, Vermont. Visitors can explore the park's 30-acre forested area, perfect for hiking, picnicking, and wildlife viewing. The park also boasts a beautiful stream for fishing and swimming, making it an ideal spot for outdoor enthusiasts.\n\nFor those looking to spend the night, Townshend State Park offers tent and RV camping sites with amenities such as fire pits and picnic tables. The park's peaceful atmosphere and stunning natural scenery make it a popular destination for families, couples, and solo travelers alike.\n\nOne of the park's highlights is its convenient location near several popular attractions, including the historic Grafton Village Cheese Company and the Vermont Country Store. Visitors can immerse themselves in the local culture and indulge in delicious local products before returning to the tranquility of Townshend State Park.\n\nWhether you're seeking adventure or simply looking to relax and unwind in nature, Townshend State Park offers something for everyone. With its welcoming campground, scenic hiking trails, and proximity to nearby attractions, this charming park is a must-visit destination for nature lovers exploring Vermont.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Townshend"
+            },
+            {
+                "name": "Underhill",
+                "url": "https://vtstateparks.com/underhill.html",
+                "content": "The Underhill State Park representative is committed to preserving the natural beauty and recreational opportunities of this stunning alpine park.",
+                "description": "Underhill State Park offers visitors the opportunity to explore the stunning landscapes of Vermont's Green Mountains. Hikers can take on the challenging trek up Mount Mansfield, Vermont's highest peak, or choose from a variety of other trails that wind through lush forests and past picturesque waterfalls. The park also features a unique camping experience with primitive lean-to shelters tucked away in the woods, providing a peaceful and immersive outdoor experience. Birdwatchers will delight in the diverse avian species found in the park, while nature lovers can enjoy the abundant wildlife and vibrant plant life throughout the area. With its natural beauty and recreational opportunities, Underhill State Park is a must-visit destination for outdoor enthusiasts looking to connect with nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Underhill"
+            },
+            {
+                "name": "Waterbury Center",
+                "url": "https://vtstateparks.com/waterbury.html",
+                "content": "Waterbury Center State Park offers a serene setting for picnicking, swimming, and hiking in the heart of the Green Mountains.",
+                "description": "Waterbury Center State Park is situated in the heart of Vermont's Green Mountains, offering visitors a beautiful natural setting to explore and enjoy. The park features a picturesque 20-acre reservoir, perfect for swimming, fishing, and non-motorized boating. Visitors can also hike along the park's trails, which wind through lush forests and offer stunning views of the surrounding mountains. The park is known for its tranquil atmosphere, making it an ideal spot for picnicking and wildlife viewing. With its convenient location near the town of Waterbury, visitors can easily access local amenities and attractions during their stay at the park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Waterbury%20Center"
+            },
+            {
+                "name": "Waterbury Reservoir Remote Sites",
+                "url": "https://vtstateparks.com/waterburyremote.html",
+                "content": "The Waterbury Reservoir Remote Sites offer secluded camping spots with beautiful lake views and access to outdoor recreation activities.",
+                "description": "The Waterbury Reservoir Remote Sites offer a unique and secluded camping experience surrounded by the stunning beauty of Vermont's Green Mountains. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, and boating on the pristine waters of the reservoir. These remote sites provide a perfect escape from the hustle and bustle of everyday life, allowing guests to truly connect with nature and unwind in a peaceful setting. With limited amenities, campers can fully immerse themselves in the natural surroundings and experience the tranquility of the Vermont wilderness. Whether you're seeking a quiet retreat or an adventure-filled getaway, the Waterbury Reservoir Remote Sites offer a one-of-a-kind camping experience for all visitors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Waterbury%20Reservoir%20Remote%20Sites"
+            },
+            {
+                "name": "Wilgus",
+                "url": "https://vtstateparks.com/wilgus.html",
+                "content": "The Wilgus State Park representative is friendly and knowledgeable, ready to assist visitors with information about the park's amenities and activities.",
+                "description": "Wilgus State Park is a hidden gem located along the beautiful Connecticut River in southern Vermont. Visitors can enjoy picnicking, swimming, and fishing in the peaceful surroundings of the park. The park also offers tent and RV camping, making it a great spot for a weekend getaway. Hiking enthusiasts will love exploring the nearby trails, including the Appalachian Trail which passes through the area. With stunning river views and plenty of recreational activities, Wilgus State Park is a destination not to be missed.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wilgus"
+            },
+            {
+                "name": "Woodford",
+                "url": "https://vtstateparks.com/woodford.html",
+                "content": "The Woodford State Park representative is knowledgeable about the park's scenic beauty and recreational activities, and can assist visitors with information and recommendations.",
+                "description": "Woodford State Park is nestled in the Green Mountain National Forest of Vermont, offering visitors a peaceful retreat surrounded by breathtaking scenery. The park features a pristine 103-acre lake for swimming, boating, and fishing, as well as several hiking trails that wind through the lush forest. Visitors can also enjoy picnicking in the park's designated areas, with stunning views of the lake and mountains. The campgrounds at Woodford State Park provide a rustic yet comfortable setting for a true outdoor experience, with amenities such as fire pits, picnic tables, and hot showers. Whether you're looking to relax by the water or explore the trails, Woodford State Park offers a serene escape for nature lovers of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Woodford"
+            },
+            {
+                "name": "Woods Island",
+                "url": "https://vtstateparks.com/woodsisland.html",
+                "content": "Woods Island is a peaceful campground located on an island in the middle of Lake Caspian, perfect for outdoor enthusiasts looking to relax and enjoy nature.",
+                "description": "Woods Island State Park is a scenic and secluded island park located in Lake Champlain's Inland Sea. Visitors can enjoy breathtaking views of the surrounding mountains and lake while hiking the park's trails. The park is accessible only by boat, making it a peaceful retreat away from the hustle and bustle of everyday life. Camping is available on the island, allowing visitors to truly immerse themselves in nature and experience the tranquil beauty of the area. For those interested in fishing, the park offers excellent opportunities to catch a variety of freshwater fish in the pristine waters of Lake Champlain.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Woods%20Island"
+            }
+        ]
+    }
+}

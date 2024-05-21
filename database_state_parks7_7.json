@@ -1,0 +1,342 @@
+{
+    "Virginia State Parks": {
+        "parks": [
+            {
+                "name": "Bear Creek Lake (BC)",
+                "url": "https://www.dcr.virginia.gov/state-parks/bear-creek-lake",
+                "content": "Bear Creek Lake is a small, peaceful park with cabins, campsites, a fishing lake, and hiking trails in central Virginia.",
+                "description": "Bear Creek Lake is a stunning 40-acre lake located within the Bear Creek Lake State Park in Virginia. Visitors can enjoy a wide range of recreational activities on and around the lake, including swimming, boating, and fishing. The park offers several hiking trails that wind through scenic forests and meadows, providing opportunities for bird watching and wildlife spotting. Camping is also available at Bear Creek Lake State Park, with both traditional campsites and cabins for rent. Whether you're looking to relax on the beach, explore nature trails, or spend a night under the stars, Bear Creek Lake offers a peaceful and picturesque retreat for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bear%20Creek%20Lake%20%28BC%29"
+            },
+            {
+                "name": "Belle Isle (BI)",
+                "url": "https://www.dcr.virginia.gov/state-parks/belle-isle",
+                "content": "Belle Isle (BI) is a 54-acre state park in Richmond, Virginia, known for its scenic beauty and historic ruins.",
+                "description": "Belle Isle (BI) is a captivating state park located in Richmond, Virginia, offering a unique blend of history and natural beauty for visitors to explore. Once a bustling industrial site during the 19th century, the park now features picturesque ruins of former factories and mills alongside scenic trails and riverfront views. Visitors can enjoy activities such as hiking, mountain biking, rock climbing, and even swimming in the James River. The park also hosts various events and programs throughout the year, making it a lively destination for outdoor enthusiasts and history buffs alike. With its rich heritage and stunning landscapes, Belle Isle is a must-visit destination for anyone looking to experience the beauty of Virginia's outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Belle%20Isle%20%28BI%29"
+            },
+            {
+                "name": "Breaks Interstate (BK) *",
+                "url": "https://www.dcr.virginia.gov/state-parks/http://www.breakspark.com/",
+                "content": "The Breaks Interstate Park is a bi-state park located on the border of Virginia and Kentucky, featuring stunning canyon views and outdoor recreational activities.",
+                "description": "Breaks Interstate Park, located on the border of Virginia and Kentucky, is known as the \"Grand Canyon of the South\" due to its stunning views and deep gorges carved by the Russell Fork River. Visitors can explore over 25 miles of hiking trails, including the popular River Trail which offers breathtaking views of the canyon. The park is also a haven for outdoor enthusiasts, with opportunities for rock climbing, whitewater rafting, and birdwatching. For those looking to relax, the park offers cabins, campsites, and picnic areas perfect for a peaceful getaway in nature. Don't forget to check out the visitor center, which provides educational exhibits on the history and geology of the park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Breaks%20Interstate%20%28BK%29%20%2A"
+            },
+            {
+                "name": "Caledon (CA)",
+                "url": "https://www.dcr.virginia.gov/state-parks/caledon",
+                "content": "Caledon State Park in Virginia is a peaceful natural oasis with scenic views, hiking trails, and opportunities for birdwatching and wildlife viewing.",
+                "description": "Caledon State Park in Virginia offers visitors a serene escape into nature with over 2,500 acres of protected lands along the Potomac River. The park is known for its diverse wildlife, including bald eagles, ospreys, and rare plant species. Visitors can explore the park's miles of hiking trails, perfect for birdwatching and enjoying the scenic views of the river. Caledon also offers guided kayak tours, allowing visitors to paddle through the marshes and creeks while learning about the park's natural history. For those looking to extend their stay, the park offers camping and cabin rental options for a peaceful getaway in the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Caledon%20%28CA%29"
+            },
+            {
+                "name": "Chippokes(CP)",
+                "url": "https://www.dcr.virginia.gov/state-parks/chippokes.php",
+                "content": "Chippokes Plantation State Park offers a glimpse into Virginia's agricultural past with its working farm, historic mansion, and miles of hiking trails along the James River.",
+                "description": "Chippokes Plantation State Park is a historic site located in Surry, Virginia, along the James River. The park features a variety of outdoor activities, including hiking, biking, and picnicking, as well as opportunities for camping and fishing.\n\nVisitors can explore the grounds of the Chippokes Plantation, which dates back to the 17th century and is one of the oldest continually farmed plantations in the country. The park also features a visitor center with exhibits on the history of the plantation and the surrounding area.\n\nOne of the highlights of Chippokes Plantation State Park is the Farm and Forestry Museum, which showcases the equipment and techniques used in farming and forestry throughout history. The park also offers educational programs and tours for those interested in learning more about the plantation's rich history and the importance of agriculture in Virginia.\n\nIn addition to its historical significance, Chippokes Plantation State Park is also known for its natural beauty, with miles of trails that wind through forests, fields, and wetlands. The park is a popular spot for birdwatching, with over 100 species of birds recorded in the area, making it a must-visit destination for nature lovers and history enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chippokes%28CP%29"
+            },
+            {
+                "name": "Claytor Lake (CL)",
+                "url": "https://www.dcr.virginia.gov/state-parks/claytor-lake",
+                "content": "Claytor Lake State Park offers a wide range of outdoor activities such as swimming, hiking, and fishing in a peaceful mountain setting.",
+                "description": "1. Claytor Lake State Park offers visitors a peaceful and picturesque retreat located in the beautiful Blue Ridge Mountains of Southwest Virginia.\n\n2. With over 4,500 acres of clear water and 21 miles of shoreline, Claytor Lake provides ample opportunities for swimming, fishing, boating, and water sports.\n\n3. The park features a sandy beach, designated swimming areas, boat rentals, a marina, and numerous hiking trails for outdoor enthusiasts to enjoy.\n\n4. Wildlife enthusiasts will appreciate the diverse array of fauna that call Claytor Lake home, including bald eagles, ospreys, and various species of fish.\n\n5. Whether you're looking to relax on the beach or explore the natural beauty of the surrounding area, Claytor Lake State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Claytor%20Lake%20%28CL%29"
+            },
+            {
+                "name": "Clinch River (CR) **",
+                "url": "https://www.dcr.virginia.gov/state-parks/clinch-river.php",
+                "content": "The Clinch River State Park offers scenic hiking trails and excellent fishing opportunities for visitors to enjoy.",
+                "description": "The Clinch River State Park is a beautiful 1,604-acre park located in Southwest Virginia. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, kayaking, and birdwatching along the scenic Clinch River. The park is home to a wide array of wildlife, including bald eagles, river otters, and various species of fish. There are also interpretive programs and guided nature walks available for visitors to learn more about the unique ecosystem of the Clinch River. Whether you're looking for a peaceful getaway or an adventurous day on the water, the Clinch River State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Clinch%20River%20%28CR%29%20%2A%2A"
+            },
+            {
+                "name": "Douthat (DO)",
+                "url": "https://www.dcr.virginia.gov/state-parks/douthat",
+                "content": "Douthat State Park is a beautiful outdoor recreation area in Virginia, featuring a 50-acre lake, camping, hiking trails, and a swimming beach.",
+                "description": "Douthat State Park, located in Virginia's Allegheny Highlands, is a picturesque outdoor destination perfect for nature lovers and outdoor enthusiasts alike. With over 43 miles of hiking and biking trails, visitors can explore the park's stunning scenery and diverse wildlife.\n\nThe park offers a variety of recreational activities including swimming, fishing, boating, and camping, making it an ideal spot for a weekend getaway or family vacation. Douthat State Park also features a beautiful 50-acre lake where visitors can paddleboard, kayak, or simply relax on the sandy beach.\n\nFor those looking to stay overnight, the park offers a range of accommodations including cabins, campsites, and a lodge, all surrounded by the park's natural beauty. Visitors can also enjoy picnicking, birdwatching, and guided nature programs during their stay at Douthat State Park.\n\nWhether you're seeking adventure or simply looking to unwind in a tranquil setting, Douthat State Park has something for everyone. So pack your outdoor gear and get ready to experience the beauty of Virginia's Allegheny Highlands at this breathtaking state park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Douthat%20%28DO%29"
+            },
+            {
+                "name": "Fairy Stone (FS)",
+                "url": "https://www.dcr.virginia.gov/state-parks/fairy-stone",
+                "content": "The Fairy Stone State Park in Virginia is home to the legendary Fairy Stone, a rare natural formation believed to bring good luck and protection to its owner.",
+                "description": "The Fairy Stone State Park in Virginia is known for its unique fairy stones, also known as staurolite crystals, which are said to bring good luck to those who find them. These tiny, cross-shaped crystals are only found in a few places in the world, making Fairy Stone State Park a special destination for rockhounds and nature enthusiasts. Visitors can explore the park's 168-acre lake, enjoy swimming, boating, and fishing, and hike on over 14 miles of trails. The park also offers cabins, camping sites, and picnicking areas for visitors to enjoy a relaxing stay in the great outdoors. Don't forget to keep an eye out for these magical fairy stones during your visit!",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fairy%20Stone%20%28FS%29"
+            },
+            {
+                "name": "False Cape (FC)",
+                "url": "https://www.dcr.virginia.gov/state-parks/false-cape",
+                "content": "False Cape is a remote state park located in Virginia's southernmost point, providing visitors with pristine beaches, wildlife viewing opportunities, and a true escape from the hustle and bustle of everyday life.",
+                "description": "1. False Cape State Park in Virginia offers visitors a unique experience with its remote location and pristine beaches, making it the perfect destination for outdoor enthusiasts looking to escape the hustle and bustle of everyday life.\n\n2. With over six miles of untouched coastline, visitors to False Cape can enjoy activities such as hiking, biking, birdwatching, and beachcombing, all while taking in the stunning views of the Atlantic Ocean.\n\n3. The park is only accessible by foot, bike, or tram, adding to its secluded feel and providing a sense of adventure for those willing to make the journey to this hidden gem on the coast.\n\n4. Nature lovers will appreciate the diverse ecosystems found within False Cape, including maritime forests, marshlands, and sand dunes, all of which provide habitat for a variety of plant and animal species.\n\n5. Whether you're looking to relax on the beach, explore the unique coastal landscape, or simply commune with nature, False Cape State Park offers a one-of-a-kind experience that will leave you feeling refreshed and rejuvenated.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=False%20Cape%20%28FC%29"
+            },
+            {
+                "name": "First Landing (FL)",
+                "url": "https://www.dcr.virginia.gov/state-parks/first-landing",
+                "content": "First Landing State Park is located on the Chesapeake Bay and features a wide range of outdoor recreational activities for visitors to enjoy.",
+                "description": "First Landing State Park in Virginia is a historical site where English colonists first landed in 1607 before settling in Jamestown.\n\nVisitors can explore over 19 miles of hiking trails, perfect for nature lovers and outdoor enthusiasts.\n\nThe park offers a variety of outdoor activities such as swimming, fishing, and kayaking in the Chesapeake Bay.\n\nFirst Landing is also known for its diverse wildlife, including bald eagles, ospreys, and waterfowl, making it a great spot for birdwatching.\n\nCamping options are available for those looking to enjoy a peaceful night under the stars in this beautiful coastal park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=First%20Landing%20%28FL%29"
+            },
+            {
+                "name": "Grayson Highlands (GH)",
+                "url": "https://www.dcr.virginia.gov/state-parks/grayson-highlands",
+                "content": "Grayson Highlands is a scenic state park in Virginia known for its panoramic views, wild ponies, and numerous hiking trails.",
+                "description": "Grayson Highlands is a stunning state park located in southwestern Virginia, known for its vast open spaces and breathtaking mountain views. Visitors can explore over 2,500 acres of highland meadows filled with wildflowers and scenic overlooks. The park is home to a herd of wild ponies, a unique and memorable sight for those who love wildlife and nature. Hiking enthusiasts will be delighted by the park's extensive trail system, which includes part of the famous Appalachian Trail. Additionally, GH offers camping, picnicking, and birdwatching opportunities for those looking to fully immerse themselves in the beauty of the Virginia outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Grayson%20Highlands%20%28GH%29"
+            },
+            {
+                "name": "High Bridge Trail (HB)",
+                "url": "https://www.dcr.virginia.gov/state-parks/high-bridge-trail",
+                "content": "The High Bridge Trail in Virginia is a 31-mile long rail trail that offers stunning views of the Appomattox River and the High Bridge, which rises 125 feet above the water.",
+                "description": "The High Bridge Trail is a 31-mile long multi-use trail that stretches from Farmville to Pamplin City in Virginia. It is named after the breathtaking High Bridge, which stands 125 feet above the Appomattox River and offers stunning views of the surrounding countryside.\n\nVisitors can enjoy a variety of activities along the trail, including hiking, biking, horseback riding, and birdwatching. The trail is relatively flat and ADA accessible, making it perfect for people of all ages and abilities.\n\nOne of the highlights of the trail is the High Bridge itself, which played a significant role in the Civil War. History buffs will appreciate the interpretive signs along the trail that provide information about the bridge's history and significance.\n\nThe trail passes through several charming small towns, offering opportunities to explore local shops, restaurants, and historical sites. Whether you're looking for a leisurely stroll or a more vigorous outdoor adventure, the High Bridge Trail has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=High%20Bridge%20Trail%20%28HB%29"
+            },
+            {
+                "name": "Holliday Lake (HL)",
+                "url": "https://www.dcr.virginia.gov/state-parks/holliday-lake",
+                "content": "Holliday Lake State Park is a 150-acre, scenic park with a 150-acre lake for swimming, fishing, and boating.",
+                "description": "Holliday Lake State Park offers visitors a picturesque setting with a 150-acre lake for fishing, swimming, and paddling activities. The park features over 10 miles of hiking trails that wind through woodlands, meadows, and along the lake's edge, providing opportunities for birdwatching and wildlife viewing. Visitors can enjoy picnicking in the park's shaded areas or renting a cabin for a relaxing stay in the beautiful natural surroundings. The park also offers a variety of outdoor recreational activities, including geocaching, archery, and nature programs for all ages to enjoy. Whether you come for a day trip or a weekend getaway, Holliday Lake State Park provides a peaceful and scenic outdoor retreat for all to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Holliday%20Lake%20%28HL%29"
+            },
+            {
+                "name": "Hungry Mother (HM)",
+                "url": "https://www.dcr.virginia.gov/state-parks/hungry-mother",
+                "content": "Hungry Mother State Park in Virginia offers visitors scenic views, outdoor activities, and a peaceful retreat in a mountain setting.",
+                "description": "Hungry Mother State Park in Virginia offers visitors a picturesque escape with its stunning mountain views, crystal-clear lake, and lush forests. The park got its name from a Native American legend about a mother and her child who were found starving near the lake. Today, visitors can enjoy a variety of outdoor activities including hiking, fishing, swimming, and boating. The park also features cozy cabins and camping sites for those looking to immerse themselves in nature. Whether you're seeking adventure or relaxation, Hungry Mother State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hungry%20Mother%20%28HM%29"
+            },
+            {
+                "name": "James River (JR)",
+                "url": "https://www.dcr.virginia.gov/state-parks/james-river",
+                "content": "The James River State Park offers a variety of recreational opportunities along the scenic James River in central Virginia.",
+                "description": "1. The James River State Park is a beautiful natural haven for visitors seeking outdoor adventures in Virginia. With over 1,500 acres of rolling meadows, woodlands, and stunning river views, the park offers ample opportunities for hiking, biking, fishing, and kayaking.\n\n2. The James River itself is a designated Virginia Scenic River, known for its crystal-clear waters and abundant wildlife. Visitors can paddle along the river's tranquil waters, spotting bald eagles, osprey, and other native species along the way.\n\n3. The park is also home to a variety of historical sites, including remnants of old canal systems and the Native American village of Monacan. History buffs will enjoy exploring these sites and learning about the region's rich cultural heritage.\n\n4. For those looking to extend their stay, the park offers a range of camping options, from tent sites to cabins. With the soothing sounds of the river as a backdrop, camping at James River State Park is a truly immersive nature experience.\n\n5. Whether you're looking for a peaceful retreat in nature or an action-packed outdoor adventure, the James River State Park has something for everyone. Come explore the beauty and serenity of this hidden gem in Virginia.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=James%20River%20%28JR%29"
+            },
+            {
+                "name": "Kiptopeke (KP)",
+                "url": "https://www.dcr.virginia.gov/state-parks/kiptopeke",
+                "content": "Kiptopeke State Park is a beautiful waterfront park located on the Eastern Shore of Virginia with camping, fishing, and hiking opportunities.",
+                "description": "Kiptopeke State Park, also known as KP by locals, is located on the Eastern Shore of Virginia and offers a unique coastal experience for visitors. The park features a beautiful beach with calm waters perfect for swimming and sunbathing. Visitors can also enjoy hiking and biking trails that wind through the park's diverse habitats, including wooded areas and marshlands. One of the park's main attractions is its annual migration watchtower, where birdwatchers can spot a variety of bird species as they pass through the area. Additionally, Kiptopeke State Park has a campground and cabins available for those looking to extend their stay and enjoy all that the park has to offer.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kiptopeke%20%28KP%29"
+            },
+            {
+                "name": "Lake Anna (LA)",
+                "url": "https://www.dcr.virginia.gov/state-parks/lake-anna",
+                "content": "Lake Anna State Park is a popular destination for swimming, fishing, boating, and picnicking alongside the 13,000-acre reservoir.",
+                "description": "1. Lake Anna is one of the largest freshwater inland reservoirs in Virginia, spanning over 13,000 acres and providing ample opportunities for water-based recreational activities such as boating, fishing, swimming, and water skiing.\n\n2. Visitors to Lake Anna State Park can enjoy hiking along scenic trails that wind through the park's lush forests and offer stunning views of the lake. The park also features picnic areas, a sandy beach, and a visitor center with exhibits on the local wildlife and history.\n\n3. Anglers will appreciate the abundance of fish in Lake Anna, including largemouth bass, striped bass, catfish, and crappie. The lake is a popular spot for fishing tournaments and offers several fishing piers and boat launches for easy access to the water.\n\n4. For those interested in camping, Lake Anna State Park offers a variety of camping options, including tent and RV sites, as well as cabins for rent. The park's campground is equipped with modern amenities such as showers, restrooms, and a camp store.\n\n5. Whether you're looking to relax on the beach, explore the outdoors, or reel in a big catch, Lake Anna offers something for everyone to enjoy and is a perfect destination for a weekend getaway or family vacation.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Anna%20%28LA%29"
+            },
+            {
+                "name": "Leesylvania (LE)",
+                "url": "https://www.dcr.virginia.gov/state-parks/leesylvania",
+                "content": "Leesylvania State Park offers stunning waterfront views, hiking trails, and historical sites along the Potomac River in Virginia.",
+                "description": "Leesylvania State Park is a picturesque park located along the Potomac River in Prince William County, Virginia. Visitors can enjoy hiking trails, picnicking areas, and a public boat launch for water recreation. The park is also home to the remains of Fairfax Stone, a plantation house built in the 1700s. History enthusiasts can explore the Lee Family Cemetery, which is the final resting place of several members of the Lee family, including Richard Henry Lee, a signer of the Declaration of Independence. Leesylvania State Park is a great destination for outdoor lovers, history buffs, and anyone looking to escape the hustle and bustle of city life.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Leesylvania%20%28LE%29"
+            },
+            {
+                "name": "Machicomoco (MA)",
+                "url": "https://www.dcr.virginia.gov/state-parks/machicomoco.php",
+                "content": "Machicomoco State Park in Virginia is a newly acquired park that offers opportunities for outdoor recreation and education on the history and culture of the area's Indigenous peoples.",
+                "description": "Machicomoco State Park in Virginia, named after an historic Algonquian village, offers visitors a unique opportunity to explore the rich cultural heritage of the region. This park features a variety of outdoor activities, including hiking, fishing, and birdwatching, making it a great destination for nature enthusiasts and outdoor adventurers alike. The park's diverse ecosystems, including wetlands, forests, and open meadows, provide habitat for a wide array of plant and animal species, making it a prime spot for wildlife viewing. Additionally, Machicomoco State Park is home to several historic sites, including a 17th-century grave site and remnants of an old farm, where visitors can learn about the area's past. Whether you're looking to connect with nature, explore history, or simply relax in a peaceful setting, Machicomoco State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Machicomoco%20%28MA%29"
+            },
+            {
+                "name": "Mason Neck (MN)",
+                "url": "https://www.dcr.virginia.gov/state-parks/mason-neck",
+                "content": "Mason Neck State Park is located along the Potomac River in Virginia and offers a variety of outdoor activities such as hiking, biking, and bird watching.",
+                "description": "1. Mason Neck State Park is located on a peninsula in the Potomac River and is home to a wide variety of wildlife, including bald eagles, osprey, and great blue herons. Visitors can enjoy birdwatching and wildlife viewing opportunities throughout the park.\n\n2. The park features several hiking trails, including the Great Marsh Trail which offers stunning views of the wetlands and marshes. Visitors can also explore the forested areas of the park on the Bayview Trail, which leads to a beautiful overlook of Belmont Bay.\n\n3. Mason Neck State Park is a popular destination for kayaking and canoeing, with access to the Potomac and Occoquan Rivers. The park also has a boat launch for those looking to explore the waterways by motorized boat.\n\n4. History buffs will enjoy visiting the Old Mansion, a historic home located within the park that dates back to the 18th century. The mansion offers guided tours and a look into the park's past as a plantation and later a wildlife refuge.\n\n5. Visitors can also enjoy picnicking, camping, and fishing at Mason Neck State Park, making it a great destination for a day trip or weekend getaway in the Northern Virginia area. With its diverse natural habitats and recreational opportunities, the park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Mason%20Neck%20%28MN%29"
+            },
+            {
+                "name": "Natural Bridge (NB)",
+                "url": "https://www.dcr.virginia.gov/state-parks/natural-bridge",
+                "content": "The Natural Bridge is a geological formation in Virginia that is a 215-foot tall natural limestone arch spanning a gorge and is referred to as one of the Seven Natural Wonders of the World.",
+                "description": "The Natural Bridge in Virginia is a breathtaking natural wonder that spans 215 feet in height and 90 feet in width, making it one of the largest natural bridges in the world. Visitors can take a leisurely walk along the Cedar Creek Trail to view this impressive geological formation up close. The Natural Bridge has a rich history, with Thomas Jefferson once owning the land surrounding it and all visitors can learn about its significance at the on-site Monacan Indian Living History exhibit. For adventurous visitors, there are also opportunities for rock climbing and rappelling at the Natural Bridge. Make sure to bring your camera to capture the stunning beauty of this natural landmark.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Natural%20Bridge%20%28NB%29"
+            },
+            {
+                "name": "Natural Tunnel (NT)",
+                "url": "https://www.dcr.virginia.gov/state-parks/natural-tunnel",
+                "content": "Natural Tunnel is a geological wonder in Duffield, Virginia, formed by a cave collapsing, creating a stunning tunnel that is over 850 feet long and 100 feet high.",
+                "description": "Natural Tunnel State Park in Virginia is home to a stunning geological formation known as the Natural Tunnel, which is a colossal 850-foot long limestone tunnel. Visitors can explore the tunnel by taking a guided chairlift ride down to the bottom, where they can walk along the banks of the Stock Creek. The park offers a variety of outdoor activities, including hiking trails, picnicking areas, and a swimming pool fed by fresh spring water. The Natural Tunnel is a popular spot for birdwatching, with over 50 species of birds recorded in the park. The park also hosts special events throughout the year, such as music festivals and educational programs for visitors of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Natural%20Tunnel%20%28NT%29"
+            },
+            {
+                "name": "New River Trail (NR)",
+                "url": "https://www.dcr.virginia.gov/state-parks/new-river-trail",
+                "content": "The New River Trail is a 57-mile long state park in Virginia that follows the scenic New River, offering biking, hiking, and horseback riding opportunities.",
+                "description": "The New River Trail is a 57-mile long linear state park that follows the scenic New River in Southwest Virginia. Visitors can enjoy a variety of outdoor activities along the trail, such as hiking, biking, horseback riding, and fishing. The trail offers stunning views of the surrounding countryside, including forests, farmland, and cliffs overlooking the river. There are also multiple access points and picnic areas along the trail for visitors to relax and enjoy the natural beauty of the area. The New River Trail is a popular destination for outdoor enthusiasts looking to explore the beauty of Virginia's New River region.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=New%20River%20Trail%20%28NR%29"
+            },
+            {
+                "name": "Occoneechee (OC)",
+                "url": "https://www.dcr.virginia.gov/state-parks/occoneechee",
+                "content": "The Occoneechee State Park in Virginia offers a variety of outdoor recreational activities, from hiking and fishing to camping and boating.",
+                "description": "1. Occoneechee State Park is situated on the beautiful Buggs Island Lake, offering visitors a tranquil escape surrounded by nature's beauty. \n\n2. The park features a variety of outdoor activities, including hiking trails, fishing spots, and boat rentals, making it the perfect destination for outdoor enthusiasts.\n\n3. History lovers will enjoy exploring the Native American artifacts and exhibits at the park's Visitor Center, learning about the Occoneechee tribe that once inhabited the area.\n\n4. With campsites available for overnight stays, visitors can extend their experience and enjoy stargazing by the campfire or early morning birdwatching along the lake shore. \n\n5. Whether you're looking for a relaxing weekend getaway or an outdoor adventure, Occoneechee State Park offers something for everyone to enjoy in a pristine natural setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Occoneechee%20%28OC%29"
+            },
+            {
+                "name": "Pocahontas (PO)",
+                "url": "https://www.dcr.virginia.gov/state-parks/pocahontas",
+                "content": "Pocahontas State Park in Virginia offers outdoor activities such as hiking, biking, boating, and camping in a scenic natural setting.",
+                "description": "Pocahontas State Park is a 7,950-acre park located in Chesterfield, Virginia, offering a wide range of outdoor activities for visitors to enjoy. The park is named after the famous historical figure Pocahontas, who was a Native American princess known for her role in the early English colonization of Virginia.\n\nVisitors can explore over 64 miles of multi-use trails for hiking, biking, and horseback riding, providing opportunities to immerse themselves in the natural beauty of the park. The park also features a 225-acre lake with a swimming beach, boat rentals, and fishing piers, making it a popular destination for water activities.\n\nFor those interested in wildlife viewing, Pocahontas State Park is home to a variety of native species, including deer, turkeys, and bald eagles. Birdwatchers will appreciate the park's diverse habitats and the chance to spot a wide range of bird species throughout the year.\n\nAdditionally, the park offers picnic areas, playgrounds, and camping facilities, making it a great destination for families looking to spend time outdoors together. Whether you're looking for a relaxing day by the lake or an adventurous hike through the woods, Pocahontas State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pocahontas%20%28PO%29"
+            },
+            {
+                "name": "Powhatan (PW)",
+                "url": "https://www.dcr.virginia.gov/state-parks/powhatan",
+                "content": "Powhatan State Park is a scenic park located along the historic James River in central Virginia.",
+                "description": "Located in the heart of Virginia, Powhatan State Park offers visitors the opportunity to explore over 1,500 acres of natural beauty along the historic James River. Visitors can enjoy hiking, biking, and horseback riding on the park's extensive trail system, or take a leisurely paddle down the river in a canoe or kayak. The park also features a campground for overnight stays, as well as picnic areas and a playground for families to enjoy. History buffs will appreciate the park's proximity to the historic town of Powhatan, which was originally settled in the early 18th century. With its stunning views and abundance of outdoor activities, Powhatan State Park is the perfect destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Powhatan%20%28PW%29"
+            },
+            {
+                "name": "Sailor's Creek Battlefield",
+                "url": "https://www.dcr.virginia.gov/state-parks/sailors-creek",
+                "content": "Sailor's Creek Battlefield State Park in Virginia marks the site of one of the last major Civil War battles fought prior to General Robert E. Lee's surrender at Appomattox Court House.",
+                "description": "Sailor's Creek Battlefield State Park is a historic site in Virginia that commemorates one of the last major battles of the American Civil War. Visitors can explore the battlefield where Confederate troops suffered a significant defeat at the hands of Union forces on April 6, 1865. The park features walking trails, interpretive signs, and a visitor center with exhibits detailing the events of the battle.\n\nGuests can learn about the brave soldiers who fought in this pivotal engagement and the impact it had on the outcome of the war. The park also hosts special events and reenactments throughout the year, providing a deeper insight into the history of this important site. Whether you're a history buff or just looking to learn something new, Sailor's Creek Battlefield State Park offers a unique and educational experience for visitors of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sailor%27s%20Creek%20Battlefield"
+            },
+            {
+                "name": "Seven Bends (SE)",
+                "url": "https://www.dcr.virginia.gov/state-parks/seven-bends",
+                "content": "Seven Bends State Park in Virginia boasts a scenic stretch of the North Fork of the Shenandoah River with seven dramatic bends in the waterway.",
+                "description": "Seven Bends State Park is a beautiful park located in the Shenandoah Valley, offering visitors a chance to explore over 1,000 acres of lush forests, rolling hills, and scenic river views. The park is named after the seven bends in the North Fork of the Shenandoah River that can be seen from various overlooks and hiking trails. Visitors can enjoy a variety of outdoor activities such as hiking, fishing, kayaking, and birdwatching in this serene natural setting. The park also has a campground and picnic areas, making it a great destination for a weekend getaway or family outing. With its stunning views and abundant wildlife, Seven Bends State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seven%20Bends%20%28SE%29"
+            },
+            {
+                "name": "Shenandoah River (SH)",
+                "url": "https://www.dcr.virginia.gov/state-parks/shenandoah-river",
+                "content": "The Shenandoah River is a scenic waterway in Virginia known for its peaceful float trips and abundant wildlife.",
+                "description": "The Shenandoah River is a popular destination for outdoor enthusiasts, offering a variety of activities such as fishing, canoeing, and kayaking. Visitors can enjoy the scenic beauty of the river as they navigate its gentle waters. The river is also home to a diverse array of wildlife, making it a great spot for birdwatching and nature photography. Additionally, the Shenandoah River is surrounded by picturesque hiking trails, providing ample opportunities for hiking and exploring the surrounding countryside. Whether you're looking for a relaxing day on the water or an adventurous outdoor experience, the Shenandoah River has something for every visitor to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Shenandoah%20River%20%28SH%29"
+            },
+            {
+                "name": "Shot Tower (ST)",
+                "url": "https://www.dcr.virginia.gov/state-parks/shot-tower",
+                "content": "The Shot Tower is a historic structure at New River Trail State Park, where lead shot was manufactured for ammunition during the early 19th century.",
+                "description": "The Shot Tower in Virginia is a historical landmark where lead shot was produced in the early 19th century using a unique manufacturing process. Standing at 75 feet tall, visitors can climb to the top of the tower for panoramic views of the surrounding countryside. The tower's interior is filled with fascinating exhibits and displays that showcase the history of the site. The Shot Tower State Park offers hiking trails, picnic areas, and opportunities for birdwatching, making it a great destination for outdoor enthusiasts. Visitors can also learn about the craftsmanship and ingenuity required to create this important piece of industrial history.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Shot%20Tower%20%28ST%29"
+            },
+            {
+                "name": "Sky Meadows (SK)",
+                "url": "https://www.dcr.virginia.gov/state-parks/sky-meadows",
+                "content": "Sky Meadows State Park offers stunning views, picnicking, hiking, and fishing in the beautiful foothills of the Blue Ridge Mountains.",
+                "description": "Sky Meadows State Park is located in the beautiful foothills of Virginia's Blue Ridge Mountains, offering visitors a peaceful retreat away from the hustle and bustle of city life. The park boasts over 20 miles of hiking trails, ranging from easy strolls to challenging climbs, providing opportunities for visitors of all skill levels to explore the park's natural beauty.\n\nIn addition to hiking, Sky Meadows State Park is a popular spot for horseback riding, with a network of equestrian trails winding through the park's rolling hills and wooded areas. The park also features several historic sites, including the Mount Bleak House, which dates back to the 19th century and offers a glimpse into the region's past.\n\nFor those looking to relax and unwind, Sky Meadows State Park offers picnic areas and a tranquil meadow where visitors can spread out a blanket and enjoy a scenic view of the surrounding countryside. Birdwatchers will also delight in the park's diverse wildlife, with over 200 species of birds to be spotted throughout the year.\n\nWhether you're looking for a challenging outdoor adventure or a peaceful escape into nature, Sky Meadows State Park is the perfect destination for visitors seeking to connect with the great outdoors. Plan your visit today and discover all that this hidden gem has to offer.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sky%20Meadows%20%28SK%29"
+            },
+            {
+                "name": "Smith Mountain Lake (SM)",
+                "url": "https://www.dcr.virginia.gov/state-parks/smith-mountain-lake",
+                "content": "Smith Mountain Lake is a picturesque reservoir in Virginia surrounded by rolling hills and hiking trails, perfect for fishing and water recreation.",
+                "description": "Smith Mountain Lake is a 20,600-acre reservoir nestled in the Blue Ridge Mountains of Virginia. This picturesque destination offers a wide range of outdoor recreational activities, including fishing, boating, swimming, and hiking. Visitors can explore over 500 miles of shoreline and enjoy stunning views of the surrounding mountains. The lake is also home to a variety of wildlife, making it a popular spot for birdwatching and wildlife viewing. Whether you're looking for a relaxing getaway or an adventurous escape, Smith Mountain Lake has something to offer every visitor.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Smith%20Mountain%20Lake%20%28SM%29"
+            },
+            {
+                "name": "Southwest Virginia Museum",
+                "url": "https://www.dcr.virginia.gov/state-parks/southwest-virginia-museum",
+                "content": "The Southwest Virginia Museum offers visitors a glimpse into the region's history and culture through exhibits and artifacts.",
+                "description": "The Southwest Virginia Museum in Big Stone Gap offers visitors a glimpse into the history and culture of the region. Housed in a historic mansion built in 1888, the museum showcases exhibits on Appalachian music, coal mining, and the region's natural beauty.\n\nVisitors can explore the beautifully preserved rooms of the mansion, which feature period furnishings and artifacts from the region's past. The museum also offers educational programs, special events, and guided tours for a more in-depth experience.\n\nOne of the highlights of the museum is the collection of traditional Appalachian music instruments, including banjos, fiddles, and dulcimers. Guests can listen to recordings of local musicians and learn about the rich musical heritage of the area.\n\nThe museum's location in the heart of the Appalachian Mountains makes it a perfect starting point for exploring the region's outdoor recreational opportunities, including hiking, fishing, and camping. Don't miss the chance to immerse yourself in the history and culture of Southwest Virginia at this unique museum.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Southwest%20Virginia%20Museum"
+            },
+            {
+                "name": "Staunton River (SR)",
+                "url": "https://www.dcr.virginia.gov/state-parks/staunton-river",
+                "content": "Staunton River State Park is a scenic park located in Virginia that offers camping, hiking, fishing, and boating opportunities along the picturesque Staunton River.",
+                "description": "Staunton River State Park is a beautiful 2,400-acre park located in southeastern Virginia, offering visitors a wide range of recreational activities. The park is home to the meandering Staunton River, which provides opportunities for fishing, boating, and swimming.\nVisitors can explore over 17 miles of scenic hiking, biking, and bridle trails that wind through wooded areas and along the river. The park also features two campgrounds, cabins, and a lodge for overnight stays, making it the perfect destination for a weekend getaway.\nHistory buffs will enjoy visiting the park's Civilian Conservation Corps museum, which highlights the contributions of the CCC to the development of the park. Birdwatchers will also appreciate the diverse wildlife that inhabits the park, including bald eagles, osprey, and herons.\nStaunton River State Park is a popular destination for stargazers, as it is designated as an International Dark Sky Park. Visitors can attend astronomy programs, view the night sky through telescopes, and learn about the importance of preserving dark skies for future generations. Whether you're looking to relax by the river, explore the park's trails, or gaze at the stars, Staunton River State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Staunton%20River%20%28SR%29"
+            },
+            {
+                "name": "Staunton River Battlefield (SB)",
+                "url": "https://www.dcr.virginia.gov/state-parks/staunton-river-battlefield",
+                "content": "Staunton River Battlefield State Park is a historic site in Virginia that preserves the location of a key Civil War battle and offers opportunities for hiking, picnicking, and nature observation.",
+                "description": "Staunton River Battlefield is a historical site in Virginia that offers visitors a glimpse into the Civil War era. The park features well-preserved earthworks, as well as various interpretive exhibits and displays that highlight the significance of the battle that took place here. Visitors can explore the park on foot or by bike along the trails that wind through the picturesque landscape. The park also offers opportunities for fishing and boating on the nearby Staunton River. With its rich history and natural beauty, Staunton River Battlefield is a must-see destination for history buffs and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Staunton%20River%20Battlefield%20%28SB%29"
+            },
+            {
+                "name": "Sweet Run (SN)",
+                "url": "https://www.dcr.virginia.gov/state-parks/sweet-run.php",
+                "content": "Sweet Run is a small, peaceful state park in Virginia featuring a scenic creek, hiking trails, and picnic areas.",
+                "description": "Sweet Run is a hidden gem located in the George Washington and Jefferson National Forests, perfect for visitors looking to escape the hustle and bustle of city life. The crystal clear waters of Sweet Run provide a serene setting for fishing and wading, with rainbow and brown trout waiting to be caught. Hikers can explore the surrounding area by following the Sweet Run Loop Trail, immersing themselves in the lush greenery and diverse wildlife. Picnic areas and a campground are available for visitors wanting to extend their stay and enjoy a peaceful outdoor getaway. With its tranquil atmosphere and beautiful scenery, Sweet Run is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sweet%20Run%20%28SN%29"
+            },
+            {
+                "name": "Twin Lakes (TL)",
+                "url": "https://www.dcr.virginia.gov/state-parks/twin-lakes",
+                "content": "Twin Lakes State Park in Virginia features two pristine lakes surrounded by rolling hills and offers a variety of recreational activities including swimming, fishing, hiking, and camping.",
+                "description": "1. Twin Lakes State Park is a beautiful and serene destination in Virginia, featuring two picturesque lakes surrounded by lush forests and rolling hills. Visitors can enjoy swimming, boating, fishing, and picnicking at the park's sandy beach or rent a canoe or paddleboat for a relaxing day on the water.\n\n2. The park offers a variety of hiking trails, ranging from easy walks to more challenging treks, allowing visitors to explore the natural beauty of the area and spot native wildlife such as deer, turkeys, and songbirds. Birdwatchers will especially enjoy the diverse bird species that can be found in the park, making it a perfect spot for birdwatching enthusiasts.\n\n3. History buffs will appreciate the park's historic buildings and structures, including a restored 19th-century grist mill and a charming log cabin that provides a glimpse into pioneer life in Virginia. The park also offers interpretive programs and guided tours that highlight the rich history of the area.\n\n4. Camping facilities at Twin Lakes State Park include cabins, yurts, and campsites with amenities such as fire pits, picnic tables, and access to restrooms and showers. Whether you prefer roughing it in a tent or enjoying the comforts of a cozy cabin, the park offers a range of options for overnight stays.\n\n5. With its tranquil atmosphere, beautiful scenery, and abundance of recreational opportunities, Twin Lakes State Park is the perfect destination for a weekend getaway or a longer vacation. Whether you're looking to relax by the water, explore the great outdoors, or immerse yourself in history, this park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Twin%20Lakes%20%28TL%29"
+            },
+            {
+                "name": "Westmoreland (WE)",
+                "url": "https://www.dcr.virginia.gov/state-parks/westmoreland",
+                "content": "Westmoreland State Park is a 1,321-acre park located on the Northern Neck of Virginia, offering hiking trails, swimming, boating, and camping opportunities.",
+                "description": "Westmoreland State Park, located in Virginia, offers visitors a chance to explore the natural beauty of the Northern Neck region. Visitors can enjoy hiking along the park's scenic trails, which offer stunning views of the Potomac River and surrounding woodlands. The park also features a sand beach where visitors can relax, swim, and sunbathe during the summer months. Westmoreland State Park is known for its fossils, as the area was once covered by the ocean millions of years ago. Guests can hunt for shark teeth and other marine fossils along the park's shores, making it a unique and educational experience for all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Westmoreland%20%28WE%29"
+            },
+            {
+                "name": "Widewater (WW)",
+                "url": "https://www.dcr.virginia.gov/state-parks/widewater",
+                "content": "Widewater State Park offers a peaceful waterfront experience on the Potomac River with opportunities for fishing, birdwatching, and hiking.",
+                "description": "Widewater State Park is a beautiful waterfront park located along the Potomac River in Virginia. Visitors can enjoy stunning views of the river, as well as opportunities for fishing, paddling, and birdwatching.\n\nThe park offers a unique habitat for a variety of wildlife, including bald eagles and ospreys. Visitors can explore the park's trails and boardwalks, which wind through marshes and woodlands, providing a peaceful escape from city life.\n\nWidewater State Park is a great spot for picnicking and relaxing by the water, with several pavilions and picnic areas available for use. The park also has a boat launch for those looking to explore the river by kayak or canoe.\n\nOverall, Widewater State Park is a hidden gem in Virginia, offering a tranquil retreat for nature lovers and outdoor enthusiasts alike. Whether you're looking to unwind by the water or explore the park's unique ecosystem, Widewater is sure to impress visitors of all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Widewater%20%28WW%29"
+            },
+            {
+                "name": "Wilderness Road (WR)",
+                "url": "https://www.dcr.virginia.gov/state-parks/wilderness-road",
+                "content": "Wilderness Road State Park encompasses the path of the historic route blazed by Daniel Boone in 1775.",
+                "description": "The Wilderness Road (WR) is a historic route that played a crucial role in the expansion of the United States. It was originally blazed by Daniel Boone in 1775 and served as a major pathway for westward migration. Visitors can explore a variety of historic sites along the WR, including the Cumberland Gap National Historical Park and Martin's Station. The park offers opportunities for hiking, bird watching, and camping, making it a great destination for outdoor enthusiasts. With its rich history and scenic beauty, the Wilderness Road is a must-visit destination for those interested in American history and the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Wilderness%20Road%20%28WR%29"
+            },
+            {
+                "name": "York River (YR)",
+                "url": "https://www.dcr.virginia.gov/state-parks/york-river",
+                "content": "The York River State Park features over 30 miles of hiking, biking, and equestrian trails along the scenic York River.",
+                "description": "The York River is a picturesque waterway located in Virginia, known for its stunning natural beauty and rich history. Visitors can enjoy a variety of outdoor activities on the river, including fishing, kayaking, and canoeing.\nThe York River State Park, situated along the river, offers hiking trails and picnic areas for visitors to enjoy. The park is also home to a diverse array of wildlife, making it a great spot for birdwatching and nature enthusiasts.\nHistory buffs will appreciate the York River's significance in American history, as it played a prominent role during the Revolutionary War and Civil War. Visitors can explore historic sites along the river, such as the Yorktown Battlefield and Colonial National Historical Park.\nThe York River is also a popular spot for boating and sailing, with many marinas and boat rental facilities available for visitors. Whether you're looking for a relaxing day on the water or an adventure-filled excursion, the York River offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=York%20River%20%28YR%29"
+            }
+        ]
+    }
+}

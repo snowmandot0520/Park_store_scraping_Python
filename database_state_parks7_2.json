@@ -1,0 +1,390 @@
+{
+    "South Carolina State Parks": {
+        "parks": [
+            {
+                "name": "Aiken",
+                "url": "https://southcarolinaparks.com/aiken",
+                "content": "The Aiken representative is passionate about preserving natural environments and providing outdoor recreation opportunities for visitors.",
+                "description": "Aiken State Park is a beautiful outdoor destination located in the heart of South Carolina, offering visitors a serene escape to nature. The park features a 1,000-acre lake perfect for fishing, kayaking, and canoeing, providing endless opportunities for outdoor enthusiasts. Hiking and biking trails wind through the park, offering stunning views of the surrounding scenery and native wildlife. Campers can enjoy spacious campsites with amenities such as picnic tables, fire rings, and restrooms to ensure a comfortable stay. With its peaceful atmosphere and abundance of recreational activities, Aiken State Park is a must-visit destination for anyone looking to experience the natural beauty of South Carolina.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Aiken"
+            },
+            {
+                "name": "Andrew Jackson",
+                "url": "https://southcarolinaparks.com/andrew-jackson",
+                "content": "Andrew Jackson was the seventh President of the United States and a military hero known for his leadership during the War of 1812.",
+                "description": "Andrew Jackson State Park is dedicated to honoring the life and legacy of the seventh president of the United States. Visitors can explore the preserved homestead where Jackson grew up and learn about his early years in the backcountry of South Carolina. The park offers hiking trails, picnic facilities, and a museum showcasing artifacts from Jackson's life. Guests can also participate in living history programs and events that bring the 19th-century frontier to life. Andrew Jackson State Park provides a unique opportunity to step back in time and immerse oneself in the rich history of this influential American figure.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Andrew%20Jackson"
+            },
+            {
+                "name": "Baker Creek",
+                "url": "https://southcarolinaparks.com/baker-creek",
+                "content": "Baker Creek State Park in South Carolina offers a peaceful setting for camping, fishing, and picnicking near Lake Thurmond.",
+                "description": "Baker Creek is a hidden gem nestled within Chester State Park in South Carolina, offering a serene escape for visitors. The creek meanders through the park's lush forested area, providing a tranquil setting for hiking and birdwatching. Visitors can also enjoy fishing along the creek's banks, with opportunities to catch bass, bream, and catfish. The picturesque bridge spanning Baker Creek is a popular spot for photography and picnicking, perfect for a relaxing day out in nature. With its peaceful ambiance and scenic beauty, Baker Creek is a must-see destination for outdoor enthusiasts looking to unwind and reconnect with the great outdoors.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Baker%20Creek"
+            },
+            {
+                "name": "Barnwell",
+                "url": "https://southcarolinaparks.com/barnwell",
+                "content": "The representative of Barnwell is dedicated to preserving the natural beauty and history of the city's parks and recreational areas.",
+                "description": "Barnwell State Park is a peaceful and spacious retreat located in the heart of South Carolina. Visitors can enjoy various outdoor activities such as fishing, hiking, and birdwatching in the park's serene natural surroundings. The park also offers well-equipped picnic areas and a swimming lake for guests to relax and unwind. For those looking to extend their stay, Barnwell State Park features cozy cabins and campsites for a truly immersive outdoor experience. Whether you're seeking adventure or simply a quiet escape from city life, Barnwell State Park has something to offer every nature enthusiast.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Barnwell"
+            },
+            {
+                "name": "Battle of Musgrove Mill",
+                "url": "https://southcarolinaparks.com/musgrove-mill",
+                "content": "The Battle of Musgrove Mill was a turning point in the Revolutionary War where Patriot forces defeated Loyalist troops, on August 19, 1780.",
+                "description": "The Battle of Musgrove Mill was a pivotal skirmish during the American Revolutionary War, taking place on August 19, 1780. Visitors to the historic site can explore the battlefield and learn about the intense fighting that occurred between Patriot forces and Loyalist troops. The Musgrove Mill State Historic Site features a visitor center with exhibits detailing the events leading up to the battle and the impact it had on the war. Outdoor enthusiasts can also enjoy hiking trails, picnic areas, and fishing along the Enoree River. This site offers a unique opportunity to step back in time and experience a crucial moment in American history.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Battle%20of%20Musgrove%20Mill"
+            },
+            {
+                "name": "Battle of Rivers Bridge",
+                "url": "https://southcarolinaparks.com/rivers-bridge",
+                "content": "The Battle of Rivers Bridge was a significant Civil War battle fought in South Carolina in 1865, where Union forces successfully defended a crucial bridge crossing against Confederate troops.",
+                "description": "The Battle of Rivers Bridge was a significant Civil War battle fought on February 2-3, 1865 in South Carolina. It was part of General William T. Sherman's Campaign of the Carolinas. The battle resulted in a Union victory and played a crucial role in weakening the Confederate Army, eventually leading to the end of the war.\n\nThe historic site of Rivers Bridge is now preserved as a state park, offering visitors the opportunity to explore the battlefield and learn about the events that took place there. The park features interpretive trails, markers, and exhibits that provide insight into the tactics and strategies used during the battle.\n\nVisitors can walk along the battlefield trail and see earthworks, trenches, and monuments that mark the locations of various regiments and units involved in the conflict. The park also hosts living history events, reenactments, and educational programs that bring the history of the Battle of Rivers Bridge to life.\n\nIn addition to its historical significance, Rivers Bridge State Historic Site is a beautiful natural area, with trails that wind through forests, swamps, and meadows. Birdwatching, hiking, and picnicking are popular activities for visitors looking to enjoy the peaceful surroundings of the park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Battle%20of%20Rivers%20Bridge"
+            },
+            {
+                "name": "Caesars Head",
+                "url": "https://southcarolinaparks.com/caesars-head",
+                "content": "Caesars Head State Park in South Carolina offers stunning views of the Blue Ridge Mountains and is a popular spot for hiking and picnicking.",
+                "description": "Caesars Head State Park is a stunning natural attraction located in the Blue Ridge Mountains of South Carolina. Visitors can enjoy panoramic views of the surrounding landscape from the top of the granite outcrop known as Caesars Head. The park offers a variety of hiking trails, ranging from easy walks to more challenging treks, allowing visitors to explore the diverse plant and animal life in the area. For those looking for even more adventure, the park is also a popular spot for rock climbing and rappelling. Whether you come for the breathtaking views or the outdoor activities, Caesars Head State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Caesars%20Head"
+            },
+            {
+                "name": "Calhoun Falls",
+                "url": "https://southcarolinaparks.com/calhoun-falls",
+                "content": "Calhoun Falls State Park represents simplicity, featuring peaceful lakeside camping and hiking trails in a serene natural setting.",
+                "description": "Calhoun Falls State Park is a picturesque destination located in the upper Piedmont region of South Carolina. The park is known for its serene setting, perfect for those looking to escape the hustle and bustle of daily life. Visitors can enjoy a variety of outdoor activities, including fishing, hiking, and boating on Lake Russell.\n\nOne of the most popular features of Calhoun Falls State Park is its beautiful waterfall, which cascades down 45 feet into the lower lake. This waterfall provides a peaceful backdrop for visitors to relax and unwind. Additionally, the park offers well-maintained campsites and picnic areas, making it a great spot for a weekend getaway with family or friends.\n\nNature enthusiasts will appreciate the diverse wildlife that can be found in the park, including white-tailed deer, wild turkeys, and a variety of bird species. The park is also home to several rare plant species, making it a great spot for botanical enthusiasts to explore.\n\nOverall, Calhoun Falls State Park offers a tranquil setting for visitors to connect with nature and enjoy the beauty of the South Carolina landscape. Whether you're looking for a relaxing day by the water or an outdoor adventure, this park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Calhoun%20Falls"
+            },
+            {
+                "name": "Charles Towne Landing",
+                "url": "https://southcarolinaparks.com/charles-towne-landing",
+                "content": "Charles Towne Landing is where the English established their first permanent settlement in South Carolina in 1670.",
+                "description": "Charles Towne Landing in South Carolina is the site of the original 1670 settlement of Charles Towne, the first permanent European settlement in the Carolina colony. Visitors can explore the Historic Trail, which showcases interactive exhibits and a replica 17th-century trading ship. The Animal Forest zoo features native species such as bison, bears, and deer in their natural habitats. The Adventure area offers opportunities for hiking, biking, and picnicking along with a playground for children. With beautiful gardens, scenic views of the Ashley River, and a glimpse into colonial history, Charles Towne Landing is a must-visit destination for history buffs and nature lovers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Charles%20Towne%20Landing"
+            },
+            {
+                "name": "Cheraw",
+                "url": "https://southcarolinaparks.com/cheraw",
+                "content": "The Cheraw State Park representative is a preserved slice of natural beauty offering hiking, camping, swimming, fishing, and educational programs in South Carolina.",
+                "description": "Cheraw State Park, located in beautiful Cheraw, South Carolina, offers visitors an array of outdoor activities to enjoy. The park features a picturesque 300-acre lake where visitors can go fishing, boating, or kayaking. Hiking enthusiasts will love exploring the park's scenic trails, which offer stunning views of the surrounding landscapes. For those looking to relax, there are plenty of picnic areas and campsites available to enjoy a peaceful day in nature. Additionally, the park boasts a championship 18-hole golf course, making it a perfect destination for golfers of all skill levels.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Cheraw"
+            },
+            {
+                "name": "Chester",
+                "url": "https://southcarolinaparks.com/chester",
+                "content": "The Chester State Park representative is passionate about preserving and promoting the natural beauty and recreational opportunities of this historic South Carolina park.",
+                "description": "Chester State Park in South Carolina is a scenic natural haven where visitors can enjoy outdoor activities such as fishing, boating, and hiking. The park features a beautiful lake surrounded by lush forests, making it a great spot for picnicking and relaxing in nature. History buffs will appreciate the park's connections to the Revolutionary War, with nearby sites like the Musgrove Mill State Historic Site. The park also offers camping options for those looking to extend their stay and fully immerse themselves in the peaceful surroundings. Whether you're seeking adventure or a tranquil retreat, Chester State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Chester"
+            },
+            {
+                "name": "Colleton",
+                "url": "https://southcarolinaparks.com/colleton",
+                "content": "The Colleton State Park representative is dedicated to preserving and showcasing the diverse natural beauty of the Lowcountry region in South Carolina.",
+                "description": "Colleton State Park is a serene and picturesque destination nestled along the Edisto River in South Carolina. Visitors can enjoy various outdoor activities such as canoeing, kayaking, and fishing in the calm waters of the river. The park also offers trails for hiking and birdwatching, providing a peaceful retreat into nature.\n\nFor those looking to spend the night, Colleton State Park offers camping facilities with both tent and RV sites available. The campsites are well-maintained and provide a comfortable outdoor experience for visitors. Additionally, the park has picnic shelters and a playground, making it a great spot for a day trip or family outing.\n\nWith its scenic river views and abundant wildlife, Colleton State Park is a great place to relax and unwind in the great outdoors. Whether you're looking to paddle along the river or simply enjoy a peaceful afternoon surrounded by nature, this park offers a tranquil escape from the hustle and bustle of everyday life.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Colleton"
+            },
+            {
+                "name": "Colonial Dorchester",
+                "url": "https://southcarolinaparks.com/colonial-dorchester",
+                "content": "Colonial Dorchester State Historic Site offers a glimpse into colonial life in South Carolina with well-preserved ruins and educational exhibits.",
+                "description": "Colonial Dorchester State Historic Site offers visitors a glimpse into the history of the colonial era in South Carolina. The historic site features the ruins of a colonial village, including a fort, church, and bell tower. Visitors can explore the archaeological remains and learn about the settlement's role in the early history of the region.\n\nThe site also offers interpretive exhibits and guided tours to help visitors understand the significance of Colonial Dorchester. Walking trails wind through the site, allowing visitors to immerse themselves in the history and peaceful surroundings. The park is a great destination for history buffs, families, and anyone interested in learning about South Carolina's colonial past.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Colonial%20Dorchester"
+            },
+            {
+                "name": "Croft",
+                "url": "https://southcarolinaparks.com/croft",
+                "content": "The Croft State Park representative offers information and resources for visitors to explore and enjoy the park's hiking trails, camping grounds, and family-friendly activities.",
+                "description": "Croft State Park is a picturesque outdoor oasis nestled in the foothills of the Blue Ridge Mountains, offering visitors a tranquil escape from the hustle and bustle of everyday life. The park boasts over 7,000 acres of pristine woodlands, creeks, and rolling hills, providing ample opportunities for outdoor recreation such as hiking, biking, fishing, and horseback riding.\n\nVisitors can explore the park's extensive network of scenic trails, including the popular Palmetto Trail which winds through dense forests and alongside crystal-clear streams. For equestrian enthusiasts, Croft State Park features a dedicated equestrian center with miles of horse-friendly trails, as well as horse stalls and camping facilities for overnight stays.\n\nHistory buffs will appreciate the park's rich cultural heritage, with several historic structures dating back to the Great Depression-era Civilian Conservation Corps (CCC) still standing on the property. These CCC-built buildings serve as a reminder of the park's storied past and offer a glimpse into the lives of the individuals who once called Croft home.\n\nWhether you're seeking a peaceful day in nature or an action-packed adventure, Croft State Park has something for everyone to enjoy. Plan a visit to this hidden gem in South Carolina and experience the beauty and serenity of the great outdoors firsthand.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Croft"
+            },
+            {
+                "name": "Devils Fork",
+                "url": "https://southcarolinaparks.com/devils-fork",
+                "content": "Devils Fork State Park is known for its crystal-clear waters and stunning views of Lake Jocassee in South Carolina.",
+                "description": "Devils Fork State Park in South Carolina is a popular destination for outdoor enthusiasts looking to explore the beauty of Lake Jocassee. The park is known for its crystal-clear waters, perfect for swimming, boating, and fishing. Visitors can also enjoy hiking and picnicking along the park's scenic trails, offering stunning views of the surrounding mountains and forests. Camping is available at the park for those looking to spend a night under the stars, with both tent and RV sites available. With its tranquil atmosphere and abundance of outdoor activities, Devils Fork State Park is a must-visit for nature lovers looking to escape the hustle and bustle of everyday life.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Devils%20Fork"
+            },
+            {
+                "name": "Dreher Island",
+                "url": "https://southcarolinaparks.com/dreher-island",
+                "content": "Dreher Island State Park is a tranquil destination located on Lake Murray, offering camping, fishing, and hiking opportunities.",
+                "description": "Dreher Island State Park is a beautiful 348-acre park located on Lake Murray in South Carolina. Visitors can enjoy camping, fishing, boating, and hiking in this scenic park.\n\nThe park features two campgrounds with both tent and RV sites, as well as cozy cabins for those looking for a more comfortable stay. The park also has a marina with boat slips available for rent, making it easy for visitors to explore the lake by boat.\n\nFor outdoor enthusiasts, Dreher Island offers several hiking trails with stunning views of the lake and surrounding forest. Birdwatchers will also be delighted by the diverse bird species that call the park home.\n\nThose looking to cool off on a hot day can take a swim in the designated swimming area, or simply relax on the sandy beach. With its picturesque setting and numerous recreational activities, Dreher Island State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Dreher%20Island"
+            },
+            {
+                "name": "Edisto Beach",
+                "url": "https://southcarolinaparks.com/edisto-beach",
+                "content": "Edisto Beach is a serene coastal retreat in South Carolina known for its natural beauty, peaceful atmosphere, and abundant opportunities for outdoor recreation.",
+                "description": "Edisto Beach is a beautiful coastal destination located on the southern tip of Edisto Island in South Carolina. Visitors can enjoy the peaceful and uncrowded beaches, perfect for relaxing and soaking up the sun.\n\nNature lovers will appreciate the abundance of wildlife in the area, including birds, dolphins, and sea turtles. The ACE Basin National Estuarine Research Reserve is nearby, offering opportunities for birdwatching and exploring the natural habitats.\n\nFor those interested in history, Edisto Beach is home to the Edisto Island Historic Preservation Society, which preserves and promotes the island's rich cultural heritage. Visitors can learn about the Gullah culture, plantation history, and the island's role in the Civil War.\n\nOutdoor enthusiasts will find plenty to do at Edisto Beach, with opportunities for kayaking, fishing, hiking, and biking. The Edisto Island State Park offers camping, cabins, and hiking trails for those looking to spend more time in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Edisto%20Beach"
+            },
+            {
+                "name": "Givhans Ferry",
+                "url": "https://southcarolinaparks.com/givhans-ferry",
+                "content": "Givhans Ferry State Park offers riverside camping and outdoor activities along the Edisto River in South Carolina.",
+                "description": "Givhans Ferry State Park is a beautiful and secluded park located along the Edisto River in South Carolina. Visitors can enjoy a variety of outdoor activities such as picnicking, hiking, and fishing in the serene natural surroundings.\n\nOne of the most popular attractions at Givhans Ferry is the floating dock, where visitors can launch their kayaks and canoes to explore the scenic river. The park also offers a campground with both RV and tent sites, making it a great spot for a weekend getaway or a longer vacation.\n\nNature lovers will appreciate the diverse wildlife that can be found in the park, including deer, turtles, and a variety of bird species. The park is also known for its beautiful wildflowers that bloom throughout the year, adding to the park's natural beauty.\n\nFor history buffs, Givhans Ferry has a rich historical background dating back to the Revolutionary War, with remnants of old rice fields and earthen fortifications still visible within the park. Overall, Givhans Ferry State Park offers a peaceful and scenic retreat for visitors to enjoy the great outdoors and learn about the area's fascinating history.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Givhans%20Ferry"
+            },
+            {
+                "name": "Goodale",
+                "url": "https://southcarolinaparks.com/goodale",
+                "content": "The Goodale State Park representative is committed to preserving the natural beauty and cultural heritage of the park for visitors to enjoy.",
+                "description": "Goodale State Park, located in Camden, South Carolina, offers visitors a peaceful retreat into nature with its 140-acre lake for fishing and boating.\n\nHiking enthusiasts will enjoy exploring the park's trails that wind through pine forests and wetlands, providing opportunities to spot a variety of native wildlife.\n\nThe park also features picnic shelters, playgrounds, and campsites for those looking to extend their stay and experience the great outdoors.\n\nBirdwatchers will be delighted by the park's diverse bird populations, including herons, egrets, and bald eagles that can be seen soaring overhead or fishing in the lake.\n\nGoodale State Park is a hidden gem in South Carolina, where visitors can relax, unwind, and connect with nature in a serene and tranquil setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Goodale"
+            },
+            {
+                "name": "H. Cooper Black",
+                "url": "https://southcarolinaparks.com/h-cooper-black",
+                "content": "H. Cooper Black is a popular outdoor destination in South Carolina offering a variety of recreational activities including camping, horseback riding, and hiking.",
+                "description": "H. Cooper Black Jr. is a beautiful state park located in South Carolina known for its peaceful setting and abundance of outdoor activities. Visitors can enjoy horseback riding, fishing, canoeing, and hiking in this expansive park that covers over 7,000 acres of diverse landscapes. The park is named after H. Cooper Black Jr., a prominent South Carolinian who was a leader in land and wildlife conservation efforts in the state. Campers can take advantage of the park's spacious campsites, perfect for both tents and RVs, for a true outdoor experience. With its rich history and stunning natural beauty, H. Cooper Black Jr. State Park is a must-visit destination for nature enthusiasts and outdoor lovers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=H.%20Cooper%20Black"
+            },
+            {
+                "name": "Hamilton Branch",
+                "url": "https://southcarolinaparks.com/hamilton-branch",
+                "content": "The Hamilton Branch State Park offers breathtaking lake views and peaceful camping opportunities in South Carolina.",
+                "description": "Hamilton Branch State Park is a serene and picturesque park located in Plum Branch, South Carolina. Visitors can enjoy a wide range of activities, including fishing, boating, hiking, and birdwatching, making it the perfect destination for outdoor enthusiasts. The park is situated along the shores of Lake Thurmond, offering stunning views and plenty of opportunities for water recreation. With picnic areas, camping sites, and a playground, Hamilton Branch State Park is a great spot for a family day trip or weekend getaway. Whether you're looking to relax by the water or explore the natural beauty of the area, this park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hamilton%20Branch"
+            },
+            {
+                "name": "Hampton Plantation",
+                "url": "https://southcarolinaparks.com/hampton",
+                "content": "Hampton Plantation is a beautiful historic site in South Carolina that offers tours of a preserved 18th-century mansion and grounds.",
+                "description": "Hampton Plantation State Historic Site is a beautiful 18th-century Georgian-style mansion located in McClellanville, South Carolina. The plantation offers guided tours of the main house, where visitors can learn about the rich history of the property and its former owners. The site also features over 300 acres of pristine gardens, rice fields, and historic slave quarters that give a glimpse into plantation life in the antebellum South. Nature enthusiasts will appreciate the scenic walking trails and wildlife viewing opportunities throughout the park. Be sure to stop by the visitor center to browse the gift shop and pick up informative brochures about the site's history.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hampton%20Plantation"
+            },
+            {
+                "name": "Hickory Knob",
+                "url": "https://southcarolinaparks.com/hickory-knob",
+                "content": "Hickory Knob State Resort Park is a scenic destination in South Carolina known for its golf course, lake, and outdoor recreational activities.",
+                "description": "The Hickory Knob State Resort Park in South Carolina offers visitors a truly unique and tranquil experience. Situated on the shores of the Lake Thurmond, the park is a great destination for fishing, boating, and water sports enthusiasts.\n\nThe park also features an 18-hole championship golf course, making it a perfect retreat for golf lovers. In addition, Hickory Knob boasts miles of hiking and biking trails, providing opportunities for outdoor exploration and stunning views of the surrounding scenery.\n\nFor those looking to relax and unwind, the park offers comfortable accommodations, including cabins and campsites. Visitors can also enjoy delicious meals at the park's on-site restaurant, which features a picturesque view of the lake.\n\nHickory Knob State Resort Park is a hidden gem in South Carolina, offering a perfect blend of natural beauty and recreational activities for visitors of all ages to enjoy. Whether you're seeking adventure or simply looking to unwind in a peaceful setting, this park has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hickory%20Knob"
+            },
+            {
+                "name": "Hunting Island",
+                "url": "https://southcarolinaparks.com/hunting-island",
+                "content": "Hunting Island State Park in South Carolina is a scenic barrier island known for its pristine beaches, historic lighthouse, and abundant wildlife.",
+                "description": "Hunting Island is a beautiful and diverse state park located on the coast of South Carolina. Visitors can explore over 5,000 acres of maritime forest, marshes, and beautiful beaches. One of the main attractions of the park is the historic Hunting Island Lighthouse, which offers stunning views of the surrounding area. Camping is also available at the park, allowing visitors to fully immerse themselves in the natural beauty of the island. Additionally, visitors can enjoy kayaking, fishing, and birdwatching in this unique and unforgettable destination.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hunting%20Island"
+            },
+            {
+                "name": "Huntington Beach",
+                "url": "https://southcarolinaparks.com/huntington-beach",
+                "content": "Huntington Beach State Park in South Carolina is named after Archer Huntington and is known for its beautiful beach, wildlife viewing opportunities, and historic Atalaya Castle.",
+                "description": "Huntington Beach State Park in South Carolina is a picturesque coastal destination that offers stunning views of the Atlantic Ocean and pristine sandy beaches.\n\nVisitors can explore the park's beautiful marshes, sand dunes, and diverse wildlife, including alligators, ospreys, and loggerhead turtles.\n\nOne of the park's main attractions is Atalaya, a Moorish-style mansion that was once the winter home of Archer and Anna Hyatt Huntington, the park's former owners.\n\nOutdoor enthusiasts can enjoy activities such as birdwatching, fishing, hiking, and even camping at Huntington Beach State Park.\n\nWith its rich history, natural beauty, and variety of recreational opportunities, Huntington Beach State Park is a must-visit destination for nature lovers and beach-goers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Huntington%20Beach"
+            },
+            {
+                "name": "Jones Gap",
+                "url": "https://southcarolinaparks.com/jones-gap",
+                "content": "Jones Gap State Park is a stunning 3,964-acre natural haven with waterfalls, hiking trails, and rustic cabins, perfect for outdoor enthusiasts looking to escape into nature.",
+                "description": "Jones Gap State Park is nestled in the Blue Ridge Mountains and offers visitors a peaceful and scenic escape from the hustle and bustle of everyday life. The park boasts over 60 miles of hiking trails, including the challenging Rim of the Gap trail which offers stunning views of the surrounding mountains. Visitors can also enjoy camping, fishing, and picnicking in the park's tranquil surroundings. Wildlife enthusiasts will delight in the opportunity to spot a variety of animals, including black bears, bobcats, and white-tailed deer. With its cool mountain streams and lush forests, Jones Gap State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Jones%20Gap"
+            },
+            {
+                "name": "Keowee-Toxaway",
+                "url": "https://southcarolinaparks.com/keowee-toxaway",
+                "content": "The Keowee-Toxaway State Park in South Carolina features two beautiful mountain lakes and offers a variety of outdoor recreational activities for visitors to enjoy.",
+                "description": "Keowee-Toxaway State Park is a beautiful oasis nestled in the foothills of the Blue Ridge Mountains in South Carolina. Visitors can enjoy breathtaking views of Lake Keowee and Lake Jocassee, two of the state's most pristine lakes. The park offers a variety of outdoor activities including hiking, fishing, boating, and camping, making it the perfect destination for nature lovers. The park's biodiversity is stunning, with an abundance of wildlife and plant species to discover. Whether you're looking for a peaceful retreat or an adventure-filled getaway, Keowee-Toxaway State Park has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Keowee-Toxaway"
+            },
+            {
+                "name": "Kings Mountain",
+                "url": "https://southcarolinaparks.com/kings-mountain",
+                "content": "Kings Mountain State Park in South Carolina offers hiking trails, campsites, and a living history farm, showcasing the site of the pivotal Revolutionary War battle in 1780.",
+                "description": "Kings Mountain State Park is a historical site where visitors can learn about the decisive battle that took place there during the American Revolution in 1780. The park offers hiking trails that lead to the summit of Kings Mountain, providing stunning views of the surrounding landscape. Visitors can also explore the Living History Farm, which showcases what life was like for early settlers in the 18th century.\n\nIn addition to its historical and educational offerings, Kings Mountain State Park also provides recreational activities such as fishing, picnicking, and camping. The park's serene setting makes it a great place for nature enthusiasts to observe wildlife and enjoy the outdoors. Overall, Kings Mountain State Park offers a unique blend of history, outdoor adventure, and natural beauty for visitors to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Kings%20Mountain"
+            },
+            {
+                "name": "Lake Greenwood",
+                "url": "https://southcarolinaparks.com/lake-greenwood",
+                "content": "Lake Greenwood is a man-made lake in South Carolina known for its clear water, abundant fishing opportunities, and scenic views.",
+                "description": "1. Lake Greenwood is a beautiful 11,400-acre lake located in South Carolina, known for its clear blue waters and stunning scenery, making it an ideal destination for outdoor enthusiasts and nature lovers.\n2. Visitors can enjoy a variety of recreational activities such as fishing, boating, swimming, and camping at Lake Greenwood State Park, which offers modern amenities and facilities for a comfortable stay.\n3. The lake is home to a diverse range of fish species, including largemouth bass, crappie, catfish, and bream, making it a popular spot for anglers looking to reel in a big catch.\n4. The surrounding area of Lake Greenwood is rich in history, with nearby attractions such as the Ninety Six National Historic Site and the historic town of Greenwood, offering visitors a chance to explore the region's cultural heritage.\n5. Whether you're looking to relax on the sandy shores, go water skiing, or explore the miles of scenic hiking trails, Lake Greenwood has something for everyone to enjoy, making it a top destination for a fun-filled getaway in South Carolina.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Greenwood"
+            },
+            {
+                "name": "Lake Hartwell",
+                "url": "https://southcarolinaparks.com/lake-hartwell",
+                "content": "Lake Hartwell is a man-made reservoir located on the Georgia-South Carolina border that offers over 56,000 acres of water for boating, fishing, and other recreational activities.",
+                "description": "Located on the border of Georgia and South Carolina, Lake Hartwell is a popular destination for visitors looking to relax and enjoy outdoor activities. With 962 miles of shoreline, there are plenty of opportunities for boating, fishing, and swimming. The lake is also home to numerous campgrounds and picnic areas, making it a great spot for a family getaway. Wildlife enthusiasts will enjoy the chance to spot bald eagles, deer, and other animals in the surrounding forests. Whether you're looking to spend a day on the water or just take in the beautiful scenery, Lake Hartwell has something for everyone.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Hartwell"
+            },
+            {
+                "name": "Lake Warren",
+                "url": "https://southcarolinaparks.com/lake-warren",
+                "content": "Lake Warren is a 200-acre park with a 170-acre lake offering opportunities for fishing, boating, picnicking and hiking.",
+                "description": "Lake Warren, located within Lake Warren State Park in South Carolina, offers visitors a picturesque setting for outdoor recreational activities. The lake covers 164 acres and is perfect for fishing, boating, and kayaking. The park also features a swimming area with a sandy beach, picnic shelters, and hiking trails for visitors to enjoy. Campers can stay overnight at the park's campground, which includes sites with water and electrical hookups. With its peaceful atmosphere and beautiful scenery, Lake Warren is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Warren"
+            },
+            {
+                "name": "Lake Wateree",
+                "url": "https://southcarolinaparks.com/lake-wateree",
+                "content": "Lake Wateree is a 13,700-acre reservoir located in Kershaw County, South Carolina, offering a variety of recreational activities such as fishing, boating, and camping.",
+                "description": "Lake Wateree is a beautiful 13,250-acre reservoir located in South Carolina, known for its excellent fishing and water sports opportunities, with largemouth bass, crappie, and catfish being the most popular catches. The lake also offers abundant wildlife viewing opportunities, with bald eagles, ospreys, and herons frequently spotted in the area. Visitors can enjoy picnicking, camping, boating, and water skiing at the various public access points around the lake, making it a great destination for outdoor enthusiasts. Additionally, the lake is surrounded by lush forests and rolling hills, providing a picturesque backdrop for hiking and exploring the natural beauty of the area. Overall, Lake Wateree is a perfect destination for those looking to relax and unwind in a peaceful and scenic environment.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lake%20Wateree"
+            },
+            {
+                "name": "Landsford Canal",
+                "url": "https://southcarolinaparks.com/landsford-canal",
+                "content": "Landsford Canal State Park preserves the remnants of the historic Catawba River canal system, including the original hand-cut stone canal and the ruins of the lockkeeper's house.",
+                "description": "Landsford Canal State Park is home to the Landsford Canal, which is one of the best-preserved and most intact hand-cut canal systems in the country.\n\nVisitors can explore the picturesque canal banks and see the remains of the locks and canal structures that were used in the 19th century to navigate the Catawba River.\n\nAside from its historical significance, the park offers opportunities for hiking, picnicking, and wildlife viewing, especially during the spring and summer when the rare Rocky Shoals Spider Lilies bloom along the river.\n\nBirdwatchers will also appreciate the park's diverse bird population, including the iconic Bald Eagle that can often be spotted soaring above the river. \n\nWhether you're interested in history, nature, or simply enjoying a leisurely day out in the great outdoors, Landsford Canal State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Landsford%20Canal"
+            },
+            {
+                "name": "Lee",
+                "url": "https://southcarolinaparks.com/lee",
+                "content": "The representative for Lee State Park is dedicated to preserving the natural beauty and history of the park for visitors to enjoy.",
+                "description": "The Leewith Historic Site in South Carolina offers visitors a glimpse into the life and legacy of General Robert E. Lee, one of the most renowned Confederate leaders of the Civil War. The site features a meticulously restored antebellum home where General Lee and his family resided from 1862-1864. Visitors can explore the beautifully landscaped gardens and learn about the Lee family's daily life through guided tours and interactive exhibits. The Leewith Site also holds special events and reenactments to bring the history of the Civil War era to life for visitors of all ages. Whether you are a history buff or just looking to learn more about this influential period in American history, a visit to the Leewith Historic Site is a must-see destination.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lee"
+            },
+            {
+                "name": "Little Pee Dee",
+                "url": "https://southcarolinaparks.com/little-pee-dee",
+                "content": "Little Pee Dee State Park offers visitors a serene wooded setting along the Little Pee Dee River, ideal for outdoor activities such as fishing and kayaking.",
+                "description": "Little Pee Dee State Park is a hidden gem located in Dillon, South Carolina. This beautiful park offers visitors the chance to explore the tranquil waters of the Little Pee Dee River, perfect for kayaking and canoeing. The park also boasts scenic hiking trails that wind through the pine forests and offer opportunities for birdwatching and wildlife spotting. Visitors can enjoy picnicking by the river or camping under the stars in the park's peaceful campground. With its serene atmosphere and outdoor activities, Little Pee Dee State Park is the perfect destination for nature enthusiasts and outdoor adventurers alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Little%20Pee%20Dee"
+            },
+            {
+                "name": "May Forest",
+                "url": "https://southcarolinaparks.com/may-forest",
+                "content": "May Forest is a serene and picturesque location that provides visitors with opportunities for hiking, picnicking, and enjoying nature's beauty in South Carolina.",
+                "description": "May Forest is a beautiful and serene wildlife area located in McCormick, South Carolina. Visitors can enjoy exploring the diverse ecosystem of the forest, which includes hardwood forests, pine plantations, and wetlands. The park offers hiking trails, picnic areas, and opportunities for birdwatching and wildlife spotting. The forest is home to a variety of plant and animal species, making it a great destination for nature lovers and outdoor enthusiasts. Visitors can also learn about the history and conservation efforts of the area, making it a perfect educational experience for all ages.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=May%20Forest"
+            },
+            {
+                "name": "Myrtle Beach",
+                "url": "https://southcarolinaparks.com/myrtle-beach",
+                "content": "Myrtle Beach is a popular coastal destination in South Carolina known for its beautiful sandy beaches and vibrant boardwalk lined with shops, restaurants, and attractions.",
+                "description": "Myrtle Beach, located along the beautiful South Carolina coast, is a popular vacation destination known for its pristine shores and vibrant atmosphere. Visitors can enjoy sunbathing, swimming, and building sandcastles on the wide, sandy beaches that stretch for miles.\n\nIn addition to beach activities, Myrtle Beach offers a variety of attractions for visitors of all ages, including the iconic SkyWheel which provides stunning views of the coastline, as well as amusement parks, golf courses, and shopping centers. The area is also known for its delicious seafood restaurants, serving up fresh catches from the nearby Atlantic Ocean.\n\nNature lovers will appreciate the opportunity to explore Myrtle Beach State Park, which features hiking trails, camping sites, and a picturesque pier for fishing. Birdwatchers can spot a variety of species, including herons and ospreys, along the park's marshlands.\n\nFor those looking for entertainment and nightlife, Myrtle Beach is home to theaters hosting live shows, concerts, and comedy acts. Whether you're seeking relaxation or excitement, Myrtle Beach offers something for everyone to enjoy during their visit.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Myrtle%20Beach"
+            },
+            {
+                "name": "Oconee",
+                "url": "https://southcarolinaparks.com/oconee",
+                "content": "The Oconee State Park representative is committed to providing exceptional outdoor recreational opportunities for visitors to enjoy in the breathtaking natural landscapes of the Blue Ridge Mountains.",
+                "description": "Oconee State Park in South Carolina offers visitors a chance to escape into the beauty of the Blue Ridge Mountains. With its serene mountain setting, the park is a popular destination for hiking, fishing, and camping. Visitors can explore over 12 miles of hiking trails that wind through the park's forests and along its picturesque streams.\n\nFor those interested in history, Oconee State Park offers a glimpse into the Civilian Conservation Corps (CCC) era with its rustic cabins and structures built by the CCC in the 1930s. These historic buildings add a unique charm to the park and provide a fascinating look into the past.\n\nFishing enthusiasts will enjoy casting their lines in one of the park's two fishing lakes, where they can try their luck at catching bass, bream, and catfish. The park also offers paddleboat rentals for those who want to explore the larger lake by water.\n\nCamping at Oconee State Park is a favorite among visitors, with both RV and tent camping options available. The park's campground features spacious sites, clean facilities, and a peaceful atmosphere that make it the perfect place to unwind and enjoy the great outdoors. Whether you're looking for adventure or relaxation, Oconee State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Oconee"
+            },
+            {
+                "name": "Oconee Station",
+                "url": "https://southcarolinaparks.com/oconee-station",
+                "content": "Oconee Station is a historic site with a restored 18th-century trading post and a stone blockhouse located in Upstate South Carolina.",
+                "description": "Oconee Station is a historic site located in the Blue Ridge Mountains of South Carolina, showcasing a beautifully preserved 18th-century trading post. Visitors can explore the original stone building, which served as a stopping point for travelers and a trading post for fur trappers in the late 1700s.\n\nOne of the highlights of Oconee Station is the incredible nature trails that wind through the surrounding forest, offering stunning views of waterfalls and lush greenery. Birdwatchers will be delighted by the diverse bird species that call this area home, making it a great spot for wildlife enthusiasts.\n\nHistory buffs will appreciate the interpretive exhibits throughout the site, providing fascinating insights into the lives of the early settlers and Native American tribes that once inhabited the region. Oconee Station is a must-visit destination for anyone looking to immerse themselves in the rich history and natural beauty of South Carolina's Upcountry.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Oconee%20Station"
+            },
+            {
+                "name": "Paris Mountain",
+                "url": "https://southcarolinaparks.com/paris-mountain",
+                "content": "Paris Mountain State Park is a popular outdoor destination near Greenville, South Carolina, featuring hiking trails, fishing spots, and scenic views of the city.",
+                "description": "Paris Mountain State Park is a hidden gem located in the foothills of the Blue Ridge Mountains, just minutes from downtown Greenville, South Carolina. Visitors can explore over 15 miles of hiking and biking trails, offering stunning views of the surrounding area. The park also features a beautiful 13-acre lake where guests can swim, fish, or rent kayaks and paddleboards to enjoy the water. For those looking to extend their visit, Paris Mountain offers campground facilities and several picnic areas perfect for a relaxing day outdoors. With its diverse recreational activities and picturesque scenery, Paris Mountain State Park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Paris%20Mountain"
+            },
+            {
+                "name": "Poinsett",
+                "url": "https://southcarolinaparks.com/poinsett",
+                "content": "The Poinsett State Park in South Carolina is named after Joel Poinsett, a statesman and botanist who brought the plant now known as the Poinsettia to the US.",
+                "description": "Poinsett State Park is named after Joel Poinsett, a South Carolinian known for introducing the poinsettia plant to the United States.\n Visitors to the park can enjoy a variety of outdoor activities, including hiking, biking, fishing, and paddling on the park's beautiful lake.\n The park is home to a diverse range of wildlife, including deer, turkeys, and the occasional American alligator.\n History buffs will appreciate the park's Civilian Conservation Corps structures, which were built in the 1930s and are now listed on the National Register of Historic Places.\n With its tranquil setting and natural beauty, Poinsett State Park is a hidden gem in the South Carolina Midlands that is sure to delight nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Poinsett"
+            },
+            {
+                "name": "Redcliffe Plantation",
+                "url": "https://southcarolinaparks.com/redcliffe",
+                "content": "Redcliffe Plantation is a historic site in South Carolina known for its beautiful antebellum mansion and picturesque gardens.",
+                "description": "Redcliffe Plantation, located in Beech Island, South Carolina, is a historic antebellum mansion that offers visitors a glimpse into the life of wealthy planters in the 19th century. The plantation house features Greek Revival architecture and is surrounded by beautiful gardens and grounds.\n\nVisitors can take guided tours of the mansion, which is filled with period furnishings and decorative arts, providing a fascinating look at the lifestyle of the plantation's former residents. The plantation also offers educational programs and special events throughout the year, including Civil War reenactments and historical demonstrations.\n\nIn addition to the mansion, visitors can explore the plantation's outbuildings, including the original slave quarters, which have been preserved and restored to provide insight into the lives of the enslaved people who lived and worked on the plantation. The grounds also feature a nature trail and picnic areas for visitors to enjoy.\n\nOverall, Redcliffe Plantation offers a rich historical experience for visitors, showcasing both the grandeur of the plantation house and the harsh realities of plantation life in the Old South. It is a must-visit destination for history buffs and anyone interested in learning more about the complex history of the American South.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Redcliffe%20Plantation"
+            },
+            {
+                "name": "Rose Hill Plantation",
+                "url": "https://southcarolinaparks.com/rose-hill",
+                "content": "Rose Hill Plantation is a historic site located in Union County, South Carolina that offers a glimpse into the antebellum South.",
+                "description": "Rose Hill Plantation State Historic Site is a beautiful 44-acre property in Union, South Carolina that was once the home of South Carolina's \"Secession Governor,\" William Henry Gist. Visitors can explore the historic plantation house, which has been restored to its 19th-century appearance. The property also features a kitchen building, a barn, and several outbuildings, giving visitors a glimpse into life on a Southern plantation. The site offers guided tours and programs that provide insight into the history of the plantation and the people who lived and worked there. Be sure to take a stroll through the scenic grounds, which include a formal garden and a nature trail, offering a peaceful and picturesque setting for visitors to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rose%20Hill%20Plantation"
+            },
+            {
+                "name": "Sadlers Creek",
+                "url": "https://southcarolinaparks.com/sadlers-creek",
+                "content": "Sadlers Creek State Park offers tranquil surroundings, perfect for camping, boating, and fishing on Lake Hartwell.",
+                "description": "Sadlers Creek State Park is a beautiful outdoor destination located on the shores of Lake Hartwell in South Carolina. Visitors can enjoy boating, fishing, and swimming in the crystal-clear waters of the lake.\n\nThe park offers a variety of hiking trails that wind through the scenic forests and along the lake shoreline, providing stunning views and ample opportunities for wildlife viewing. For those looking to extend their stay, the park offers campsites and cabins for a relaxing overnight experience.\n\nPicnic areas are scattered throughout the park, making it the perfect spot for a family outing or a romantic lakeside meal. There are also playgrounds and a swim beach for visitors of all ages to enjoy.\n\nThe park hosts regular educational programs and events for visitors to learn more about the local ecosystem and wildlife. Whether you're looking for a peaceful day by the water or an outdoor adventure, Sadlers Creek State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sadlers%20Creek"
+            },
+            {
+                "name": "Santee",
+                "url": "https://southcarolinaparks.com/santee",
+                "content": "This Santee State Park representative would be happy to help you plan your upcoming visit to the beautiful park in South Carolina.",
+                "description": "Santee State Park in South Carolina offers visitors a peaceful getaway with its serene lake and lush surroundings. Visitors can enjoy fishing, boating, and swimming in Lake Marion, which is known for its excellent freshwater fishing opportunities. The park also has several hiking and biking trails for those looking to explore the scenic beauty of the area. For those who prefer to relax, there are plenty of picnic areas and campgrounds available. With its abundant wildlife and beautiful landscapes, Santee State Park is the perfect destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Santee"
+            },
+            {
+                "name": "Sesquicentennial",
+                "url": "https://southcarolinaparks.com/sesqui",
+                "content": "The Sesquicentennial State Park in South Carolina offers a variety of outdoor activities and beautiful natural scenery for visitors to enjoy.",
+                "description": "Sesquicentennial State Park in Columbia, South Carolina, celebrates its 150th anniversary in 2023, making it one of the oldest state parks in the United States. Visitors can explore over 1,400 acres of natural beauty, including a 30-acre lake perfect for fishing, boating, and swimming. The park also offers hiking and biking trails, playgrounds, and picnic areas for families to enjoy. Be sure to check out the park's historic sites, such as the Sesquicentennial Farmstead, which offers a glimpse into South Carolina's agricultural history. Whether you're looking for outdoor adventure or a peaceful retreat, Sesquicentennial State Park has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sesquicentennial"
+            },
+            {
+                "name": "Table Rock",
+                "url": "https://southcarolinaparks.com/table-rock",
+                "content": "Table Rock State Park in South Carolina offers stunning views of Table Rock Mountain and activities such as hiking, camping, and fishing.",
+                "description": "Table Rock is a stunning mountain in upstate South Carolina, named for its distinctive flat-topped peak that resembles a table. Visitors can hike to the top of the mountain for stunning panoramic views of the surrounding landscape, including the nearby Blue Ridge Mountains. The Table Rock State Park offers a variety of outdoor activities, from hiking and rock climbing to fishing and camping. The park is also home to a historic lodge built in the 1930s by the Civilian Conservation Corps, adding a touch of rustic charm to the natural beauty of the area. Whether you're an outdoor enthusiast or just looking to enjoy a peaceful retreat in nature, Table Rock is a must-visit destination.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Table%20Rock"
+            },
+            {
+                "name": "Woods Bay",
+                "url": "https://southcarolinaparks.com/woods-bay",
+                "content": "Woods Bay State Park is represented by its diverse ecosystem of swamp, marsh, and lake environments.",
+                "description": "Woods Bay State Park is a hidden gem located in the heart of the South Carolina Lowcountry. Visitors can explore the park's unique habitat, which includes a 1,590-acre Carolina Bay, a type of wetland unique to the region.\n\nThe park is a birdwatcher's paradise, with over 100 species of birds that can be spotted throughout the year. Visitors may catch a glimpse of the iconic bald eagle, osprey, or great blue heron while hiking along the park's trails.\n\nFishing enthusiasts will enjoy the park's 1,150-foot boardwalk that extends out into Woods Bay Lake, providing a tranquil and scenic spot for casting a line. The lake is known for its diverse fish population, including largemouth bass, catfish, and bluegill.\n\nFor those looking to immerse themselves in nature, Woods Bay State Park offers camping facilities, including tent and RV sites nestled among towering pine trees. The park also has picnic areas, playgrounds, and a nature center, making it a perfect destination for a family day trip or weekend getaway.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Woods%20Bay"
+            }
+        ]
+    }
+}

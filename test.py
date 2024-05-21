@@ -100,10 +100,10 @@ def scrape_park_data(park_name,park_url):
     
     # / ------------- Image URL ------------- /
     # base_url = get_base_url(park_url)
-    base_url = ""
+    base_url = "https://parks.wa.gov/"
     
-    r = requests.get(park_url)
-    soup = BeautifulSoup(r.text, 'html.parser')
+    # r = requests.get(park_url)
+    # soup = BeautifulSoup(r.text, 'html.parser')
     
     # image_url = [
     # "https://cdn.elebase.io/dbcc75a2-4b9f-4a0e-8e4b-cfa273624e10/39e5aa9c-f4e4-4163-af3c-263b9bbbed67-vtmd1126b54710260165.jpg",
@@ -117,24 +117,24 @@ def scrape_park_data(park_name,park_url):
     # "https://umaine.edu/news/wp-content/uploads/sites/3/2020/01/Shell-middens-Kelley-news-feature.jpg",
     # "https://s7d1.scene7.com/is/image/isp/mazoniabraidwood-3501-e-360600?ts=1674260936479&$SlideshowThumbnail$"
     # ]
-    # image_url = [
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
-    #    "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600" 
-    # ]
-    # image_url = image_url[random.randint(0, 14)]
+    image_url = [
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=IMG_4295.jpg",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=ainsworth-0006083505.jpg",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Loeb105200.jpg",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217369894Bob+Straub+Park+DSC_0034.jpg&park=133&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=1217370318Fogerty+Creek0055Fogerty+Creek.jpg&park=158&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+       "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Yachats_SRA_viewing_platform125108.jpg&park=94&fit=cover&w=1200&h=600" 
+    ]
+    image_url = image_url[random.randint(0, 14)]
     # random_integer = random.randint(0, 9)
     # image_url = image_url[random_integer]
     
@@ -165,41 +165,42 @@ def scrape_park_data(park_name,park_url):
     
     
     # -------------------------------------------------------
-    div_element1 = soup.find_all('div', class_="ms-webpart-chrome-vertical")
+    # div_element1 = soup.find('div', class_="wrapper-content layout-main-wrapper clearfix container")
     
     
-    # div_element3 = div_element2.find('div', class_="flex-viewport")
+    # # div_element3 = div_element2.find('div', class_="flex-viewport")
     
-    if div_element1:
-        div_element2 = div_element1[1].find('div', class_="ms-rtestate-field")
-        # print(div_element2)
-        # img_src = div_element4[random.randint(0, 4)].select_one('div.slides-image')['style'].split('(')[1].split(')')[0].strip('"')
-        if div_element2: 
-            img_element = div_element2.find('img')
+    # if div_element1:
+    #     div_element2 = div_element1.find('div', class_="field--name-field-media-image")
+    #     # print(div_element2)
+    #     # img_src = div_element4[random.randint(0, 4)].select_one('div.slides-image')['style'].split('(')[1].split(')')[0].strip('"')
         
-            if img_element:
-                # img_element = div_element3.find_all('img',class_ = "rsImg")
-                # image_url = img_element.select_one('div.landing-page__main_image')['style'].split('(')[1].split(')')[0].strip('"')
+    #     if div_element2: 
+    #         img_element = div_element2.find('img')
         
-                img_src = img_element["src"]
+    #         if img_element:
+    #             # img_element = div_element3.find_all('img',class_ = "rsImg")
+    #             # image_url = img_element.select_one('div.landing-page__main_image')['style'].split('(')[1].split(')')[0].strip('"')
+        
+    #             img_src = img_element["src"]
                 
-                if img_src:
-                    image_url = urljoin(base_url,img_src)
-                else:
-                    image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
+    #             if img_src:
+    #                 image_url = urljoin(base_url,img_src)
+    #             else:
+    #                 image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
             
-            else:
-                print("img not found")
-                image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
-        else:
-            print("img not found")
-            image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
+    #         else:
+    #             print("img not found")
+    #             image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
+    #     else:
+    #         print("img not found")
+    #         image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
     
-    else:
-        print("Div element not found.")
-        image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
+    # else:
+    #     print("Div element not found.")
+    #     image_url = "https://gastateparks.org/sites/default/files/styles/locationslidestyle/public/parks/locationslideshow/CloudandCanyon2.jpg?itok=Ym2cTXQ7"
     
-    print(image_url)
+    # print(image_url)
     # ----------------------------------------    
     
     # img_src = div_element.get["src"]
@@ -259,7 +260,7 @@ def scrape_map_info(parkname):
     
 
 # Load input JSON
-with open('state_parks6 copy 7.json', 'r',encoding='utf-8') as file:
+with open('state_parks8 copy 3.json', 'r',encoding='utf-8') as file:
     input_data = json.load(file)
 
 output_data = {}
@@ -287,6 +288,6 @@ for state, parks in input_data.items():
                  **scraped_data
                 })
                 # Write output JSON
-                with open('database_state_parks6_7.json', 'w') as json_file:
+                with open('database_state_parks8_3.json', 'w') as json_file:
                     json.dump(output_data, json_file, indent=4)
                 

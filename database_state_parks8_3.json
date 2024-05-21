@@ -1,0 +1,110 @@
+{
+    "Wyoming State Parks": {
+        "parks": [
+            {
+                "name": "Bear River State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/bear-river",
+                "content": "Bear River State Park in Wyoming offers visitors the chance to explore a scenic canyon filled with lush trees, winding rivers, and diverse wildlife.",
+                "description": "Bear River State Park is a popular destination in Wyoming for outdoor enthusiasts, offering a variety of recreational activities such as hiking, picnicking, and wildlife viewing. Visitors can explore the park's beautiful landscapes, including rolling hills, meadows, and forests. The park is also home to a variety of wildlife, including deer, moose, and a wide variety of bird species. Additionally, the park features a fishing pond stocked with trout, making it a great spot for anglers of all ages. With its peaceful atmosphere and stunning natural beauty, Bear River State Park is the perfect place to relax and unwind in nature.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Marshall_Island_1110900.jpg&park=216&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Bear%20River%20State%20Park"
+            },
+            {
+                "name": "Boysen State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/boysen",
+                "content": "Boysen State Park is a popular outdoor destination in Wyoming known for its crystal-clear waters and scenic red sandstone cliffs.",
+                "description": "Boysen State Park is a serene and picturesque destination located in central Wyoming, offering visitors a tranquil escape into nature. The park features Boysen Reservoir, which covers over 19,000 surface acres and provides ample opportunities for boating, fishing, and water sports. Paddleboarding and kayaking are popular activities on the calm waters of the reservoir, while anglers can try their luck at catching walleye, trout, and other fish species. Hikers can explore the park's scenic trails, including the scenic Hidden Basin Trail, which offers stunning views of the surrounding landscape. With its diverse recreational options and stunning natural beauty, Boysen State Park is a must-visit destination for outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=index071937.jpg&park=100&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Boysen%20State%20Park"
+            },
+            {
+                "name": "Buffalo Bill State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/buffalo-bill",
+                "content": "Buffalo Bill State Park offers panoramic views of the Absaroka mountain range and recreational activities such as fishing, boating, and camping.",
+                "description": "Buffalo Bill State Park, located in Cody, Wyoming, offers stunning views of the Absaroka Mountains and Shoshone River. Visitors can enjoy fishing, boating, and picnicking at this beautiful park. The park is named after legendary Wild West showman Buffalo Bill Cody, who founded the town of Cody. Numerous hiking trails wind through the park, providing opportunities for exploration and wildlife viewing. With its rich history and diverse recreational opportunities, Buffalo Bill State Park is a must-visit destination for nature lovers and outdoor enthusiasts.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Lake_Owyhee_DSC_0186-east-8100236.jpg&park=10&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Buffalo%20Bill%20State%20Park"
+            },
+            {
+                "name": "Curt Gowdy State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/curt-gowdy",
+                "content": "Curt Gowdy State Park is a popular outdoor recreation destination in Wyoming with opportunities for hiking, mountain biking, fishing, and boating.",
+                "description": "Curt Gowdy State Park is a popular outdoor destination located in Wyoming, just 24 miles west of Cheyenne. The park features three reservoirs, Granite Springs, Crystal, and North Crow, which offer opportunities for fishing, boating, and swimming. Visitors can also enjoy hiking, mountain biking, and horseback riding on the park's numerous trails that wind through a diverse landscape of forests, meadows, and rocky cliffs. For those looking to spend the night, there are multiple campgrounds with modern facilities and stunning views of the surrounding scenery. With its abundance of recreational activities and natural beauty, Curt Gowdy State Park is a must-visit destination for outdoor enthusiasts in Wyoming.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=2196c6ce-090a-cccc-7b476b14d4e277ba.jpg&park=194&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Curt%20Gowdy%20State%20Park"
+            },
+            {
+                "name": "Edness K. Wilkins State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/edness-k-wilkins",
+                "content": "Edness K. Wilkins State Park is a scenic park located in Wyoming known for its fishing opportunities and beautiful views of the North Platte River.",
+                "description": "Edness K. Wilkins State Park is a hidden gem nestled along the North Platte River in Wyoming. Visitors can enjoy a variety of outdoor activities, including fishing, boating, hiking, and picnicking in a serene and picturesque setting. The park is known for its abundant wildlife, with opportunities to spot bald eagles, waterfowl, and other birds along the river. Camping is also available for those looking to spend a night under the stars and enjoy the peaceful sounds of nature. Whether you're a nature lover, angler, or simply looking for a relaxing escape, Edness K. Wilkins State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Edness%20K.%20Wilkins%20State%20Park"
+            },
+            {
+                "name": "Glendo State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/glendo",
+                "content": "Glendo State Park is a popular outdoor recreation destination in Wyoming known for its large reservoir, sandy beaches, and excellent boating and fishing opportunities.",
+                "description": "Glendo State Park is a popular destination located in eastern Wyoming, offering visitors a range of outdoor activities such as boating, fishing, hiking, and picnicking. With over 45 miles of shoreline along the scenic Glendo Reservoir, the park is perfect for water enthusiasts looking to explore and relax in a beautiful natural setting. The park also boasts several campgrounds, cabins, and yurts for those looking to extend their stay and fully immerse themselves in the outdoor experience. Additionally, Glendo State Park hosts various events and programs throughout the year, making it a great destination for families and nature lovers alike. Don't forget to keep an eye out for the diverse wildlife that calls the park home, including eagles, deer, and even the occasional bobcat.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=36-IMG_2765.jpg&park=88&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Glendo%20State%20Park"
+            },
+            {
+                "name": "Guernsey State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/guernsey",
+                "content": "Guernsey State Park offers stunning views of the surrounding landscape, including the historic Guernsey Reservoir and unique rock formations.",
+                "description": "Guernsey State Park in Wyoming is a beautiful destination with a variety of outdoor activities to enjoy. Visitors can explore historic sites such as the Oregon Trail Ruts and the Guernsey Museum, which offer a glimpse into the area's rich history. The park also features three reservoirs perfect for boating, fishing, and swimming, as well as hiking trails that offer stunning views of the surrounding landscape. Campers can choose from a range of camping options, from tent sites to RV hookups, making it easy to enjoy a night under the stars in this scenic park. With its diverse range of recreational opportunities and natural beauty, Guernsey State Park is a must-visit destination for nature lovers and history buffs alike.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Guernsey%20State%20Park"
+            },
+            {
+                "name": "Hawk Springs State Recreation Area",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/hawk-springs",
+                "content": "Hawk Springs State Recreation Area is a scenic spot in Wyoming offering camping, fishing, and boating opportunities.",
+                "description": "Hawk Springs State Recreation Area is a beautiful outdoor destination located in southeastern Wyoming, offering visitors the chance to enjoy a variety of outdoor activities such as fishing, boating, picnicking, and wildlife viewing. The area is home to a large reservoir that is stocked with rainbow trout, making it a popular spot for anglers of all skill levels. Visitors can also explore the surrounding area on foot or by bike on the miles of scenic trails that wind through the park. For those looking to extend their stay, the recreation area offers campsites with stunning views of the reservoir and surrounding landscape. Whether you're looking for a relaxing day by the water or an outdoor adventure, Hawk Springs State Recreation Area has something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=02-IMG_2032.jpg",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hawk%20Springs%20State%20Recreation%20Area"
+            },
+            {
+                "name": "Hot Springs State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/hot-springs",
+                "content": "Hot Springs State Park in Wyoming offers visitors the chance to relax in the therapeutic waters of mineral hot springs.",
+                "description": "Hot Springs State Park, located in Thermopolis, Wyoming, is home to the world's largest mineral hot spring. Visitors can enjoy soaking in the therapeutic waters at the State Bath House, which offers both indoor and outdoor pools. The park also features stunning geological formations, such as Rainbow Terrace and Big Spring, which are popular spots for hiking and picnicking. For a unique experience, visitors can witness the park's resident herd of bison roaming freely in their natural habitat. Additionally, the park offers a variety of recreational activities, including fishing, boating, and birdwatching, making it a must-visit destination for nature lovers.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Hot%20Springs%20State%20Park"
+            },
+            {
+                "name": "Keyhole State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/keyhole",
+                "content": "Keyhole State Park in Wyoming is known for its impressive Keyhole Reservoir, popular for boating, fishing, and camping.",
+                "description": "Keyhole State Park in Wyoming offers visitors a beautiful reservoir perfect for fishing, boating, and water sports. The park also features several campgrounds with both RV and tent sites, providing a great opportunity for a weekend getaway in nature. Hiking enthusiasts can enjoy the scenic trails that wind through the park, offering stunning views of the surrounding landscape. Birdwatchers will also appreciate the diverse bird species that call Keyhole State Park home, making it a great spot for wildlife enthusiasts. With picnic areas, playgrounds, and even a marina, Keyhole State Park offers something for everyone to enjoy in a serene and natural setting.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Keyhole%20State%20Park"
+            },
+            {
+                "name": "Medicine Lodge Archaeological Site",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/medicine-lodge",
+                "content": "The Medicine Lodge Archaeological Site in Wyoming features a unique collection of ancient petroglyphs and pictographs left by Native American tribes.",
+                "description": "The Medicine Lodge Archaeological Site in Wyoming is a treasure trove for visitors interested in Native American history and archaeology. The site contains over 80 prehistoric petroglyphs etched into the sandstone cliffs, offering a glimpse into the cultural practices of the ancient inhabitants. Visitors can explore the area by hiking along the self-guided interpretive trail, which provides information about the petroglyphs and the natural history of the region. The site also features a visitor center with exhibits showcasing artifacts found at the site, as well as information about the geology and wildlife of the area. Overall, the Medicine Lodge Archaeological Site offers a fascinating and educational experience for those looking to learn more about the early inhabitants of Wyoming.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Medicine%20Lodge%20Archaeological%20Site"
+            },
+            {
+                "name": "Seminoe State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/seminoe",
+                "content": "Seminoe State Park is a popular outdoor recreation destination in Wyoming, offering boating, fishing, and camping opportunities along the shores of Seminoe Reservoir.",
+                "description": "1. Seminoe State Park, located in central Wyoming, is a paradise for outdoor enthusiasts with its vast reservoir, sandy beaches, and rugged landscapes. Visitors can enjoy a wide range of activities such as fishing, boating, hiking, and wildlife viewing in this beautiful natural setting.\n\n2. The reservoir formed by the Seminoe Dam offers excellent fishing opportunities with abundant populations of walleye, yellow perch, and rainbow trout. Anglers can try their luck from the shore or on a boat to catch some impressive fish in the clear waters of the reservoir.\n\n3. For those who prefer water sports, Seminoe State Park is a popular destination for boating, waterskiing, and paddleboarding. The calm waters and stunning scenery of the reservoir provide the perfect backdrop for a day out on the water with friends and family.\n\n4. Camping is another popular activity at Seminoe State Park, with several campgrounds offering both primitive and developed sites for tents and RVs. Wake up to the sounds of nature, enjoy a campfire under the stars, and fall asleep to the peaceful sounds of the reservoir lapping at the shoreline.\n\n5. Wildlife enthusiasts will appreciate the diverse array of animals that call Seminoe State Park home, including mule deer, pronghorn antelope, and a variety of bird species. Bring your binoculars and camera to capture the beauty of Wyoming's wildlife in its natural habitat at Seminoe State Park.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Beverly_Beach_Beach_Ocean_%281%29041737.jpg&park=164&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Seminoe%20State%20Park"
+            },
+            {
+                "name": "Sinks Canyon State Park",
+                "url": "https://wyoparks.wyo.gov/index.php/places-to-go/sinks-canyon",
+                "content": "Sinks Canyon State Park is a natural wonder with a unique disappearing river that flows underground for a quarter-mile before reemerging in a breathtaking waterfall.",
+                "description": "Sinks Canyon State Park, located in Wyoming, is named for the unique geological feature where the Popo Agie River disappears into a limestone cavern. Visitors can witness this fascinating natural phenomenon by hiking along the trails that lead to the \"Sinks,\" or sinkholes, where the river vanishes underground.\n\nThe park offers a variety of recreational activities, including hiking, fishing, rock climbing, and camping. With over 200 climbing routes available, Sinks Canyon is a popular destination for rock climbers of all skill levels. The park also features a scenic overlook where visitors can enjoy panoramic views of the scenic canyon and surrounding mountains.\n\nFor those interested in wildlife viewing, Sinks Canyon State Park is home to a diverse array of animal species, including mule deer, elk, golden eagles, and bighorn sheep. Birdwatchers will be delighted by the chance to observe a variety of bird species, including mountain bluebirds, red-tailed hawks, and ospreys.\n\nVisitors can learn more about the park's natural and cultural history at the visitor center, which features informative exhibits and displays. Whether you're seeking outdoor adventure or simply looking to relax and enjoy the beauty of nature, Sinks Canyon State Park offers something for everyone to enjoy.",
+                "image": "https://stateparks.oregon.gov/index.cfm?do=image.get&name=Base_of_Latourell_Falls044758.jpg&park=112&fit=cover&w=1200&h=600",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Sinks%20Canyon%20State%20Park"
+            }
+        ]
+    }
+}

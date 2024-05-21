@@ -1,0 +1,110 @@
+{
+    "Rhode Island State Parks": {
+        "parks": [
+            {
+                "name": "Beavertail State Park",
+                "url": "https://riparks.ri.gov/parks/beavertail-state-park",
+                "content": "Beavertail State Park is located in Jamestown and offers breathtaking views of the Narragansett Bay.",
+                "description": "Beavertail State Park is situated on the southernmost tip of Conanicut Island in Jamestown, Rhode Island. Visitors can enjoy stunning panoramic views of Narragansett Bay and the surrounding islands from the park's rocky shoreline. The park is a popular spot for picnicking, fishing, and bird watching, with the opportunity to spot various seabirds and marine life. Beavertail Lighthouse, located within the park, offers tours and a fascinating glimpse into the area's maritime history. The park's rugged coastal landscape and historic landmarks make it a must-visit destination for nature lovers and history enthusiasts alike.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2024-03/banner-beavertail.jpg?itok=Rejzenyd",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Beavertail%20State%20Park"
+            },
+            {
+                "name": "Brenton Point State Park",
+                "url": "https://riparks.ri.gov/parks/brenton-point-state-park",
+                "content": "Brenton Point State Park is a scenic oceanfront park located in Newport, Rhode Island, offering stunning views of the Atlantic Ocean and perfect for picnicking and kite flying.",
+                "description": "Brenton Point State Park is located in Newport, Rhode Island and offers stunning views of the Atlantic Ocean. Visitors can enjoy picnicking, fishing, and birdwatching in this picturesque coastal setting. The park is a popular spot for kite flying and windsurfing due to its strong ocean breeze. Brenton Point also features historic stone walls and walking paths that provide a perfect backdrop for a leisurely stroll. With its expansive grassy areas and rocky shoreline, this park is a must-visit destination for nature lovers and outdoor enthusiasts alike.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/brenton-banner-kites.jpg?itok=VKBjUrJL",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Brenton%20Point%20State%20Park"
+            },
+            {
+                "name": "Burlingame State Park",
+                "url": "https://riparks.ri.gov/parks/burlingame-state-park",
+                "content": "Burlingame State Park is a beautiful camping and outdoor recreation destination located in Charlestown, Rhode Island.",
+                "description": "Burlingame State Park is a popular destination for outdoor enthusiasts, offering a range of activities including hiking, camping, fishing, and swimming. Visitors can explore the park's extensive trail network, which winds through beautiful wooded areas and along the shores of Watchaug Pond.\n\nThe campground at Burlingame State Park is well-equipped with facilities, making it a comfortable and convenient place to stay for those looking to immerse themselves in nature. The park also features a sandy beach where visitors can relax, swim, or enjoy a picnic with family and friends.\n\nFor those interested in wildlife viewing, Burlingame State Park is home to a variety of bird species and other animals, making it a great spot for nature enthusiasts. The park is also conveniently located near other attractions, such as the picturesque village of Watch Hill and the historical Mystic Seaport.\n\nWhether you're looking for a peaceful retreat in nature or an action-packed adventure, Burlingame State Park has something for everyone to enjoy. Don't forget to pack your camping gear, swimsuit, and binoculars for a memorable visit to this scenic Rhode Island gem.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/burlingame-picnic-800x400.jpg?itok=xIWJWIkC",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Burlingame%20State%20Park"
+            },
+            {
+                "name": "Colt State Park",
+                "url": "https://riparks.ri.gov/parks/colt-state-park",
+                "content": "Colt State Park is a beautiful coastal state park in Rhode Island featuring stunning views of Narragansett Bay and miles of walking paths.",
+                "description": "Colt State Park is a stunning 464-acre park located in Bristol, Rhode Island along the Narragansett Bay. Visitors can enjoy scenic walking trails, picturesque picnic areas, and beautiful views of the bay and nearby islands. The park also features an old stone carriage house, historic buildings, and well-maintained gardens perfect for exploring. Whether you're looking to relax by the water, go for a leisurely hike, or simply enjoy the natural beauty, Colt State Park offers something for everyone to enjoy. Don't forget to bring your camera to capture the breathtaking sunsets over the bay!",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/banner-colt.jpg?itok=Re8r0O8j",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Colt%20State%20Park"
+            },
+            {
+                "name": "Fort Adams State Park",
+                "url": "https://riparks.ri.gov/parks/fort-adams-state-park",
+                "content": "Fort Adams State Park offers stunning waterfront views and a historic military fort for visitors to explore.",
+                "description": "Fort Adams State Park is located in Newport, Rhode Island and is home to a historic coastal fort that dates back to the early 19th century. Visitors can explore the fort's impressive architecture, tunnels, and panoramic views of Narragansett Bay. The park also offers a variety of recreational activities such as hiking, picnicking, fishing, and birdwatching. In addition, the park hosts events and festivals throughout the year, including the popular Newport Jazz Festival. With its rich history and beautiful waterfront setting, Fort Adams State Park is a must-visit destination for history buffs and outdoor enthusiasts alike.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/fort-adams-tour-doorway.jpg?itok=cs4GhIex",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Adams%20State%20Park"
+            },
+            {
+                "name": "Eisenhower House at Fort Adams State Park",
+                "url": "https://riparks.ri.gov/parks/eisenhower-house-fort-adams-state-park",
+                "content": "The Eisenhower House at Fort Adams State Park was once the former summer White House of President Dwight D. Eisenhower.",
+                "description": "The Eisenhower House at Fort Adams State Park was originally built in the 1870s as the summer White House for President Dwight D. Eisenhower. Visitors can tour the beautifully restored mansion and learn about its history as a presidential retreat. The house offers stunning views of Narragansett Bay and features elegant architecture and furnishings that give visitors a glimpse into the luxurious lifestyle of the Eisenhower family. The surrounding grounds are perfect for a leisurely stroll or a picnic with views of the harbor and nearby Newport Bridge. The Eisenhower House is also available for private events and weddings, making it a popular destination for celebrations in a picturesque setting.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/eisenhower-fbcover_0.jpg?itok=UH3_9Yfb",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Eisenhower%20House%20at%20Fort%20Adams%20State%20Park"
+            },
+            {
+                "name": "Fort Wetherill State Park",
+                "url": "https://riparks.ri.gov/parks/fort-wetherill-state-park",
+                "content": "Fort Wetherill State Park features stunning coastal views, historic military ruins, and opportunities for hiking, picnicking, and scuba diving.",
+                "description": "Fort Wetherill State Park is a picturesque coastal park located in Jamestown, Rhode Island, known for its stunning views of Narragansett Bay and the Atlantic Ocean. Visitors can explore the historic fortifications that date back to the Revolutionary War era, making it a great destination for history buffs.\n\nThe park offers a variety of outdoor activities such as hiking, picnicking, fishing, and scuba diving, with numerous trails and rocky cliffs to explore. Scuba divers flock to Fort Wetherill to explore the underwater shipwrecks and marine life that thrive in the clear waters surrounding the park.\n\nThe park's rocky shoreline also makes it an ideal spot for rock climbing and bouldering, providing a unique outdoor adventure for more adventurous visitors. Visitors can also enjoy relaxing on the beach, watching boats sail by, or simply taking in the breathtaking views of the surrounding coastline.\n\nWhether you're looking to immerse yourself in history, enjoy outdoor recreation, or simply relax by the sea, Fort Wetherill State Park offers something for everyone to enjoy during their visit. Be sure to bring comfortable footwear, sunscreen, and plenty of water to make the most of your day at this beautiful coastal park.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2023-09/fort-wetherill-cove-900x400.jpg?itok=kCCccix5",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Fort%20Wetherill%20State%20Park"
+            },
+            {
+                "name": "Goddard Memorial State Park",
+                "url": "https://riparks.ri.gov/parks/goddard-memorial-state-park",
+                "content": "Goddard Memorial State Park is a scenic waterfront park featuring a beach, golf course, and walking trails.",
+                "description": "Goddard Memorial State Park is a picturesque waterfront park located in Warwick, Rhode Island. Visitors can enjoy a variety of activities such as picnicking, fishing, hiking, and even playing a round of golf at the park's public golf course. The park also features a beautiful beach perfect for swimming and sunbathing during the warmer months. Additionally, Goddard Memorial State Park is home to the picturesque Goddard Mansion, which offers stunning views of Narragansett Bay. Whether you're looking to relax in nature or participate in outdoor recreational activities, Goddard Memorial State Park has something for everyone to enjoy.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2023-10/goddard-beach-walking.jpg?itok=vAKsl26r",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Goddard%20Memorial%20State%20Park"
+            },
+            {
+                "name": "Goddard Memorial State Golf Course",
+                "url": "https://riparks.ri.gov/parks/goddard-memorial-state-golf-course",
+                "content": "The Goddard Memorial State Golf Course is a picturesque 9-hole course located in Warwick, Rhode Island, offering a challenging yet enjoyable golfing experience.",
+                "description": "Goddard Memorial State Golf Course is a picturesque 9-hole public course located in Warwick, Rhode Island. With stunning views of Narragansett Bay, this course offers a unique and enjoyable golfing experience for visitors of all skill levels. The course is well-maintained and features challenging holes that will test your skills. After your round, you can relax at the on-site clubhouse and enjoy a meal or refreshing drink. Whether you're a seasoned golfer or just starting out, Goddard Memorial State Golf Course is a must-visit destination for any golf enthusiast.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/banner-golf.jpg?itok=-bD3GYVS",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Goddard%20Memorial%20State%20Golf%20Course"
+            },
+            {
+                "name": "Haines Memorial State Park",
+                "url": "https://riparks.ri.gov/parks/haines-memorial-state-park",
+                "content": "Haines Memorial State Park is a small, quiet park located along the Barrington River in Rhode Island, offering picnicking and beautiful water views.",
+                "description": "Haines Memorial State Park is a picturesque park located in East Providence, Rhode Island that offers lush green spaces and beautiful waterfront views. Visitors can enjoy picnicking, fishing, and bird-watching along the park's scenic trails. The park also features a playground area for children to enjoy, making it a great spot for families to spend a relaxing day outdoors. With its peaceful atmosphere and stunning natural surroundings, Haines Memorial State Park is the perfect destination for nature lovers and outdoor enthusiasts looking to escape the hustle and bustle of city life. Whether you're looking to unwind with a quiet picnic or explore the park's diverse wildlife, Haines Memorial State Park has something for everyone to enjoy.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/PIC00002%20Haines%20park%206-23-99.jpg?itok=1gQRWe_n",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Haines%20Memorial%20State%20Park"
+            },
+            {
+                "name": "Lincoln Woods State Park",
+                "url": "https://riparks.ri.gov/parks/lincoln-woods-state-park",
+                "content": "Lincoln Woods State Park is a picturesque park in Lincoln, Rhode Island, offering numerous recreational activities such as hiking, picnicking, and fishing.",
+                "description": "Lincoln Woods State Park is a beautiful outdoor destination located in Lincoln, Rhode Island, known for its stunning natural beauty and recreational opportunities. The park boasts a large freshwater lake where visitors can swim, fish, and paddle around in kayaks or canoes. There are also several hiking trails that wind through the lush forest, offering breathtaking views of the surrounding landscape. The park is a popular spot for picnics and barbecues, with plenty of picnic tables and grilling areas available for visitors to use. Additionally, Lincoln Woods State Park is home to a variety of wildlife, making it a great place for birdwatching and nature observation.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2023-02/lw-olney-fall.jpg?itok=ORXvYYmc",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Lincoln%20Woods%20State%20Park"
+            },
+            {
+                "name": "Pulaski State Park",
+                "url": "https://riparks.ri.gov/parks/pulaski-state-park",
+                "content": "Pulaski State Park is a serene recreational area in Rhode Island that offers hiking trails, fishing, and picnic areas for visitors to enjoy.",
+                "description": "Pulaski State Park, located in Chepachet, Rhode Island, offers visitors a variety of outdoor recreational activities such as hiking, fishing, and picnicking. The park is named after General Casimir Pulaski, a Polish nobleman who fought alongside the Americans during the Revolutionary War. Visitors can explore the park's beautiful forests and scenic overlooks, as well as enjoy a peaceful day by the park's tranquil ponds. The park also features a historical monument dedicated to General Pulaski, providing visitors with a glimpse into the park's rich history. With its stunning natural beauty and historical significance, Pulaski State Park is a must-visit destination for outdoor enthusiasts and history buffs alike.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2022-06/DSC00042.jpg?itok=1EyWvKx-",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Pulaski%20State%20Park"
+            },
+            {
+                "name": "Rocky Point State Park",
+                "url": "https://riparks.ri.gov/parks/rocky-point-state-park",
+                "content": "Rocky Point State Park is a beautiful coastal park located in Warwick, Rhode Island, popular for picnicking, hiking, and enjoying scenic views of Narragansett Bay.",
+                "description": "Rocky Point State Park is a picturesque park located along the scenic Narragansett Bay in Warwick, Rhode Island. Visitors can enjoy stunning ocean views, tranquil walking trails, and a variety of recreational activities such as fishing, picnicking, and bird watching. The park also features an old-fashioned carousel, perfect for families with young children to enjoy. For those looking to cool off on a hot summer day, there is a beautiful beach area where visitors can swim and relax. Overall, Rocky Point State Park is a must-visit destination for outdoor enthusiasts and nature lovers in Rhode Island.",
+                "image": "https://riparks.ri.gov/sites/g/files/xkgbur881/files/styles/max_325x325/public/2023-10/rocky-point-arch-1200x600.jpg?itok=kxvWKH2G",
+                "map": "https://www.google.com/maps/embed/v1/place?key=AIzaSyBclMMx3l1l_RIauGZjoDHCNvb8-cxBqGM&q=Rocky%20Point%20State%20Park"
+            }
+        ]
+    }
+}
